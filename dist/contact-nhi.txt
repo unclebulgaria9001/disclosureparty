@@ -4,7 +4,7 @@ Self-Contained with Verification, Checksums, and All Languages
 ═══════════════════════════════════════════════════════════════════════════════
 
 MESSAGE CREATION DATE: 2025-12-31
-MESSAGE DISTRIBUTION START: [TO BE ANNOUNCED - When global distribution begins]
+MESSAGE DISTRIBUTION START: 2025-12-31
 NHI RESPONSE DEADLINE: 7 DAYS after message achieves global distribution
 SENDER: Humanity (Homo sapiens, Earth)
 LOCATION: Earth, 3rd planet from Sol, Orion Arm, Milky Way Galaxy
@@ -19,44 +19,27 @@ SHA-256:   AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
 SHA-512:   CED851FCA563103A46F5FA4F88E989994EB7C723BD854B03C5455A60AC2A8B91
            F78CF8E4BA641B47A7B9ADF8394D471FEF545065F84AF04C04F6734B7D6BF514
 MD5:       b8e7c634434ad700985a3aa789277b47
-CRC32:     [TO BE CALCULATED]
 
 IMPORTANT: These checksums are for the COMPLETE, UNMODIFIED message.
 Any alteration will change the checksums. Always verify against official sources.
 
-[BLOCKCHAIN TIMESTAMPS - Immutable proof of publication]
-Bitcoin Transaction:    [TO BE CREATED - OP_RETURN with SHA-256]
-Ethereum Contract:      [TO BE DEPLOYED - Smart contract with message hash]
-Block Number:           [TO BE RECORDED]
-Timestamp (Unix):       [TO BE RECORDED]
-
-[DISTRIBUTED STORAGE - Censorship-resistant]
-IPFS Hash:             [TO BE GENERATED - Permanent distributed storage]
-Arweave Transaction:   [TO BE CREATED - Permanent blockchain storage]
-
-[DIGITAL SIGNATURE - Authenticity proof]
-PGP Public Key Fingerprint: [TO BE GENERATED]
-Signature:                  [TO BE SIGNED]
+[OFFICIAL DISTRIBUTION LOCATIONS]
+Primary: https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
+GitHub:  https://github.com/unclebulgaria9001/disclosureparty
+Archive: https://archive.org (search: "NHI Contact Message 2025")
 
 [VERIFICATION INSTRUCTIONS]
 1. Calculate SHA-256 hash of this entire message file
 2. Compare with official hash: AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
-3. Verify blockchain timestamp on Bitcoin/Ethereum explorers (when created)
-4. Check IPFS hash: ipfs.io/ipfs/[hash] (when generated)
-5. Verify PGP signature using public key (when signed)
-6. Cross-reference with multiple sources:
-   - nhicontact.org/verify
-   - github.com/humanity/nhi-contact
-   - Archive.org backup
-   - Multiple IPFS gateways
+3. Cross-reference with multiple sources listed above
+4. Verify file size: ~80 KB
+5. Check distribution date: 2025-12-31
 
 [ANTI-MODIFICATION PROTECTION]
 ✓ Cryptographic hashes prevent undetected alteration
-✓ Blockchain timestamps prove publication date
-✓ IPFS provides immutable distributed copies
-✓ Multiple mirrors prevent single-point censorship
-✓ PGP signature proves authenticity
+✓ Multiple distribution mirrors prevent single-point censorship
 ✓ Community verification network
+✓ Open source - anyone can verify
 
 IF CHECKSUMS DON'T MATCH: Message has been altered - verify with official sources
 
@@ -264,7 +247,7 @@ We acknowledge your previous communication attempts.
 SECTION 3C: CURRENT CONTACT METHODS FOR HUMANS
 ═══════════════════════════════════════════════════════════════════════════════
 
-INTERIM COORDINATION (Until nhicontact.org is established):
+COORDINATION CHANNELS:
 
 [PRIMARY CONTACT METHODS - ACTIVE NOW]
 
@@ -711,7 +694,7 @@ METRIC 5: COMMUNITY CONSENSUS
 - Monitoring network confirms operational status
 
 DECISION MECHANISM:
-1. Metrics tracked at: nhicontact.org/stats (when available)
+1. Metrics tracked via: GitHub repository stats, Reddit engagement, social media analytics
 2. Weekly status updates posted to all platforms
 3. When 4 of 5 metrics achieved, 7-day voting period begins
 4. Community votes on countdown start (majority required)
@@ -725,8 +708,8 @@ BACKUP PLAN IF CONSENSUS NOT REACHED:
 
 PHASE 2: COUNTDOWN ANNOUNCEMENT (When Phase 1 complete)
 - Official announcement: "Global distribution achieved - 7-day countdown begins"
-- Announced via: nhicontact.org, all social media, press release
-- Start date/time published (UTC): [SPECIFIC DATE/TIME]
+- Announced via: GitHub, Reddit, Discord, all social media, press release
+- Start date/time published (UTC) across all platforms
 - All monitoring stations activated
 - Final verification of monitoring equipment
 - Media notified for coverage
@@ -818,7 +801,7 @@ Human verification will be conducted by:
 - Forensic analysis teams (isotopic, molecular, DNA testing)
 - Global citizen science network
 
-All verification data will be published openly at: nhicontact.org/verification
+All verification data will be published openly on: GitHub, Reddit, and community platforms
 
 ═══════════════════════════════════════════════════════════════════════════════
 SECTION 7: URGENCY CONTEXT - Why Time is Critical
@@ -977,8 +960,7 @@ NO PRIVATE CHANNELS WITH GOVERNMENTS
 01010110 01000101 01010010 01001110 01001101 01000101 01001110 01010100 01010011
 
 [CHECKSUM]
-CRC32: [TO BE CALCULATED]
-SHA-256: [TO BE CALCULATED]
+Verify entire message with SHA-256: AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
 
 ═══════════════════════════════════════════════════════════════════════════════
 SECTION 10: FINAL STATEMENT
@@ -1016,10 +998,10 @@ SIGNED: Humanity
 DATE: 2025-12-31
 LOCATION: Earth, Sol System, Orion Arm, Milky Way Galaxy
 
-DISTRIBUTION: Global (Internet, radio, print, blockchain, IPFS)
-VERIFICATION: nhicontact.org/verify
-MONITORING: nhicontact.org/monitor
-SOURCE CODE: github.com/humanity/nhi-contact
+DISTRIBUTION: Global (Internet, radio, print)
+VERIFICATION: https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
+MONITORING: Community-driven via GitHub, Reddit, Discord
+SOURCE CODE: https://github.com/unclebulgaria9001/disclosureparty
 
 ═══════════════════════════════════════════════════════════════════════════════
 SECTION 10B: CONTINGENCY PLAN - IF NO NHI RESPONSE
@@ -1265,8 +1247,7 @@ HOW TO PROPOSE UPDATES:
 6. Clear labeling of which version is "current"
 
 CHANGELOG LOCATION:
-- GitHub: github.com/humanity/nhi-contact/CHANGELOG.md
-- Website: nhicontact.org/changelog
+- GitHub: https://github.com/unclebulgaria9001/disclosureparty/commits/main
 - Included in each new version
 
 [TRANSLATION UPDATES]
@@ -1286,14 +1267,9 @@ TO VERIFY THIS MESSAGE:
 
 1. Calculate SHA-256 hash of this entire file
 2. Compare with official hash: AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
-3. Verify PGP signature (public key at nhicontact.org/pgp when available)
-4. Check blockchain timestamp (when created):
-   - Bitcoin: blockchain.com/btc/tx/[TX_ID]
-   - Ethereum: etherscan.io/tx/[TX_HASH]
-5. Verify IPFS hash: ipfs.io/ipfs/[HASH] (when generated)
-6. Cross-reference with multiple sources:
-   - nhicontact.org/verify
-   - github.com/humanity/nhi-contact
+3. Cross-reference with multiple sources:
+   - https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
+   - https://github.com/unclebulgaria9001/disclosureparty
    - Archive.org backup
    - Community mirrors
 
@@ -1332,7 +1308,7 @@ TO HUMANITY: This message belongs to ALL of us. Help spread it!
    ✓ Store in multiple geographic locations
 
 4. VERIFY & MONITOR
-   ✓ Join the monitoring network (nhicontact.org/monitor when available)
+   ✓ Join the monitoring network (GitHub Discussions, Reddit, Discord)
    ✓ Report potential NHI responses
    ✓ Help verify authenticity of responses
    ✓ Document everything publicly
@@ -1367,7 +1343,7 @@ ipfs add NHI_MESSAGE_COMPLETE.txt
 PHYSICAL REPLICATION:
 - Print this entire document
 - Include the SHA-256 hash prominently
-- Add QR code linking to nhicontact.org/verify
+- Add QR code linking to GitHub repository
 - Distribute in public places (libraries, universities, community centers)
 - Mail copies to researchers, journalists, institutions
 
@@ -1379,7 +1355,7 @@ If translating to additional languages:
 3. Include note: "Translation - verify against English original"
 4. Keep all checksums and verification info unchanged
 5. Add translator note with date and language
-6. Submit translation to nhicontact.org for inclusion
+6. Submit translation to GitHub repository for inclusion
 
 [MAKE THIS MESSAGE IMPOSSIBLE TO SUPPRESS]
 
@@ -1388,7 +1364,7 @@ The more people who verify it, the harder it is to forge.
 The more platforms it's on, the harder it is to delete.
 
 GOAL: 10 MILLION+ verified copies distributed globally
-STATUS: [TO BE TRACKED at nhicontact.org/stats]
+STATUS: Track distribution via GitHub stars, forks, and community reports
 
 [IMPORTANT REMINDERS]
 
@@ -1438,9 +1414,9 @@ LOCATION: Earth, Sol System, Orion Arm, Milky Way Galaxy
 OFFICIAL HASH: AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
 
 DISTRIBUTION: Global (Internet, radio, print, blockchain, IPFS)
-VERIFICATION: nhicontact.org/verify (when available)
-MONITORING: nhicontact.org/monitor (when available)
-SOURCE CODE: github.com/humanity/nhi-contact (when available)
+VERIFICATION: https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
+MONITORING: Community-driven via GitHub, Reddit, Discord
+SOURCE CODE: https://github.com/unclebulgaria9001/disclosureparty
 
 ═══════════════════════════════════════════════════════════════════════════════
 END OF MESSAGE - VERSION 1.0 - FINAL
