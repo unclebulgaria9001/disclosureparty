@@ -547,6 +547,9 @@
         }
         
         function parseChronology(text) {
+            // Remove YAML frontmatter if present
+            text = text.replace(/^---[\s\S]*?---\n/m, '');
+            
             const lines = text.split('\n');
             allEntries = [];
             let currentEntry = null;
@@ -555,29 +558,50 @@
             for (let line of lines) {
                 line = line.trim();
                 
-                if (line === 'Chronology') {
+                // Start chronology section after "# Chronology" header
+                if (line === '# Chronology' || line === 'Chronology') {
                     inChronology = true;
                     continue;
                 }
                 
                 if (!inChronology) continue;
                 
-                const dateMatch = line.match(/^(\d{4}(?:-\d{2,4})?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/);
+                // Match markdown headers like "## 2025, September 9 - Title"
+                const headerMatch = line.match(/^##\s+(\d{4}(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/);
                 
-                if (dateMatch) {
+                if (headerMatch) {
                     if (currentEntry) allEntries.push(currentEntry);
                     currentEntry = {
-                        date: dateMatch[1],
-                        title: dateMatch[2],
+                        date: headerMatch[1],
+                        title: headerMatch[2],
                         content: '',
                         links: [],
                         tags: []
                     };
                 } else if (currentEntry) {
+                    // Parse markdown links [text](url)
+                    const markdownLinks = line.match(/\[([^\]]+)\]\(([^)]+)\)/g);
+                    if (markdownLinks) {
+                        markdownLinks.forEach(mdLink => {
+                            const urlMatch = mdLink.match(/\[([^\]]+)\]\(([^)]+)\)/);
+                            if (urlMatch) {
+                                currentEntry.links.push(urlMatch[2]);
+                            }
+                        });
+                    }
+                    
+                    // Also catch plain URLs
                     if (line.startsWith('http://') || line.startsWith('https://')) {
                         currentEntry.links.push(line);
-                    } else if (line.length > 0) {
-                        currentEntry.content += (currentEntry.content ? '\n' : '') + line;
+                    }
+                    
+                    // Skip image lines and backslash lines
+                    if (!line.startsWith('![') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
+                        // Remove markdown link syntax for content display
+                        const cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+                        if (cleanLine.trim().length > 0) {
+                            currentEntry.content += (currentEntry.content ? '\n' : '') + cleanLine;
+                        }
                     }
                     
                     const tags = line.match(/#[A-Za-z0-9_]+/g);
