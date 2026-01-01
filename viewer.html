@@ -30,7 +30,7 @@
             z-index: 1;
         }
         
-        /* Pip-Boy Header */
+        /* Header */
         header {
             background: rgba(0, 50, 0, 0.8);
             border: 3px solid #00ff00;
@@ -60,7 +60,7 @@
             margin-bottom: 15px;
         }
         
-        /* Pip-Boy Tabs */
+        /* Tabs */
         .tabs {
             display: flex;
             gap: 10px;
@@ -79,7 +79,7 @@
             text-transform: uppercase;
             font-size: 0.9em;
             position: relative;
-            clip-path: polygon(10px 0, 100% 0, calc(100% - 10px) 100%, 0 100%);
+            border-radius: 3px;
         }
         
         .tab:hover, .tab.active {
@@ -89,7 +89,7 @@
         }
         
         
-        /* Pip-Boy Content Display */
+        /* Content Display */
         .display {
             background: rgba(0, 20, 0, 0.9);
             border: 3px solid #00ff00;
@@ -102,23 +102,6 @@
             position: relative;
         }
         
-        .display::before {
-            content: 'ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM';
-            position: absolute;
-            top: 5px;
-            left: 10px;
-            font-size: 0.7em;
-            color: rgba(0, 255, 0, 0.3);
-        }
-        
-        .display::after {
-            content: 'COPYRIGHT 2075-2077 ROBCO INDUSTRIES';
-            position: absolute;
-            bottom: 5px;
-            right: 10px;
-            font-size: 0.7em;
-            color: rgba(0, 255, 0, 0.3);
-        }
         
         /* Controls */
         .controls {
@@ -313,9 +296,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>UAP/UFO/NHI DISCLOSURE TERMINAL</h1>
-            <div class="subtitle">ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM</div>
-            <div class="subtitle">COPYRIGHT 2075-2077 ROBCO INDUSTRIES</div>
+            <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+            <div class="subtitle">Comprehensive Timeline & Documentation</div>
         </header>
         
         <div class="tabs">
