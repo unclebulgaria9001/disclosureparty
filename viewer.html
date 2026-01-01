@@ -219,6 +219,22 @@
             word-break: break-all;
         }
         
+        .entry-images {
+            margin: 15px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .entry-images img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #00ff00;
+            border-radius: 5px;
+            max-height: 400px;
+            object-fit: contain;
+        }
+        
         
         .tag {
             display: inline-block;
@@ -489,6 +505,7 @@
                         title: headerMatch[2],
                         content: '',
                         links: [],
+                        images: [],
                         tags: []
                     };
                 } else if (currentEntry) {
@@ -508,8 +525,15 @@
                         currentEntry.links.push(line);
                     }
                     
-                    // Skip image lines and backslash lines
-                    if (!line.startsWith('![') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
+                    // Parse image lines
+                    if (line.startsWith('![')) {
+                        const imgMatch = line.match(/!\[([^\]]*)\]\(([^)]+)\)/);
+                        if (imgMatch) {
+                            currentEntry.images.push(imgMatch[2]);
+                        }
+                    }
+                    // Skip backslash lines and headers
+                    else if (line !== '\\' && line.length > 0 && !line.startsWith('##')) {
                         // Remove markdown link syntax for content display
                         const cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
                         if (cleanLine.trim().length > 0) {
@@ -541,6 +565,11 @@
                     <div class="entry-date">${escapeHtml(entry.date)}</div>
                     <div class="entry-title">${escapeHtml(entry.title)}</div>
                     ${entry.content ? `<div class="entry-content">${escapeHtml(entry.content)}</div>` : ''}
+                    ${entry.images.length > 0 ? `
+                        <div class="entry-images">
+                            ${entry.images.map(img => `<img src="${escapeHtml(img)}" alt="" loading="lazy">`).join('')}
+                        </div>
+                    ` : ''}
                     ${entry.tags.length > 0 ? entry.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('') : ''}
                     ${entry.links.length > 0 ? `
                         <div class="entry-links">
