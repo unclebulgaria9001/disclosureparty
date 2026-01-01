@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHI Contact Message Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
+            color: #00ff00;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 8px 32px rgba(0, 255, 0, 0.1);
+            border: 1px solid rgba(0, 255, 0, 0.3);
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 2px solid rgba(0, 255, 0, 0.3);
+        }
+        
+        h1 {
+            color: #00ff00;
+            font-size: 2em;
+            margin-bottom: 15px;
+            text-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
+            font-family: 'Courier New', monospace;
+        }
+        
+        .subtitle {
+            color: #00cc00;
+            font-size: 1em;
+        }
+        
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+        
+        .nav-links a {
+            color: #00ff00;
+            text-decoration: none;
+            padding: 8px 16px;
+            border: 1px solid rgba(0, 255, 0, 0.3);
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-links a:hover {
+            background: rgba(0, 255, 0, 0.2);
+            border-color: #00ff00;
+            box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
+        }
+        
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            background: rgba(0, 100, 0, 0.3);
+            border: 1px solid rgba(0, 255, 0, 0.5);
+            border-radius: 5px;
+            color: #00ff00;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .btn:hover, .btn.active {
+            background: rgba(0, 255, 0, 0.3);
+            box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+        }
+        
+        .content {
+            background: rgba(0, 20, 0, 0.5);
+            padding: 30px;
+            border-radius: 10px;
+            border: 1px solid rgba(0, 255, 0, 0.2);
+            white-space: pre-wrap;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95em;
+            line-height: 1.5;
+            overflow-x: auto;
+        }
+        
+        .section-header {
+            color: #00ff00;
+            font-weight: bold;
+            margin: 20px 0 10px 0;
+            padding: 10px;
+            background: rgba(0, 255, 0, 0.1);
+            border-left: 3px solid #00ff00;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #00ff00;
+            font-size: 1.2em;
+        }
+        
+        a {
+            color: #00cc00;
+            text-decoration: underline;
+        }
+        
+        a:hover {
+            color: #00ff00;
+            text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+        }
+        
+        .language-selector {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        
+        .lang-btn {
+            padding: 5px 12px;
+            background: rgba(0, 50, 0, 0.3);
+            border: 1px solid rgba(0, 255, 0, 0.3);
+            border-radius: 3px;
+            color: #00cc00;
+            cursor: pointer;
+            font-size: 0.85em;
+            transition: all 0.3s ease;
+        }
+        
+        .lang-btn:hover, .lang-btn.active {
+            background: rgba(0, 255, 0, 0.2);
+            border-color: #00ff00;
+            color: #00ff00;
+        }
+        
+        footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(0, 255, 0, 0.2);
+            text-align: center;
+            color: #00cc00;
+            font-size: 0.9em;
+        }
+        
+        .blink {
+            animation: blink 1.5s infinite;
+        }
+        
+        @keyframes blink {
+            0%, 50%, 100% { opacity: 1; }
+            25%, 75% { opacity: 0.5; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📡 NHI CONTACT MESSAGE</h1>
+            <p class="subtitle">URGENT PUBLIC MESSAGE TO NON-HUMAN INTELLIGENCE</p>
+            <p class="subtitle blink">VERSION 2.0 • 2026-01-01</p>
+            <div class="nav-links">
+                <a href="index.html">← Back to Index</a>
+                <a href="chronology-viewer.html">Chronology Viewer</a>
+                <a href="dist/arecibo-message-1974.txt" target="_blank">Arecibo Message</a>
+                <a href="dist/contact-nhi.txt" target="_blank" download>Download TXT</a>
+            </div>
+        </header>
+        
+        <div class="controls">
+            <button class="btn active" data-view="full">Full Message</button>
+            <button class="btn" data-view="core">Core Message Only</button>
+            <button class="btn" data-view="binary">Binary Encoding</button>
+            <button class="btn" data-view="morse">Morse Code</button>
+        </div>
+        
+        <div class="language-selector" id="langSelector" style="display: none;">
+            <button class="lang-btn active" data-lang="english">English</button>
+            <button class="lang-btn" data-lang="chinese">中文</button>
+            <button class="lang-btn" data-lang="spanish">Español</button>
+            <button class="lang-btn" data-lang="hindi">हिन्दी</button>
+            <button class="lang-btn" data-lang="arabic">العربية</button>
+            <button class="lang-btn" data-lang="russian">Русский</button>
+            <button class="lang-btn" data-lang="french">Français</button>
+            <button class="lang-btn" data-lang="portuguese">Português</button>
+        </div>
+        
+        <div class="content" id="content">
+            <div class="loading">LOADING MESSAGE...</div>
+        </div>
+        
+        <footer>
+            <p>Official Distribution: <a href="https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt" target="_blank">https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt</a></p>
+            <p style="margin-top: 10px;">GitHub: <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">https://github.com/unclebulgaria9001/disclosureparty</a></p>
+            <p style="margin-top: 15px; color: #00ff00;"><strong>WE ARE NOT ALONE. THE TRUTH BELONGS TO HUMANITY.</strong></p>
+        </footer>
+    </div>
+    
+    <script>
+        let fullText = '';
+        let currentView = 'full';
+        
+        async function loadMessage() {
+            try {
+                const response = await fetch('dist/contact-nhi.txt');
+                fullText = await response.text();
+                renderView();
+            } catch (error) {
+                document.getElementById('content').innerHTML = 
+                    '<div class="loading" style="color: #ff0000;">ERROR LOADING MESSAGE. PLEASE TRY AGAIN.</div>';
+            }
+        }
+        
+        function renderView() {
+            const content = document.getElementById('content');
+            const langSelector = document.getElementById('langSelector');
+            
+            switch(currentView) {
+                case 'full':
+                    content.textContent = fullText;
+                    langSelector.style.display = 'none';
+                    break;
+                    
+                case 'core':
+                    const coreMatch = fullText.match(/SECTION 3: CORE MESSAGE[\s\S]*?(?=SECTION 4:|$)/);
+                    content.textContent = coreMatch ? coreMatch[0] : 'Core message not found';
+                    langSelector.style.display = 'flex';
+                    break;
+                    
+                case 'binary':
+                    const binaryMatch = fullText.match(/\[8-BIT ASCII BINARY ENCODING[\s\S]*?(?=\[MORSE CODE ENCODING|$)/);
+                    content.textContent = binaryMatch ? binaryMatch[0] : 'Binary encoding not found';
+                    langSelector.style.display = 'none';
+                    break;
+                    
+                case 'morse':
+                    const morseMatch = fullText.match(/\[MORSE CODE ENCODING[\s\S]*?(?=═{50,}|$)/);
+                    content.textContent = morseMatch ? morseMatch[0] : 'Morse code not found';
+                    langSelector.style.display = 'none';
+                    break;
+            }
+        }
+        
+        // View buttons
+        document.querySelectorAll('.btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentView = btn.dataset.view;
+                renderView();
+            });
+        });
+        
+        // Language buttons (for future implementation)
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                // Language filtering would go here
+            });
+        });
+        
+        // Load on page load
+        loadMessage();
+    </script>
+</body>
+</html>
