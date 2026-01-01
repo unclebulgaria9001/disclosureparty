@@ -29,7 +29,7 @@ Archive: https://archive.org (search: "NHI Contact Message 2025")
 
 [RELATED DOCUMENTS]
 Index:        https://unclebulgaria9001.github.io/disclosureparty/
-Chronology:   https://unclebulgaria9001.github.io/disclosureparty/dist/Chronology.md
+Chronology:   https://unclebulgaria9001.github.io/disclosureparty/dist/chronology.md
 Arecibo 1974: https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt
 
 [VERIFICATION INSTRUCTIONS]

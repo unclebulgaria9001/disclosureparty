@@ -6,7 +6,7 @@ Direct Links
 Welcome to the UAP/UFO/NHI disclosure party. If you are new, welcome. We have been tracking legislation, FOIA, and notable events for some years now. Here are my notes in chronological order.  
 https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi 
 https://unclebulgaria9001.github.io/disclosureparty/ 
-https://github.com/unclebulgaria9001/disclosureparty/blob/main/Chronology.md 
+https://github.com/unclebulgaria9001/disclosureparty/blob/main/dist/chronology.md 
 
 Related Documents
 - Index Page: https://unclebulgaria9001.github.io/disclosureparty/

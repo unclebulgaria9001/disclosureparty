@@ -202,7 +202,7 @@ OFFICIAL SOURCES:
 RELATED DOCUMENTS:
 - Index Page: https://unclebulgaria9001.github.io/disclosureparty/
 - NHI Contact Message (2026): https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
-- UAP/UFO/NHI Chronology: https://unclebulgaria9001.github.io/disclosureparty/dist/Chronology.md
+- UAP/UFO/NHI Chronology: https://unclebulgaria9001.github.io/disclosureparty/dist/chronology.md
 
 HISTORICAL CONTEXT:
 - Project Ozma (1960): First SETI search by Frank Drake
