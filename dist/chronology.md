@@ -3493,19 +3493,15 @@ Cassius Dio, a historian in Rome, saw a bright comet appear in the sky, seen as 
 
 \
 
-## 
+## 138 BCE - Fiery Torches In The Sky
+
+Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
 
 \
 
 ## 134 BCE - Large Bright Object
 
 Julius Obsequens, a chronicler in Rome, noted a large, bright object moving across the sky, witnessed by many.
-
-\
-
-## 138 BCE - Fiery Torches In The Sky
-
-Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
 
 \
 
