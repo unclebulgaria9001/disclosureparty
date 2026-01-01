@@ -27,6 +27,11 @@ Primary: https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.tx
 GitHub:  https://github.com/unclebulgaria9001/disclosureparty
 Archive: https://archive.org (search: "NHI Contact Message 2025")
 
+[RELATED DOCUMENTS]
+Index:       https://unclebulgaria9001.github.io/disclosureparty/dist/index.html
+Chronology:  https://unclebulgaria9001.github.io/disclosureparty/dist/Chronology.md
+Arecibo 1974: https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt
+
 [VERIFICATION INSTRUCTIONS]
 1. Calculate SHA-256 hash of this entire message file
 2. Compare with official hash: 59F444BB2A6EACEDB010B89DE3AFBB108AE7DF3E7DDB11C4DFBAA9C0FA42B655
