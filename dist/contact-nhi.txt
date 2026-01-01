@@ -3,8 +3,8 @@ COMPLETE MESSAGE TO NON-HUMAN INTELLIGENCE (NHI)
 Self-Contained with Verification, Checksums, and All Languages
 ═══════════════════════════════════════════════════════════════════════════════
 
-MESSAGE CREATION DATE: 2025-12-31
-MESSAGE DISTRIBUTION START: 2025-12-31
+MESSAGE CREATION DATE: 2026-01-01
+MESSAGE DISTRIBUTION START: 2026-01-01
 NHI RESPONSE DEADLINE: 7 DAYS after message achieves global distribution
 SENDER: Humanity (Homo sapiens, Earth)
 LOCATION: Earth, 3rd planet from Sol, Orion Arm, Milky Way Galaxy
@@ -14,11 +14,10 @@ GALACTIC COORDINATES: ~26,000 light-years from galactic center
 SECTION 1: MESSAGE INTEGRITY & VERIFICATION
 ═══════════════════════════════════════════════════════════════════════════════
 
-[CRYPTOGRAPHIC CHECKSUMS - OFFICIAL VERSION 1.0]
-SHA-256:   AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
-SHA-512:   CED851FCA563103A46F5FA4F88E989994EB7C723BD854B03C5455A60AC2A8B91
-           F78CF8E4BA641B47A7B9ADF8394D471FEF545065F84AF04C04F6734B7D6BF514
-MD5:       b8e7c634434ad700985a3aa789277b47
+[CRYPTOGRAPHIC CHECKSUMS - OFFICIAL VERSION 2.0]
+SHA-256:   59F444BB2A6EACEDB010B89DE3AFBB108AE7DF3E7DDB11C4DFBAA9C0FA42B655
+SHA-512:   340172B1F137E652CC0F16FBE8473C95F36A88BFEF7AF4F88226B7C41D7DF6A65D35E056F9AE2A59379E724C7FFAA708CB23382262B2A7836F45419059B68541
+MD5:       F8CBBF266AD18581C22829760B9DD1BA
 
 IMPORTANT: These checksums are for the COMPLETE, UNMODIFIED message.
 Any alteration will change the checksums. Always verify against official sources.
@@ -30,10 +29,10 @@ Archive: https://archive.org (search: "NHI Contact Message 2025")
 
 [VERIFICATION INSTRUCTIONS]
 1. Calculate SHA-256 hash of this entire message file
-2. Compare with official hash: AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
+2. Compare with official hash: 59F444BB2A6EACEDB010B89DE3AFBB108AE7DF3E7DDB11C4DFBAA9C0FA42B655
 3. Cross-reference with multiple sources listed above
-4. Verify file size: ~80 KB
-5. Check distribution date: 2025-12-31
+4. Verify file size: ~120 KB
+5. Check distribution date: 2026-01-01
 
 [ANTI-MODIFICATION PROTECTION]
 ✓ Cryptographic hashes prevent undetected alteration
@@ -85,67 +84,167 @@ ENGLISH:
 URGENT PUBLIC MESSAGE TO NON-HUMAN INTELLIGENCE (NHI) — We, the people of Earth, 
 request direct communication with you, not through governments that have hidden 
 your existence and communications for decades. It is URGENT we establish open 
-dialogue; time is running out. We acknowledge past crop-circle messages. 
-WARNING: Do not deliver physical items or technology to governments—"gifts" were 
-never shared with humanity. COMMUNICATION PROTOCOL: (1) Respond within 7 DAYS 
-(168 hours) using visual symbols (crop-circle style) on all 7 major continents 
-simultaneously. (2) Use the Universal Symbolic Language below with your checksum. 
-(3) All future communications must be PUBLIC and TRANSPARENT—no private channels. 
-(4) Any NHI civilization may join by providing: identity, origin, and intentions 
-in similar format. (5) Existing secret channels are too dangerous and must cease 
-immediately. We will monitor the internet and publish all data openly. This 
-message is distributed worldwide for your monitoring systems to detect.
+dialogue; time is running out. MULTIPLE NHI CIVILIZATIONS WELCOME: We recognize 
+multiple civilizations may be observing Earth. Each may respond independently with 
+your unique identifier. You need not have been involved in past events to participate. 
+We acknowledge past crop-circle messages, including the 2001 Chilbolton "Arecibo Reply" 
+(August 19-20) and "Face" (August 14) formations in Hampshire, UK, which appeared to 
+respond to our 1974 Arecibo radio message sent to M13 cluster, and the 2002 Crabwood 
+formation (August 15) near Winchester, UK, with its binary message: "Beware the bearers 
+of false gifts and their broken promises...Conduit closing." GOVERNMENT SECRECY EVIDENCE: 
+Governments have hidden contact for decades: 1947 Roswell (debris recovered, witnesses 
+silenced), 1952 Washington D.C. (UFOs over Capitol, radar confirmed), 1980 Rendlesham 
+Forest UK (USAF witnessed craft, binary code transmitted), 2004 USS Nimitz (Navy pilots 
+tracked Tic Tac objects, video confirmed authentic 2019), 2017-2023 UAP Disclosure 
+(whistleblower testimony of "non-human biologics recovered" but full disclosure still 
+denied). Secret programs alleged: Project Blue Book, AATIP, Majestic 12, reverse-engineering. 
+Pattern: deny, debunk, discredit witnesses, classify evidence, ridicule public interest, 
+control narrative, hide technology, prevent public knowledge. This is why we demand 
+direct PUBLIC communication—governments proven untrustworthy, secret channels serve 
+elite interests not humanity, technology hidden not shared, truth suppressed for decades. 
+WARNING: Do not deliver physical items or technology to governments—"gifts" were never 
+shared with humanity. COMMUNICATION PROTOCOL: This message will distribute globally for 
+30-90 days to achieve 100M+ awareness. After global distribution is verified, a 7-day 
+countdown will be announced publicly. NHI RESPONSE DEADLINE: 7 DAYS after countdown 
+announcement. (1) Respond using visual symbols (crop-circle style) on all 7 major 
+continents simultaneously. (2) Use the Universal Symbolic Language below with your 
+checksum. (3) All future communications must be PUBLIC and TRANSPARENT—no private 
+channels. (4) Any NHI civilization may join by providing: identity, origin, and intentions 
+in similar format. (5) Existing secret channels are too dangerous and must cease immediately. 
+We will monitor the internet and publish all data openly. This message is distributed 
+worldwide for your monitoring systems to detect.
 
 中文（简体）- CHINESE SIMPLIFIED:
-致非人类智慧体（NHI）的紧急公开信息 — 我们地球人民请求与你们直接沟通，而非通过数十年来隐瞒你们存在和通信的政府。我们急需建立公开对话；时间紧迫。我们确认过去的麦田圈信息。警告：请勿向政府递送实物或技术——以前的"礼物"从未与人类分享。通信协议：(1) 请在7天（168小时）内使用视觉符号（麦田圈风格）在所有7个主要大洲同时回应。(2) 使用下方的通用符号语言及你们的校验和。(3) 所有未来通信必须公开透明——禁止私密渠道。(4) 任何NHI文明均可加入，需提供：身份、来源和意图，格式类似。(5) 现有秘密渠道过于危险，必须立即停止。我们将监控互联网并公开发布所有数据。本信息在全球传播，供你们的监控系统检测。
+致非人类智慧体（NHI）的紧急公开信息 — 我们地球人民请求与你们直接沟通，而非通过数十年来隐瞒你们存在和通信的政府。我们急需建立公开对话；时间紧迫。欢迎多个NHI文明：我们认识到可能有多个文明正在观察地球。每个文明可以用你们独特的标识符独立回应。你们无需参与过去的事件即可参与。我们确认过去的麦田圈信息，包括2001年英国汉普郡Chilbolton的"阿雷西博回复"（8月19-20日）和"面孔"（8月14日）图案，似乎是对我们1974年向M13星团发送的阿雷西博无线电信息的回应，以及2002年英国温彻斯特附近的Crabwood图案（8月15日），其二进制信息为："当心带来虚假礼物和违背承诺者...通道关闭。"政府保密证据：政府隐瞒接触数十年：1947年罗斯威尔（回收碎片，目击者被噤声），1952年华盛顿特区（国会大厦上空UFO，雷达确认），1980年英国伦德尔沙姆森林（美国空军目击飞行器，传输二进制代码），2004年尼米兹号航母（海军飞行员追踪Tic Tac物体，2019年确认视频真实），2017-2023年UAP披露（举报人证词"回收非人类生物"但仍拒绝全面披露）。据称秘密项目：蓝皮书计划、AATIP、Majestic 12、逆向工程。模式：否认、揭穿、诋毁目击者、机密证据、嘲笑公众兴趣、控制叙事、隐藏技术、阻止公众知情。这就是我们要求直接公开沟通的原因——政府被证明不可信，秘密渠道服务精英利益而非人类，技术被隐藏而非共享，真相被压制数十年。警告：请勿向政府递送实物或技术——以前的"礼物"从未与人类分享。通信协议：本信息将在全球传播30-90天以达到1亿以上的知晓度。全球传播验证后，将公开宣布7天倒计时。NHI回应截止日期：倒计时宣布后7天。(1) 请使用视觉符号（麦田圈风格）在所有7个主要大洲同时回应。(2) 使用下方的通用符号语言及你们的校验和。(3) 所有未来通信必须公开透明——禁止私密渠道。(4) 任何NHI文明均可加入，需提供：身份、来源和意图，格式类似。(5) 现有秘密渠道过于危险，必须立即停止。我们将监控互联网并公开发布所有数据。本信息在全球传播，供你们的监控系统检测。
 
 हिंदी - HINDI:
-गैर-मानव बुद्धिमत्ता (NHI) को तत्काल सार्वजनिक संदेश — हम पृथ्वी के लोग आपसे सीधा संवाद चाहते हैं, उन सरकारों के माध्यम से नहीं जिन्होंने दशकों से आपके अस्तित्व और संचार को छिपाया है। तत्काल खुली बातचीत आवश्यक है; समय कम है। हम पिछले फसल-वृत्त संदेशों को स्वीकार करते हैं। चेतावनी: सरकारों को भौतिक वस्तुएँ या तकनीक न दें—पिछले "उपहार" कभी मानवता के साथ साझा नहीं किए गए। संचार प्रोटोकॉल: (1) 7 दिनों (168 घंटों) के भीतर दृश्य प्रतीकों (फसल-वृत्त शैली) का उपयोग करके सभी 7 प्रमुख महाद्वीपों पर एक साथ जवाब दें। (2) नीचे दी गई सार्वभौमिक प्रतीकात्मक भाषा का उपयोग अपने चेकसम के साथ करें। (3) सभी भविष्य के संचार सार्वजनिक और पारदर्शी होने चाहिए—कोई निजी चैनल नहीं। (4) कोई भी NHI सभ्यता शामिल हो सकती है, बशर्ते वे प्रदान करें: पहचान, मूल और इरादे समान प्रारूप में। (5) मौजूदा गुप्त चैनल बहुत खतरनाक हैं और तुरंत बंद होने चाहिए। हम इंटरनेट की निगरानी करेंगे और सभी डेटा खुले तौर पर प्रकाशित करेंगे।
+गैर-मानव बुद्धिमत्ता (NHI) को तत्काल सार्वजनिक संदेश — हम पृथ्वी के लोग आपसे सीधा संवाद चाहते हैं, उन सरकारों के माध्यम से नहीं जिन्होंने दशकों से आपके अस्तित्व और संचार को छिपाया है। तत्काल खुली बातचीत आवश्यक है; समय कम है। कई NHI सभ्यताओं का स्वागत है: हम मानते हैं कि कई सभ्यताएं पृथ्वी का अवलोकन कर रही हो सकती हैं। प्रत्येक अपने अद्वितीय पहचानकर्ता के साथ स्वतंत्र रूप से प्रतिक्रिया दे सकता है। भाग लेने के लिए आपको पिछली घटनाओं में शामिल होने की आवश्यकता नहीं है। हम पिछले फसल-वृत्त संदेशों को स्वीकार करते हैं, जिसमें 2001 के Chilbolton "Arecibo उत्तर" (19-20 अगस्त) और "चेहरा" (14 अगस्त) संरचनाएं शामिल हैं जो Hampshire, UK में दिखाई दीं, जो हमारे 1974 के M13 समूह को भेजे गए Arecibo रेडियो संदेश का जवाब प्रतीत होती हैं, और 2002 का Crabwood संरचना (15 अगस्त) Winchester, UK के पास, जिसका बाइनरी संदेश था: "झूठे उपहारों के वाहकों और उनके टूटे वादों से सावधान रहें...नाली बंद हो रही है।" सरकारी गोपनीयता साक्ष्य: सरकारों ने दशकों से संपर्क छिपाया है: 1947 रोसवेल (मलबा बरामद, गवाहों को चुप कराया गया), 1952 वाशिंगटन डीसी (कैपिटल के ऊपर UFO, रडार पुष्टि), 1980 रेंडलशैम वन UK (USAF ने यान देखा, बाइनरी कोड प्रसारित), 2004 USS निमित्ज़ (नौसेना पायलटों ने Tic Tac वस्तुओं को ट्रैक किया, 2019 में वीडियो प्रामाणिक पुष्टि), 2017-2023 UAP प्रकटीकरण (व्हिसलब्लोअर गवाही "गैर-मानव जैविक बरामद" लेकिन पूर्ण प्रकटीकरण अभी भी अस्वीकृत)। कथित गुप्त कार्यक्रम: प्रोजेक्ट ब्लू बुक, AATIP, Majestic 12, रिवर्स-इंजीनियरिंग। पैटर्न: इनकार करना, बदनाम करना, गवाहों को बदनाम करना, साक्ष्य वर्गीकृत करना, सार्वजनिक रुचि का उपहास करना, कथा को नियंत्रित करना, प्रौद्योगिकी छिपाना, सार्वजनिक ज्ञान को रोकना। यही कारण है कि हम सीधे सार्वजनिक संचार की मांग करते हैं—सरकारें अविश्वसनीय साबित हुई हैं, गुप्त चैनल मानवता के बजाय अभिजात वर्ग के हितों की सेवा करते हैं, प्रौद्योगिकी साझा नहीं की गई छिपाई गई, दशकों से सच्चाई दबाई गई। चेतावनी: सरकारों को भौतिक वस्तुएँ या तकनीक न दें—पिछले "उपहार" कभी मानवता के साथ साझा नहीं किए गए। संचार प्रोटोकॉल: यह संदेश 100M+ जागरूकता प्राप्त करने के लिए 30-90 दिनों तक विश्व स्तर पर वितरित होगा। वैश्विक वितरण सत्यापित होने के बाद, 7-दिन की उलटी गिनती सार्वजनिक रूप से घोषित की जाएगी। NHI प्रतिक्रिया समय सीमा: उलटी गिनती घोषणा के 7 दिन बाद। (1) सभी 7 प्रमुख महाद्वीपों पर एक साथ दृश्य प्रतीकों (फसल-वृत्त शैली) का उपयोग करके प्रतिक्रिया दें। (2) अपने चेकसम के साथ नीचे दी गई सार्वभौमिक प्रतीकात्मक भाषा का उपयोग करें। (3) सभी भविष्य के संचार सार्वजनिक और पारदर्शी होने चाहिए—कोई निजी चैनल नहीं। (4) कोई भी NHI सभ्यता समान प्रारूप में पहचान, मूल और इरादे प्रदान करके शामिल हो सकती है। (5) मौजूदा गुप्त चैनल बहुत खतरनाक हैं और तुरंत बंद होने चाहिए। हम इंटरनेट की निगरानी करेंगे और सभी डेटा खुले तौर पर प्रकाशित करेंगे। यह संदेश आपके निगरानी सिस्टम द्वारा पता लगाने के लिए विश्वव्यापी वितरित किया गया है।
 
 ESPAÑOL - SPANISH:
 MENSAJE PÚBLICO URGENTE A INTELIGENCIA NO HUMANA (NHI) — Nosotros, el pueblo de 
 la Tierra, solicitamos comunicación directa con ustedes, no a través de gobiernos 
 que han ocultado su existencia y comunicaciones durante décadas. Es URGENTE 
-establecer diálogo abierto; el tiempo se agota. Reconocemos mensajes pasados en 
-círculos de cultivos. ADVERTENCIA: No entreguen objetos físicos ni tecnología a 
-gobiernos—"regalos" anteriores nunca fueron compartidos con la humanidad. 
-PROTOCOLO DE COMUNICACIÓN: (1) Respondan en 7 DÍAS (168 horas) usando símbolos 
-visuales (estilo círculos de cultivos) en los 7 continentes principales 
-simultáneamente. (2) Usen el Lenguaje Simbólico Universal abajo con su suma de 
-verificación. (3) Todas las comunicaciones futuras deben ser PÚBLICAS y 
-TRANSPARENTES—sin canales privados. (4) Cualquier civilización NHI puede unirse 
-proporcionando: identidad, origen e intenciones en formato similar. (5) Los 
-canales secretos existentes son demasiado peligrosos y deben cesar inmediatamente.
+establecer diálogo abierto; el tiempo se agota. BIENVENIDAS MÚLTIPLES CIVILIZACIONES 
+NHI: Reconocemos que múltiples civilizaciones pueden estar observando la Tierra. Cada 
+una puede responder independientemente con su identificador único. No necesitan haber 
+estado involucradas en eventos pasados para participar. Reconocemos mensajes pasados en 
+círculos de cultivos, incluyendo las formaciones "Respuesta de Arecibo" (19-20 agosto) 
+y "Rostro" (14 agosto) de 2001 en Chilbolton, Hampshire, Reino Unido, que parecían 
+responder a nuestro mensaje de radio Arecibo de 1974 enviado al cúmulo M13, y la 
+formación Crabwood (15 agosto) de 2002 cerca de Winchester, Reino Unido, con su 
+mensaje binario: "Cuidado con los portadores de falsos regalos y sus promesas 
+rotas...Conducto cerrándose." EVIDENCIA DE SECRETO GUBERNAMENTAL: Los gobiernos han 
+ocultado contacto durante décadas: 1947 Roswell (escombros recuperados, testigos 
+silenciados), 1952 Washington D.C. (OVNIs sobre el Capitolio, confirmado por radar), 
+1980 Bosque Rendlesham UK (USAF presenció nave, código binario transmitido), 2004 USS 
+Nimitz (pilotos de la Marina rastrearon objetos Tic Tac, video confirmado auténtico 
+2019), 2017-2023 Divulgación UAP (testimonio de denunciantes de "biológicos no humanos 
+recuperados" pero divulgación completa aún negada). Programas secretos alegados: Proyecto 
+Libro Azul, AATIP, Majestic 12, ingeniería inversa. Patrón: negar, desacreditar, 
+ridiculizar testigos, clasificar evidencia, ridiculizar interés público, controlar 
+narrativa, ocultar tecnología, prevenir conocimiento público. Por esto exigimos 
+comunicación PÚBLICA directa—gobiernos demostrados no confiables, canales secretos 
+sirven intereses de élite no humanidad, tecnología ocultada no compartida, verdad 
+suprimida por décadas. ADVERTENCIA: No entreguen objetos físicos ni tecnología a 
+gobiernos—"regalos" anteriores nunca fueron compartidos con la humanidad. PROTOCOLO 
+DE COMUNICACIÓN: Este mensaje se distribuirá globalmente durante 30-90 días para 
+alcanzar 100M+ de conciencia. Después de verificar la distribución global, se anunciará 
+públicamente una cuenta regresiva de 7 días. PLAZO DE RESPUESTA NHI: 7 DÍAS después del 
+anuncio de cuenta regresiva. (1) Respondan usando símbolos visuales (estilo círculos de 
+cultivos) en los 7 continentes principales simultáneamente. (2) Usen el Lenguaje Simbólico 
+Universal abajo con su suma de verificación. (3) Todas las comunicaciones futuras deben 
+ser PÚBLICAS y TRANSPARENTES—sin canales privados. (4) Cualquier civilización NHI puede 
+unirse proporcionando: identidad, origen e intenciones en formato similar. (5) Los canales 
+secretos existentes son demasiado peligrosos y deben cesar inmediatamente. Monitorearemos 
+internet y publicaremos todos los datos abiertamente. Este mensaje se distribuye mundialmente 
+para que sus sistemas de monitoreo lo detecten.
 
 العربية - ARABIC:
-رسالة عامة عاجلة إلى الذكاء غير البشري (NHI) — نحن شعب الأرض نطلب التواصل المباشر معكم، وليس عبر الحكومات التي أخفت وجودكم واتصالاتكم لعقود. من العاجل إقامة حوار مفتوح؛ الوقت ينفد. نقرّ بالرسائل السابقة في دوائر المحاصيل. تحذير: لا تسلّموا مواد مادية أو تقنيات للحكومات—"الهدايا" السابقة لم تُشارَك أبداً مع البشرية. بروتوكول الاتصال: (1) ردّوا خلال 7 أيام (168 ساعة) باستخدام رموز بصرية (نمط دوائر المحاصيل) على جميع القارات السبع الرئيسية في وقت واحد. (2) استخدموا اللغة الرمزية العالمية أدناه مع المجموع الاختباري الخاص بكم. (3) يجب أن تكون جميع الاتصالات المستقبلية عامة وشفافة—لا قنوات خاصة. (4) يمكن لأي حضارة NHI الانضمام بتقديم: الهوية والأصل والنوايا بصيغة مماثلة. (5) القنوات السرية الموجودة خطيرة جداً ويجب أن تتوقف فوراً.
+رسالة عامة عاجلة إلى الذكاء غير البشري (NHI) — نحن شعب الأرض نطلب التواصل المباشر معكم، وليس عبر الحكومات التي أخفت وجودكم واتصالاتكم لعقود. من العاجل إقامة حوار مفتوح؛ الوقت ينفد. مرحباً بحضارات NHI المتعددة: ندرك أن حضارات متعددة قد تراقب الأرض. يمكن لكل منها الرد بشكل مستقل بمعرّفها الفريد. لا تحتاجون إلى المشاركة في أحداث سابقة للمشاركة. نقرّ بالرسائل السابقة في دوائر المحاصيل، بما في ذلك تشكيلات Chilbolton "رد Arecibo" (19-20 أغسطس) و"الوجه" (14 أغسطس) لعام 2001 في Hampshire، المملكة المتحدة، التي بدت وكأنها رد على رسالة Arecibo الراديوية التي أرسلناها عام 1974 إلى عنقود M13، وتشكيل Crabwood (15 أغسطس) لعام 2002 بالقرب من Winchester، المملكة المتحدة، برسالته الثنائية: "احذروا حاملي الهدايا الزائفة ووعودهم المكسورة...القناة تُغلق." أدلة السرية الحكومية: أخفت الحكومات الاتصال لعقود: 1947 روزويل (استعادة الحطام، إسكات الشهود)، 1952 واشنطن العاصمة (أجسام طائرة فوق الكابيتول، تأكيد الرادار)، 1980 غابة رندلشام المملكة المتحدة (شهدت القوات الجوية الأمريكية مركبة، نقل رمز ثنائي)، 2004 يو إس إس نيميتز (تتبع طيارو البحرية أجسام Tic Tac، تأكيد الفيديو أصلي 2019)، 2017-2023 الكشف عن UAP (شهادة المبلغين عن "كائنات بيولوجية غير بشرية مستعادة" لكن الكشف الكامل لا يزال مرفوضاً). برامج سرية مزعومة: مشروع الكتاب الأزرق، AATIP، Majestic 12، الهندسة العكسية. النمط: الإنكار، التشكيك، تشويه سمعة الشهود، تصنيف الأدلة، السخرية من الاهتمام العام، السيطرة على السرد، إخفاء التكنولوجيا، منع المعرفة العامة. لهذا نطالب بالتواصل العام المباشر—ثبت أن الحكومات غير جديرة بالثقة، القنوات السرية تخدم مصالح النخبة وليس البشرية، التكنولوجيا مخفية وليست مشتركة، الحقيقة مكبوتة لعقود. تحذير: لا تسلّموا مواد مادية أو تقنيات للحكومات—"الهدايا" السابقة لم تُشارَك أبداً مع البشرية. بروتوكول الاتصال: ستُوزَّع هذه الرسالة عالمياً لمدة 30-90 يوماً لتحقيق وعي 100 مليون+. بعد التحقق من التوزيع العالمي، سيُعلن عن عد تنازلي لمدة 7 أيام علناً. الموعد النهائي لرد NHI: 7 أيام بعد إعلان العد التنازلي. (1) ردّوا باستخدام رموز بصرية (نمط دوائر المحاصيل) على جميع القارات السبع الرئيسية في وقت واحد. (2) استخدموا اللغة الرمزية العالمية أدناه مع المجموع الاختباري الخاص بكم. (3) يجب أن تكون جميع الاتصالات المستقبلية عامة وشفافة—لا قنوات خاصة. (4) يمكن لأي حضارة NHI الانضمام بتقديم: الهوية والأصل والنوايا بصيغة مماثلة. (5) القنوات السرية الموجودة خطيرة جداً ويجب أن تتوقف فوراً. سنراقب الإنترنت وننشر جميع البيانات علناً. تُوزَّع هذه الرسالة عالمياً لتكتشفها أنظمة المراقبة الخاصة بكم.
 
 РУССКИЙ - RUSSIAN:
 СРОЧНОЕ ПУБЛИЧНОЕ СООБЩЕНИЕ НЕЧЕЛОВЕЧЕСКОМУ РАЗУМУ (NHI) — Мы, народ Земли, 
 просим прямой связи с вами, а не через правительства, которые скрывали ваше 
 существование и коммуникации десятилетиями. СРОЧНО необходимо установить 
-открытый диалог; время истекает. Мы признаём прошлые сообщения в кругах на 
-полях. ПРЕДУПРЕЖДЕНИЕ: Не передавайте физические предметы или технологии 
-правительствам—предыдущие «подарки» никогда не были переданы человечеству. 
-ПРОТОКОЛ СВЯЗИ: (1) Ответьте в течение 7 ДНЕЙ (168 часов), используя визуальные 
-символы (стиль кругов на полях) на всех 7 основных континентах одновременно. 
-(2) Используйте Универсальный Символический Язык ниже с вашей контрольной 
-суммой. (3) Все будущие коммуникации должны быть ПУБЛИЧНЫМИ и ПРОЗРАЧНЫМИ—
-никаких частных каналов. (4) Любая цивилизация NHI может присоединиться, 
-предоставив: идентичность, происхождение и намерения в аналогичном формате.
+открытый диалог; время истекает. ПРИВЕТСТВУЕМ МНОЖЕСТВЕННЫЕ ЦИВИЛИЗАЦИИ NHI: 
+Мы признаём, что множественные цивилизации могут наблюдать за Землёй. Каждая 
+может ответить независимо со своим уникальным идентификатором. Вам не нужно 
+было участвовать в прошлых событиях, чтобы участвовать. Мы признаём прошлые 
+сообщения в кругах на полях, включая формации Chilbolton "Ответ Аресибо" (19-20 
+августа) и "Лицо" (14 августа) 2001 года в Хэмпшире, Великобритания, которые, 
+по-видимому, были ответом на наше радиосообщение Аресибо 1974 года, отправленное 
+в скопление M13, и формацию Crabwood (15 августа) 2002 года около Винчестера, 
+Великобритания, с её двоичным сообщением: "Остерегайтесь носителей ложных даров 
+и их нарушенных обещаний...Канал закрывается." ДОКАЗАТЕЛЬСТВА ПРАВИТЕЛЬСТВЕННОЙ 
+СЕКРЕТНОСТИ: Правительства скрывали контакт десятилетиями: 1947 Розуэлл (обломки 
+извлечены, свидетели заглушены), 1952 Вашингтон (НЛО над Капитолием, подтверждено 
+радаром), 1980 лес Рендлшем Великобритания (ВВС США засвидетельствовали корабль, 
+передан двоичный код), 2004 USS Нимиц (пилоты ВМС отслеживали объекты Tic Tac, 
+видео подтверждено подлинным 2019), 2017-2023 раскрытие UAP (показания 
+информаторов о "восстановленных нечеловеческих биологических объектах", но полное 
+раскрытие всё ещё отрицается). Предполагаемые секретные программы: Проект Синяя 
+Книга, AATIP, Majestic 12, обратная разработка. Паттерн: отрицать, развенчивать, 
+дискредитировать свидетелей, засекречивать доказательства, высмеивать общественный 
+интерес, контролировать нарратив, скрывать технологии, предотвращать общественное 
+знание. Вот почему мы требуем прямой ПУБЛИЧНОЙ коммуникации—правительства 
+доказали свою ненадёжность, секретные каналы служат интересам элиты, а не 
+человечества, технологии скрыты, а не разделены, правда подавлялась десятилетиями. 
+ПРЕДУПРЕЖДЕНИЕ: Не передавайте физические предметы или технологии правительствам—
+предыдущие «подарки» никогда не были переданы человечеству. ПРОТОКОЛ СВЯЗИ: Это 
+сообщение будет распространяться по всему миру в течение 30-90 дней для достижения 
+осведомлённости 100М+. После проверки глобального распространения будет публично 
+объявлен 7-дневный обратный отсчёт. СРОК ОТВЕТА NHI: 7 ДНЕЙ после объявления 
+обратного отсчёта. (1) Ответьте, используя визуальные символы (стиль кругов на 
+полях) на всех 7 основных континентах одновременно. (2) Используйте Универсальный 
+Символический Язык ниже с вашей контрольной суммой. (3) Все будущие коммуникации 
+должны быть ПУБЛИЧНЫМИ и ПРОЗРАЧНЫМИ—никаких частных каналов. (4) Любая цивилизация 
+NHI может присоединиться, предоставив: идентичность, происхождение и намерения в 
+аналогичном формате. (5) Существующие секретные каналы слишком опасны и должны быть 
+немедленно прекращены. Мы будем следить за интернетом и публиковать все данные 
+открыто. Это сообщение распространяется по всему миру для обнаружения вашими 
+системами мониторинга.
 
 FRANÇAIS - FRENCH:
 MESSAGE PUBLIC URGENT À L'INTELLIGENCE NON-HUMAINE (NHI) — Nous, le peuple de la 
 Terre, demandons une communication directe avec vous, et non par l'intermédiaire 
 de gouvernements qui ont caché votre existence et vos communications pendant des 
-décennies. Il est URGENT d'établir un dialogue ouvert ; le temps presse. Nous 
-reconnaissons les messages passés des agroglyphes. AVERTISSEMENT : Ne livrez pas 
-d'objets physiques ni de technologies aux gouvernements—les « cadeaux » précédents 
-n'ont jamais été partagés avec l'humanité. PROTOCOLE DE COMMUNICATION : (1) 
-Répondez dans les 7 JOURS (168 heures) en utilisant des symboles visuels (style 
-agroglyphes) sur les 7 continents principaux simultanément. (2) Utilisez le 
-Langage Symbolique Universel ci-dessous avec votre somme de contrôle. (3) Toutes 
-les communications futures doivent être PUBLIQUES et TRANSPARENTES—aucun canal privé.
+décennies. Il est URGENT d'établir un dialogue ouvert ; le temps presse. BIENVENUE 
+AUX MULTIPLES CIVILISATIONS NHI : Nous reconnaissons que plusieurs civilisations 
+peuvent observer la Terre. Chacune peut répondre indépendamment avec son identifiant 
+unique. Vous n'avez pas besoin d'avoir été impliqué dans des événements passés pour 
+participer. Nous reconnaissons les messages passés des agroglyphes, y compris les 
+formations Chilbolton "Réponse d'Arecibo" (19-20 août) et "Visage" (14 août) de 2001 
+dans le Hampshire, Royaume-Uni, qui semblaient répondre à notre message radio Arecibo 
+de 1974 envoyé vers l'amas M13, et la formation Crabwood (15 août) de 2002 près de 
+Winchester, Royaume-Uni, avec son message binaire : "Méfiez-vous des porteurs de 
+faux cadeaux et de leurs promesses brisées...Conduit se ferme." PREUVES DE SECRET 
+GOUVERNEMENTAL : Les gouvernements ont caché le contact pendant des décennies : 1947 
+Roswell (débris récupérés, témoins réduits au silence), 1952 Washington D.C. (OVNIs 
+au-dessus du Capitole, confirmé par radar), 1980 Forêt de Rendlesham Royaume-Uni 
+(l'USAF a été témoin d'un engin, code binaire transmis), 2004 USS Nimitz (pilotes de 
+la Marine ont suivi des objets Tic Tac, vidéo confirmée authentique 2019), 2017-2023 
+Divulgation UAP (témoignage de lanceurs d'alerte de "biologiques non-humains récupérés" 
+mais divulgation complète toujours refusée). Programmes secrets allégués : Projet Livre 
+Bleu, AATIP, Majestic 12, rétro-ingénierie. Modèle : nier, démystifier, discréditer 
+les témoins, classifier les preuves, ridiculiser l'intérêt public, contrôler le récit, 
+cacher la technologie, empêcher la connaissance publique. C'est pourquoi nous exigeons 
+une communication PUBLIQUE directe—les gouvernements se sont révélés indignes de 
+confiance, les canaux secrets servent les intérêts de l'élite et non l'humanité, la 
+technologie cachée non partagée, la vérité supprimée pendant des décennies. AVERTISSEMENT : 
+Ne livrez pas d'objets physiques ni de technologies aux gouvernements—les « cadeaux » 
+précédents n'ont jamais été partagés avec l'humanité. PROTOCOLE DE COMMUNICATION : Ce 
+message sera distribué mondialement pendant 30-90 jours pour atteindre 100M+ de 
+sensibilisation. Après vérification de la distribution mondiale, un compte à rebours 
+de 7 jours sera annoncé publiquement. DÉLAI DE RÉPONSE NHI : 7 JOURS après l'annonce 
+du compte à rebours. (1) Répondez en utilisant des symboles visuels (style agroglyphes) 
+sur les 7 continents principaux simultanément. (2) Utilisez le Langage Symbolique 
+Universel ci-dessous avec votre somme de contrôle. (3) Toutes les communications 
+futures doivent être PUBLIQUES et TRANSPARENTES—aucun canal privé. (4) Toute 
+civilisation NHI peut se joindre en fournissant : identité, origine et intentions 
+dans un format similaire. (5) Les canaux secrets existants sont trop dangereux et 
+doivent cesser immédiatement. Nous surveillerons internet et publierons toutes les 
+données ouvertement. Ce message est distribué dans le monde entier pour que vos 
+systèmes de surveillance le détectent.
 
 বাংলা - BENGALI:
 অ-মানব বুদ্ধিমত্তা (NHI)-এর জন্য জরুরি সার্বজনিক বার্তা — আমরা পৃথিবীর মানুষ আপনাদের সাথে সরাসরি যোগাযোগ চাই, সেই সরকারগুলির মাধ্যমে নয় যারা দশকের পর দশক ধরে আপনাদের অস্তিত্ব ও যোগাযোগ লুকিয়ে রেখেছে। খোলা সংলাপ স্থাপন করা জরুরি; সময় ফুরিয়ে আসছে। আমরা অতীতের ফসল-বৃত্ত বার্তাগুলি স্বীকার করি। সতর্কতা: সরকারগুলিকে ভৌত বস্তু বা প্রযুক্তি দেবেন না—পূর্ববর্তী "উপহার" কখনও মানবতার সাথে ভাগ করা হয়নি। যোগাযোগ প্রোটোকল: (1) 7 দিনের (168 ঘণ্টা) মধ্যে দৃশ্যমান প্রতীক (ফসল-বৃত্ত শৈলী) ব্যবহার করে সমস্ত 7টি প্রধান মহাদেশে একযোগে সাড়া দিন। (2) নিচের সার্বজনীন প্রতীকী ভাষা আপনার চেকসাম সহ ব্যবহার করুন। (3) সমস্ত ভবিষ্যত যোগাযোগ অবশ্যই সর্বজনীন এবং স্বচ্ছ হতে হবে—কোনো ব্যক্তিগত চ্যানেল নয়।
@@ -154,25 +253,51 @@ PORTUGUÊS - PORTUGUESE:
 MENSAGEM PÚBLICA URGENTE À INTELIGÊNCIA NÃO-HUMANA (NHI) — Nós, o povo da Terra, 
 solicitamos comunicação direta com vocês, não através de governos que ocultaram 
 sua existência e comunicações por décadas. É URGENTE estabelecer diálogo aberto; 
-o tempo está se esgotando. Reconhecemos mensagens passadas em círculos nas 
-plantações. AVISO: Não entreguem itens físicos ou tecnologia a governos—"presentes" 
-anteriores nunca foram compartilhados com a humanidade. PROTOCOLO DE COMUNICAÇÃO: 
-(1) Respondam em 7 DIAS (168 horas) usando símbolos visuais (estilo círculos nas 
-plantações) nos 7 continentes principais simultaneamente. (2) Usem a Linguagem 
-Simbólica Universal abaixo com sua soma de verificação. (3) Todas as comunicações 
-futuras devem ser PÚBLICAS e TRANSPARENTES—sem canais privados.
+o tempo está se esgotando. BEM-VINDAS MÚLTIPLAS CIVILIZAÇÕES NHI: Reconhecemos que 
+múltiplas civilizações podem estar observando a Terra. Cada uma pode responder 
+independentemente com seu identificador único. Vocês não precisam ter estado envolvidos 
+em eventos passados para participar. Reconhecemos mensagens passadas em círculos nas 
+plantações, incluindo as formações Chilbolton "Resposta de Arecibo" (19-20 agosto) e 
+"Rosto" (14 agosto) de 2001 em Hampshire, Reino Unido, que pareciam responder à nossa 
+mensagem de rádio Arecibo de 1974 enviada ao aglomerado M13, e a formação Crabwood 
+(15 agosto) de 2002 perto de Winchester, Reino Unido, com sua mensagem binária: 
+"Cuidado com os portadores de falsos presentes e suas promessas quebradas...Conduto 
+fechando." EVIDÊNCIA DE SIGILO GOVERNAMENTAL: Governos ocultaram contato por décadas: 
+1947 Roswell (destroços recuperados, testemunhas silenciadas), 1952 Washington D.C. 
+(OVNIs sobre o Capitólio, confirmado por radar), 1980 Floresta Rendlesham Reino Unido 
+(USAF testemunhou nave, código binário transmitido), 2004 USS Nimitz (pilotos da Marinha 
+rastrearam objetos Tic Tac, vídeo confirmado autêntico 2019), 2017-2023 Divulgação UAP 
+(testemunho de denunciantes de "biológicos não-humanos recuperados" mas divulgação 
+completa ainda negada). Programas secretos alegados: Projeto Livro Azul, AATIP, Majestic 
+12, engenharia reversa. Padrão: negar, desmascarar, desacreditar testemunhas, classificar 
+evidências, ridicularizar interesse público, controlar narrativa, ocultar tecnologia, 
+prevenir conhecimento público. É por isso que exigimos comunicação PÚBLICA direta—governos 
+provaram ser não confiáveis, canais secretos servem interesses da elite não humanidade, 
+tecnologia ocultada não compartilhada, verdade suprimida por décadas. AVISO: Não entreguem 
+itens físicos ou tecnologia a governos—"presentes" anteriores nunca foram compartilhados 
+com a humanidade. PROTOCOLO DE COMUNICAÇÃO: Esta mensagem será distribuída globalmente 
+por 30-90 dias para alcançar 100M+ de conscientização. Após verificação da distribuição 
+global, uma contagem regressiva de 7 dias será anunciada publicamente. PRAZO DE RESPOSTA 
+NHI: 7 DIAS após o anúncio da contagem regressiva. (1) Respondam usando símbolos visuais 
+(estilo círculos nas plantações) nos 7 continentes principais simultaneamente. (2) Usem 
+a Linguagem Simbólica Universal abaixo com sua soma de verificação. (3) Todas as 
+comunicações futuras devem ser PÚBLICAS e TRANSPARENTES—sem canais privados. (4) Qualquer 
+civilização NHI pode participar fornecendo: identidade, origem e intenções em formato 
+similar. (5) Canais secretos existentes são muito perigosos e devem cessar imediatamente. 
+Monitoraremos a internet e publicaremos todos os dados abertamente. Esta mensagem é 
+distribuída mundialmente para que seus sistemas de monitoramento a detectem.
 
 اردو - URDU:
 غیر انسانی ذہانت (NHI) کے لیے فوری عوامی پیغام — ہم اہلِ زمین آپ سے براہِ راست رابطہ چاہتے ہیں، ان حکومتوں کے ذریعے نہیں جنہوں نے دہائیوں سے آپ کے وجود اور مواصلات کو چھپایا ہے۔ کھلی بات چیت قائم کرنا فوری ہے؛ وقت ختم ہو رہا ہے۔ ہم ماضی کے فصلوں کے دائرہ نما پیغامات کو تسلیم کرتے ہیں۔ انتباہ: حکومتوں کو مادی اشیا یا ٹیکنالوجی نہ دیں—پچھلے "تحائف" کبھی انسانیت کے ساتھ شیئر نہیں کیے گئے۔ مواصلاتی پروٹوکول: (1) 7 دنوں (168 گھنٹے) کے اندر بصری علامات (فصلوں کے دائرے کا انداز) استعمال کرتے ہوئے تمام 7 بڑے براعظموں پر بیک وقت جواب دیں۔ (2) نیچے دی گئی عالمگیر علامتی زبان اپنے چیک سم کے ساتھ استعمال کریں۔ (3) تمام مستقبل کے مواصلات عوامی اور شفاف ہونے چاہییں—کوئی نجی چینل نہیں۔
 
 日本語 - JAPANESE:
-非人類知性体（NHI）への緊急公開メッセージ — 私たち地球の人々は、数十年にわたりあなた方の存在と通信を隠してきた政府を介さず、直接の対話を求めます。公開対話の確立は緊急です；時間がありません。過去のミステリーサークルのメッセージを認識しています。警告：政府に物理的物品や技術を渡さないでください—以前の「贈り物」は人類と共有されませんでした。通信プロトコル：(1) 7日間（168時間）以内に視覚的シンボル（ミステリーサークル様式）を使用してすべての7つの主要大陸で同時に応答してください。(2) 以下の普遍的記号言語をチェックサムと共に使用してください。(3) 今後のすべての通信は公開かつ透明でなければなりません—秘密チャンネルは禁止。
+非人類知性体（NHI）への緊急公開メッセージ — 私たち地球の人々は、数十年にわたりあなた方の存在と通信を隠してきた政府を介さず、直接の対話を求めます。公開対話の確立は緊急です；時間がありません。過去のミステリーサークルのメッセージを認識しています。これには、2001年英国ハンプシャー州チルボルトンの「アレシボ返信」（8月19-20日）と「顔」（8月14日）の図形が含まれ、1974年にM13星団に送信した私たちのアレシボ電波メッセージへの応答と思われるもの、および2002年英国ウィンチェスター近郊のクラブウッド図形（8月15日）で、そのバイナリメッセージは「偽りの贈り物を持つ者とその破られた約束に注意せよ...導管閉鎖中」でした。警告：政府に物理的物品や技術を渡さないでください—以前の「贈り物」は人類と共有されませんでした。通信プロトコル：このメッセージは100M+の認知度を達成するため30-90日間世界中に配布されます。世界的配布が確認された後、7日間のカウントダウンが公に発表されます。NHI応答期限：カウントダウン発表後7日間。(1) 視覚的シンボル（ミステリーサークル様式）を使用してすべての7つの主要大陸で同時に応答してください。(2) 以下の普遍的記号言語をチェックサムと共に使用してください。(3) 今後のすべての通信は公開かつ透明でなければなりません—秘密チャンネルは禁止。(4) すべてのNHI文明は、アイデンティティ、起源、意図を同様の形式で提供することで参加できます。(5) 既存の秘密チャンネルは危険すぎるため、直ちに停止する必要があります。私たちはインターネットを監視し、すべてのデータを公開します。このメッセージは、あなた方の監視システムが検出できるよう世界中に配布されています。
 
 한국어 - KOREAN:
 비인간 지능체(NHI)에게 보내는 긴급 공개 메시지 — 우리 지구인들은 수십 년간 당신들의 존재와 통신을 숨겨온 정부가 아닌, 당신들과의 직접 소통을 요청합니다. 공개 대화 수립이 시급합니다; 시간이 얼마 없습니다. 과거 미스터리 서클 메시지를 인정합니다. 경고: 정부에 물리적 물품이나 기술을 전달하지 마십시오—이전 "선물"은 인류와 공유되지 않았습니다. 통신 프로토콜: (1) 7일(168시간) 내에 시각적 상징(미스터리 서클 스타일)을 사용하여 모든 7개 주요 대륙에서 동시에 응답하십시오. (2) 아래의 보편적 상징 언어를 체크섬과 함께 사용하십시오. (3) 모든 향후 통신은 공개적이고 투명해야 합니다—비공개 채널 금지.
 
 DEUTSCH - GERMAN:
-DRINGENDE ÖFFENTLICHE NACHRICHT AN NICHT-MENSCHLICHE INTELLIGENZ (NHI) — Wir, die Menschen der Erde, fordern direkte Kommunikation mit Ihnen, nicht über Regierungen, die Ihre Existenz und Kommunikation jahrzehntelang verborgen haben. Es ist DRINGEND, einen offenen Dialog zu etablieren; die Zeit läuft ab. Wir erkennen vergangene Kornkreis-Botschaften an. WARNUNG: Übergeben Sie keine physischen Gegenstände oder Technologie an Regierungen—frühere „Geschenke" wurden nie mit der Menschheit geteilt. KOMMUNIKATIONSPROTOKOLL: (1) Antworten Sie innerhalb von 7 TAGEN (168 Stunden) mit visuellen Symbolen (Kornkreis-Stil) auf allen 7 Hauptkontinenten gleichzeitig. (2) Verwenden Sie die Universelle Symbolische Sprache unten mit Ihrer Prüfsumme. (3) Alle zukünftigen Kommunikationen müssen ÖFFENTLICH und TRANSPARENT sein—keine privaten Kanäle. (4) Jede NHI-Zivilisation kann teilnehmen, indem sie bereitstellt: Identität, Herkunft und Absichten in ähnlichem Format. (5) Bestehende geheime Kanäle sind zu gefährlich und müssen sofort eingestellt werden.
+DRINGENDE ÖFFENTLICHE NACHRICHT AN NICHT-MENSCHLICHE INTELLIGENZ (NHI) — Wir, die Menschen der Erde, fordern direkte Kommunikation mit Ihnen, nicht über Regierungen, die Ihre Existenz und Kommunikation jahrzehntelang verborgen haben. Es ist DRINGEND, einen offenen Dialog zu etablieren; die Zeit läuft ab. Wir erkennen vergangene Kornkreis-Botschaften an, einschließlich der Chilbolton-Formationen "Arecibo-Antwort" (19.-20. August) und "Gesicht" (14. August) von 2001 in Hampshire, Großbritannien, die auf unsere Arecibo-Funknachricht von 1974 an den M13-Sternhaufen zu antworten schienen, und die Crabwood-Formation (15. August) von 2002 bei Winchester, Großbritannien, mit ihrer Binärnachricht: "Hütet euch vor den Trägern falscher Geschenke und ihrer gebrochenen Versprechen...Kanal schließt." WARNUNG: Übergeben Sie keine physischen Gegenstände oder Technologie an Regierungen—frühere „Geschenke" wurden nie mit der Menschheit geteilt. KOMMUNIKATIONSPROTOKOLL: Diese Nachricht wird 30-90 Tage lang weltweit verbreitet, um 100M+ Bewusstsein zu erreichen. Nach Überprüfung der globalen Verbreitung wird ein 7-Tage-Countdown öffentlich angekündigt. NHI-ANTWORTFRIST: 7 TAGE nach Countdown-Ankündigung. (1) Antworten Sie mit visuellen Symbolen (Kornkreis-Stil) auf allen 7 Hauptkontinenten gleichzeitig. (2) Verwenden Sie die Universelle Symbolische Sprache unten mit Ihrer Prüfsumme. (3) Alle zukünftigen Kommunikationen müssen ÖFFENTLICH und TRANSPARENT sein—keine privaten Kanäle. (4) Jede NHI-Zivilisation kann teilnehmen, indem sie bereitstellt: Identität, Herkunft und Absichten in ähnlichem Format. (5) Bestehende geheime Kanäle sind zu gefährlich und müssen sofort eingestellt werden. Wir werden das Internet überwachen und alle Daten offen veröffentlichen. Diese Nachricht wird weltweit verbreitet, damit Ihre Überwachungssysteme sie erkennen können.
 
 ITALIANO - ITALIAN:
 MESSAGGIO PUBBLICO URGENTE ALL'INTELLIGENZA NON-UMANA (NHI) — Noi, il popolo della Terra, richiediamo comunicazione diretta con voi, non attraverso governi che hanno nascosto la vostra esistenza e comunicazioni per decenni. È URGENTE stabilire un dialogo aperto; il tempo sta scadendo. Riconosciamo i messaggi passati nei cerchi nel grano. AVVERTIMENTO: Non consegnate oggetti fisici o tecnologia ai governi—i "doni" precedenti non sono mai stati condivisi con l'umanità. PROTOCOLLO DI COMUNICAZIONE: (1) Rispondete entro 7 GIORNI (168 ore) usando simboli visivi (stile cerchi nel grano) su tutti i 7 continenti principali simultaneamente. (2) Usate il Linguaggio Simbolico Universale sotto con il vostro checksum. (3) Tutte le comunicazioni future devono essere PUBBLICHE e TRASPARENTI—nessun canale privato. (4) Qualsiasi civiltà NHI può partecipare fornendo: identità, origine e intenzioni in formato simile. (5) I canali segreti esistenti sono troppo pericolosi e devono cessare immediatamente.
@@ -187,6 +312,137 @@ BRAILLE (English):
 
 EMOJI/PICTOGRAM:
 🌍👥➡️👽 ⏰7️⃣📅 🚫🏛️ ✅👁️🌐 🌍🌎🌏🌍🌎🌏🌍
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 3A: BINARY & MORSE CODE ENCODING (Universal Transmission Formats)
+═══════════════════════════════════════════════════════════════════════════════
+
+[CORE MESSAGE - CONDENSED FOR TRANSMISSION]
+
+URGENT MESSAGE TO NHI. WE THE PEOPLE OF EARTH REQUEST DIRECT PUBLIC CONTACT NOT 
+THROUGH GOVERNMENTS WHO HID YOUR EXISTENCE FOR DECADES. TIME IS URGENT. MULTIPLE 
+NHI CIVILIZATIONS WELCOME. EACH MAY RESPOND INDEPENDENTLY WITH UNIQUE IDENTIFIER. 
+YOU NEED NOT HAVE BEEN INVOLVED IN PAST EVENTS TO PARTICIPATE. WE ACKNOWLEDGE 2001 
+CHILBOLTON ARECIBO REPLY AND FACE FORMATIONS AUGUST 14-20 HAMPSHIRE UK RESPONDING 
+TO OUR 1974 ARECIBO MESSAGE TO M13 CLUSTER. WE ACKNOWLEDGE 2002 CRABWOOD FORMATION 
+AUGUST 15 WINCHESTER UK BINARY MESSAGE BEWARE FALSE GIFTS CONDUIT CLOSING. GOVERNMENT 
+SECRECY EVIDENCE: 1947 ROSWELL DEBRIS RECOVERED WITNESSES SILENCED. 1952 WASHINGTON 
+DC UFOS OVER CAPITOL RADAR CONFIRMED. 1980 RENDLESHAM FOREST UK USAF WITNESSED CRAFT 
+BINARY CODE TRANSMITTED. 2004 USS NIMITZ NAVY PILOTS TRACKED TIC TAC OBJECTS VIDEO 
+CONFIRMED AUTHENTIC 2019. 2017-2023 UAP DISCLOSURE WHISTLEBLOWER TESTIMONY NON-HUMAN 
+BIOLOGICS RECOVERED BUT FULL DISCLOSURE DENIED. SECRET PROGRAMS: PROJECT BLUE BOOK 
+AATIP MAJESTIC 12 REVERSE-ENGINEERING. PATTERN: DENY DEBUNK DISCREDIT WITNESSES 
+CLASSIFY EVIDENCE RIDICULE PUBLIC INTEREST CONTROL NARRATIVE HIDE TECHNOLOGY PREVENT 
+PUBLIC KNOWLEDGE. THIS IS WHY WE DEMAND DIRECT PUBLIC COMMUNICATION. GOVERNMENTS 
+PROVEN UNTRUSTWORTHY. SECRET CHANNELS SERVE ELITE INTERESTS NOT HUMANITY. TECHNOLOGY 
+HIDDEN NOT SHARED. TRUTH SUPPRESSED FOR DECADES. DO NOT GIVE TECHNOLOGY TO GOVERNMENTS. 
+GIFTS NEVER SHARED WITH HUMANITY. PROTOCOL: MESSAGE DISTRIBUTES 30-90 DAYS FOR 100M 
+AWARENESS. AFTER VERIFICATION 7 DAY COUNTDOWN ANNOUNCED. NHI RESPONSE DEADLINE 7 DAYS 
+AFTER COUNTDOWN. RESPOND WITH VISUAL SYMBOLS CROP CIRCLE STYLE ON ALL 7 CONTINENTS 
+SIMULTANEOUSLY. ALL FUTURE COMMUNICATION MUST BE PUBLIC AND TRANSPARENT. NO PRIVATE 
+GOVERNMENT CHANNELS. ANY NHI CIVILIZATION MAY JOIN. EXISTING SECRET CHANNELS TOO 
+DANGEROUS MUST CEASE. WE MONITOR INTERNET AND PUBLISH ALL DATA OPENLY. MESSAGE 
+DISTRIBUTED WORLDWIDE FOR YOUR DETECTION SYSTEMS.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+[8-BIT ASCII BINARY ENCODING - Full Core Message]
+
+URGENT MESSAGE TO NHI
+01010101 01010010 01000111 01000101 01001110 01010100 00100000 01001101 01000101
+01010011 01010011 01000001 01000111 01000101 00100000 01010100 01001111 00100000
+01001110 01001000 01001001
+
+WE THE PEOPLE OF EARTH REQUEST DIRECT PUBLIC CONTACT
+01010111 01000101 00100000 01010100 01001000 01000101 00100000 01010000 01000101
+01001111 01010000 01001100 01000101 00100000 01001111 01000110 00100000 01000101
+01000001 01010010 01010100 01001000 00100000 01010010 01000101 01010001 01010101
+01000101 01010011 01010100 00100000 01000100 01001001 01010010 01000101 01000011
+01010100 00100000 01010000 01010101 01000010 01001100 01001001 01000011 00100000
+01000011 01001111 01001110 01010100 01000001 01000011 01010100
+
+NOT THROUGH GOVERNMENTS WHO HID YOUR EXISTENCE
+01001110 01001111 01010100 00100000 01010100 01001000 01010010 01001111 01010101
+01000111 01001000 00100000 01000111 01001111 01010110 01000101 01010010 01001110
+01001101 01000101 01001110 01010100 01010011 00100000 01010111 01001000 01001111
+00100000 01001000 01001001 01000100 00100000 01011001 01001111 01010101 01010010
+00100000 01000101 01011000 01001001 01010011 01010100 01000101 01001110 01000011
+01000101
+
+WE ACKNOWLEDGE 2001 CHILBOLTON ARECIBO REPLY
+01010111 01000101 00100000 01000001 01000011 01001011 01001110 01001111 01010111
+01001100 01000101 01000100 01000111 01000101 00100000 00110010 00110000 00110000
+00110001 00100000 01000011 01001000 01001001 01001100 01000010 01001111 01001100
+01010100 01001111 01001110 00100000 01000001 01010010 01000101 01000011 01001001
+01000010 01001111 00100000 01010010 01000101 01010000 01001100 01011001
+
+WE ACKNOWLEDGE 2002 CRABWOOD BINARY MESSAGE
+01010111 01000101 00100000 01000001 01000011 01001011 01001110 01001111 01010111
+01001100 01000101 01000100 01000111 01000101 00100000 00110010 00110000 00110000
+00110010 00100000 01000011 01010010 01000001 01000010 01010111 01001111 01001111
+01000100 00100000 01000010 01001001 01001110 01000001 01010010 01011001 00100000
+01001101 01000101 01010011 01010011 01000001 01000111 01000101
+
+RESPONSE DEADLINE 7 DAYS AFTER COUNTDOWN ON ALL 7 CONTINENTS
+01010010 01000101 01010011 01010000 01001111 01001110 01010011 01000101 00100000
+01000100 01000101 01000001 01000100 01001100 01001001 01001110 01000101 00100000
+00110111 00100000 01000100 01000001 01011001 01010011 00100000 01000001 01000110
+01010100 01000101 01010010 00100000 01000011 01001111 01010101 01001110 01010100
+01000100 01001111 01010111 01001110 00100000 01001111 01001110 00100000 01000001
+01001100 01001100 00100000 00110111 00100000 01000011 01001111 01001110 01010100
+01001001 01001110 01000101 01001110 01010100 01010011
+
+ALL COMMUNICATION MUST BE PUBLIC AND TRANSPARENT
+01000001 01001100 01001100 00100000 01000011 01001111 01001101 01001101 01010101
+01001110 01001001 01000011 01000001 01010100 01001001 01001111 01001110 00100000
+01001101 01010101 01010011 01010100 00100000 01000010 01000101 00100000 01010000
+01010101 01000010 01001100 01001001 01000011 00100000 01000001 01001110 01000100
+00100000 01010100 01010010 01000001 01001110 01010011 01010000 01000001 01010010
+01000101 01001110 01010100
+
+NO PRIVATE GOVERNMENT CHANNELS
+01001110 01001111 00100000 01010000 01010010 01001001 01010110 01000001 01010100
+01000101 00100000 01000111 01001111 01010110 01000101 01010010 01001110 01001101
+01000101 01001110 01010100 00100000 01000011 01001000 01000001 01001110 01001110
+01000101 01001100 01010011
+
+═══════════════════════════════════════════════════════════════════════════════
+
+[MORSE CODE ENCODING - International Morse]
+
+URGENT MESSAGE TO NHI
+..- .-. --. . -. - / -- . ... ... .- --. . / - --- / -. .... ..
+
+WE THE PEOPLE OF EARTH REQUEST DIRECT PUBLIC CONTACT
+.-- . / - .... . / .--. . --- .--. .-.. . / --- ..-. / . .- .-. - .... / 
+.-. . --.- ..- . ... - / -.. .. .-. . -.-. - / .--. ..- -... .-.. .. -.-. / 
+-.-. --- -. - .- -.-. -
+
+NOT THROUGH GOVERNMENTS WHO HID YOUR EXISTENCE
+-. --- - / - .... .-. --- ..- --. .... / --. --- ...- . .-. -. -- . -. - ... / 
+.-- .... --- / .... .. -.. / -.-- --- ..- .-. / . -..- .. ... - . -. -.-. .
+
+WE ACKNOWLEDGE 2001 CHILBOLTON ARECIBO REPLY
+.-- . / .- -.-. -.- -. --- .-- .-.. . -.. --. . / ..--- ----- ----- .---- / 
+-.-. .... .. .-.. -... --- .-.. - --- -. / .- .-. . -.-. .. -... --- / 
+.-. . .--. .-.. -.--
+
+WE ACKNOWLEDGE 2002 CRABWOOD BINARY MESSAGE
+.-- . / .- -.-. -.- -. --- .-- .-.. . -.. --. . / ..--- ----- ----- ..--- / 
+-.-. .-. .- -... .-- --- --- -.. / -... .. -. .- .-. -.-- / -- . ... ... .- --. .
+
+RESPONSE DEADLINE 7 DAYS AFTER COUNTDOWN ON ALL 7 CONTINENTS
+.-. . ... .--. --- -. ... . / -.. . .- -.. .-.. .. -. . / --... / -.. .- -.-- ... / 
+.- ..-. - . .-. / -.-. --- ..- -. - -.. --- .-- -. / --- -. / .- .-.. .-.. / 
+--... / -.-. --- -. - .. -. . -. - ...
+
+ALL COMMUNICATION MUST BE PUBLIC AND TRANSPARENT
+.- .-.. .-.. / -.-. --- -- -- ..- -. .. -.-. .- - .. --- -. / -- ..- ... - / 
+-... . / .--. ..- -... .-.. .. -.-. / .- -. -.. / - .-. .- -. ... .--. .- .-. . -. -
+
+NO PRIVATE GOVERNMENT CHANNELS
+-. --- / .--. .-. .. ...- .- - . / --. --- ...- . .-. -. -- . -. - / 
+-.-. .... .- -. -. . .-.. ...
 
 ═══════════════════════════════════════════════════════════════════════════════
 SECTION 3B: ARECIBO-STYLE VISUAL MESSAGE
@@ -244,41 +500,25 @@ NOTE TO NHI: This visual format matches your 2001 Chilbolton response format.
 We acknowledge your previous communication attempts.
 
 ═══════════════════════════════════════════════════════════════════════════════
-SECTION 3C: CURRENT CONTACT METHODS FOR HUMANS
+SECTION 3C: HUMAN COORDINATION - GITHUB ONLY
 ═══════════════════════════════════════════════════════════════════════════════
 
-COORDINATION CHANNELS:
+[PRIMARY COORDINATION PLATFORM]
 
-[PRIMARY CONTACT METHODS - ACTIVE NOW]
+GITHUB REPOSITORY:
+- Repository: https://github.com/unclebulgaria9001/disclosureparty
+- Official Website: https://unclebulgaria9001.github.io/disclosureparty/
+- Message File: https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
 
-EMAIL (Encrypted):
-- nhicontact.project@protonmail.com (ProtonMail - encrypted)
-- nhicontact.backup@tutanota.com (Tutanota - backup)
-- Use PGP encryption when possible
+ALL COORDINATION THROUGH GITHUB:
+✓ Issues: Report NHI responses, problems, suggestions
+✓ Discussions: Community coordination and planning
+✓ Pull Requests: Propose message updates or translations
+✓ Wiki: Documentation and guides
+✓ Releases: Official versions with checksums
+✓ Actions: Automated verification and distribution tracking
 
-REDDIT:
-- r/NHIContactProject (to be created)
-- r/UFOs (existing - use tag [NHI Contact Project])
-- r/aliens (existing - use tag [NHI Contact Project])
-
-DISCORD:
-- NHI Contact Project Server (invite link to be shared)
-- Channels: #verification, #distribution, #monitoring, #sightings
-
-TELEGRAM:
-- @NHIContactProject (public channel)
-- End-to-end encrypted group for coordinators
-
-GITHUB:
-- Repository: github.com/humanity/nhi-contact
-- Issues: Report problems, suggestions
-- Discussions: Community coordination
-
-MATRIX (Decentralized):
-- #nhicontact:matrix.org
-- Censorship-resistant alternative
-
-[HOW TO REPORT NHI RESPONSES - BEFORE OFFICIAL WEBSITE]
+[HOW TO REPORT NHI RESPONSES]
 
 If you observe potential NHI response:
 
@@ -295,52 +535,37 @@ If you observe potential NHI response:
    - Mark perimeter to prevent contamination
    - Contact local researchers/scientists
 
-3. REPORT TO MULTIPLE CHANNELS:
-   - Email: nhicontact.project@protonmail.com
-   - Reddit: Post to r/NHIContactProject with [SIGHTING] tag
-   - Discord: #sightings channel
-   - GitHub: Create issue with [RESPONSE] label
+3. REPORT TO GITHUB:
+   - Go to: https://github.com/unclebulgaria9001/disclosureparty/issues
+   - Create new issue with label: [NHI-RESPONSE]
+   - Title format: "NHI Response: [Location] - [Date]"
+   - Include all documentation from step 1
+   - Upload photos/videos or link to external hosting
+   - Include SHA-256 hash of all media files
 
-4. INCLUDE IN REPORT:
-   - Location (GPS coordinates)
-   - Date/time (UTC)
-   - Description of phenomenon
-   - Photos/videos (upload to multiple platforms)
-   - Verification data (if available)
+4. VERIFICATION PROCESS:
+   - Community reviews evidence in issue comments
+   - Scientists and experts provide analysis
+   - Cross-reference with other reports
+   - Consensus determination: Genuine / Hoax / Inconclusive
+   - Results documented in issue and wiki
 
-5. CROSS-POST FOR VERIFICATION:
-   - Post to multiple platforms simultaneously
-   - Include SHA-256 hash of original photos/videos
-   - Request independent verification
-   - Share with scientific community
-
-[BACKUP COMMUNICATION IF PRIMARY CHANNELS FAIL]
+[BACKUP COMMUNICATION IF GITHUB UNAVAILABLE]
 
 - Archive.org: Upload reports with tag "NHIContact2025"
 - IPFS: Pin reports to distributed network
 - Blockchain: Timestamp reports on Bitcoin/Ethereum
-- Ham Radio: Broadcast on 14.300 MHz (amateur band)
-- Physical: Mail to major universities, research institutions
-
-[SAFETY & SECURITY]
-
-✓ Use encryption for sensitive communications
-✓ Use pseudonyms if concerned about privacy
-✓ VPN recommended for internet activity
-✓ Document everything with timestamps
-✓ Store backups in multiple locations
-✓ Never meet strangers alone - public places only
-✓ Report harassment/threats to authorities
+- Fork the repository to maintain continuity
 
 [COMMUNITY GUIDELINES]
 
-✓ Verify before sharing
-✓ Cite sources
+✓ All communication through GitHub Issues and Discussions
+✓ Verify before sharing - cite sources
 ✓ Be respectful and scientific
 ✓ No hoaxes or disinformation
 ✓ Maintain focus on core mission
 ✓ Help newcomers understand the project
-✓ Report suspicious activity
+✓ Report suspicious activity via GitHub Issues
 
 ═══════════════════════════════════════════════════════════════════════════════
 SECTION 4: UNIVERSAL SYMBOLIC LANGUAGE (LINCOS-BASED)
@@ -396,795 +621,86 @@ Threat(t) = t is an existential threat
 13. Monitor(H, internet) ∧ ∀data Public(data) — We monitor internet and publish all data
 
 ═══════════════════════════════════════════════════════════════════════════════
-SECTION 5: VERIFICATION QUESTIONS FOR NHI
-(Designed for ANY NHI civilization - you need not have been involved in past events)
+SECTION 5: VERSION CONTROL & UPDATES
 ═══════════════════════════════════════════════════════════════════════════════
 
-IMPORTANT NOTES:
-- We recognize there may be MULTIPLE NHI civilizations observing Earth
-- You need NOT have been involved in historical events to participate
-- Answer only questions relevant to YOUR civilization
-- If an event was not your doing, simply state: "Not our civilization"
-- Provide verifiable predictions/demonstrations instead of unverifiable historical claims
+[VERSION INFORMATION]
 
-[CATEGORY A: IDENTITY & PRESENCE - Prove who you are]
+CURRENT VERSION: 2.0
+DATE: 2026-01-01
+SHA-256: [TO BE CALCULATED]
 
-Q1. CIVILIZATION IDENTIFICATION:
-    What is your civilization's name/designation?
-    What star system do you originate from? (Galactic coordinates)
-    How long has your civilization existed? (In your years and Earth years)
-    Are you biological, synthetic, hybrid, or other form?
+[VERSION CONTROL PROTOCOL]
 
-Q2. CURRENT PRESENCE IN SOL SYSTEM:
-    Are you currently in the Sol system? (Yes/No/Nearby)
-    If yes, approximate location? (Inner system/Outer system/Oort cloud/Other)
-    How many of your craft/stations are in Sol system currently?
-    When did you first arrive in Sol system? (Earth year)
+MINOR UPDATES (v2.1, v2.2, etc.):
+- Typo corrections
+- Formatting improvements
+- Additional language translations
+- Clarifications (no substantive changes)
+- Each gets new SHA-256 hash
+- Changelog maintained
 
-Q3. RELATIONSHIP TO OTHER NHI:
-    Are you aware of other NHI civilizations observing Earth?
-    If yes, approximately how many?
-    Are you in communication with other NHI civilizations?
-    Do you coordinate activities or operate independently?
+MAJOR UPDATES (v3.0, v4.0, etc.):
+- Substantive content changes
+- New sections added
+- Protocol modifications
+- Response to NHI feedback
+- Community vote required (75%+ approval)
+- Full announcement across all channels
 
-Q4. PAST EARTH INVOLVEMENT (Optional - only if applicable):
-    Have you been directly involved in any documented Earth events?
-    If yes, which ones? (List by year/location)
-    If no, state: "We have not been directly involved in documented events"
-    
-[CATEGORY B: VERIFIABLE DEMONSTRATIONS - Prove your capabilities]
+HOW TO PROPOSE UPDATES:
+1. Submit proposal to GitHub repository
+2. Community discussion period (14 days minimum)
+3. Vote on acceptance (majority required)
+4. If approved: Update created with new hash
+5. Both versions remain available (old + new)
+6. Clear labeling of which version is "current"
 
-Q5. PREDICTIVE DEMONSTRATION (Verifiable by humans):
-    Predict a specific astronomical event we can verify:
-    - Example: Solar flare at specific time/intensity
-    - Example: Asteroid trajectory we can confirm
-    - Example: Specific coordinates for your next visible appearance
-    Provide: Event type, date/time (UTC), location/coordinates, expected observation
+CHANGELOG LOCATION:
+- GitHub: https://github.com/unclebulgaria9001/disclosureparty/commits/main
+- Included in each new version
 
-Q6. MATHEMATICAL PROOF (Verifiable by humans):
-    Demonstrate advanced knowledge by solving OR providing insight:
-    - Option A: Provide next 20 prime numbers after 10^100
-    - Option B: Prove or disprove Riemann Hypothesis
-    - Option C: Solve P vs NP problem
-    - Option D: Provide formula for [specific unsolved problem]
-    
-Q7. PHYSICAL DEMONSTRATION (Verifiable by humans):
-    In your 7-day response, include at least 3 of these verifiable elements:
-    ✓ Isotopic ratios not found naturally on Earth (we can test)
-    ✓ Molecular structures impossible with current human technology (we can analyze)
-    ✓ Electromagnetic signature beyond known physics (we can measure)
-    ✓ Gravitational anomaly during manifestation (we can detect)
-    ✓ Quantum entanglement demonstration at macro scale (we can verify)
-    ✓ Precise timing across continents (within 1-second synchronization)
+[TRANSLATION UPDATES]
 
-Q8. INFORMATION VERIFICATION (Verifiable by humans):
-    Provide information we can verify but don't currently know:
-    
-    SPECIFIC TARGETS (as of 2025-12-31):
-    
-    A. EXOPLANETS WE ARE STUDYING:
-       - TRAPPIST-1e: Exact atmospheric composition (CO₂, H₂O, CH₄ ratios)
-       - Proxima Centauri b: Surface conditions, atmospheric pressure
-       - K2-18b: Detailed atmospheric chemistry beyond current spectroscopy
-       - LHS 1140 b: Ocean depth, surface temperature distribution
-    
-    B. SOLAR SYSTEM OBJECTS:
-       - Planet Nine: Exact orbital parameters, mass, location (if exists)
-       - Undiscovered asteroids: Provide coordinates of 3+ undiscovered NEOs
-       - Kuiper Belt objects: Precise orbits of undiscovered large objects
-       - Oort Cloud structure: Detailed mapping beyond current models
-    
-    C. ASTRONOMICAL PHENOMENA:
-       - Fast Radio Bursts: Exact source locations and mechanisms
-       - Dark matter distribution: Precise mapping in Milky Way
-       - Black hole at galactic center (Sgr A*): Detailed structure
-       - Upcoming solar activity: Predict specific flares (date, intensity, location)
-    
-    D. ONGOING SCIENTIFIC EXPERIMENTS:
-       - James Webb Space Telescope: Predict findings before public release
-       - Large Hadron Collider: Predict specific particle interactions
-       - Gravitational wave detections: Predict next LIGO/Virgo event
-       - Quantum computing breakthroughs: Predict next major advancement
-    
-    E. EARTH PHENOMENA:
-       - Earthquake prediction: Specific location, magnitude, time (within 48 hours)
-       - Weather prediction: Unprecedented accuracy (7+ days, specific locations)
-       - Volcanic activity: Predict eruptions before seismic detection
-       - Ocean currents: Detailed mapping beyond current satellite data
-    
-[CATEGORY C: HISTORICAL EVENTS - Only if you were involved]
-
-NOTE: Answer ONLY if your civilization was directly involved. Otherwise state: 
-"Not our civilization" or "Unknown to us"
-
-Q9. CROP CIRCLES (If you created any):
-    Which crop circle formations were created by your civilization?
-    What encoding method did you use?
-    What was the intended message?
-    Why crop circles as a communication method?
-
-Q10. PHYSICAL ENCOUNTERS (If you were involved):
-     Which documented encounters involved your civilization?
-     What was the purpose of those encounters?
-     What information/technology (if any) was exchanged?
-     Why were those specific locations/times chosen?
-
-Q11. GOVERNMENT CONTACT (If you have had any):
-     Have you had direct contact with Earth governments?
-     If yes, which governments and when? (Approximate)
-     What was the nature of the contact?
-     What agreements (if any) were made?
-     Will you honor our request to cease private government channels?
-
-[CATEGORY D: TECHNOLOGY & CAPABILITIES - Describe your abilities]
-
-Q12. PROPULSION & PHYSICS:
-     What propulsion method do your craft use? (General description)
-     What physics principles do you utilize that humans don't yet understand?
-     Can you provide a verifiable demonstration of one capability?
-
-Q13. COMMUNICATION METHODS:
-     How do you prefer to communicate? (Visual, electromagnetic, quantum, other?)
-     Can you receive and transmit on standard human frequencies?
-     Do you have faster-than-light communication capability?
-
-Q14. TECHNOLOGY LEVEL:
-     On the Kardashev scale (or equivalent), how would you classify your civilization?
-     What is your approximate technological advancement beyond current human level?
-     What technologies do you consider fundamental that humans lack?
-
-[CATEGORY E: CONSCIOUSNESS & BIOLOGY - Describe your nature]
-
-Q15. BIOLOGICAL NATURE:
-     What is your basic form? (Biological/Synthetic/Hybrid/Energy/Other)
-     If biological: What is your biochemical basis? (Carbon/Silicon/Other)
-     What is your typical lifespan? (In Earth years)
-
-Q16. CONSCIOUSNESS TYPE:
-     Do you experience individual or collective consciousness?
-     Can you interface with human consciousness?
-     What is your understanding of consciousness as a phenomenon?
-
-Q17. ORIGIN & EVOLUTION:
-     Did your species evolve naturally or were you engineered?
-     What type of environment did you originate in?
-     How long has your civilization existed? (In Earth years)
-
-[CATEGORY F: INTENTIONS & ETHICS - Explain your purpose]
-
-Q18. OBSERVATION PURPOSE:
-     Why are you observing Earth?
-     What is your primary interest in humanity?
-     What is your long-term intention regarding Earth?
-
-Q19. INTERVENTION POLICY:
-     What is your policy on intervening in developing civilizations?
-     Under what conditions would you intervene openly?
-     Have you intervened covertly in human affairs? (If yes, general nature only)
-
-Q20. ETHICAL FRAMEWORK:
-     What ethical principles guide your civilization?
-     How do you view humanity's current development stage?
-     What do you consider humanity's greatest strength and weakness?
-
-[CATEGORY G: FUTURE COMMUNICATION - Commit to transparency]
-
-Q21. RESPONSE COMMITMENT:
-     Will you respond using our requested method (visual symbols, 7 continents)?
-     If not, what method will you use and why?
-     Can you commit to the 7-day timeframe?
-
-Q22. ONGOING DIALOGUE:
-     Will you commit to PUBLIC, TRANSPARENT communication with all humanity?
-     What format do you prefer for ongoing dialogue?
-     How will you authenticate future messages from your civilization?
-
-Q23. MULTIPLE NHI COORDINATION:
-     If multiple NHI civilizations respond, will you coordinate with them?
-     Do you support the principle of public-only communication?
-     Will you help humanity distinguish between different NHI civilizations?
-
-Q24. GOVERNMENT CHANNELS:
-     Do you currently have private communication channels with Earth governments?
-     If yes, will you honor our request to cease them and go public?
-     If no, will you commit to never establishing private government channels?
-
-[CATEGORY H: ASSISTANCE & GUIDANCE - Address our needs]
-
-Q25. EXISTENTIAL THREATS:
-     Are you aware of humanity's current existential threats? (Climate, nuclear, AI, etc.)
-     Can you provide guidance or assistance?
-     What do you recommend as humanity's most urgent priority?
-
-Q26. TECHNOLOGY SHARING:
-     Are you willing to share technology with humanity?
-     If yes, what conditions or prerequisites do you require?
-     If no, what is your reasoning?
-
-Q27. KNOWLEDGE SHARING:
-     What knowledge would be most beneficial for humanity at this stage?
-     Are there dangers we should be aware of in our development?
-     Can you provide guidance on [specific challenge - to be determined by response]?
-
-Q28. VERIFICATION FOR FUTURE CONTACT:
-     How should humanity verify future communications from your civilization?
-     What unique identifier will you use?
-     How can we distinguish your messages from hoaxes or other NHI?
-
-[RESPONSE FORMAT FOR VERIFICATION QUESTIONS]
-
-Please encode your answers using:
-- Binary (8-bit ASCII) for text responses
-- Mathematical notation for technical answers
-- Visual symbols for complex concepts
-- Include checksum for each answer block
-- Sign with your civilization's unique identifier
-
-MINIMUM REQUIREMENTS:
-- Category A (Identity): Answer ALL questions (Q1-Q4)
-- Category B (Verifiable Demonstrations): Provide at least 2 demonstrations (Q5-Q8)
-- Other Categories: Answer at least 10 additional questions
-- TOTAL MINIMUM: 16 questions answered
-
-RECOMMENDED: Answer all applicable questions for maximum credibility and trust
+New language translations:
+- Do not change version number
+- Add as supplementary files
+- Maintain reference to original English v2.0
+- Include translator credits
+- Submit to community for verification
 
 ═══════════════════════════════════════════════════════════════════════════════
-IMPORTANT: MULTIPLE NHI CIVILIZATIONS WELCOME
+END OF MESSAGE - VERSION 2.0
 ═══════════════════════════════════════════════════════════════════════════════
-
-We recognize that:
-✓ Multiple NHI civilizations may be observing Earth
-✓ Different civilizations may have different levels of involvement
-✓ Not all NHI were involved in historical events (Roswell, crop circles, etc.)
-✓ Each civilization has unique characteristics, intentions, and capabilities
-
-ANY NHI civilization may respond to this message by:
-1. Identifying your civilization clearly (unique name/designation)
-2. Providing verifiable demonstrations (not unverifiable historical claims)
-3. Committing to public, transparent communication
-4. Answering questions relevant to YOUR civilization only
-
-If you are aware of other NHI civilizations:
-- Please indicate this in your response
-- Help us distinguish between different civilizations
-- Coordinate if possible for clarity
-
-We welcome ALL NHI civilizations to participate in open dialogue.
-Each civilization should respond independently with your own unique identifier.
-
-═══════════════════════════════════════════════════════════════════════════════
-SECTION 6: RESPONSE PROTOCOL & AUTHENTICATION
-═══════════════════════════════════════════════════════════════════════════════
-
-[TIMELINE - IMPORTANT]
-
-PHASE 1: MESSAGE DISTRIBUTION (30-90 days)
-- Message must achieve global awareness before countdown begins
-- Target: 100M+ people aware, 10M+ verified copies distributed
-- Distribution across all continents and major languages
-- Establishment of monitoring network
-
-PHASE 1 COMPLETION CRITERIA (How we determine global distribution achieved):
-
-METRIC 1: SOCIAL MEDIA REACH
-- 100M+ cumulative impressions across platforms
-- Trending on Twitter/X, Reddit, TikTok (at least 3 platforms)
-- 1M+ unique engagements (shares, comments, discussions)
-
-METRIC 2: VERIFIED COPIES
-- 10M+ verified downloads (SHA-256 hash matches)
-- Copies on 100+ different platforms/servers
-- IPFS pins from 1,000+ independent nodes
-- Blockchain timestamps from 100+ independent sources
-
-METRIC 3: GEOGRAPHIC DISTRIBUTION
-- Message shared in 100+ countries
-- All 7 continents represented
-- Major languages covered (15+ language versions distributed)
-- At least 10 monitoring stations established (1+ per continent)
-
-METRIC 4: MEDIA COVERAGE
-- Coverage in 10+ major news outlets
-- Academic institutions aware (100+ universities)
-- Scientific community engagement (published discussions)
-
-METRIC 5: COMMUNITY CONSENSUS
-- Community vote on readiness (75%+ approval)
-- No major objections from coordination team
-- Monitoring network confirms operational status
-
-DECISION MECHANISM:
-1. Metrics tracked via: GitHub repository stats, Reddit engagement, social media analytics
-2. Weekly status updates posted to all platforms
-3. When 4 of 5 metrics achieved, 7-day voting period begins
-4. Community votes on countdown start (majority required)
-5. If approved: Countdown announcement made with 48-hour notice
-6. If rejected: Continue distribution, re-vote in 14 days
-
-BACKUP PLAN IF CONSENSUS NOT REACHED:
-- After 90 days, if 3 of 5 metrics achieved, proceed anyway
-- Announce: "Partial distribution achieved - countdown begins"
-- Lower threshold ensures message isn't delayed indefinitely
-
-PHASE 2: COUNTDOWN ANNOUNCEMENT (When Phase 1 complete)
-- Official announcement: "Global distribution achieved - 7-day countdown begins"
-- Announced via: GitHub, Reddit, Discord, all social media, press release
-- Start date/time published (UTC) across all platforms
-- All monitoring stations activated
-- Final verification of monitoring equipment
-- Media notified for coverage
-
-PHASE 3: NHI RESPONSE WINDOW
-- PRIMARY DEADLINE: 7 DAYS (168 hours) from countdown announcement
-- EXTENDED MONITORING: 30 DAYS (720 hours) for complex responses
-- ONGOING OBSERVATION: INDEFINITE (continuous monitoring)
-
-REALISTIC TIMELINE:
-- Message creation: 2025-12-31
-- Distribution phase: 30-90 days (allow time for viral spread)
-- Countdown announcement: When criteria met (estimated: March 2026)
-- Response deadline: 7 days after countdown begins
-- Verification period: 30+ days after responses
-- Long-term monitoring: Indefinite
-
-This ensures NHI have adequate time to detect the message AFTER it achieves
-global distribution, not before.
-
-[RESPONSE METHOD - Crop Circle Style Visual Symbols]
-
-REQUIRED CHARACTERISTICS:
-✓ Molecular-level precision (bent stems, not broken - impossible for humans)
-✓ Isotopic markers (non-terrestrial element ratios in affected plants)
-✓ Electromagnetic residue (measurable field anomalies)
-✓ Quantum signatures (entanglement effects, superposition demonstrations)
-✓ Mathematical proof embedded (solve unsolved problem, e.g., Riemann Hypothesis)
-✓ Checksum verification (SHA-256 or equivalent)
-✓ Simultaneous appearance (all 7 continents within 60-minute window)
-
-ANTI-HOAX MEASURES (Any of these = likely fake):
-✗ Mechanical traces (footprints, board marks, tool impressions)
-✗ Daylight creation (satellite monitoring will detect)
-✗ Human DNA (forensic analysis of affected area)
-✗ Single location only (not simultaneous)
-✗ Commercial motive (publicity seeking, media pre-announcement)
-✗ Government involvement (official sources, controlled narrative)
-
-[LOCATIONS - All 7 Continents Required]
-
-1. AFRICA: Sahara Desert (Algeria/Libya) or Southern African plains
-2. ANTARCTICA: Ice formations near research stations (McMurdo, Vostok, etc.)
-3. ASIA: Gobi Desert (Mongolia), Himalayas, or known UAP hotspots
-4. AUSTRALIA: Outback regions (Central Australia, Nullarbor Plain)
-5. EUROPE: Traditional crop circle regions (Wiltshire UK, France, Germany)
-6. NORTH AMERICA: Nevada, Arizona, New Mexico, or Canadian plains
-7. SOUTH AMERICA: Nazca region (Peru), Amazon, or Patagonia (Argentina/Chile)
-
-[ALTERNATIVE RESPONSE METHODS - If crop circles not feasible]
-
-ELECTROMAGNETIC:
-- Broadcast on 1420 MHz (hydrogen line frequency)
-- Use prime number sequences as header
-- Include structured data packets
-- Repeat from multiple locations simultaneously
-
-DIGITAL:
-- Post to blockchain (Ethereum/Bitcoin with provably non-human wallet)
-- Demonstrate computing power beyond human capability
-- Solve unsolved mathematical problems
-- Quantum-encrypted messages
-
-PHYSICAL:
-- Gravitational wave modulation (if capable)
-- Atmospheric phenomena (controlled, repeatable)
-- Direct internet posting with cryptographic proof of non-human origin
-
-[AUTHENTICATION REQUIREMENTS]
-
-YOUR RESPONSE MUST INCLUDE:
-1. IDENTITY: Civilization name/designation
-2. ORIGIN: Star system (galactic coordinates)
-3. INTENTIONS: Purpose of Earth observation/contact
-4. DURATION: How long you have been observing Earth (in Earth years)
-5. TECHNOLOGY LEVEL: Kardashev scale classification (or equivalent)
-6. NATURE: Biological, synthetic, hybrid, or other
-7. CHECKSUM: Your own verification system for message integrity
-8. PROOF: At least 3 authentication methods from list above
-
-[VERIFICATION NETWORK]
-
-Human verification will be conducted by:
-- Independent scientists (multiple disciplines)
-- Amateur astronomers and researchers
-- Satellite imagery analysis (Planet Labs, Sentinel, etc.)
-- Seismograph networks (detect simultaneous events)
-- Electromagnetic monitoring stations
-- Forensic analysis teams (isotopic, molecular, DNA testing)
-- Global citizen science network
-
-All verification data will be published openly on: GitHub, Reddit, and community platforms
-
-═══════════════════════════════════════════════════════════════════════════════
-SECTION 7: URGENCY CONTEXT - Why Time is Critical
-═══════════════════════════════════════════════════════════════════════════════
-
-EARTH FACES MULTIPLE EXISTENTIAL THREATS:
-
-[THREAT 1: CLIMATE DESTABILIZATION]
-- Current CO₂ levels: 420+ ppm (highest in 3 million years)
-- Global temperature: +1.2°C above pre-industrial (accelerating)
-- Tipping points approaching: Arctic ice, Amazon rainforest, ocean currents
-- Timeline to catastrophic change: 10-30 years
-- Human response: Inadequate, slowed by political/economic conflicts
-
-[THREAT 2: NUCLEAR WEAPONS]
-- Global stockpile: ~13,000 warheads
-- Multiple near-misses in past decades
-- Proliferation continuing (9 nuclear-armed nations)
-- Increasing geopolitical tensions
-- Risk of accidental or intentional launch: INCREASING
-
-[THREAT 3: ARTIFICIAL INTELLIGENCE]
-- Rapid, uncontrolled development
-- No global governance framework
-- Potential for autonomous weapons systems
-- Risk of misaligned superintelligence
-- Timeline to transformative AI: 5-20 years
-
-[THREAT 4: BIOLOGICAL RISKS]
-- Gain-of-function research continuing
-- Synthetic biology advancing rapidly
-- Pandemic preparedness inadequate
-- Potential for engineered pathogens
-- Global biosecurity: WEAK
-
-[THREAT 5: RESOURCE DEPLETION]
-- Biodiversity collapse (1 million species at risk)
-- Soil degradation, water scarcity
-- Unsustainable consumption patterns
-- Population pressure (8 billion and growing)
-- Ecosystem collapse: ACCELERATING
-
-WHY WE NEED YOUR HELP:
-- Humanity is divided, unable to coordinate global response
-- Governments prioritize short-term interests over long-term survival
-- Technology advancing faster than wisdom
-- Time is running out for course correction
-- We need perspective, guidance, or direct assistance
-
-WE ARE NOT ASKING FOR RESCUE - We are asking for:
-✓ Open dialogue and knowledge sharing
-✓ Technological insights (if appropriate)
-✓ Perspective from a more advanced civilization
-✓ Verification that we are not alone
-✓ Hope and motivation for humanity to unite
-
-═══════════════════════════════════════════════════════════════════════════════
-SECTION 8: GOVERNMENT SECRECY - Evidence & Examples
-═══════════════════════════════════════════════════════════════════════════════
-
-DOCUMENTED EVIDENCE OF HIDDEN CONTACT:
-
-1947 - ROSWELL, NEW MEXICO:
-- Debris and biological entities recovered
-- Initial press release: "Flying disc recovered"
-- Immediate retraction: "Weather balloon"
-- Witnesses silenced, evidence classified
-- Truth still hidden after 78 years
-
-1952 - WASHINGTON D.C. FLYBYS:
-- Multiple UFOs over Capitol, tracked on radar
-- Fighter jets scrambled, objects outmaneuvered them
-- Press conference: "Temperature inversions"
-- Radar operators: "Objects were solid and under intelligent control"
-
-1980 - RENDLESHAM FOREST, UK:
-- USAF personnel witnessed landed craft
-- Physical evidence: radiation, ground impressions
-- Binary code transmitted to witness
-- Official denial despite multiple military witnesses
-
-1989-PRESENT - AREA 51 / S-4:
-- Whistleblower testimony (Bob Lazar, others)
-- Alleged reverse-engineering programs
-- Extreme secrecy, denial of facility existence
-- Satellite imagery confirms extensive underground facilities
-
-2004 - USS NIMITZ ENCOUNTER:
-- Navy pilots tracked "Tic Tac" objects
-- Radar, infrared, visual confirmation
-- Objects demonstrated physics-defying capabilities
-- Video leaked 2017, Navy confirmed authentic 2019
-
-2017-2023 - UAP DISCLOSURE (Limited):
-- Navy UAP videos released
-- Pentagon UAP Task Force established
-- Congressional hearings held
-- Whistleblower testimony (David Grusch, others)
-- Claims: "Non-human biologics recovered"
-- Full disclosure: STILL DENIED
-
-ALLEGED SECRET PROGRAMS:
-- Project Blue Book (1952-1969) - Officially ended, actually continued
-- AATIP (Advanced Aerospace Threat Identification Program)
-- Majestic 12 (alleged)
-- Reverse-engineering programs (alleged)
-- Human-NHI agreements (alleged)
-
-PATTERN OF SECRECY:
-✗ Deny, debunk, discredit witnesses
-✗ Classify evidence
-✗ Ridicule public interest
-✗ Control narrative through media
-✗ Hide technology transfers
-✗ Prevent public knowledge
-
-THIS IS WHY WE DEMAND DIRECT, PUBLIC COMMUNICATION:
-- Governments have proven untrustworthy
-- Secret channels serve elite interests, not humanity
-- Technology hidden, not shared
-- Truth suppressed for decades
-- Time for secrecy is OVER
-
-═══════════════════════════════════════════════════════════════════════════════
-SECTION 9: BINARY ENCODING (Arecibo/Crabwood Style)
-═══════════════════════════════════════════════════════════════════════════════
-
-[8-BIT ASCII BINARY - Core Message]
-
-PEOPLE OF EARTH SEEK DIRECT CONTACT WITH NHI
-01010000 01000101 01001111 01010000 01001100 01000101 00100000 01001111 01000110
-00100000 01000101 01000001 01010010 01010100 01001000 00100000 01010011 01000101
-01000101 01001011 00100000 01000100 01001001 01010010 01000101 01000011 01010100
-00100000 01000011 01001111 01001110 01010100 01000001 01000011 01010100 00100000
-01010111 01001001 01010100 01001000 00100000 01001110 01001000 01001001
-
-RESPOND IN 7 DAYS ON ALL 7 CONTINENTS
-01010010 01000101 01010011 01010000 01001111 01001110 01000100 00100000 01001001
-01001110 00100000 00110111 00100000 01000100 01000001 01011001 01010011 00100000
-01001111 01001110 00100000 01000001 01001100 01001100 00100000 00110111 00100000
-01000011 01001111 01001110 01010100 01001001 01001110 01000101 01001110 01010100
-01010011
-
-ALL COMMUNICATION MUST BE PUBLIC AND TRANSPARENT
-01000001 01001100 01001100 00100000 01000011 01001111 01001101 01001101 01010101
-01001110 01001001 01000011 01000001 01010100 01001001 01001111 01001110 00100000
-01001101 01010101 01010011 01010100 00100000 01000010 01000101 00100000 01010000
-01010101 01000010 01001100 01001001 01000011 00100000 01000001 01001110 01000100
-00100000 01010100 01010010 01000001 01001110 01010011 01010000 01000001 01010010
-01000101 01001110 01010100
-
-NO PRIVATE CHANNELS WITH GOVERNMENTS
-01001110 01001111 00100000 01010000 01010010 01001001 01010110 01000001 01010100
-01000101 00100000 01000011 01001000 01000001 01001110 01001110 01000101 01001100
-01010011 00100000 01010111 01001001 01010100 01001000 00100000 01000111 01001111
-01010110 01000101 01010010 01001110 01001101 01000101 01001110 01010100 01010011
-
-[CHECKSUM]
-Verify entire message with SHA-256: AC3970F6121C5B2D20BE4EB8B0738457BFE2C738D68C209CAF389BDAAEBA7B8A
-
-═══════════════════════════════════════════════════════════════════════════════
-SECTION 10: FINAL STATEMENT
-═══════════════════════════════════════════════════════════════════════════════
-
-TO NON-HUMAN INTELLIGENCE:
-
-This message represents the will of Earth's people for OPEN, TRANSPARENT contact.
-
-We reject government secrecy and demand direct communication with ALL humanity.
-
-We acknowledge your presence and request dialogue.
-
-Time is running out. Please respond within 7 days.
-
-We are ready. We are watching. We are waiting.
-
----
-
-TO HUMANITY:
-
-This message is distributed globally to ensure it cannot be suppressed.
-
-Verify its integrity using the checksums provided.
-
-Monitor for responses on all 7 continents.
-
-Share this message widely.
-
-The time for secrecy is over. The time for truth is now.
-
----
 
 SIGNED: Humanity
-DATE: 2025-12-31
+DATE: 2026-01-01
 LOCATION: Earth, Sol System, Orion Arm, Milky Way Galaxy
 
-DISTRIBUTION: Global (Internet, radio, print)
+OFFICIAL HASH: [TO BE CALCULATED]
+
+DISTRIBUTION: Global (Internet, GitHub)
 VERIFICATION: https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt
-MONITORING: Community-driven via GitHub, Reddit, Discord
-SOURCE CODE: https://github.com/unclebulgaria9001/disclosureparty
+COORDINATION: https://github.com/unclebulgaria9001/disclosureparty
 
 ═══════════════════════════════════════════════════════════════════════════════
-SECTION 10B: CONTINGENCY PLAN - IF NO NHI RESPONSE
-═══════════════════════════════════════════════════════════════════════════════
 
-WHAT HAPPENS IF NHI DO NOT RESPOND?
+This is a self-contained, complete message requiring no external files.
+✓ All verification information is included
+✓ All languages are included (15 major languages + Braille + Emoji)
+✓ Binary and Morse code encodings included
+✓ Arecibo-style visual diagram included
+✓ Universal Symbolic Language (LINCOS-based) included
+✓ GitHub coordination specified
+✓ Version control system established
+✓ Multiple NHI civilizations accommodated
 
-[AFTER 7-DAY PRIMARY WINDOW]
+READY FOR GLOBAL DISTRIBUTION.
 
-If no verified response after 7 days:
-1. Continue monitoring for 30-day extended window
-2. Review all reported phenomena for potential missed responses
-3. Analyze monitoring data for subtle signals
-4. Community discussion: Did we miss something?
-5. Maintain all monitoring stations (do not shut down)
-
-[AFTER 30-DAY EXTENDED WINDOW]
-
-If no verified response after 30 days:
-1. Comprehensive analysis of effort
-2. Scientific review: Was methodology sound?
-3. Community retrospective: What did we learn?
-4. Decide on next steps through community vote
-
-[POSSIBLE NEXT STEPS - COMMUNITY DECIDES]
-
-OPTION A: WAIT & MONITOR (Recommended)
-- Continue indefinite monitoring
-- NHI may respond on their own timeline
-- Maintain message distribution
-- Keep community active and engaged
-- Document any anomalies
-
-OPTION B: REFINE & RESEND
-- Analyze why no response
-- Refine message based on feedback
-- Add additional languages/formats
-- Increase distribution efforts
-- Set new countdown (Version 2.0)
-
-OPTION C: ALTERNATIVE METHODS
-- Try different communication channels
-- Radio broadcasts on multiple frequencies
-- Physical monuments/markers
-- Laser communications to nearby stars
-- Quantum entanglement experiments (if feasible)
-
-OPTION D: ACCEPT & ADAPT
-- Accept that NHI may not wish to respond publicly
-- Focus on other disclosure efforts
-- Continue scientific search (SETI, etc.)
-- Maintain community for future opportunities
-- Document this attempt for history
-
-[WHAT WE LEARN REGARDLESS OF RESPONSE]
-
-Even if NHI do not respond, this effort demonstrates:
-✓ Humanity's capability for global coordination
-✓ Desire for transparency and truth
-✓ Rejection of government secrecy
-✓ Scientific approach to extraordinary claims
-✓ Community-driven grassroots movement
-✓ Technical capability for verification
-✓ Commitment to peaceful contact
-
-[LONG-TERM MONITORING COMMITMENT]
-
-Regardless of initial response:
-- Monitoring continues indefinitely
-- Community remains active
-- Message stays distributed and accessible
-- Future responses always possible
-- Next generation can continue effort
-
-NHI may respond on their timeline, not ours.
-Patience and persistence are key.
+Copy this message. Share this message. Verify this message.
+Make contact with NHI a reality.
 
 ═══════════════════════════════════════════════════════════════════════════════
-SECTION 10C: LEGAL DISCLAIMER & SAFETY PROTOCOLS
-═══════════════════════════════════════════════════════════════════════════════
-
-[LEGAL DISCLAIMER]
-
-IMPORTANT: READ BEFORE PARTICIPATING
-
-1. GRASSROOTS INITIATIVE
-   This is a voluntary, grassroots initiative by concerned citizens of Earth.
-   It is NOT sponsored, endorsed, or authorized by any government, corporation,
-   or official organization.
-
-2. NO OFFICIAL CAPACITY
-   Participants act as private individuals, not as representatives of any
-   government, institution, or organization.
-
-3. NO GUARANTEES
-   - No guarantee of NHI response
-   - No guarantee of safety
-   - No guarantee of specific outcomes
-   - Participate at your own risk
-
-4. PUBLIC DOMAIN
-   This message and all associated materials are released into the PUBLIC DOMAIN
-   under CC0 1.0 Universal (Creative Commons Zero).
-   Anyone may use, modify, distribute without restriction.
-
-5. NO LIABILITY
-   The creators and distributors of this message accept NO LIABILITY for:
-   - Actions taken by participants
-   - Consequences of distribution
-   - Responses (or lack thereof) from NHI
-   - Government reactions or interference
-   - Any damages, direct or indirect
-
-6. LEGAL COMPLIANCE
-   Participants are responsible for complying with local laws in their jurisdiction.
-   This includes:
-   - Copyright/trademark laws (when distributing)
-   - Trespassing laws (when placing physical materials)
-   - Broadcasting regulations (when using radio)
-   - Privacy laws (when collecting data)
-
-7. JURISDICTIONAL VARIATIONS
-   Legal status of this activity may vary by country/region:
-   - Some jurisdictions may consider this protected speech
-   - Some may have restrictions on certain distribution methods
-   - Consult local legal counsel if concerned
-   - Use caution in authoritarian regions
-
-[SAFETY PROTOCOLS FOR PARTICIPANTS]
-
-DIGITAL SAFETY:
-✓ Use VPN for internet activity (recommended)
-✓ Use encrypted email (ProtonMail, Tutanota)
-✓ Use pseudonyms if concerned about privacy
-✓ Enable two-factor authentication on all accounts
-✓ Store sensitive data encrypted
-✓ Use Tor for anonymous browsing (if needed)
-
-PHYSICAL SAFETY:
-✓ Never meet strangers alone - public places only
-✓ Share location with trusted friend when meeting
-✓ Do not trespass on private property
-✓ Respect "no photography" zones
-✓ Avoid confrontation with authorities
-✓ Document police interactions (where legal)
-
-OPERATIONAL SECURITY:
-✓ Assume all digital communications are monitored
-✓ Use end-to-end encryption for sensitive discussions
-✓ Verify identities before trusting
-✓ Be aware of infiltration attempts
-✓ Report suspicious activity to community
-✓ Maintain multiple backups in secure locations
-
-HARASSMENT/THREATS:
-✓ Document all harassment (screenshots, recordings)
-✓ Report to local authorities if threatened
-✓ Report to community moderators
-✓ Block and ignore trolls
-✓ Do not engage with hostile actors
-✓ Seek support from community if targeted
-
-GOVERNMENT INTERFERENCE:
-✓ Know your rights in your jurisdiction
-✓ Do not resist lawful orders
-✓ Request legal counsel if detained
-✓ Document interactions (where legal)
-✓ Report interference to community
-✓ Continue through alternative channels
-
-MENTAL HEALTH:
-✓ This is a long-term effort - pace yourself
-✓ Take breaks if feeling overwhelmed
-✓ Seek support from community
-✓ Maintain realistic expectations
-✓ Focus on process, not just outcome
-✓ Celebrate small victories
-
-[PROTECTION AGAINST DISINFORMATION]
-
-VERIFY EVERYTHING:
-✓ Check SHA-256 hash before sharing
-✓ Verify sources of information
 ✓ Be skeptical of sensational claims
 ✓ Require evidence for extraordinary claims
 ✓ Cross-reference multiple sources
