@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAP/UFO/NHI - Document Viewer</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Share Tech Mono', 'Courier New', monospace;
+            background: #0a0a0a;
+            color: #00ff00;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        
+        /* Pip-Boy CRT Effect */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 255, 0, 0.03) 0px,
+                rgba(0, 255, 0, 0.03) 1px,
+                transparent 1px,
+                transparent 2px
+            );
+            pointer-events: none;
+            z-index: 1000;
+        }
+        
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(
+                to bottom,
+                transparent 50%,
+                rgba(0, 255, 0, 0.05) 51%
+            );
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 999;
+            animation: scanline 8s linear infinite;
+        }
+        
+        @keyframes scanline {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(100%); }
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* Pip-Boy Header */
+        header {
+            background: rgba(0, 50, 0, 0.8);
+            border: 3px solid #00ff00;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 
+                0 0 20px rgba(0, 255, 0, 0.3),
+                inset 0 0 20px rgba(0, 255, 0, 0.1);
+            position: relative;
+        }
+        
+        header::before {
+            content: '█';
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            color: #00ff00;
+            font-size: 1.5em;
+            animation: blink 1s infinite;
+        }
+        
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+        
+        h1 {
+            color: #00ff00;
+            font-size: 2em;
+            text-align: center;
+            text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #00cc00;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+        
+        /* Pip-Boy Tabs */
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .tab {
+            padding: 10px 20px;
+            background: rgba(0, 50, 0, 0.5);
+            border: 2px solid #00ff00;
+            color: #00ff00;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            font-size: 0.9em;
+            position: relative;
+            clip-path: polygon(10px 0, 100% 0, calc(100% - 10px) 100%, 0 100%);
+        }
+        
+        .tab:hover, .tab.active {
+            background: rgba(0, 255, 0, 0.3);
+            box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+            text-shadow: 0 0 5px rgba(0, 255, 0, 0.8);
+        }
+        
+        .tab.active::before {
+            content: '▶ ';
+        }
+        
+        /* Pip-Boy Content Display */
+        .display {
+            background: rgba(0, 20, 0, 0.9);
+            border: 3px solid #00ff00;
+            border-radius: 10px;
+            padding: 30px;
+            min-height: 500px;
+            box-shadow: 
+                0 0 30px rgba(0, 255, 0, 0.3),
+                inset 0 0 30px rgba(0, 0, 0, 0.5);
+            position: relative;
+        }
+        
+        .display::before {
+            content: 'ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM';
+            position: absolute;
+            top: 5px;
+            left: 10px;
+            font-size: 0.7em;
+            color: rgba(0, 255, 0, 0.3);
+        }
+        
+        .display::after {
+            content: 'COPYRIGHT 2075-2077 ROBCO INDUSTRIES';
+            position: absolute;
+            bottom: 5px;
+            right: 10px;
+            font-size: 0.7em;
+            color: rgba(0, 255, 0, 0.3);
+        }
+        
+        /* Controls */
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .search-box {
+            flex: 1;
+            min-width: 300px;
+            padding: 12px 20px;
+            background: rgba(0, 20, 0, 0.9);
+            border: 2px solid #00ff00;
+            color: #00ff00;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 1em;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+        }
+        
+        .search-box::placeholder {
+            color: rgba(0, 255, 0, 0.5);
+        }
+        
+        .filter-btn {
+            padding: 8px 16px;
+            background: rgba(0, 50, 0, 0.5);
+            border: 2px solid #00ff00;
+            color: #00ff00;
+            cursor: pointer;
+            font-family: 'Share Tech Mono', monospace;
+            transition: all 0.3s ease;
+        }
+        
+        .filter-btn:hover, .filter-btn.active {
+            background: rgba(0, 255, 0, 0.3);
+            box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+        }
+        
+        /* Content Styling */
+        .content {
+            color: #00ff00;
+            white-space: pre-wrap;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+        
+        .content h1, .content h2, .content h3 {
+            color: #00ff00;
+            text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
+            margin: 20px 0 10px 0;
+            border-bottom: 1px solid rgba(0, 255, 0, 0.3);
+            padding-bottom: 5px;
+        }
+        
+        .content a {
+            color: #00cc00;
+            text-decoration: underline;
+            transition: all 0.3s ease;
+        }
+        
+        .content a:hover {
+            color: #00ff00;
+            text-shadow: 0 0 5px rgba(0, 255, 0, 0.8);
+        }
+        
+        /* Timeline Entry */
+        .timeline-entry {
+            margin-bottom: 30px;
+            padding: 15px;
+            background: rgba(0, 50, 0, 0.3);
+            border-left: 3px solid #00ff00;
+            position: relative;
+        }
+        
+        .timeline-entry::before {
+            content: '▶';
+            position: absolute;
+            left: -15px;
+            top: 15px;
+            color: #00ff00;
+        }
+        
+        .timeline-entry:hover {
+            background: rgba(0, 50, 0, 0.5);
+            box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+        }
+        
+        .entry-date {
+            color: #00ff00;
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+            text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+        }
+        
+        .entry-title {
+            color: #00ff00;
+            margin-bottom: 10px;
+        }
+        
+        .entry-content {
+            color: #00cc00;
+            margin-bottom: 10px;
+        }
+        
+        .entry-links {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .entry-links a {
+            color: #00aa00;
+            font-size: 0.85em;
+            word-break: break-all;
+        }
+        
+        .entry-links a::before {
+            content: '→ ';
+        }
+        
+        .tag {
+            display: inline-block;
+            padding: 2px 8px;
+            margin: 3px;
+            background: rgba(0, 255, 0, 0.2);
+            border: 1px solid #00ff00;
+            font-size: 0.8em;
+        }
+        
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #00ff00;
+            font-size: 1.2em;
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        /* Stats */
+        .stats {
+            text-align: center;
+            padding: 10px;
+            background: rgba(0, 50, 0, 0.5);
+            border: 2px solid #00ff00;
+            margin-bottom: 20px;
+            color: #00ff00;
+        }
+        
+        /* Footer */
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: rgba(0, 50, 0, 0.5);
+            border: 2px solid #00ff00;
+            border-radius: 10px;
+            text-align: center;
+            color: #00cc00;
+        }
+        
+        footer a {
+            color: #00ff00;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-shadow: 0 0 5px rgba(0, 255, 0, 0.8);
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .tabs {
+                flex-direction: column;
+            }
+            
+            .tab {
+                width: 100%;
+            }
+            
+            h1 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="scanline"></div>
+    
+    <div class="container">
+        <header>
+            <h1>█ UAP/UFO/NHI DISCLOSURE TERMINAL █</h1>
+            <div class="subtitle">ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM</div>
+            <div class="subtitle">COPYRIGHT 2075-2077 ROBCO INDUSTRIES</div>
+        </header>
+        
+        <div class="tabs">
+            <div class="tab active" data-doc="index">INDEX</div>
+            <div class="tab" data-doc="chronology">CHRONOLOGY</div>
+            <div class="tab" data-doc="contact">NHI MESSAGE</div>
+            <div class="tab" data-doc="arecibo">ARECIBO 1974</div>
+        </div>
+        
+        <div id="controlsContainer"></div>
+        
+        <div class="display">
+            <div class="content" id="content">
+                <div class="loading">INITIALIZING TERMINAL...</div>
+            </div>
+        </div>
+        
+        <footer>
+            <div>OFFICIAL REPOSITORY: <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">GITHUB.COM/UNCLEBULGARIA9001/DISCLOSUREPARTY</a></div>
+            <div style="margin-top: 10px;">CONTACT: <a href="mailto:uncle.bulgari9001@gmail.com">UNCLE.BULGARI9001@GMAIL.COM</a></div>
+            <div style="margin-top: 15px; color: #00ff00;">█ WE ARE NOT ALONE. THE TRUTH BELONGS TO HUMANITY. █</div>
+        </footer>
+    </div>
+    
+    <script>
+        let currentDoc = 'index';
+        let allEntries = [];
+        let filteredEntries = [];
+        
+        const docs = {
+            chronology: 'dist/chronology.md',
+            contact: 'dist/contact-nhi.md',
+            arecibo: 'dist/arecibo-message-1974.txt'
+        };
+        
+        // Tab switching
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentDoc = tab.dataset.doc;
+                loadDocument();
+            });
+        });
+        
+        async function loadDocument() {
+            const content = document.getElementById('content');
+            const controlsContainer = document.getElementById('controlsContainer');
+            
+            if (currentDoc === 'index') {
+                showIndex();
+                controlsContainer.innerHTML = '';
+                return;
+            }
+            
+            content.innerHTML = '<div class="loading">LOADING DATA...</div>';
+            
+            try {
+                const response = await fetch(docs[currentDoc]);
+                const text = await response.text();
+                
+                if (currentDoc === 'chronology') {
+                    parseChronology(text);
+                    showChronologyControls();
+                } else {
+                    content.innerHTML = `<pre>${escapeHtml(text)}</pre>`;
+                    controlsContainer.innerHTML = '';
+                }
+            } catch (error) {
+                content.innerHTML = '<div class="loading" style="color: #ff0000;">ERROR: UNABLE TO LOAD DATA</div>';
+            }
+        }
+        
+        function showIndex() {
+            const content = document.getElementById('content');
+            content.innerHTML = `
+                <h1>█ DOCUMENT INDEX █</h1>
+                <br>
+                <div class="timeline-entry">
+                    <div class="entry-date">NHI CONTACT MESSAGE</div>
+                    <div class="entry-title">VERSION 2.0 • 2026-01-01</div>
+                    <div class="entry-content">
+                    Urgent public message to Non-Human Intelligence requesting direct, transparent 
+                    communication. Includes government secrecy evidence, historical context, and 
+                    communication protocols. Available in 15+ languages with binary and Morse code 
+                    encodings.
+                    </div>
+                    <div class="entry-links">
+                        <a href="#" onclick="switchTab('contact'); return false;">VIEW MESSAGE</a>
+                        <a href="dist/contact-nhi.txt" target="_blank">DOWNLOAD RAW TXT</a>
+                        <a href="dist/contact-nhi.md" target="_blank">DOWNLOAD MARKDOWN</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">UAP/UFO/NHI CHRONOLOGY</div>
+                    <div class="entry-title">LIVING DOCUMENT • UPDATED REGULARLY</div>
+                    <div class="entry-content">
+                    Comprehensive timeline of UAP/UFO disclosure events, legislation, FOIA releases, 
+                    whistleblower testimonies, and notable incidents. Covers decades of documented 
+                    evidence and official disclosures.
+                    </div>
+                    <div class="entry-links">
+                        <a href="#" onclick="switchTab('chronology'); return false;">VIEW TIMELINE</a>
+                        <a href="dist/chronology.md" target="_blank">DOWNLOAD MARKDOWN</a>
+                        <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank">AMPLENOTE VERSION</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">ARECIBO MESSAGE</div>
+                    <div class="entry-title">HISTORICAL • 1974-11-16</div>
+                    <div class="entry-content">
+                    The first deliberate interstellar radio message sent by humanity. Includes full 
+                    binary representation, decoded content, and information about potential responses 
+                    (Chilbolton formations, Crabwood message).
+                    </div>
+                    <div class="entry-links">
+                        <a href="#" onclick="switchTab('arecibo'); return false;">VIEW MESSAGE</a>
+                        <a href="dist/arecibo-message-1974.txt" target="_blank">DOWNLOAD TXT</a>
+                    </div>
+                </div>
+                
+                <br>
+                <h2>█ EXTERNAL RESOURCES █</h2>
+                <br>
+                <div class="entry-links">
+                    <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">GITHUB REPOSITORY</a>
+                    <a href="https://unclebulgaria9001.github.io/disclosureparty/" target="_blank">PROJECT WEBSITE</a>
+                    <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank">AMPLENOTE CHRONOLOGY</a>
+                </div>
+            `;
+        }
+        
+        function showChronologyControls() {
+            const controlsContainer = document.getElementById('controlsContainer');
+            controlsContainer.innerHTML = `
+                <div class="controls">
+                    <input type="text" class="search-box" id="searchBox" placeholder="█ SEARCH CHRONOLOGY...">
+                    <button class="filter-btn active" data-filter="all">ALL</button>
+                    <button class="filter-btn" data-filter="2025">2025</button>
+                    <button class="filter-btn" data-filter="2024">2024</button>
+                    <button class="filter-btn" data-filter="2023">2023</button>
+                    <button class="filter-btn" data-filter="hearing">HEARINGS</button>
+                    <button class="filter-btn" data-filter="foia">#FOIA</button>
+                </div>
+                <div class="stats" id="stats"></div>
+            `;
+            
+            // Attach event listeners
+            document.getElementById('searchBox').addEventListener('input', filterEntries);
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    document.getElementById('searchBox').value = this.dataset.filter === 'all' ? '' : this.dataset.filter;
+                    filterEntries();
+                });
+            });
+        }
+        
+        function parseChronology(text) {
+            const lines = text.split('\n');
+            allEntries = [];
+            let currentEntry = null;
+            let inChronology = false;
+            
+            for (let line of lines) {
+                line = line.trim();
+                
+                if (line === 'Chronology') {
+                    inChronology = true;
+                    continue;
+                }
+                
+                if (!inChronology) continue;
+                
+                const dateMatch = line.match(/^(\d{4}(?:-\d{2,4})?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/);
+                
+                if (dateMatch) {
+                    if (currentEntry) allEntries.push(currentEntry);
+                    currentEntry = {
+                        date: dateMatch[1],
+                        title: dateMatch[2],
+                        content: '',
+                        links: [],
+                        tags: []
+                    };
+                } else if (currentEntry) {
+                    if (line.startsWith('http://') || line.startsWith('https://')) {
+                        currentEntry.links.push(line);
+                    } else if (line.length > 0) {
+                        currentEntry.content += (currentEntry.content ? '\n' : '') + line;
+                    }
+                    
+                    const tags = line.match(/#[A-Za-z0-9_]+/g);
+                    if (tags) currentEntry.tags.push(...tags);
+                }
+            }
+            
+            if (currentEntry) allEntries.push(currentEntry);
+            filteredEntries = [...allEntries];
+            renderChronology();
+            updateStats();
+        }
+        
+        function renderChronology() {
+            const content = document.getElementById('content');
+            
+            if (filteredEntries.length === 0) {
+                content.innerHTML = '<div class="loading">NO ENTRIES FOUND</div>';
+                return;
+            }
+            
+            content.innerHTML = filteredEntries.map(entry => `
+                <div class="timeline-entry">
+                    <div class="entry-date">${escapeHtml(entry.date)}</div>
+                    <div class="entry-title">${escapeHtml(entry.title)}</div>
+                    ${entry.content ? `<div class="entry-content">${escapeHtml(entry.content)}</div>` : ''}
+                    ${entry.tags.length > 0 ? entry.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('') : ''}
+                    ${entry.links.length > 0 ? `
+                        <div class="entry-links">
+                            ${entry.links.map(link => `<a href="${escapeHtml(link)}" target="_blank">${escapeHtml(link)}</a>`).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+            `).join('');
+        }
+        
+        function filterEntries() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            
+            if (searchTerm === '') {
+                filteredEntries = [...allEntries];
+            } else {
+                filteredEntries = allEntries.filter(entry => 
+                    entry.date.toLowerCase().includes(searchTerm) ||
+                    entry.title.toLowerCase().includes(searchTerm) ||
+                    entry.content.toLowerCase().includes(searchTerm) ||
+                    entry.tags.some(tag => tag.toLowerCase().includes(searchTerm))
+                );
+            }
+            
+            renderChronology();
+            updateStats();
+        }
+        
+        function updateStats() {
+            const stats = document.getElementById('stats');
+            if (stats) {
+                stats.textContent = `SHOWING ${filteredEntries.length} OF ${allEntries.length} ENTRIES`;
+            }
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        function switchTab(tabName) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelector(`[data-doc="${tabName}"]`).classList.add('active');
+            currentDoc = tabName;
+            loadDocument();
+        }
+        
+        // Initialize
+        showIndex();
+    </script>
+</body>
+</html>
