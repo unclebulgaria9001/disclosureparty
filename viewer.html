@@ -720,32 +720,29 @@
                             return entryDate.includes('bce') || entryDate.includes('ce');
                         }
                         
+                        // Extract the first year from the date (should be at the start)
+                        const yearMatch = entryDate.match(/^(\d{3,4})\b/);
+                        if (!yearMatch) return false;
+                        
+                        const year = yearMatch[1];
+                        
                         // For 2-digit century filters (10-18), match start of year
                         if (searchTerm.length === 2) {
-                            // Match dates that start with the century (e.g., "17" matches "1700", "1750" but not "2017")
-                            const yearMatch = entryDate.match(/\b(\d{3,4})\b/);
-                            if (yearMatch) {
-                                return yearMatch[1].startsWith(searchTerm);
-                            }
-                            return false;
+                            return year.startsWith(searchTerm);
                         }
                         
                         // For 3-digit decade filters (194-200), match start of year
                         if (searchTerm.length === 3) {
-                            const yearMatch = entryDate.match(/\b(\d{4})\b/);
-                            if (yearMatch) {
-                                return yearMatch[1].startsWith(searchTerm);
-                            }
-                            return false;
+                            return year.startsWith(searchTerm);
                         }
                         
                         // For 4-digit year filters, exact match
                         if (searchTerm.length === 4) {
-                            return entryDate.includes(searchTerm);
+                            return year === searchTerm;
                         }
                         
                         // Fallback for other numeric searches
-                        return entryDate.includes(searchTerm);
+                        return year.startsWith(searchTerm);
                     }
                     
                     // For other filters (hearing, foia, etc), search all fields
