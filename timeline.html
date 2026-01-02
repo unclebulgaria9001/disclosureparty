@@ -862,8 +862,11 @@
                 .append('g')
                 .attr('transform', `translate(${margin.left},${margin.top})`);
             
-            // Find date range from data with padding
-            const dates = allEvents.map(d => d.date);
+            // Filter to modern events only (1970+) for initial display to avoid squashing
+            const modernEvents = allEvents.filter(d => d.date.getFullYear() >= 1970);
+            
+            // Find date range from modern events with padding
+            const dates = modernEvents.map(d => d.date);
             const minDate = d3.min(dates);
             const maxDate = d3.max(dates);
             
