@@ -541,10 +541,11 @@
                             currentEntry.images.push(imgMatch[2]);
                         }
                     }
-                    // Skip backslash lines and headers
-                    else if (line !== '\\' && line.length > 0 && !line.startsWith('##')) {
-                        // Remove markdown link syntax for content display
-                        const cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+                    // Skip footnote definitions, backslash lines, and headers
+                    else if (!line.startsWith('[^') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
+                        // Remove markdown link syntax and footnote references for content display
+                        let cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+                        cleanLine = cleanLine.replace(/\s*\[\^\d+\]\s*/g, '');
                         if (cleanLine.trim().length > 0) {
                             currentEntry.content += (currentEntry.content ? '\n' : '') + cleanLine;
                         }
