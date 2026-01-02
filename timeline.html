@@ -458,16 +458,21 @@
         }
         
         function parseDateString(dateStr) {
-            // Handle BCE/CE dates
+            // Handle BCE/CE dates - JavaScript Date doesn't support BCE, so use year 1 as baseline
             const bceMatch = dateStr.match(/^(\d+)\s+BCE/i);
             if (bceMatch) {
                 const year = parseInt(bceMatch[1]);
-                return new Date(-year, 0, 1); // Negative year for BCE
+                // Map BCE to early dates: 1000 BCE = year 1, 1 BCE = year 1000
+                return new Date(1000 - year, 0, 1);
             }
             
             const ceMatch = dateStr.match(/^(\d+)\s+CE/i);
             if (ceMatch) {
                 const year = parseInt(ceMatch[1]);
+                // Map CE 1-1000 to years 1000-2000 to avoid overlap with modern dates
+                if (year < 1000) {
+                    return new Date(1000 + year, 0, 1);
+                }
                 return new Date(year, 0, 1);
             }
             
@@ -522,24 +527,38 @@
                 .append('g')
                 .attr('transform', `translate(${margin.left},${margin.top})`);
             
-            // Find date range from data
+            // Find date range from data with padding
             const dates = allEvents.map(d => d.date);
             const minDate = d3.min(dates);
             const maxDate = d3.max(dates);
             
+            // Add padding to date range (5% on each side)
+            const dateRange = maxDate - minDate;
+            const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
+            const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
+            
             // Scales
             const xScale = d3.scaleTime()
-                .domain([minDate, maxDate])
+                .domain([paddedMin, paddedMax])
                 .range([0, width]);
             
             const yOutbound = height * 0.3;
             const yInbound = height * 0.5;
             const yChronology = height * 0.7;
         
-        // Axes
-        const xAxis = d3.axisBottom(xScale)
-            .ticks(10)
-            .tickFormat(d3.timeFormat('%Y'));
+            // Axes with custom tick format for BCE/CE dates
+            const xAxis = d3.axisBottom(xScale)
+                .ticks(15)
+                .tickFormat(d => {
+                    const year = d.getFullYear();
+                    // Convert back to BCE/CE for display
+                    if (year < 1000) {
+                        return `${1000 - year} BCE`;
+                    } else if (year >= 1000 && year < 2000) {
+                        return `${year - 1000} CE`;
+                    }
+                    return year.toString();
+                });
         
         svg.append('g')
             .attr('class', 'x-axis')
@@ -620,7 +639,17 @@
                 .attr('r', d => d.type === 'chronology' ? 3 : 6)
             .on('mouseover', function(event, d) {
                 tooltip.select('.tooltip-title').text(d.title);
-                tooltip.select('.tooltip-date').text(d3.timeFormat('%B %d, %Y')(d.date));
+                // Format date with BCE/CE handling
+                const year = d.date.getFullYear();
+                let dateStr;
+                if (year < 1000) {
+                    dateStr = `${1000 - year} BCE`;
+                } else if (year >= 1000 && year < 2000) {
+                    dateStr = `${year - 1000} CE`;
+                } else {
+                    dateStr = d3.timeFormat('%B %d, %Y')(d.date);
+                }
+                tooltip.select('.tooltip-date').text(dateStr);
                 tooltip.select('.tooltip-description').text(d.description);
                 tooltip.classed('visible', true);
             })
@@ -682,8 +711,14 @@
             const dates = allEvents.map(d => d.date);
             const minDate = d3.min(dates);
             const maxDate = d3.max(dates);
+            
+            // Add padding
+            const dateRange = maxDate - minDate;
+            const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
+            const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
+            
             if (window.xScale) {
-                window.xScale.domain([minDate, maxDate]);
+                window.xScale.domain([paddedMin, paddedMax]);
                 updateTimeline();
             }
         }
