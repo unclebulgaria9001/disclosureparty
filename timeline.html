@@ -839,7 +839,20 @@
             })
             .on('mouseout', function() {
                 tooltip.classed('visible', false);
-            });
+            })
+            .on('click', function(event, d) {
+                // For chronology events, link to the chronology viewer with the event highlighted
+                if (d.type === 'chronology' && d.originalDateStr) {
+                    // Encode the title for URL
+                    const searchTerm = encodeURIComponent(d.title);
+                    window.location.href = `viewer.html#chronology?search=${searchTerm}`;
+                } else if (d.type === 'outbound') {
+                    window.location.href = 'viewer.html#outbound';
+                } else if (d.type === 'inbound') {
+                    window.location.href = 'viewer.html#inbound';
+                }
+            })
+            .style('cursor', 'pointer');
         
         // Add year labels for key communication events only (not chronology to avoid clutter)
         const communicationEventsOnly = allEvents.filter(d => d.type === 'outbound' || d.type === 'inbound');

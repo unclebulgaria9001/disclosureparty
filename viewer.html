@@ -1192,8 +1192,64 @@
             loadDocument();
         }
         
+        // Handle URL hash and query parameters
+        function handleUrlParams() {
+            const hash = window.location.hash.substring(1); // Remove #
+            const [tab, queryString] = hash.split('?');
+            
+            if (tab) {
+                // Switch to the appropriate tab
+                const tabElement = document.querySelector(`[data-doc="${tab}"]`);
+                if (tabElement) {
+                    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                    tabElement.classList.add('active');
+                    currentDoc = tab;
+                }
+            }
+            
+            // Parse query parameters
+            if (queryString) {
+                const params = new URLSearchParams(queryString);
+                const searchTerm = params.get('search');
+                
+                if (searchTerm && currentDoc === 'chronology') {
+                    // Load chronology and then apply search
+                    loadDocument().then(() => {
+                        // Apply search filter
+                        const searchInput = document.getElementById('searchInput');
+                        if (searchInput) {
+                            searchInput.value = decodeURIComponent(searchTerm);
+                            filterEntries();
+                            
+                            // Scroll to first matching entry
+                            setTimeout(() => {
+                                const firstEntry = document.querySelector('.entry');
+                                if (firstEntry) {
+                                    firstEntry.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                                    firstEntry.style.backgroundColor = '#1f2937';
+                                    setTimeout(() => {
+                                        firstEntry.style.backgroundColor = '';
+                                    }, 2000);
+                                }
+                            }, 100);
+                        }
+                    });
+                    return;
+                }
+            }
+            
+            loadDocument();
+        }
+        
         // Initialize
-        showIndex();
+        if (window.location.hash) {
+            handleUrlParams();
+        } else {
+            showIndex();
+        }
+        
+        // Listen for hash changes
+        window.addEventListener('hashchange', handleUrlParams);
     </script>
 </body>
 </html>
