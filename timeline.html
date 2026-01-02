@@ -57,6 +57,42 @@
             flex-wrap: wrap;
         }
         
+        .tabs {
+            display: flex;
+            gap: 5px;
+            padding: 10px 20px;
+            background: #161b22;
+            border-bottom: 1px solid #30363d;
+            overflow-x: auto;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .tab {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-family: 'Share Tech Mono', monospace;
+            transition: all 0.2s ease;
+            border-radius: 6px;
+            font-size: 0.85em;
+            white-space: nowrap;
+        }
+        
+        .tab:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        
+        .tab.active {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #ffffff;
+        }
+        
         .btn {
             background: #21262d;
             border: 1px solid #30363d;
@@ -114,6 +150,13 @@
             fill: #f85149;
             stroke: #da3633;
             stroke-width: 2;
+        }
+        
+        .event-node.chronology {
+            fill: #8b949e;
+            stroke: #6e7681;
+            stroke-width: 1;
+            r: 3;
         }
         
         .event-node:hover {
@@ -220,15 +263,35 @@
 <body>
     <div class="container">
         <header>
-            <h1>EARTH ↔ NHI COMMUNICATION TIMELINE</h1>
-            <div class="subtitle">Interactive visualization of outbound messages and potential inbound responses</div>
+            <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+            <div class="subtitle">Interactive Timeline Visualization</div>
         </header>
+        
+        <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
+            <div class="tab" onclick="window.location.href='viewer.html'">INDEX</div>
+            <div class="tab" onclick="window.location.href='viewer.html#chronology'">CHRONOLOGY</div>
+            <div class="tab" onclick="window.location.href='viewer.html#contact'">REQUEST NHI CONTACT</div>
+            <div class="tab" onclick="window.location.href='viewer.html#outbound'">OUTBOUND</div>
+            <div class="tab" onclick="window.location.href='viewer.html#inbound'">INBOUND</div>
+            <div class="tab" onclick="window.location.href='viewer.html#arecibo'">ARECIBO 1974</div>
+            <div class="tab active">TIMELINE VIZ</div>
+        </div>
+        
+        <div style="text-align: center; padding: 20px; background: #0d1117;">
+            <h2 style="color: #58a6ff; margin-bottom: 10px;">EARTH ↔ NHI COMMUNICATION TIMELINE</h2>
+            <div style="color: #8b949e; font-size: 0.9em;">Interactive visualization of outbound messages and potential inbound responses</div>
+        </div>
         
         <div class="controls">
             <button class="btn active" onclick="showAll()">ALL EVENTS</button>
             <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
             <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
+            <button class="btn" onclick="showChronology()">CHRONOLOGY</button>
             <button class="btn" onclick="resetZoom()">RESET ZOOM</button>
+        </div>
+        
+        <div style="text-align: center; padding: 10px; color: #8b949e; font-size: 0.85em;">
+            <span id="eventCount">Loading events...</span>
         </div>
         
         <div class="legend">
@@ -256,8 +319,11 @@
     </div>
     
     <script>
+        // All events (will be populated from chronology + communication events)
+        let allEvents = [];
+        
         // Communication events data
-        const events = [
+        const communicationEvents = [
             // Outbound Communications
             {
                 date: new Date(1972, 2, 2),
@@ -341,26 +407,134 @@
             }
         ];
         
-        // Timeline dimensions
-        const margin = {top: 60, right: 40, bottom: 60, left: 40};
-        const width = document.getElementById('timeline').clientWidth - margin.left - margin.right;
-        const height = 600 - margin.top - margin.bottom;
+        // Load chronology data
+        async function loadChronology() {
+            try {
+                const response = await fetch('dist/chronology.md');
+                const text = await response.text();
+                parseChronologyEvents(text);
+            } catch (error) {
+                console.error('Error loading chronology:', error);
+                allEvents = [...communicationEvents];
+                initializeTimeline();
+            }
+        }
         
-        // Create SVG
-        const svg = d3.select('#timeline')
-            .append('svg')
-            .attr('width', width + margin.left + margin.right)
-            .attr('height', height + margin.top + margin.bottom)
-            .append('g')
-            .attr('transform', `translate(${margin.left},${margin.top})`);
+        function parseChronologyEvents(text) {
+            const lines = text.split('\n');
+            const chronologyEvents = [];
+            
+            for (let line of lines) {
+                line = line.trim();
+                
+                // Match headers like "## 2025, September 9 - Title" or "## 70 CE - Title"
+                const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
+                
+                if (headerMatch) {
+                    const dateStr = headerMatch[1];
+                    const title = headerMatch[2];
+                    
+                    // Parse date
+                    const date = parseDateString(dateStr);
+                    if (date) {
+                        chronologyEvents.push({
+                            date: date,
+                            type: 'chronology',
+                            title: title,
+                            description: `UAP/UFO event from chronology: ${title}`
+                        });
+                    }
+                }
+            }
+            
+            // Combine communication events and chronology events
+            allEvents = [...communicationEvents, ...chronologyEvents];
+            allEvents.sort((a, b) => a.date - b.date);
+            
+            document.getElementById('eventCount').textContent = 
+                `Showing ${allEvents.length} events (${communicationEvents.length} communications, ${chronologyEvents.length} chronology)`;
+            
+            initializeTimeline();
+        }
         
-        // Scales
-        const xScale = d3.scaleTime()
-            .domain([new Date(1970, 0, 1), new Date(2027, 0, 1)])
-            .range([0, width]);
+        function parseDateString(dateStr) {
+            // Handle BCE/CE dates
+            const bceMatch = dateStr.match(/^(\d+)\s+BCE/i);
+            if (bceMatch) {
+                const year = parseInt(bceMatch[1]);
+                return new Date(-year, 0, 1); // Negative year for BCE
+            }
+            
+            const ceMatch = dateStr.match(/^(\d+)\s+CE/i);
+            if (ceMatch) {
+                const year = parseInt(ceMatch[1]);
+                return new Date(year, 0, 1);
+            }
+            
+            // Handle modern dates like "2025, September 9"
+            const modernMatch = dateStr.match(/^(\d{4})(?:,\s+([A-Za-z]+)(?:\s+(\d{1,2}))?)?/);
+            if (modernMatch) {
+                const year = parseInt(modernMatch[1]);
+                const monthName = modernMatch[2];
+                const day = modernMatch[3] ? parseInt(modernMatch[3]) : 1;
+                
+                if (monthName) {
+                    const months = {
+                        'january': 0, 'february': 1, 'march': 2, 'april': 3,
+                        'may': 4, 'june': 5, 'july': 6, 'august': 7,
+                        'september': 8, 'october': 9, 'november': 10, 'december': 11
+                    };
+                    const month = months[monthName.toLowerCase()];
+                    if (month !== undefined) {
+                        return new Date(year, month, day);
+                    }
+                }
+                
+                return new Date(year, 0, 1);
+            }
+            
+            return null;
+        }
         
-        const yOutbound = height * 0.35;
-        const yInbound = height * 0.65;
+        // Initialize on page load
+        loadChronology();
+        
+        function initializeTimeline() {
+            if (allEvents.length === 0) return;
+            
+            // Clear existing SVG
+            d3.select('#timeline svg').remove();
+            
+            drawTimeline();
+        }
+        
+        function drawTimeline() {
+            // Timeline dimensions
+            const margin = {top: 60, right: 40, bottom: 60, left: 40};
+            const width = document.getElementById('timeline').clientWidth - margin.left - margin.right;
+            const height = 600 - margin.top - margin.bottom;
+            
+            // Create SVG
+            const svg = d3.select('#timeline')
+                .append('svg')
+                .attr('width', width + margin.left + margin.right)
+                .attr('height', height + margin.top + margin.bottom)
+                .append('g')
+                .attr('transform', `translate(${margin.left},${margin.top})`);
+            
+            // Find date range from data
+            const dates = allEvents.map(d => d.date);
+            const minDate = d3.min(dates);
+            const maxDate = d3.max(dates);
+            
+            // Scales
+            const xScale = d3.scaleTime()
+                .domain([minDate, maxDate])
+                .range([0, width]);
+            
+            const yOutbound = height * 0.3;
+            const yInbound = height * 0.5;
+            const yChronology = height * 0.7;
         
         // Axes
         const xAxis = d3.axisBottom(xScale)
@@ -378,52 +552,72 @@
         svg.selectAll('.x-axis path, .x-axis line')
             .style('stroke', '#30363d');
         
-        // Timeline tracks
-        svg.append('line')
-            .attr('class', 'timeline-track')
-            .attr('x1', 0)
-            .attr('y1', yOutbound)
-            .attr('x2', width)
-            .attr('y2', yOutbound);
-        
-        svg.append('line')
-            .attr('class', 'timeline-track')
-            .attr('x1', 0)
-            .attr('y1', yInbound)
-            .attr('x2', width)
-            .attr('y2', yInbound);
-        
-        // Track labels
-        svg.append('text')
-            .attr('x', -10)
-            .attr('y', yOutbound)
-            .attr('text-anchor', 'end')
-            .attr('dominant-baseline', 'middle')
-            .style('fill', '#58a6ff')
-            .style('font-size', '12px')
-            .text('OUTBOUND →');
-        
-        svg.append('text')
-            .attr('x', -10)
-            .attr('y', yInbound)
-            .attr('text-anchor', 'end')
-            .attr('dominant-baseline', 'middle')
-            .style('fill', '#f85149')
-            .style('font-size', '12px')
-            .text('INBOUND ←');
+            // Timeline tracks
+            svg.append('line')
+                .attr('class', 'timeline-track')
+                .attr('x1', 0)
+                .attr('y1', yOutbound)
+                .attr('x2', width)
+                .attr('y2', yOutbound);
+            
+            svg.append('line')
+                .attr('class', 'timeline-track')
+                .attr('x1', 0)
+                .attr('y1', yInbound)
+                .attr('x2', width)
+                .attr('y2', yInbound);
+            
+            svg.append('line')
+                .attr('class', 'timeline-track')
+                .attr('x1', 0)
+                .attr('y1', yChronology)
+                .attr('x2', width)
+                .attr('y2', yChronology);
+            
+            // Track labels
+            svg.append('text')
+                .attr('x', -10)
+                .attr('y', yOutbound)
+                .attr('text-anchor', 'end')
+                .attr('dominant-baseline', 'middle')
+                .style('fill', '#58a6ff')
+                .style('font-size', '11px')
+                .text('OUTBOUND →');
+            
+            svg.append('text')
+                .attr('x', -10)
+                .attr('y', yInbound)
+                .attr('text-anchor', 'end')
+                .attr('dominant-baseline', 'middle')
+                .style('fill', '#f85149')
+                .style('font-size', '11px')
+                .text('INBOUND ←');
+            
+            svg.append('text')
+                .attr('x', -10)
+                .attr('y', yChronology)
+                .attr('text-anchor', 'end')
+                .attr('dominant-baseline', 'middle')
+                .style('fill', '#8b949e')
+                .style('font-size', '11px')
+                .text('CHRONOLOGY');
         
         // Tooltip
         const tooltip = d3.select('#tooltip');
         
-        // Draw events
-        const nodes = svg.selectAll('.event-node')
-            .data(events)
-            .enter()
-            .append('circle')
-            .attr('class', d => `event-node ${d.type}`)
-            .attr('cx', d => xScale(d.date))
-            .attr('cy', d => d.type === 'outbound' ? yOutbound : yInbound)
-            .attr('r', 6)
+            // Draw events
+            window.nodes = svg.selectAll('.event-node')
+                .data(allEvents)
+                .enter()
+                .append('circle')
+                .attr('class', d => `event-node ${d.type}`)
+                .attr('cx', d => xScale(d.date))
+                .attr('cy', d => {
+                    if (d.type === 'outbound') return yOutbound;
+                    if (d.type === 'inbound') return yInbound;
+                    return yChronology;
+                })
+                .attr('r', d => d.type === 'chronology' ? 3 : 6)
             .on('mouseover', function(event, d) {
                 tooltip.select('.tooltip-title').text(d.title);
                 tooltip.select('.tooltip-date').text(d3.timeFormat('%B %d, %Y')(d.date));
@@ -450,30 +644,48 @@
             .attr('text-anchor', 'middle')
             .text(d => d3.timeFormat('%Y')(d.date));
         
+            // Store references for filtering
+            window.xScale = xScale;
+            window.xAxis = xAxis;
+            window.svg = svg;
+        }
+        
         // Filter functions
         let currentFilter = 'all';
         
         function showAll() {
             currentFilter = 'all';
             updateButtons();
-            nodes.style('display', 'block');
+            if (window.nodes) window.nodes.style('display', 'block');
         }
         
         function showOutbound() {
             currentFilter = 'outbound';
             updateButtons();
-            nodes.style('display', d => d.type === 'outbound' ? 'block' : 'none');
+            if (window.nodes) window.nodes.style('display', d => d.type === 'outbound' ? 'block' : 'none');
         }
         
         function showInbound() {
             currentFilter = 'inbound';
             updateButtons();
-            nodes.style('display', d => d.type === 'inbound' ? 'block' : 'none');
+            if (window.nodes) window.nodes.style('display', d => d.type === 'inbound' ? 'block' : 'none');
+        }
+        
+        function showChronology() {
+            currentFilter = 'chronology';
+            updateButtons();
+            if (window.nodes) window.nodes.style('display', d => d.type === 'chronology' ? 'block' : 'none');
         }
         
         function resetZoom() {
-            xScale.domain([new Date(1970, 0, 1), new Date(2027, 0, 1)]);
-            updateTimeline();
+            if (allEvents.length === 0) return;
+            const dates = allEvents.map(d => d.date);
+            const minDate = d3.min(dates);
+            const maxDate = d3.max(dates);
+            if (window.xScale) {
+                window.xScale.domain([minDate, maxDate]);
+                updateTimeline();
+            }
         }
         
         function updateButtons() {
@@ -484,27 +696,18 @@
                 d3.selectAll('.btn').filter(function() { return this.textContent === 'OUTBOUND ONLY'; }).classed('active', true);
             } else if (currentFilter === 'inbound') {
                 d3.selectAll('.btn').filter(function() { return this.textContent === 'INBOUND ONLY'; }).classed('active', true);
+            } else if (currentFilter === 'chronology') {
+                d3.selectAll('.btn').filter(function() { return this.textContent === 'CHRONOLOGY'; }).classed('active', true);
             }
         }
         
         function updateTimeline() {
-            svg.select('.x-axis').call(xAxis);
-            nodes.attr('cx', d => xScale(d.date));
-            svg.selectAll('.event-label').attr('x', d => xScale(d.date));
+            if (window.svg && window.xAxis && window.xScale && window.nodes) {
+                window.svg.select('.x-axis').call(window.xAxis);
+                window.nodes.attr('cx', d => window.xScale(d.date));
+                window.svg.selectAll('.event-label').attr('x', d => window.xScale(d.date));
+            }
         }
-        
-        // Zoom behavior
-        const zoom = d3.zoom()
-            .scaleExtent([0.5, 10])
-            .translateExtent([[0, 0], [width, height]])
-            .on('zoom', (event) => {
-                const newXScale = event.transform.rescaleX(xScale);
-                svg.select('.x-axis').call(xAxis.scale(newXScale));
-                nodes.attr('cx', d => newXScale(d.date));
-                svg.selectAll('.event-label').attr('x', d => newXScale(d.date));
-            });
-        
-        d3.select('#timeline svg').call(zoom);
     </script>
 </body>
 </html>
