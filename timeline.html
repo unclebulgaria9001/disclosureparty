@@ -451,6 +451,16 @@
             allEvents = [...communicationEvents, ...chronologyEvents];
             allEvents.sort((a, b) => a.date - b.date);
             
+            // Debug: Log sample events
+            console.log('Total events:', allEvents.length);
+            console.log('Communication events:', communicationEvents.length);
+            console.log('Chronology events:', chronologyEvents.length);
+            console.log('Sample chronology events:', chronologyEvents.slice(0, 5));
+            console.log('Date range:', {
+                min: d3.min(allEvents.map(d => d.date)),
+                max: d3.max(allEvents.map(d => d.date))
+            });
+            
             document.getElementById('eventCount').textContent = 
                 `Showing ${allEvents.length} events (${communicationEvents.length} communications, ${chronologyEvents.length} chronology)`;
             
@@ -625,12 +635,25 @@
         const tooltip = d3.select('#tooltip');
         
             // Draw events
+            console.log('Drawing', allEvents.length, 'events');
+            console.log('Event types:', {
+                outbound: allEvents.filter(d => d.type === 'outbound').length,
+                inbound: allEvents.filter(d => d.type === 'inbound').length,
+                chronology: allEvents.filter(d => d.type === 'chronology').length
+            });
+            
             window.nodes = svg.selectAll('.event-node')
                 .data(allEvents)
                 .enter()
                 .append('circle')
                 .attr('class', d => `event-node ${d.type}`)
-                .attr('cx', d => xScale(d.date))
+                .attr('cx', d => {
+                    const x = xScale(d.date);
+                    if (d.type === 'chronology' && Math.random() < 0.01) {
+                        console.log('Chronology event position:', d.title, 'date:', d.date, 'x:', x);
+                    }
+                    return x;
+                })
                 .attr('cy', d => {
                     if (d.type === 'outbound') return yOutbound;
                     if (d.type === 'inbound') return yInbound;
