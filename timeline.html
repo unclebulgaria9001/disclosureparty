@@ -416,6 +416,7 @@
         
         <div class="controls">
             <button class="btn active" onclick="showAll()">ALL EVENTS</button>
+            <button class="btn" onclick="showCommunications()">INBOUND & OUTBOUND</button>
             <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
             <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
             <button class="btn" onclick="showContactAttempts()">CONTACT ATTEMPTS</button>
@@ -1087,6 +1088,12 @@
             applyPeriodFilters();
         }
         
+        function showCommunications() {
+            currentFilter = 'communications';
+            updateButtons();
+            applyPeriodFilters();
+        }
+        
         function getEventPeriod(date) {
             const year = date.getFullYear();
             
@@ -1144,6 +1151,8 @@
                     } else {
                         shouldShow = true; // Always show communication and contact-attempt events
                     }
+                } else if (currentFilter === 'communications') {
+                    shouldShow = d.type === 'outbound' || d.type === 'inbound';
                 } else if (currentFilter === 'outbound') {
                     shouldShow = d.type === 'outbound';
                 } else if (currentFilter === 'inbound') {
