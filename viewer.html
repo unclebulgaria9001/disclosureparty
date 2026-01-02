@@ -252,6 +252,45 @@
             object-fit: contain;
         }
         
+        .chronology-intro {
+            margin-bottom: 32px;
+            padding: 20px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+        }
+        
+        .chronology-intro h1 {
+            color: #c9d1d9;
+            font-size: 1.5em;
+            margin-bottom: 16px;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 8px;
+        }
+        
+        .chronology-intro h2 {
+            color: #c9d1d9;
+            font-size: 1.2em;
+            margin-top: 20px;
+            margin-bottom: 12px;
+        }
+        
+        .chronology-intro h3 {
+            color: #8b949e;
+            font-size: 1em;
+            margin-top: 16px;
+            margin-bottom: 8px;
+        }
+        
+        .chronology-intro a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        
+        .chronology-intro a:hover {
+            text-decoration: underline;
+        }
+        
         
         .tag {
             display: inline-block;
@@ -363,6 +402,7 @@
         let currentDoc = 'index';
         let allEntries = [];
         let filteredEntries = [];
+        let chronologyIntro = '';
         
         const docs = {
             chronology: 'dist/chronology.md',
@@ -532,15 +572,33 @@
             
             const lines = text.split('\n');
             allEntries = [];
+            chronologyIntro = '';
             let currentEntry = null;
             let inChronology = false;
+            let inIntro = false;
+            let introLines = [];
             
             for (let line of lines) {
                 line = line.trim();
                 
+                // Capture intro section (About, Details, Direct Links)
+                if (line === '# About') {
+                    inIntro = true;
+                    introLines.push(line);
+                    continue;
+                }
+                
                 // Start chronology section after "# Chronology" header
                 if (line === '# Chronology' || line === 'Chronology') {
                     inChronology = true;
+                    inIntro = false;
+                    chronologyIntro = introLines.join('\n');
+                    continue;
+                }
+                
+                // Collect intro lines
+                if (inIntro) {
+                    introLines.push(line);
                     continue;
                 }
                 
@@ -612,7 +670,17 @@
                 return;
             }
             
-            content.innerHTML = filteredEntries.map(entry => `
+            let html = '';
+            
+            // Add intro section if showing all entries
+            const searchTerm = document.getElementById('searchBox')?.value.toLowerCase() || '';
+            if (searchTerm === '' || searchTerm === 'all') {
+                if (chronologyIntro) {
+                    html += `<div class="chronology-intro">${formatMarkdown(chronologyIntro)}</div>`;
+                }
+            }
+            
+            html += filteredEntries.map(entry => `
                 <div class="timeline-entry">
                     <div class="entry-date">${escapeHtml(entry.date)}</div>
                     <div class="entry-title">${escapeHtml(entry.title)}</div>
@@ -630,6 +698,8 @@
                     ` : ''}
                 </div>
             `).join('');
+            
+            content.innerHTML = html;
         }
         
         function filterEntries() {
@@ -676,6 +746,21 @@
             const div = document.createElement('div');
             div.textContent = text;
             return div.innerHTML;
+        }
+        
+        function formatMarkdown(text) {
+            // Simple markdown formatting for intro section
+            let html = text;
+            // Headers
+            html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+            html = html.replace(/^## (.+)$/gm, '<h2>$2</h2>');
+            html = html.replace(/^### (.+)$/gm, '<h3>$3</h3>');
+            // Links
+            html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+            // Line breaks
+            html = html.replace(/\n\n/g, '<br><br>');
+            html = html.replace(/^- (.+)$/gm, '<div style="margin-left: 20px;">• $1</div>');
+            return html;
         }
         
         function switchTab(tabName) {
