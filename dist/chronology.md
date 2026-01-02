@@ -1925,6 +1925,22 @@ A former White House chief of staff, John Podesta, and an international investig
 
 \
 
+## 2003, July 6 - "Hello from Earth" message sent from Evpatoria
+
+A digital radio message was transmitted from the Evpatoria Planetary Radar in Ukraine toward HD 178428. The message included greetings, images, and music from Earth. Morse code pattern: —·—··· (long, short-long, three short)
+
+https://en.wikipedia.org/wiki/Cosmic_Call
+
+\
+
+## 2001, September 3 - Teen Age Message transmitted
+
+A series of interstellar radio messages were sent from the Evpatoria Planetary Radar toward six nearby sun-like stars. The messages contained scientific and cultural information. Morse code pattern: ··—·· (two short, one long, two short)
+
+https://en.wikipedia.org/wiki/Teen_Age_Message
+
+\
+
 ## 2001, February - Gary McKinnon, a British hacker, allegedly accessed NASA websites and claims to have found images resembling extraterrestrial spaceships #new #news (2023-08-10)
 
 [https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/](https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/) 
@@ -2481,6 +2497,22 @@ Note: Publisher of this account, to whom the Chilean source spoke to, was an Aus
 
 \
 
+## 1973, March 3 - Pioneer 10 plaque launched
+
+NASA's Pioneer 10 spacecraft carries a gold-anodized aluminum plaque designed by Carl Sagan and Frank Drake. The plaque depicts a man and woman, Earth's location in the galaxy, and other information about humanity. Morse code pattern: —·· (one long burst, then two short bursts)
+
+https://en.wikipedia.org/wiki/Pioneer_plaque
+
+\
+
+## 1972, March 2 - Pioneer 10 launched with plaque
+
+Pioneer 10 becomes the first spacecraft to carry a message from humanity intended for potential extraterrestrial discovery. The plaque shows human figures, our solar system's location, and basic scientific information.
+
+https://www.nasa.gov/mission_pages/pioneer/index.html
+
+\
+
 ## 1972  -  Marine mammal protection act 
 
 The MMPA mandates protection of marine mammals and their habitats. Key components of the Act include a moratorium on takes and imports of marine mammals, maintenance of sustainable populations, and exemptions to the moratorium, including subsistence harvest for Alaska Natives. To learn more about the fundamental components of the law, see our MMPA fact sheet.
@@ -2499,9 +2531,25 @@ https://archive.org/details/ufoexperience00jall/page/208/mode/2up (p208)
 
 \
 
+## 1974, November 16 - Arecibo Message transmitted
+
+The Arecibo Message was a radio signal sent from the Arecibo Observatory in Puerto Rico toward the globular star cluster M13. The message contained information about humanity, DNA, Earth's position, and the telescope itself. Morse code pattern: ·—·— (short-long-short-long)
+
+https://en.wikipedia.org/wiki/Arecibo_message
+
+\
+
 ## 1973, October 11 - Pascagoula Abduction (October 11, 1973)
 
    - In Pascagoula, Mississippi, Charles Hickson and Calvin Parker reported being abducted by alien beings while fishing. They described being taken aboard a craft where they encountered humanoid creatures. This case is one of the earliest and most famous abduction reports in the United States.
+
+\
+
+## 1977, August 20 - Voyager Golden Record launched
+
+NASA's Voyager 1 and 2 spacecraft carry golden records containing sounds and images representing Earth's diversity. The records include greetings in 55 languages, music from various cultures, and natural sounds. Morse code pattern: — ···· (one long, then four shorts)
+
+https://voyager.jpl.nasa.gov/golden-record/
 
 \
 
