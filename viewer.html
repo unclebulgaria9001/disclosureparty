@@ -15,8 +15,8 @@
         
         body {
             font-family: 'Share Tech Mono', 'Courier New', monospace;
-            background: #0a0a0a;
-            color: #00ff00;
+            background: #0d1117;
+            color: #58a6ff;
             line-height: 1.6;
             overflow-x: hidden;
         }
@@ -32,30 +32,28 @@
         
         /* Header */
         header {
-            background: rgba(0, 50, 0, 0.8);
-            border: 3px solid #00ff00;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 
-                0 0 20px rgba(0, 255, 0, 0.3),
-                inset 0 0 20px rgba(0, 255, 0, 0.1);
+            background: #161b22;
+            border: 2px solid #30363d;
+            border-radius: 6px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
             position: relative;
         }
         
         
         h1 {
-            color: #00ff00;
+            color: #c9d1d9;
             font-size: 2em;
             text-align: center;
-            text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
             margin-bottom: 10px;
-            letter-spacing: 2px;
+            letter-spacing: 1px;
+            font-weight: 600;
         }
         
         .subtitle {
             text-align: center;
-            color: #00cc00;
+            color: #8b949e;
             font-size: 0.9em;
             margin-bottom: 15px;
         }
@@ -71,34 +69,38 @@
         
         .tab {
             padding: 10px 20px;
-            background: rgba(0, 50, 0, 0.5);
-            border: 2px solid #00ff00;
-            color: #00ff00;
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
             cursor: pointer;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
             text-transform: uppercase;
-            font-size: 0.9em;
+            font-size: 0.85em;
             position: relative;
-            border-radius: 3px;
+            border-radius: 6px;
         }
         
-        .tab:hover, .tab.active {
-            background: rgba(0, 255, 0, 0.3);
-            box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
-            text-shadow: 0 0 5px rgba(0, 255, 0, 0.8);
+        .tab:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        
+        .tab.active {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #ffffff;
         }
         
         
         /* Content Display */
         .display {
-            background: rgba(0, 20, 0, 0.9);
-            border: 3px solid #00ff00;
-            border-radius: 10px;
-            padding: 30px;
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 24px;
             min-height: 500px;
-            box-shadow: 
-                0 0 30px rgba(0, 255, 0, 0.3),
-                inset 0 0 30px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
             position: relative;
         }
         
@@ -115,96 +117,106 @@
         .search-box {
             flex: 1;
             min-width: 300px;
-            padding: 12px 20px;
-            background: rgba(0, 20, 0, 0.9);
-            border: 2px solid #00ff00;
-            color: #00ff00;
+            padding: 8px 12px;
+            background: #0d1117;
+            border: 1px solid #30363d;
+            color: #c9d1d9;
             font-family: 'Share Tech Mono', monospace;
-            font-size: 1em;
+            font-size: 0.9em;
+            border-radius: 6px;
         }
         
         .search-box:focus {
             outline: none;
-            box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
+            border-color: #58a6ff;
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.1);
         }
         
         .search-box::placeholder {
-            color: rgba(0, 255, 0, 0.5);
+            color: #6e7681;
         }
         
         .filter-btn {
-            padding: 8px 16px;
-            background: rgba(0, 50, 0, 0.5);
-            border: 2px solid #00ff00;
-            color: #00ff00;
+            padding: 6px 12px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
             cursor: pointer;
             font-family: 'Share Tech Mono', monospace;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
+            border-radius: 6px;
+            font-size: 0.85em;
         }
         
-        .filter-btn:hover, .filter-btn.active {
-            background: rgba(0, 255, 0, 0.3);
-            box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+        .filter-btn:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        
+        .filter-btn.active {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #ffffff;
         }
         
         /* Content Styling */
         .content {
-            color: #00ff00;
+            color: #c9d1d9;
             white-space: pre-wrap;
             font-size: 0.95em;
             line-height: 1.6;
         }
         
         .content h1, .content h2, .content h3 {
-            color: #00ff00;
-            text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
+            color: #c9d1d9;
             margin: 20px 0 10px 0;
-            border-bottom: 1px solid rgba(0, 255, 0, 0.3);
-            padding-bottom: 5px;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 8px;
+            font-weight: 600;
         }
         
         .content a {
-            color: #00cc00;
-            text-decoration: underline;
-            transition: all 0.3s ease;
+            color: #58a6ff;
+            text-decoration: none;
         }
         
         .content a:hover {
-            color: #00ff00;
-            text-shadow: 0 0 5px rgba(0, 255, 0, 0.8);
+            text-decoration: underline;
         }
         
         /* Timeline Entry */
         .timeline-entry {
-            margin-bottom: 30px;
-            padding: 15px;
-            background: rgba(0, 50, 0, 0.3);
-            border-left: 3px solid #00ff00;
+            margin-bottom: 24px;
+            padding: 16px;
+            background: #161b22;
+            border-left: 3px solid #1f6feb;
+            border-radius: 6px;
             position: relative;
         }
         
-        
         .timeline-entry:hover {
-            background: rgba(0, 50, 0, 0.5);
-            box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+            background: #1c2128;
+            border-left-color: #58a6ff;
         }
         
         .entry-date {
-            color: #00ff00;
-            font-weight: bold;
-            font-size: 1.1em;
-            margin-bottom: 5px;
-            text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+            color: #58a6ff;
+            font-weight: 600;
+            font-size: 1em;
+            margin-bottom: 8px;
         }
         
         .entry-title {
-            color: #00ff00;
+            color: #c9d1d9;
             margin-bottom: 10px;
+            font-weight: 500;
         }
         
         .entry-content {
-            color: #00cc00;
-            margin-bottom: 10px;
+            color: #8b949e;
+            margin-bottom: 12px;
+            line-height: 1.6;
         }
         
         .entry-links {
@@ -214,9 +226,14 @@
         }
         
         .entry-links a {
-            color: #00aa00;
+            color: #58a6ff;
             font-size: 0.85em;
             word-break: break-all;
+            text-decoration: none;
+        }
+        
+        .entry-links a:hover {
+            text-decoration: underline;
         }
         
         .entry-images {
@@ -229,8 +246,8 @@
         .entry-images img {
             max-width: 100%;
             height: auto;
-            border: 2px solid #00ff00;
-            border-radius: 5px;
+            border: 1px solid #30363d;
+            border-radius: 6px;
             max-height: 400px;
             object-fit: contain;
         }
@@ -238,19 +255,21 @@
         
         .tag {
             display: inline-block;
-            padding: 2px 8px;
-            margin: 3px;
-            background: rgba(0, 255, 0, 0.2);
-            border: 1px solid #00ff00;
-            font-size: 0.8em;
+            padding: 3px 10px;
+            margin: 4px 4px 4px 0;
+            background: #1f6feb;
+            border: 1px solid #1f6feb;
+            border-radius: 12px;
+            font-size: 0.75em;
+            color: #ffffff;
         }
         
         /* Loading */
         .loading {
             text-align: center;
             padding: 40px;
-            color: #00ff00;
-            font-size: 1.2em;
+            color: #8b949e;
+            font-size: 1.1em;
             animation: pulse 1.5s infinite;
         }
         
@@ -262,31 +281,33 @@
         /* Stats */
         .stats {
             text-align: center;
-            padding: 10px;
-            background: rgba(0, 50, 0, 0.5);
-            border: 2px solid #00ff00;
+            padding: 12px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
             margin-bottom: 20px;
-            color: #00ff00;
+            color: #8b949e;
+            font-size: 0.9em;
         }
         
         /* Footer */
         footer {
-            margin-top: 40px;
-            padding: 20px;
-            background: rgba(0, 50, 0, 0.5);
-            border: 2px solid #00ff00;
-            border-radius: 10px;
+            margin-top: 48px;
+            padding: 24px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
             text-align: center;
-            color: #00cc00;
+            color: #8b949e;
         }
         
         footer a {
-            color: #00ff00;
+            color: #58a6ff;
             text-decoration: none;
         }
         
         footer a:hover {
-            text-shadow: 0 0 5px rgba(0, 255, 0, 0.8);
+            text-decoration: underline;
         }
         
         .hidden {
@@ -597,45 +618,21 @@
                 filteredEntries = [...allEntries];
             } else {
                 filteredEntries = allEntries.filter(entry => {
-                    const date = entry.date.toLowerCase();
-                    const title = entry.title.toLowerCase();
-                    const content = entry.content.toLowerCase();
+                    const entryDate = entry.date.toLowerCase();
+                    const entryTitle = entry.title.toLowerCase();
+                    const entryContent = entry.content.toLowerCase();
+                    const entryTags = entry.tags.map(t => t.toLowerCase());
                     
-                    // Special handling for date ranges
-                    if (searchTerm === '201') {
-                        // 2010s decade
-                        return date.startsWith('2010') || date.startsWith('2011') || date.startsWith('2012') || 
-                               date.startsWith('2013') || date.startsWith('2014') || date.startsWith('2015') || 
-                               date.startsWith('2016') || date.startsWith('2017') || date.startsWith('2018') || 
-                               date.startsWith('2019');
-                    } else if (searchTerm === '200') {
-                        // 2000s decade
-                        return date.startsWith('2000') || date.startsWith('2001') || date.startsWith('2002') || 
-                               date.startsWith('2003') || date.startsWith('2004') || date.startsWith('2005') || 
-                               date.startsWith('2006') || date.startsWith('2007') || date.startsWith('2008') || 
-                               date.startsWith('2009');
-                    } else if (searchTerm === '19') {
-                        // 1900s century
-                        return date.startsWith('19');
-                    } else if (searchTerm === '18') {
-                        // 1800s century
-                        return date.startsWith('18');
-                    } else if (searchTerm === '1') {
-                        // 1000-1999 (medieval to pre-2000)
-                        return /^1\d{3}/.test(date);
-                    } else if (searchTerm === 'bce') {
-                        // Ancient BCE/CE entries
-                        return date.includes('bce') || date.includes('ce');
-                    } else if (searchTerm.match(/^\d{4}$/)) {
-                        // Exact year match (e.g., 2025, 2024)
-                        return date.startsWith(searchTerm);
-                    } else {
-                        // General search in all fields
-                        return date.includes(searchTerm) ||
-                               title.includes(searchTerm) ||
-                               content.includes(searchTerm) ||
-                               entry.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+                    // Check if it's a special filter
+                    if (searchTerm === 'bce') {
+                        return entryDate.includes('bce') || entryDate.includes('ce');
                     }
+                    
+                    // Otherwise check all fields
+                    return entryDate.includes(searchTerm) ||
+                           entryTitle.includes(searchTerm) ||
+                           entryContent.includes(searchTerm) ||
+                           entryTags.some(tag => tag.includes(searchTerm));
                 });
             }
             
