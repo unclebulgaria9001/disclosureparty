@@ -143,26 +143,35 @@
         .event-node.outbound {
             fill: #58a6ff;
             stroke: #1f6feb;
-            stroke-width: 2;
+            stroke-width: 2.5;
         }
         
         .event-node.inbound {
             fill: #f85149;
             stroke: #da3633;
-            stroke-width: 2;
+            stroke-width: 2.5;
         }
         
         .event-node.chronology {
             fill: #8b949e;
             stroke: #6e7681;
-            stroke-width: 1;
-            r: 3;
+            stroke-width: 1.5;
         }
         
         .event-node.contact-attempt {
             fill: #a371f7;
             stroke: #8957e5;
-            stroke-width: 2;
+            stroke-width: 2.5;
+        }
+        
+        .event-node:focus {
+            outline: 3px solid #ffffff;
+            outline-offset: 2px;
+        }
+        
+        .event-node:hover {
+            filter: brightness(1.2);
+            stroke-width: 3;
         }
         
         .event-node:hover {
@@ -558,22 +567,34 @@
             </div>
         </div>
         
-        <div class="legend">
+        <div class="legend" role="region" aria-label="Timeline event types legend">
             <div class="legend-item">
-                <div class="legend-dot outbound"></div>
-                <span>Outbound (Earth → Space)</span>
+                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+                    <rect x="2" y="2" width="12" height="12" fill="#58a6ff" stroke="#1f6feb" stroke-width="2"/>
+                </svg>
+                <span>Outbound (Earth → Space) - Square</span>
             </div>
             <div class="legend-item">
-                <div class="legend-dot inbound"></div>
-                <span>Inbound (Space → Earth)</span>
+                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+                    <polygon points="8,2 14,14 2,14" fill="#f85149" stroke="#da3633" stroke-width="2"/>
+                </svg>
+                <span>Inbound (Space → Earth) - Triangle</span>
             </div>
             <div class="legend-item">
-                <div class="legend-dot contact-attempt"></div>
-                <span>Contact Attempts (In-Person)</span>
+                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+                    <polygon points="8,2 14,8 8,14 2,8" fill="#a371f7" stroke="#8957e5" stroke-width="2"/>
+                </svg>
+                <span>Contact Attempts (In-Person) - Diamond</span>
+            </div>
+            <div class="legend-item">
+                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+                    <circle cx="8" cy="8" r="4" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                </svg>
+                <span>Other Events - Circle</span>
             </div>
         </div>
         
-        <div id="timeline"></div>
+        <div id="timeline" role="application" aria-label="Interactive timeline of UAP and communication events"></div>
         
         <div class="back-link">
             <a href="viewer.html">← Back to Main Viewer</a>
@@ -963,25 +984,63 @@
                 chronology: allEvents.filter(d => d.type === 'chronology').length
             });
             
-            window.nodes = svg.selectAll('.event-node')
+            // Draw events with different shapes for accessibility
+            const eventGroups = svg.selectAll('.event-group')
                 .data(allEvents)
                 .enter()
-                .append('circle')
-                .attr('class', d => `event-node ${d.type}`)
-                .attr('cx', d => {
+                .append('g')
+                .attr('class', 'event-group')
+                .attr('transform', d => {
                     const x = xScale(d.date);
-                    if (d.type === 'chronology' && Math.random() < 0.01) {
-                        console.log('Chronology event position:', d.title, 'date:', d.date, 'x:', x);
-                    }
-                    return x;
+                    let y;
+                    if (d.type === 'outbound') y = yOutbound;
+                    else if (d.type === 'inbound') y = yInbound;
+                    else if (d.type === 'contact-attempt') y = yContactAttempt;
+                    else y = yChronology;
+                    return `translate(${x},${y})`;
                 })
-                .attr('cy', d => {
-                    if (d.type === 'outbound') return yOutbound;
-                    if (d.type === 'inbound') return yInbound;
-                    if (d.type === 'contact-attempt') return yContactAttempt;
-                    return yChronology;
-                })
-                .attr('r', d => d.type === 'chronology' ? 3 : 6)
+                .attr('role', 'button')
+                .attr('tabindex', '0')
+                .attr('aria-label', d => {
+                    const typeLabel = d.type === 'outbound' ? 'Earth to Space message' :
+                                     d.type === 'inbound' ? 'Space to Earth signal' :
+                                     d.type === 'contact-attempt' ? 'In-person contact event' :
+                                     'Historical event';
+                    return `${d.title}, ${typeLabel}, ${d.originalDateStr || d3.timeFormat('%Y')(d.date)}`;
+                });
+            
+            // Add different shapes based on event type
+            eventGroups.each(function(d) {
+                const group = d3.select(this);
+                const size = d.type === 'chronology' ? 3 : 6;
+                
+                if (d.type === 'outbound') {
+                    // Square for outbound
+                    group.append('rect')
+                        .attr('class', `event-node ${d.type}`)
+                        .attr('x', -size)
+                        .attr('y', -size)
+                        .attr('width', size * 2)
+                        .attr('height', size * 2);
+                } else if (d.type === 'inbound') {
+                    // Triangle for inbound
+                    group.append('polygon')
+                        .attr('class', `event-node ${d.type}`)
+                        .attr('points', `0,${-size * 1.3} ${size * 1.1},${size * 0.7} ${-size * 1.1},${size * 0.7}`);
+                } else if (d.type === 'contact-attempt') {
+                    // Diamond for contact attempts
+                    group.append('polygon')
+                        .attr('class', `event-node ${d.type}`)
+                        .attr('points', `0,${-size * 1.2} ${size * 1.2},0 0,${size * 1.2} ${-size * 1.2},0`);
+                } else {
+                    // Circle for chronology (default)
+                    group.append('circle')
+                        .attr('class', `event-node ${d.type}`)
+                        .attr('r', size);
+                }
+            });
+            
+            window.nodes = eventGroups
             .on('mouseover', function(event, d) {
                 tooltip.select('.tooltip-title').text(d.title);
                 // Use original date string if available, otherwise format the date
@@ -1026,6 +1085,12 @@
             .on('click', function(event, d) {
                 event.stopPropagation();
                 showEventModal(d);
+            })
+            .on('keydown', function(event, d) {
+                if (event.key === 'Enter' || event.key === ' ') {
+                    event.preventDefault();
+                    showEventModal(d);
+                }
             })
             .style('cursor', 'pointer');
         
