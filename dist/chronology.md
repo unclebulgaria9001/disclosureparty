@@ -1881,35 +1881,13 @@ A former White House chief of staff, John Podesta, and an international investig
 
 \
 
-\
+## 2002, August 15 - Crabwood Formation crop circle
 
-2001, August 14–22 — Chilbolton “Face” and “Arecibo Reply,” Hampshire, UK
+Elaborate crop formation appeared near Winchester, UK featuring an alien face and a disc containing a spiral binary-coded message. When decoded, the message read: "Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. BELIEVE. There is GOOD out there. We OPpose DECEPTION. Conduit CLOSING." The formation's complexity and the coherent binary message made it one of the most discussed crop formations.
 
-\- Summary: Two formations appeared in consecutive weeks adjacent to the Chilbolton radio telescope. The second replicated the structure of the 1974 Arecibo radio message but with altered fields (DNA, solar system layout, etc.), and is often described as a “reply” to our transmission.
+[https://en.wikipedia.org/wiki/Crabwood_crop_circle](https://en.wikipedia.org/wiki/Crabwood_crop_circle)
 
-\- Notes: Widely photographed and reported; frequently discussed as a putative response, but also widely considered a sophisticated human-made formation. No official verification of any NHI link.
-
-\- Links:
-
-  - Arecibo message background: https://en.wikipedia.org/wiki/Arecibo_message
-
-  - Chilbolton Observatory: https://en.wikipedia.org/wiki/Chilbolton_Observatory
-
-  - Crop circle overview: https://en.wikipedia.org/wiki/Crop_circle
-
-\
-
-2002, August 15 — Crabwood “Alien with Disc” Binary Message, near Winchester, UK
-
-\- Summary: Formation depicting a “grey” face next to a disc encoded with 8-bit ASCII that decodes to a short English message (“Beware the bearers of false gifts…”). Often referenced as a follow-on “message” after the Chilbolton formations, i.e., a putative communicative response rather than random art.
-
-\- Notes: Extensively imaged and decoded by researchers; likewise widely argued to be human-made. No official confirmation of a transmission–response link.
-
-\- Links:
-
-  - Crop circle overview (context, notable examples): https://en.wikipedia.org/wiki/Crop_circle
-
-\
+[https://www.cropcircleconnector.com/2002/crabwood/crabwood2002a.html](https://www.cropcircleconnector.com/2002/crabwood/crabwood2002a.html)
 
 \
 
@@ -1920,6 +1898,16 @@ A former White House chief of staff, John Podesta, and an international investig
 ## 2002, September 1 — Jacques Vallee states a “Brian and Tina in Arizona” tell him at a meeting at NARCAP head Dick Haines’ house that they saw a large collection of UFO and USO files at Norton AFB in March 1985. They claim many reports were from the Navy and showed objects coming out of the ocean. They were told they would be taken to see “something” in a hangar at Edwards AFB but it never materialized. #rumor #book
 
 [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248) 
+
+\
+
+## 2001, August 19-20 - Chilbolton Arecibo Reply crop formation
+
+Crop formation appeared in a field near Chilbolton radio telescope in Hampshire, UK, mirroring the structure of the 1974 Arecibo message but with different data. The formation showed modifications including silicon-based DNA (instead of carbon), a different population figure, a different solar system diagram, and a different telescope design. Five days earlier, on August 14, a separate "Face" formation had appeared in the same area showing a humanoid face. Both formations remain unexplained.
+
+[https://en.wikipedia.org/wiki/Chilbolton_radio_telescope#Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_radio_telescope#Chilbolton_crop_circle)
+
+[https://www.cropcircleconnector.com/2001/chilbolton2001a.html](https://www.cropcircleconnector.com/2001/chilbolton2001a.html)
 
 \
 
@@ -2450,6 +2438,14 @@ On April 11, 1980, at La Joya Air Force Base in Peru, General Luis Spicer oversa
 [https://en.wikipedia.org/wiki/BobLazar](https://en.wikipedia.org/wiki/Bob_Lazar) 
 
 Bob Lazar is a controversial American businessman and conspiracy theorist who asserts that he participated in reverse-engineering extraterrestrial technology at a secret site called "S-4," located near Area 51. He claims to have examined an alien spacecraft and accessed US government documents detailing alien interactions with humans across millennia. Lazar's claims have popularized discussions about Area 51 and fueled conspiracy narratives regarding its covert activities. However, doubts have been cast on his educational background, as there is no verifiable evidence of his alleged degrees from MIT and Caltech. He was employed as a technician for a contractor at the Los Alamos Meson Physics Facility, not as a physicist. Critics and the US Air Force have discredited Lazar's alleged involvement in reverse-engineering flying saucers at "S-4," particularly his assertions about an antimatter-powered craft fueled by element E115, which lacks scientific support. His claims about the historical connection between saucers and extraterrestrial beings lack substantiating evidence. Despite attracting both proponents and skeptics, there is no concrete proof to corroborate his claims of alien technology or interactions. Lazar's workplace was subject to a law enforcement raid in 2017, linked to a murder investigation in which he was not implicated.
+
+\
+
+## 1977, August 15 - Wow! Signal detected
+
+Strong narrowband radio signal detected by Ohio State University's Big Ear radio telescope. The 72-second signal came from the direction of Sagittarius and was so remarkable that astronomer Jerry Ehman wrote "Wow!" on the printout. Despite numerous follow-up observations, the signal has never been detected again. The signal's characteristics matched what would be expected from an extraterrestrial transmission, though natural explanations (including a passing comet) have been proposed but remain controversial.
+
+[https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
 
 \
 
