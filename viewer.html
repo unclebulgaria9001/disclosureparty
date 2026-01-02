@@ -992,8 +992,9 @@
                         currentEntry.links.push(line);
                     }
                     
-                    // Parse image lines
+                    // Parse image lines (handles both standard and Amplenote format with size parameter)
                     if (line.startsWith('![')) {
+                        // Match both ![alt](url) and ![filename.png|size](url) formats
                         const imgMatch = line.match(/!\[([^\]]*)\]\(([^)]+)\)/);
                         if (imgMatch) {
                             currentEntry.images.push(imgMatch[2]);
@@ -1072,12 +1073,24 @@
                     const entryContent = entry.content.toLowerCase();
                     const entryTags = entry.tags.map(t => t.toLowerCase());
                     
-                    // Check if it's a date/year filter (numbers or bce/ce)
+                    // Check if it's a date/year filter (numbers or bce/ancient)
                     if (/^\d+$/.test(searchTerm) || searchTerm === 'bce') {
                         if (searchTerm === 'bce') {
-                            // Match entries that have BCE or CE as era designations
-                            // Handles formats like "70 CE", "70 CE, Jerusalem", "138 BCE", etc.
-                            return /^\d+\s+(bce|ce)(\s|,|$)/i.test(entryDate);
+                            // ANCIENT filter: Match all entries before 1800
+                            // Includes BCE/CE entries and any year starting with 1-17 or 0-9 (pre-1800)
+                            const yearMatch = entryDate.match(/^(\d{1,4})\s*(bce|ce)?/i);
+                            if (!yearMatch) return false;
+                            
+                            const year = parseInt(yearMatch[1]);
+                            const era = yearMatch[2]?.toLowerCase();
+                            
+                            // Include all BCE/CE entries
+                            if (era === 'bce' || era === 'ce') return true;
+                            
+                            // Include all years before 1800
+                            if (year < 1800) return true;
+                            
+                            return false;
                         }
                         
                         // Extract the first year from the date (handles both "2025" and "80 CE" formats)
