@@ -26,7 +26,7 @@ The scope of the Unidentified Aerial Phenomena (UAP),  Unidentified Flying Objec
 
 ### Contact 
 
-For content suggestions, email uncle.bulgari9001@gmail.com
+For content suggestions, email uncle.bulgaria9001@gmail.com
 
 \
 

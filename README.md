@@ -65,7 +65,7 @@ A comprehensive public message to Non-Human Intelligence requesting direct, tran
 ---
 
 ## Contact
-For content suggestions: uncle.bulgari9001@gmail.com
+For content suggestions: uncle.bulgaria9001@gmail.com
 
 ## License
 Public Domain (CC0 1.0 Universal)
