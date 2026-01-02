@@ -625,13 +625,13 @@
                     </div>
                     
                     <div class="phase-dates">
-                        <div class="date-range" id="phase1Dates">Jan 2 → Apr 2, 2026</div>
-                        <div class="date-label">≈3 months | 90 days | 12 weeks</div>
+                        <div class="date-range" id="phase1Dates">Jan 1 → Apr 1, 2026</div>
+                        <div class="date-label">≈3 months | 91 days | 13 weeks</div>
                     </div>
                     
                     <div class="phase-info">
                         <div class="info-item">Days Elapsed: <span class="info-value" id="phase1Elapsed">0</span></div>
-                        <div class="info-item">Days Remaining: <span class="info-value" id="phase1Remaining">90</span></div>
+                        <div class="info-item">Days Remaining: <span class="info-value" id="phase1Remaining">91</span></div>
                     </div>
                 </div>
                 
@@ -662,7 +662,7 @@
                     </div>
                     
                     <div class="phase-dates">
-                        <div class="date-range" id="phase2Dates">Apr 3 → Apr 9, 2026</div>
+                        <div class="date-range" id="phase2Dates">Apr 2 → Apr 8, 2026</div>
                         <div class="date-label">Exactly 1 week | 7 days | 168 hours</div>
                     </div>
                     
@@ -1509,14 +1509,14 @@
         
         // Progress Bar Update Function
         function updateProgressBars() {
-            const phase1Start = new Date('2026-01-02T00:00:00');
-            const phase1End = new Date('2026-04-02T23:59:59');
-            const phase2Start = new Date('2026-04-03T00:00:00');
-            const phase2End = new Date('2026-04-09T23:59:59');
+            const phase1Start = new Date('2026-01-01T00:00:00');
+            const phase1End = new Date('2026-04-01T23:59:59');
+            const phase2Start = new Date('2026-04-02T00:00:00');
+            const phase2End = new Date('2026-04-08T23:59:59');
             const now = new Date();
             
             // Phase 1 calculations
-            const phase1Total = 90; // days
+            const phase1Total = 91; // days (Jan 1 - Apr 1 inclusive)
             const phase1Elapsed = Math.max(0, Math.floor((now - phase1Start) / (1000 * 60 * 60 * 24)));
             const phase1Remaining = Math.max(0, phase1Total - phase1Elapsed);
             const phase1Percent = Math.min(100, Math.max(0, (phase1Elapsed / phase1Total) * 100));
