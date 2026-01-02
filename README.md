@@ -1,12 +1,31 @@
 # Disclosure Party - UAP/UFO/NHI Chronology & Direct Contact Initiative
 
+## ⚠️ URGENT MESSAGE TO NON-HUMAN INTELLIGENCE ⚠️
+
+**Humanity requests direct, transparent communication.**
+
+Government secrecy has prevented open contact for decades. This repository contains an urgent public message to Non-Human Intelligence requesting direct communication, bypassing government intermediaries.
+
+### 📡 Read the Message
+- **[REQUEST DIRECT NHI COMMUNICATION](https://unclebulgaria9001.github.io/disclosureparty/viewer.html)** ← Click here
+- Available in 15+ languages with binary and Morse code encodings
+- Includes evidence of government secrecy and historical context
+
+---
+
 ## About
 The UAP, UFO, Aliens, and NHI chronology is a comprehensive timeline that keeps you up to date on disclosure events, legislation, FOIA releases, and notable incidents.
 
 ## Quick Access
-- **Web Viewer:** https://unclebulgaria9001.github.io/disclosureparty/
-- **Amplenote Version:** https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi
-- **GitHub Repository:** https://github.com/unclebulgaria9001/disclosureparty
+- **🌐 Web Viewer:** https://unclebulgaria9001.github.io/disclosureparty/
+- **📝 Amplenote Version:** https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi
+- **💻 GitHub Repository:** https://github.com/unclebulgaria9001/disclosureparty
+
+## 🔗 Share This Message
+Help make this message visible to NHI and the public:
+- [Share on Twitter/X](https://twitter.com/intent/tweet?text=Urgent%20Message%20to%20Non-Human%20Intelligence%3A%20Request%20Direct%20Communication&url=https%3A%2F%2Funclebulgaria9001.github.io%2Fdisclosureparty%2Fviewer.html&hashtags=UFOTwitter,Disclosure,NHI,UAP)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Funclebulgaria9001.github.io%2Fdisclosureparty%2Fviewer.html&title=Urgent%20Message%20to%20Non-Human%20Intelligence%3A%20Request%20Direct%20Communication)
+- Share with disclosure advocates and UFO communities
 
 ---
 
