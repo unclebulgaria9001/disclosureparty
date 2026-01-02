@@ -424,6 +424,8 @@
             <div class="tab active" data-doc="index">INDEX</div>
             <div class="tab" data-doc="chronology">CHRONOLOGY</div>
             <div class="tab" data-doc="contact">REQUEST NHI CONTACT</div>
+            <div class="tab" data-doc="outbound">OUTBOUND</div>
+            <div class="tab" data-doc="inbound">INBOUND</div>
             <div class="tab" data-doc="arecibo">ARECIBO 1974</div>
         </div>
         
@@ -470,6 +472,18 @@
             
             if (currentDoc === 'index') {
                 showIndex();
+                controlsContainer.innerHTML = '';
+                return;
+            }
+            
+            if (currentDoc === 'outbound') {
+                showOutbound();
+                controlsContainer.innerHTML = '';
+                return;
+            }
+            
+            if (currentDoc === 'inbound') {
+                showInbound();
                 controlsContainer.innerHTML = '';
                 return;
             }
@@ -689,6 +703,166 @@
                     <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">GITHUB REPOSITORY</a>
                     <a href="https://unclebulgaria9001.github.io/disclosureparty/" target="_blank">PROJECT WEBSITE</a>
                     <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank">AMPLENOTE CHRONOLOGY</a>
+                </div>
+            `;
+        }
+        
+        function showOutbound() {
+            const content = document.getElementById('content');
+            content.innerHTML = `
+                <h1>OUTBOUND COMMUNICATIONS</h1>
+                <p style="color: #8b949e; margin-bottom: 30px;">Messages sent from Earth to potential extraterrestrial intelligence</p>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">PIONEER PLAQUES</div>
+                    <div class="entry-title">1972-1973 • FIRST PHYSICAL MESSAGES</div>
+                    <div class="entry-content">
+                    Gold-anodized aluminum plaques aboard Pioneer 10 and 11 spacecraft. Show human figures, 
+                    Earth's location via pulsar map, and solar system diagram. First physical messages from 
+                    humanity intended for potential extraterrestrial discovery.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/Pioneer_plaque" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.nasa.gov/mission_pages/pioneer/index.html" target="_blank">NASA</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">ARECIBO MESSAGE</div>
+                    <div class="entry-title">1974-11-16 • FIRST RADIO MESSAGE</div>
+                    <div class="entry-content">
+                    The first deliberate interstellar radio message sent by humanity. 1,679-bit signal sent to M13 
+                    cluster 25,000 light years away. Contains information about humanity, DNA, Earth's position, 
+                    and the Arecibo telescope.
+                    </div>
+                    <div class="entry-links">
+                        <a href="#" onclick="switchTab('arecibo'); return false;">VIEW FULL MESSAGE</a>
+                        <a href="https://en.wikipedia.org/wiki/Arecibo_message" target="_blank">WIKIPEDIA</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">VOYAGER GOLDEN RECORDS</div>
+                    <div class="entry-title">1977 • COMPREHENSIVE EARTH ARCHIVE</div>
+                    <div class="entry-content">
+                    12-inch gold-plated phonograph records aboard Voyager 1 and 2. Contains 116 images, 
+                    greetings in 55 languages, 90 minutes of music from various cultures, and natural sounds. 
+                    Expected to last over 1 billion years in space.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://voyager.jpl.nasa.gov/golden-record/" target="_blank">JPL GOLDEN RECORD</a>
+                        <a href="https://en.wikipedia.org/wiki/Voyager_Golden_Record" target="_blank">WIKIPEDIA</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">COSMIC CALL</div>
+                    <div class="entry-title">1999 & 2003 • MATHEMATICAL LANGUAGE</div>
+                    <div class="entry-content">
+                    Radio messages transmitted from Evpatoria Planetary Radar toward nearby stars. Used 
+                    sophisticated "Lexicon" mathematical language. Included scientific data, images, and 
+                    musical compositions.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/Cosmic_Call" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.seti.org/cosmic-call" target="_blank">SETI</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">TEEN AGE MESSAGE</div>
+                    <div class="entry-title">2001 • YOUTH PERSPECTIVE</div>
+                    <div class="entry-content">
+                    First interstellar message composed by teenagers. Transmitted to six sun-like stars 
+                    45-70 light years away. Included Theremin concert, bilingual messages, and teen-created 
+                    images and text.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/Teen_Age_Message" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.seti.org/teen-age-message" target="_blank">SETI</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">HELLO FROM EARTH</div>
+                    <div class="entry-title">2008 • CROWDSOURCED MESSAGE</div>
+                    <div class="entry-content">
+                    First crowdsourced interstellar message via social media (Bebo). 501 messages selected 
+                    from 25,880 submissions from 195 countries. Transmitted to Gliese 581c exoplanet in 
+                    habitable zone, 20.4 light years away.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/A_Message_From_Earth" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.space.com/5893-message-earth-beamed-alien-planet.html" target="_blank">SPACE.COM</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">REQUEST DIRECT NHI COMMUNICATION</div>
+                    <div class="entry-title">2026-01-01 • CURRENT MESSAGE</div>
+                    <div class="entry-content">
+                    Urgent public message to Non-Human Intelligence requesting direct, transparent communication. 
+                    Bypasses government intermediaries. Available in 15+ languages with binary and Morse code encodings.
+                    </div>
+                    <div class="entry-links">
+                        <a href="#" onclick="switchTab('contact'); return false;">VIEW FULL MESSAGE</a>
+                        <a href="dist/contact-nhi.txt" target="_blank">DOWNLOAD TXT</a>
+                    </div>
+                </div>
+            `;
+        }
+        
+        function showInbound() {
+            const content = document.getElementById('content');
+            content.innerHTML = `
+                <h1>INBOUND COMMUNICATIONS</h1>
+                <p style="color: #8b949e; margin-bottom: 30px;">Potential responses from Non-Human Intelligence</p>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">WOW! SIGNAL</div>
+                    <div class="entry-title">1977-08-15 • POTENTIAL SETI DETECTION</div>
+                    <div class="entry-content">
+                    Strong narrowband radio signal detected by Ohio State University's Big Ear radio telescope. 
+                    The signal lasted 72 seconds and was so strong that astronomer Jerry R. Ehman wrote "Wow!" 
+                    on the printout. The signal came from the direction of Sagittarius and has never been detected 
+                    again despite numerous follow-up searches. Origin remains unexplained.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/Wow!_signal" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.seti.org/wow-signal" target="_blank">SETI</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">CHILBOLTON FORMATIONS</div>
+                    <div class="entry-title">2001-08-14 & 2001-08-19 • POTENTIAL ARECIBO REPLY</div>
+                    <div class="entry-content">
+                    Two crop formations appeared in Hampshire, UK that appeared to respond to the 1974 Arecibo message. 
+                    The "Face" formation (August 14) showed a humanoid face. The "Arecibo Reply" (August 19-20) 
+                    mirrored the structure of our 1974 message but with different data: silicon-based DNA, different 
+                    population figures, and a different solar system diagram. Both formations appeared near the 
+                    Chilbolton radio telescope.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/Chilbolton_radio_telescope#Chilbolton_crop_circle" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.cropcircleconnector.com/2001/chilbolton2001a.html" target="_blank">CROP CIRCLE CONNECTOR</a>
+                    </div>
+                </div>
+                
+                <div class="timeline-entry">
+                    <div class="entry-date">CRABWOOD FORMATION</div>
+                    <div class="entry-title">2002-08-15 • BINARY MESSAGE</div>
+                    <div class="entry-content">
+                    Elaborate crop formation near Winchester, UK featuring an alien face and a disc containing a 
+                    binary-encoded message in ASCII. The decoded message read: "Beware the bearers of false gifts 
+                    and their broken promises. Much pain but still time. There is good out there. We oppose 
+                    deception. Conduit closing." The formation appeared exactly one year after the Chilbolton 
+                    formations.
+                    </div>
+                    <div class="entry-links">
+                        <a href="https://en.wikipedia.org/wiki/Crabwood_crop_circle" target="_blank">WIKIPEDIA</a>
+                        <a href="https://www.cropcircleconnector.com/2002/crabwood/crabwood2002a.html" target="_blank">CROP CIRCLE CONNECTOR</a>
+                    </div>
                 </div>
             `;
         }
