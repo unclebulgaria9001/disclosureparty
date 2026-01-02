@@ -1152,11 +1152,11 @@
                         shouldShow = true; // Always show communication and contact-attempt events
                     }
                 } else if (currentFilter === 'communications') {
-                    shouldShow = d.type === 'outbound' || d.type === 'inbound';
+                    shouldShow = d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt';
                 } else if (currentFilter === 'outbound') {
                     shouldShow = d.type === 'outbound';
                 } else if (currentFilter === 'inbound') {
-                    shouldShow = d.type === 'inbound';
+                    shouldShow = d.type === 'inbound' || d.type === 'contact-attempt';
                 } else if (currentFilter === 'contact-attempt') {
                     shouldShow = d.type === 'contact-attempt';
                 } else if (currentFilter === 'chronology') {
