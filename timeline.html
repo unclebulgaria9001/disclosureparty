@@ -821,29 +821,72 @@
             const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked'))
                 .map(cb => cb.value);
             
+            // Track visible events for date range calculation
+            const visibleEvents = [];
+            
             // Apply filters based on current view mode
             window.nodes.each(function(d) {
                 const node = d3.select(this);
+                let shouldShow = false;
                 
                 if (currentFilter === 'all') {
-                    // Show all events
-                    node.style('display', 'block');
+                    // Show all events, but filter chronology by period
+                    if (d.type === 'chronology') {
+                        const period = getEventPeriod(d.date);
+                        shouldShow = selectedPeriods.includes(period) || 
+                                   selectedPeriods.some(p => period.startsWith(p.substring(0, 2)));
+                    } else {
+                        shouldShow = true; // Always show communication events
+                    }
                 } else if (currentFilter === 'outbound') {
-                    node.style('display', d.type === 'outbound' ? 'block' : 'none');
+                    shouldShow = d.type === 'outbound';
                 } else if (currentFilter === 'inbound') {
-                    node.style('display', d.type === 'inbound' ? 'block' : 'none');
+                    shouldShow = d.type === 'inbound';
                 } else if (currentFilter === 'chronology') {
                     // Show chronology events that match selected periods
                     if (d.type === 'chronology') {
                         const period = getEventPeriod(d.date);
-                        const shouldShow = selectedPeriods.includes(period) || 
-                                         selectedPeriods.some(p => period.startsWith(p.substring(0, 2)));
-                        node.style('display', shouldShow ? 'block' : 'none');
-                    } else {
-                        node.style('display', 'none');
+                        shouldShow = selectedPeriods.includes(period) || 
+                                   selectedPeriods.some(p => period.startsWith(p.substring(0, 2)));
                     }
                 }
+                
+                node.style('display', shouldShow ? 'block' : 'none');
+                if (shouldShow) {
+                    visibleEvents.push(d);
+                }
             });
+            
+            // Update date range based on visible events
+            if (visibleEvents.length > 0 && window.xScale && window.xAxis && window.svg) {
+                const dates = visibleEvents.map(d => d.date);
+                const minDate = d3.min(dates);
+                const maxDate = d3.max(dates);
+                
+                // Add padding
+                const dateRange = maxDate - minDate;
+                const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
+                const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
+                
+                // Update scale domain
+                window.xScale.domain([paddedMin, paddedMax]);
+                
+                // Redraw axis and reposition nodes
+                window.svg.select('.x-axis')
+                    .transition()
+                    .duration(500)
+                    .call(window.xAxis);
+                
+                window.nodes
+                    .transition()
+                    .duration(500)
+                    .attr('cx', d => window.xScale(d.date));
+                
+                window.svg.selectAll('.event-label')
+                    .transition()
+                    .duration(500)
+                    .attr('x', d => window.xScale(d.date));
+            }
         }
         
         function selectAllPeriods() {
