@@ -719,7 +719,32 @@
                         if (searchTerm === 'bce') {
                             return entryDate.includes('bce') || entryDate.includes('ce');
                         }
-                        // Only search date field for year filters
+                        
+                        // For 2-digit century filters (10-18), match start of year
+                        if (searchTerm.length === 2) {
+                            // Match dates that start with the century (e.g., "17" matches "1700", "1750" but not "2017")
+                            const yearMatch = entryDate.match(/\b(\d{3,4})\b/);
+                            if (yearMatch) {
+                                return yearMatch[1].startsWith(searchTerm);
+                            }
+                            return false;
+                        }
+                        
+                        // For 3-digit decade filters (194-200), match start of year
+                        if (searchTerm.length === 3) {
+                            const yearMatch = entryDate.match(/\b(\d{4})\b/);
+                            if (yearMatch) {
+                                return yearMatch[1].startsWith(searchTerm);
+                            }
+                            return false;
+                        }
+                        
+                        // For 4-digit year filters, exact match
+                        if (searchTerm.length === 4) {
+                            return entryDate.includes(searchTerm);
+                        }
+                        
+                        // Fallback for other numeric searches
                         return entryDate.includes(searchTerm);
                     }
                     
