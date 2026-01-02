@@ -1192,9 +1192,9 @@
                     
                     // Add to content (skip image lines, footnotes, etc)
                     if (!line.startsWith('![') && !line.startsWith('[^') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
-                        const cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+                        // Keep markdown links intact instead of removing them
                         if (cleanLine.trim().length > 0) {
-                            currentEntry.content += (currentEntry.content ? '\n' : '') + cleanLine;
+                            currentEntry.content += (currentEntry.content ? '\n' : '') + line;
                         }
                     }
                 }
@@ -1247,7 +1247,11 @@
                 if (data) {
                     const entry = data.find(e => e.title === eventData.title);
                     if (entry) {
-                        modalBody.innerHTML = entry.content.replace(/\n/g, '<br>');
+                        // Convert markdown links to HTML links
+                        let content = entry.content;
+                        content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+                        content = content.replace(/\n/g, '<br>');
+                        modalBody.innerHTML = content;
                         
                         // Add images
                         if (entry.images.length > 0) {

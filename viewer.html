@@ -1018,9 +1018,8 @@
                     }
                     // Skip footnote definitions, backslash lines, and headers
                     else if (!line.startsWith('[^') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
-                        // Remove markdown link syntax and footnote references for content display
-                        let cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
-                        cleanLine = cleanLine.replace(/\s*\[\^\d+\]\s*/g, '');
+                        // Keep markdown links intact, only remove footnote references
+                        let cleanLine = line.replace(/\s*\[\^\d+\]\s*/g, '');
                         if (cleanLine.trim().length > 0) {
                             currentEntry.content += (currentEntry.content ? '\n' : '') + cleanLine;
                         }
@@ -1055,11 +1054,16 @@
                 }
             }
             
-            html += filteredEntries.map(entry => `
+            html += filteredEntries.map(entry => {
+                // Convert markdown links to HTML in content
+                let content = entry.content || '';
+                content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+                
+                return `
                 <div class="timeline-entry">
                     <div class="entry-date">${escapeHtml(entry.date)}</div>
                     <div class="entry-title">${escapeHtml(entry.title)}</div>
-                    ${entry.content ? `<div class="entry-content">${escapeHtml(entry.content)}</div>` : ''}
+                    ${content ? `<div class="entry-content">${content}</div>` : ''}
                     ${entry.images.length > 0 ? `
                         <div class="entry-images">
                             ${entry.images.map(img => `<img src="${escapeHtml(img)}" alt="" loading="lazy">`).join('')}
@@ -1072,7 +1076,8 @@
                         </div>
                     ` : ''}
                 </div>
-            `).join('');
+                `;
+            }).join('');
             
             content.innerHTML = html;
         }
