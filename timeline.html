@@ -685,9 +685,10 @@
                 tooltip.classed('visible', false);
             });
         
-        // Add year labels for key events
+        // Add year labels for key communication events only (not chronology to avoid clutter)
+        const communicationEventsOnly = allEvents.filter(d => d.type === 'outbound' || d.type === 'inbound');
         svg.selectAll('.event-label')
-            .data(events.filter((d, i) => i % 2 === 0)) // Show labels for every other event
+            .data(communicationEventsOnly)
             .enter()
             .append('text')
             .attr('class', 'event-label')
