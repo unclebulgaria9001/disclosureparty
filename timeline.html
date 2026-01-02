@@ -234,6 +234,13 @@
             background: #f85149;
         }
         
+        input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            accent-color: #1f6feb;
+        }
+        
         .back-link {
             text-align: center;
             padding: 20px;
@@ -292,6 +299,64 @@
         
         <div style="text-align: center; padding: 10px; color: #8b949e; font-size: 0.85em;">
             <span id="eventCount">Loading events...</span>
+        </div>
+        
+        <div class="filter-panel" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 20px; margin: 20px auto; max-width: 900px;">
+            <div style="color: #58a6ff; font-weight: 600; margin-bottom: 15px; text-align: center;">CHRONOLOGY TIME PERIOD FILTERS</div>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="ancient" checked onchange="applyPeriodFilters()">
+                    <span>Ancient (BCE-999 CE)</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1000s" checked onchange="applyPeriodFilters()">
+                    <span>1000s-1099</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1100s" checked onchange="applyPeriodFilters()">
+                    <span>1100s-1199</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1200s" checked onchange="applyPeriodFilters()">
+                    <span>1200s-1299</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1300s" checked onchange="applyPeriodFilters()">
+                    <span>1300s-1399</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1400s" checked onchange="applyPeriodFilters()">
+                    <span>1400s-1499</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1500s" checked onchange="applyPeriodFilters()">
+                    <span>1500s-1599</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1600s" checked onchange="applyPeriodFilters()">
+                    <span>1600s-1699</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1700s" checked onchange="applyPeriodFilters()">
+                    <span>1700s-1799</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1800s" checked onchange="applyPeriodFilters()">
+                    <span>1800s-1899</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="1900s" checked onchange="applyPeriodFilters()">
+                    <span>1900s-1999</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 8px; color: #c9d1d9; cursor: pointer;">
+                    <input type="checkbox" class="period-filter" value="2000s" checked onchange="applyPeriodFilters()">
+                    <span>2000s-2026</span>
+                </label>
+            </div>
+            <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+                <button class="btn" onclick="selectAllPeriods()">SELECT ALL</button>
+                <button class="btn" onclick="deselectAllPeriods()">DESELECT ALL</button>
+            </div>
         </div>
         
         <div class="legend">
@@ -709,39 +774,83 @@
         function showAll() {
             currentFilter = 'all';
             updateButtons();
-            if (window.nodes) {
-                window.nodes.style('display', 'block');
-            }
+            applyPeriodFilters();
         }
         
         function showOutbound() {
             currentFilter = 'outbound';
             updateButtons();
-            if (window.nodes) {
-                window.nodes.each(function(d) {
-                    d3.select(this).style('display', d.type === 'outbound' ? 'block' : 'none');
-                });
-            }
+            applyPeriodFilters();
         }
         
         function showInbound() {
             currentFilter = 'inbound';
             updateButtons();
-            if (window.nodes) {
-                window.nodes.each(function(d) {
-                    d3.select(this).style('display', d.type === 'inbound' ? 'block' : 'none');
-                });
-            }
+            applyPeriodFilters();
         }
         
         function showChronology() {
             currentFilter = 'chronology';
             updateButtons();
-            if (window.nodes) {
-                window.nodes.each(function(d) {
-                    d3.select(this).style('display', d.type === 'chronology' ? 'block' : 'none');
-                });
-            }
+            applyPeriodFilters();
+        }
+        
+        function getEventPeriod(date) {
+            const year = date.getFullYear();
+            
+            // Ancient: BCE to 999 CE (mapped to years 1-1999)
+            if (year < 2000) return 'ancient';
+            
+            // Modern dates (2000+)
+            if (year >= 2000 && year < 2010) return '2000s';
+            if (year >= 2010 && year < 2020) return '2010s';
+            if (year >= 2020) return '2020s';
+            
+            // Historical centuries (actual years)
+            const century = Math.floor(year / 100) * 100;
+            return `${century}s`;
+        }
+        
+        function applyPeriodFilters() {
+            if (!window.nodes) return;
+            
+            // Get selected periods
+            const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked'))
+                .map(cb => cb.value);
+            
+            // Apply filters based on current view mode
+            window.nodes.each(function(d) {
+                const node = d3.select(this);
+                
+                if (currentFilter === 'all') {
+                    // Show all events
+                    node.style('display', 'block');
+                } else if (currentFilter === 'outbound') {
+                    node.style('display', d.type === 'outbound' ? 'block' : 'none');
+                } else if (currentFilter === 'inbound') {
+                    node.style('display', d.type === 'inbound' ? 'block' : 'none');
+                } else if (currentFilter === 'chronology') {
+                    // Show chronology events that match selected periods
+                    if (d.type === 'chronology') {
+                        const period = getEventPeriod(d.date);
+                        const shouldShow = selectedPeriods.includes(period) || 
+                                         selectedPeriods.some(p => period.startsWith(p.substring(0, 2)));
+                        node.style('display', shouldShow ? 'block' : 'none');
+                    } else {
+                        node.style('display', 'none');
+                    }
+                }
+            });
+        }
+        
+        function selectAllPeriods() {
+            document.querySelectorAll('.period-filter').forEach(cb => cb.checked = true);
+            applyPeriodFilters();
+        }
+        
+        function deselectAllPeriods() {
+            document.querySelectorAll('.period-filter').forEach(cb => cb.checked = false);
+            applyPeriodFilters();
         }
         
         function resetZoom() {
