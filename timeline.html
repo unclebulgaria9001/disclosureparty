@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Communication Timeline | UAP/UFO/NHI Disclosure</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Interactive timeline visualization of Earth's outbound messages and potential NHI inbound communications">
+    <meta name="keywords" content="UAP timeline, NHI communication, Arecibo message, crop circles, interstellar messages">
+    
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Share Tech Mono', 'Courier New', monospace;
+            background: #0d1117;
+            color: #c9d1d9;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 100%;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 30px 20px;
+            background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);
+            border-bottom: 1px solid #30363d;
+        }
+        
+        h1 {
+            color: #58a6ff;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #8b949e;
+            font-size: 0.9em;
+        }
+        
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            padding: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
+            padding: 8px 16px;
+            cursor: pointer;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 0.85em;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+        
+        .btn:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        
+        .btn.active {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #ffffff;
+        }
+        
+        #timeline {
+            width: 100%;
+            height: 600px;
+            background: #0d1117;
+            position: relative;
+        }
+        
+        .timeline-axis {
+            stroke: #30363d;
+            stroke-width: 2;
+        }
+        
+        .timeline-track {
+            stroke: #21262d;
+            stroke-width: 1;
+            fill: none;
+        }
+        
+        .event-node {
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .event-node.outbound {
+            fill: #58a6ff;
+            stroke: #1f6feb;
+            stroke-width: 2;
+        }
+        
+        .event-node.inbound {
+            fill: #f85149;
+            stroke: #da3633;
+            stroke-width: 2;
+        }
+        
+        .event-node:hover {
+            r: 10;
+            filter: brightness(1.3);
+        }
+        
+        .event-label {
+            font-size: 11px;
+            fill: #8b949e;
+            pointer-events: none;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 12px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            max-width: 300px;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+        }
+        
+        .tooltip.visible {
+            opacity: 1;
+        }
+        
+        .tooltip-title {
+            color: #58a6ff;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        
+        .tooltip-date {
+            color: #8b949e;
+            font-size: 0.85em;
+            margin-bottom: 8px;
+        }
+        
+        .tooltip-description {
+            color: #c9d1d9;
+            font-size: 0.85em;
+            line-height: 1.4;
+        }
+        
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        
+        .legend-dot.outbound {
+            background: #58a6ff;
+        }
+        
+        .legend-dot.inbound {
+            background: #f85149;
+        }
+        
+        .back-link {
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .back-link a {
+            color: #58a6ff;
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+        
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5em;
+            }
+            
+            #timeline {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>EARTH ↔ NHI COMMUNICATION TIMELINE</h1>
+            <div class="subtitle">Interactive visualization of outbound messages and potential inbound responses</div>
+        </header>
+        
+        <div class="controls">
+            <button class="btn active" onclick="showAll()">ALL EVENTS</button>
+            <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
+            <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
+            <button class="btn" onclick="resetZoom()">RESET ZOOM</button>
+        </div>
+        
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-dot outbound"></div>
+                <span>Outbound (Earth → Space)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-dot inbound"></div>
+                <span>Inbound (Space → Earth)</span>
+            </div>
+        </div>
+        
+        <div id="timeline"></div>
+        
+        <div class="back-link">
+            <a href="viewer.html">← Back to Main Viewer</a>
+        </div>
+    </div>
+    
+    <div class="tooltip" id="tooltip">
+        <div class="tooltip-title"></div>
+        <div class="tooltip-date"></div>
+        <div class="tooltip-description"></div>
+    </div>
+    
+    <script>
+        // Communication events data
+        const events = [
+            // Outbound Communications
+            {
+                date: new Date(1972, 2, 2),
+                type: 'outbound',
+                title: 'Pioneer 10 Plaque',
+                description: 'First physical message from humanity. Gold-anodized aluminum plaque with human figures and Earth\'s location.'
+            },
+            {
+                date: new Date(1973, 2, 3),
+                type: 'outbound',
+                title: 'Pioneer 11 Plaque',
+                description: 'Identical plaque to Pioneer 10, continuing humanity\'s first physical messages to space.'
+            },
+            {
+                date: new Date(1974, 10, 16),
+                type: 'outbound',
+                title: 'Arecibo Message',
+                description: 'First deliberate interstellar radio message. 1,679-bit signal sent to M13 cluster 25,000 light years away.'
+            },
+            {
+                date: new Date(1977, 7, 20),
+                type: 'outbound',
+                title: 'Voyager Golden Records',
+                description: '12-inch gold-plated records with 116 images, greetings in 55 languages, and 90 minutes of music.'
+            },
+            {
+                date: new Date(1999, 4, 24),
+                type: 'outbound',
+                title: 'Cosmic Call',
+                description: 'Radio message using sophisticated "Lexicon" mathematical language toward nearby stars.'
+            },
+            {
+                date: new Date(2001, 8, 3),
+                type: 'outbound',
+                title: 'Teen Age Message',
+                description: 'First interstellar message composed by teenagers, transmitted to six sun-like stars.'
+            },
+            {
+                date: new Date(2003, 6, 6),
+                type: 'outbound',
+                title: 'Cosmic Call 2',
+                description: 'Second Cosmic Call transmission to five additional stars.'
+            },
+            {
+                date: new Date(2008, 7, 28),
+                type: 'outbound',
+                title: 'Hello from Earth',
+                description: 'First crowdsourced message via Bebo. 501 messages from 195 countries to Gliese 581c.'
+            },
+            {
+                date: new Date(2026, 0, 1),
+                type: 'outbound',
+                title: 'Request Direct NHI Communication',
+                description: 'Public message requesting direct, transparent communication, bypassing government intermediaries.'
+            },
+            
+            // Inbound Communications
+            {
+                date: new Date(1977, 7, 15),
+                type: 'inbound',
+                title: 'Wow! Signal',
+                description: 'Strong 72-second narrowband radio signal from Sagittarius. Never detected again despite follow-ups.'
+            },
+            {
+                date: new Date(2001, 7, 14),
+                type: 'inbound',
+                title: 'Chilbolton Face Formation',
+                description: 'Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK.'
+            },
+            {
+                date: new Date(2001, 7, 19),
+                type: 'inbound',
+                title: 'Chilbolton Arecibo Reply',
+                description: 'Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population.'
+            },
+            {
+                date: new Date(2002, 7, 15),
+                type: 'inbound',
+                title: 'Crabwood Formation',
+                description: 'Crop formation with alien face and binary message: "Beware the bearers of false gifts... Conduit closing."'
+            }
+        ];
+        
+        // Timeline dimensions
+        const margin = {top: 60, right: 40, bottom: 60, left: 40};
+        const width = document.getElementById('timeline').clientWidth - margin.left - margin.right;
+        const height = 600 - margin.top - margin.bottom;
+        
+        // Create SVG
+        const svg = d3.select('#timeline')
+            .append('svg')
+            .attr('width', width + margin.left + margin.right)
+            .attr('height', height + margin.top + margin.bottom)
+            .append('g')
+            .attr('transform', `translate(${margin.left},${margin.top})`);
+        
+        // Scales
+        const xScale = d3.scaleTime()
+            .domain([new Date(1970, 0, 1), new Date(2027, 0, 1)])
+            .range([0, width]);
+        
+        const yOutbound = height * 0.35;
+        const yInbound = height * 0.65;
+        
+        // Axes
+        const xAxis = d3.axisBottom(xScale)
+            .ticks(10)
+            .tickFormat(d3.timeFormat('%Y'));
+        
+        svg.append('g')
+            .attr('class', 'x-axis')
+            .attr('transform', `translate(0,${height / 2})`)
+            .call(xAxis)
+            .selectAll('text')
+            .style('fill', '#8b949e')
+            .style('font-family', 'Share Tech Mono');
+        
+        svg.selectAll('.x-axis path, .x-axis line')
+            .style('stroke', '#30363d');
+        
+        // Timeline tracks
+        svg.append('line')
+            .attr('class', 'timeline-track')
+            .attr('x1', 0)
+            .attr('y1', yOutbound)
+            .attr('x2', width)
+            .attr('y2', yOutbound);
+        
+        svg.append('line')
+            .attr('class', 'timeline-track')
+            .attr('x1', 0)
+            .attr('y1', yInbound)
+            .attr('x2', width)
+            .attr('y2', yInbound);
+        
+        // Track labels
+        svg.append('text')
+            .attr('x', -10)
+            .attr('y', yOutbound)
+            .attr('text-anchor', 'end')
+            .attr('dominant-baseline', 'middle')
+            .style('fill', '#58a6ff')
+            .style('font-size', '12px')
+            .text('OUTBOUND →');
+        
+        svg.append('text')
+            .attr('x', -10)
+            .attr('y', yInbound)
+            .attr('text-anchor', 'end')
+            .attr('dominant-baseline', 'middle')
+            .style('fill', '#f85149')
+            .style('font-size', '12px')
+            .text('INBOUND ←');
+        
+        // Tooltip
+        const tooltip = d3.select('#tooltip');
+        
+        // Draw events
+        const nodes = svg.selectAll('.event-node')
+            .data(events)
+            .enter()
+            .append('circle')
+            .attr('class', d => `event-node ${d.type}`)
+            .attr('cx', d => xScale(d.date))
+            .attr('cy', d => d.type === 'outbound' ? yOutbound : yInbound)
+            .attr('r', 6)
+            .on('mouseover', function(event, d) {
+                tooltip.select('.tooltip-title').text(d.title);
+                tooltip.select('.tooltip-date').text(d3.timeFormat('%B %d, %Y')(d.date));
+                tooltip.select('.tooltip-description').text(d.description);
+                tooltip.classed('visible', true);
+            })
+            .on('mousemove', function(event) {
+                tooltip
+                    .style('left', (event.pageX + 15) + 'px')
+                    .style('top', (event.pageY - 15) + 'px');
+            })
+            .on('mouseout', function() {
+                tooltip.classed('visible', false);
+            });
+        
+        // Add year labels for key events
+        svg.selectAll('.event-label')
+            .data(events.filter((d, i) => i % 2 === 0)) // Show labels for every other event
+            .enter()
+            .append('text')
+            .attr('class', 'event-label')
+            .attr('x', d => xScale(d.date))
+            .attr('y', d => (d.type === 'outbound' ? yOutbound : yInbound) - 15)
+            .attr('text-anchor', 'middle')
+            .text(d => d3.timeFormat('%Y')(d.date));
+        
+        // Filter functions
+        let currentFilter = 'all';
+        
+        function showAll() {
+            currentFilter = 'all';
+            updateButtons();
+            nodes.style('display', 'block');
+        }
+        
+        function showOutbound() {
+            currentFilter = 'outbound';
+            updateButtons();
+            nodes.style('display', d => d.type === 'outbound' ? 'block' : 'none');
+        }
+        
+        function showInbound() {
+            currentFilter = 'inbound';
+            updateButtons();
+            nodes.style('display', d => d.type === 'inbound' ? 'block' : 'none');
+        }
+        
+        function resetZoom() {
+            xScale.domain([new Date(1970, 0, 1), new Date(2027, 0, 1)]);
+            updateTimeline();
+        }
+        
+        function updateButtons() {
+            d3.selectAll('.btn').classed('active', false);
+            if (currentFilter === 'all') {
+                d3.selectAll('.btn').filter(function() { return this.textContent === 'ALL EVENTS'; }).classed('active', true);
+            } else if (currentFilter === 'outbound') {
+                d3.selectAll('.btn').filter(function() { return this.textContent === 'OUTBOUND ONLY'; }).classed('active', true);
+            } else if (currentFilter === 'inbound') {
+                d3.selectAll('.btn').filter(function() { return this.textContent === 'INBOUND ONLY'; }).classed('active', true);
+            }
+        }
+        
+        function updateTimeline() {
+            svg.select('.x-axis').call(xAxis);
+            nodes.attr('cx', d => xScale(d.date));
+            svg.selectAll('.event-label').attr('x', d => xScale(d.date));
+        }
+        
+        // Zoom behavior
+        const zoom = d3.zoom()
+            .scaleExtent([0.5, 10])
+            .translateExtent([[0, 0], [width, height]])
+            .on('zoom', (event) => {
+                const newXScale = event.transform.rescaleX(xScale);
+                svg.select('.x-axis').call(xAxis.scale(newXScale));
+                nodes.attr('cx', d => newXScale(d.date));
+                svg.selectAll('.event-label').attr('x', d => newXScale(d.date));
+            });
+        
+        d3.select('#timeline svg').call(zoom);
+    </script>
+</body>
+</html>
