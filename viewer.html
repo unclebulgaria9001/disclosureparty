@@ -849,7 +849,8 @@
                     // Check if it's a date/year filter (numbers or bce/ce)
                     if (/^\d+$/.test(searchTerm) || searchTerm === 'bce') {
                         if (searchTerm === 'bce') {
-                            return entryDate.includes('bce') || entryDate.includes(' ce');
+                            // Only match entries that have BCE or CE as era designations (not in other words)
+                            return /^\d+\s+(bce|ce)\b/i.test(entryDate);
                         }
                         
                         // Extract the first year from the date (handles both "2025" and "80 CE" formats)
