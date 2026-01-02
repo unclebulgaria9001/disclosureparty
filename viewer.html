@@ -717,31 +717,42 @@
                     // Check if it's a date/year filter (numbers or bce/ce)
                     if (/^\d+$/.test(searchTerm) || searchTerm === 'bce') {
                         if (searchTerm === 'bce') {
-                            return entryDate.includes('bce') || entryDate.includes('ce');
+                            return entryDate.includes('bce') || entryDate.includes(' ce');
                         }
                         
-                        // Extract the first year from the date (should be at the start)
-                        const yearMatch = entryDate.match(/^(\d{3,4})\b/);
+                        // Extract the first year from the date (handles both "2025" and "80 CE" formats)
+                        const yearMatch = entryDate.match(/^(\d{1,4})\s*(bce|ce|,)?/);
                         if (!yearMatch) return false;
                         
                         const year = yearMatch[1];
+                        const era = yearMatch[2];
                         
-                        // For 2-digit century filters (10-18), match start of year
-                        if (searchTerm.length === 2) {
+                        // Skip BCE/CE entries for modern year filters
+                        if ((era === 'bce' || era === 'ce') && searchTerm.length >= 3) {
+                            return false;
+                        }
+                        
+                        // For 2-digit century filters (10-18), match start of year (only for non-BCE/CE)
+                        if (searchTerm.length === 2 && !era) {
                             return year.startsWith(searchTerm);
                         }
                         
-                        // For 3-digit decade filters (194-200), match start of year
-                        if (searchTerm.length === 3) {
+                        // For 3-digit decade filters (194-200), match start of year (only for non-BCE/CE)
+                        if (searchTerm.length === 3 && !era) {
                             return year.startsWith(searchTerm);
                         }
                         
-                        // For 4-digit year filters, exact match
-                        if (searchTerm.length === 4) {
+                        // For 4-digit year filters, exact match (only for non-BCE/CE)
+                        if (searchTerm.length === 4 && !era) {
                             return year === searchTerm;
                         }
                         
-                        // Fallback for other numeric searches
+                        // For 1-2 digit searches on BCE/CE entries, match the year
+                        if (era && searchTerm.length <= 3) {
+                            return year.startsWith(searchTerm) || year === searchTerm;
+                        }
+                        
+                        // Fallback
                         return year.startsWith(searchTerm);
                     }
                     
