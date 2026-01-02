@@ -1,9 +1,11 @@
 ﻿---
-title: 'UAP, UFO, Aliens, and NHI Chronology 20260102 bACKUP'
-uuid: 8996245c-e767-11f0-9b2b-476a8ad47ef3
-version: 2
-created: '2026-01-02T08:13:56+09:00'
-updated: '2026-01-02T08:14:22+09:00'
+title: 'UAP, UFO, Aliens, and NHI Chronology'
+uuid: c190e470-1445-11ee-a2bb-9e6a8a58b18e
+version: 8223
+created: '2023-06-27T02:20:32+09:00'
+updated: '2026-01-02T15:23:39+09:00'
+tags:
+  - ufo
 ---
 
 # About
@@ -26,11 +28,13 @@ The scope of the Unidentified Aerial Phenomena (UAP),  Unidentified Flying Objec
 
 ### Contact 
 
-For content suggestions, email uncle.bulgaria9001@gmail.com
+For content suggestions, email uncle.bulgari9001@gmail.com
 
 \
 
 # Chronology
+
+## 
 
 ## 2025, September 9 - House holds hearing on UFO transparency and whistleblower protection
 
@@ -47,11 +51,6 @@ For content suggestions, email uncle.bulgaria9001@gmail.com
 Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan effort to unveil information on unidentified aerial phenomena. This coalition includes Senate Minority Leader Chuck Schumer (D-NY) and co-sponsors Mike Rounds (R-SD) and Kirsten Gillibrand (D-NY).
 
 [https://www.congress.gov/amendment/119th-congress/senate-amendment/3111/text](https://www.congress.gov/amendment/119th-congress/senate-amendment/3111/text) 
-
-\
-
-## 2025, June 20 –  The first tranche of the UAP Records Collection goes live in the National Archives Catalog.  
-By this date (540 days after enactment of the NDAA UAP disclosure sections), NARA must post all the digital UAP/unknown-origin technology records that every federal agency reviewed and transferred.  The public can now download FOIA-ready copies of everything tagged “UAP,” “technology of unknown origin,” or “non-human intelligence” and browse them online for the first time.
 
 \
 
@@ -73,11 +72,11 @@ By this date (540 days after enactment of the NDAA UAP disclosure sections), NAR
 
 [https://www.reddit.com/r/UFOs/comments/1i6pm86/4chan_egg_leak_in_antarctica_in_2022_leaker/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/UFOs/comments/1i6pm86/4chan_egg_leak_in_antarctica_in_2022_leaker/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 
-![e74628c3-aa76-430c-b49e-fbb6c0e06989.png|438](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/e74628c3-aa76-430c-b49e-fbb6c0e06989.png)
+![e74628c3-aa76-430c-b49e-fbb6c0e06989.png|438.6487731933594](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/e74628c3-aa76-430c-b49e-fbb6c0e06989.png)
 
- ![two-additional-not-yet-posted-egg-images-from-the-claimed-v0-ojw0k75dfeee1.jpg?width=640&crop=smart&auto=webp&s=f45a478a51ecdfcf84360e14324e93beaaa0f916|345](https://preview.redd.it/two-additional-not-yet-posted-egg-images-from-the-claimed-v0-ojw0k75dfeee1.jpg?width=640&crop=smart&auto=webp&s=f45a478a51ecdfcf84360e14324e93beaaa0f916)
+ ![two-additional-not-yet-posted-egg-images-from-the-claimed-v0-ojw0k75dfeee1.jpg?width=640&crop=smart&auto=webp&s=f45a478a51ecdfcf84360e14324e93beaaa0f916|345.0024108886719](https://preview.redd.it/two-additional-not-yet-posted-egg-images-from-the-claimed-v0-ojw0k75dfeee1.jpg?width=640&crop=smart&auto=webp&s=f45a478a51ecdfcf84360e14324e93beaaa0f916)
 
-![two-additional-not-yet-posted-egg-images-from-the-claimed-v0-bxzgn4dcfeee1.jpg?width=640&crop=smart&auto=webp&s=bbcc72187c406a572ebfe8acd115f56708246c07|405](https://preview.redd.it/two-additional-not-yet-posted-egg-images-from-the-claimed-v0-bxzgn4dcfeee1.jpg?width=640&crop=smart&auto=webp&s=bbcc72187c406a572ebfe8acd115f56708246c07)
+![two-additional-not-yet-posted-egg-images-from-the-claimed-v0-bxzgn4dcfeee1.jpg?width=640&crop=smart&auto=webp&s=bbcc72187c406a572ebfe8acd115f56708246c07|405.99951171875](https://preview.redd.it/two-additional-not-yet-posted-egg-images-from-the-claimed-v0-bxzgn4dcfeee1.jpg?width=640&crop=smart&auto=webp&s=bbcc72187c406a572ebfe8acd115f56708246c07)
 
 ![](https://i.redd.it/6frihoiz4dee1.jpeg)
 
@@ -113,7 +112,7 @@ https://m.youtube.com/watch?v=3dtA9w5ldHw
 
 https://www.reddit.com/r/UFOs/s/P3Gh4swx6f
 
-![brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b|396](https://preview.redd.it/brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b)
+![brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b|396.00323486328125](https://preview.redd.it/brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b)
 
 ![](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/b335a20b-8c3b-4082-9588-306de4b63269.png)
 
@@ -122,7 +121,6 @@ https://www.reddit.com/r/UFOs/s/P3Gh4swx6f
 \
 
 ## 2024, November 13 - Joint Hearing: “Unidentified Anomalous Phenomena: Exposing the Truth”
-
 
 [https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=117721](https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=117721) 
 
@@ -344,7 +342,7 @@ Today, at a U.S. House Committee on Oversight and Accountability hearing, Repres
 
 [https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/](https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/) 
 
-## 
+## <!-- {"collapsed":true} -->
 
 ## 2024, May 21 - "Non-human intelligence exists. Non-human intelligence has been interacting with humanity. This interaction is not new and has been ongoing." - Karl Nell, retired Army Colonel.
 
@@ -410,7 +408,7 @@ https://twitter.com/ChrisKMellon/status/1782521425305243793?t=Zg1W4taa5LZy-IGkC4
 
 https://www.reddit.com/r/UFOs/s/SneoLc2MrA
 
-![1252a0df-0cfe-4298-86a3-246805d98fe0.jpg|795](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/1252a0df-0cfe-4298-86a3-246805d98fe0.jpg) [^1]
+![1252a0df-0cfe-4298-86a3-246805d98fe0.jpg|795.9375](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/1252a0df-0cfe-4298-86a3-246805d98fe0.jpg) [^1]
 
 \
 
@@ -937,9 +935,9 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
  The origins of this release remain a mystery. There are two main possibilities: either CBP took the initiative to proactively disclose these materials to the public, or they were released as a result of a Freedom of Information Act (FOIA) request. The Black Vault currently has multiple FOIA cases with CBP. Some of these requests were transferred to other agencies, while others remain open with CBP.
 
- ![1a3628cc-f14f-42d1-88c8-170a6e445471.png|816](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/1a3628cc-f14f-42d1-88c8-170a6e445471.png)
+ ![1a3628cc-f14f-42d1-88c8-170a6e445471.png|816.063720703125](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/1a3628cc-f14f-42d1-88c8-170a6e445471.png)
 
-![8040d42c-c6b5-426a-956b-95d90f911629.png|822](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/8040d42c-c6b5-426a-956b-95d90f911629.png) [^5]
+![8040d42c-c6b5-426a-956b-95d90f911629.png|822.9974365234375](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/8040d42c-c6b5-426a-956b-95d90f911629.png) [^5]
 
 \
 
@@ -951,9 +949,9 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 [https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/](https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/) 
 
-![6qb3e1nzvamb1.jpg?width=960&crop=smart&auto=webp&s=a1636396880a6b4a35c7c1a0eca8d4dbc9564eb5|652](https://preview.redd.it/6qb3e1nzvamb1.jpg?width=960&crop=smart&auto=webp&s=a1636396880a6b4a35c7c1a0eca8d4dbc9564eb5)
+![6qb3e1nzvamb1.jpg?width=960&crop=smart&auto=webp&s=a1636396880a6b4a35c7c1a0eca8d4dbc9564eb5|652.9971313476562](https://preview.redd.it/6qb3e1nzvamb1.jpg?width=960&crop=smart&auto=webp&s=a1636396880a6b4a35c7c1a0eca8d4dbc9564eb5)
 
- ![b54f1228-6d48-4451-a4ff-e2ee7f900ced.png|382](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/b54f1228-6d48-4451-a4ff-e2ee7f900ced.png) [^6]
+ ![b54f1228-6d48-4451-a4ff-e2ee7f900ced.png|382.95452880859375](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/b54f1228-6d48-4451-a4ff-e2ee7f900ced.png) [^6]
 
 \
 
@@ -1145,7 +1143,7 @@ The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed
 
  
 
-![F5SK-sxXUAECFo5?format=jpg&name=large|545](https://pbs.twimg.com/media/F5SK-sxXUAECFo5?format=jpg&name=large)
+![F5SK-sxXUAECFo5?format=jpg&name=large|545.085205078125](https://pbs.twimg.com/media/F5SK-sxXUAECFo5?format=jpg&name=large)
 
 \
 
@@ -1167,7 +1165,7 @@ Multiple airborne objects, sometimes reported in mainstream media as UFOs, were 
 
 https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023 
 
-![49dec725-0f56-41c8-b77f-701b2d2d4944.png|349](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/49dec725-0f56-41c8-b77f-701b2d2d4944.png) [^7]
+![49dec725-0f56-41c8-b77f-701b2d2d4944.png|349.0170593261719](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/49dec725-0f56-41c8-b77f-701b2d2d4944.png) [^7]
 
  
 
@@ -1299,7 +1297,7 @@ SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) an
 
 In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP) sightings above the USS Kearsarge in the Fall of 2021. He documented the detailed account of these sightings, which can be accessed through his write-up. Despite his efforts, Dave's Freedom of Information Act #FOIA request (case DON-USMC-006344) for related records was denied, indicating no records were found. Researcher Kyle Warfel also pursued a FOIA request (case DON-USMC-2022-006943) for the same incident and received a response containing a heavily redacted printed PowerPoint presentation. This redacted version was shared with The Black Vault for preservation and further analysis. Interestingly, Dave later obtained the same presentation from the office, initially denying his FOIA request, resulting in differing outcomes. The reasons for these discrepancies remain unclear, but responsive documents related to Kyle's FOIA request are now accessible for download from The Black Vault.
 
-![b964dc16-8cdf-44a9-8458-b24f31e54729.png|582](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/b964dc16-8cdf-44a9-8458-b24f31e54729.png) [^9]
+![b964dc16-8cdf-44a9-8458-b24f31e54729.png|582.6666870117188](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/b964dc16-8cdf-44a9-8458-b24f31e54729.png) [^9]
 
 \
 
@@ -1405,7 +1403,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 [https://www.thedrive.com/the-war-zone/43561/mysterious-drone-swarms-over-navy-destroyers-o ff-california-went-on-for-weeks](<https://www.thedrive.com/the-war-zone/43561/mysterious-drone-swarms-over-navy-destroyers-o ff-california-went-on-for-weeks>) 
 
-![20514c5c-3740-46ae-9610-8b998247f567.png|653](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/20514c5c-3740-46ae-9610-8b998247f567.png) [^10]
+![20514c5c-3740-46ae-9610-8b998247f567.png|653.9949340820312](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/20514c5c-3740-46ae-9610-8b998247f567.png) [^10]
 
 \
 
@@ -1427,7 +1425,7 @@ https://reddit.com/r/UFOs/s/9PSLtKNN7O
 
 Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Alarm Station (CAS) that they heard over the escort channel about a possible drone sighting. The CAS Operator reported hearing escorts at building 815 in the Process Area discussing a drone sighting at around 10:27 hours. I subsequently contacted Security Escorts (b) (6) and (b) (6) at building 815 in the Process Area. Both escorts confirmed the sighting, stating, "I saw a round silver drone flying around the Process Area and periodically stopping and hovering for several seconds. It continued flying to the north of my location, paused, and hovered for several more seconds. Afterward, it moved over the area for several minutes and departed to the southeast. It was flying at a high altitude, just below the clouds." The drone-like object was flying at a distance and height that prevented (b) (6) from identifying its characteristics. I also made contact with (b) (6), who confirmed that there were no scheduled drone activities or lights for Site 300 on that day.
 
-![c5750f09-c2bc-4b57-a65d-353f2e8d9d27.png|522](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/c5750f09-c2bc-4b57-a65d-353f2e8d9d27.png) [^11]
+![c5750f09-c2bc-4b57-a65d-353f2e8d9d27.png|522.3922729492188](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/c5750f09-c2bc-4b57-a65d-353f2e8d9d27.png) [^11]
 
 \
 
@@ -1437,7 +1435,7 @@ Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Ala
 
 What appears to be a UFO flies around a Navy ship off the coast of San Diego before suddenly disappearing after flying into the water. NBC’s Gadi Schwartz reports.
 
-![79a506af-4f4b-4eb2-a5b3-ea227e8dca68.png|392](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/79a506af-4f4b-4eb2-a5b3-ea227e8dca68.png) [^12]
+![79a506af-4f4b-4eb2-a5b3-ea227e8dca68.png|392.66668701171875](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/79a506af-4f4b-4eb2-a5b3-ea227e8dca68.png) [^12]
 
 \
 
@@ -1459,7 +1457,7 @@ The Pentagon UFO videos consist of visual recordings captured by US Navy fighter
 
 I nvestigative journalists Jeremy Corbell and George Knapp obtained and are revealing for the first time - footage of a military filmed UAP incursion within a United States joint operations base. This UAP of unknown origin displayed transmedium capability - and has been officially designated by the United States intelligence agencies as a UAP (Unidentified Aerial Phenomena).
 
-![f1111561-e025-483d-884c-14e4740b992a.png|380](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/f1111561-e025-483d-884c-14e4740b992a.png) [^13]
+![f1111561-e025-483d-884c-14e4740b992a.png|380.98480224609375](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/f1111561-e025-483d-884c-14e4740b992a.png) [^13]
 
 \
 
@@ -1657,11 +1655,11 @@ According to the information provided, the uploaded clips are small samples sele
 
 [https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/](https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/) 
 
-![Highcompressed_1697883001.jpg|439](https://www.howandwhys.com/wp-content/uploads/2023/01/Highcompressed_1697883001.jpg)
+![Highcompressed_1697883001.jpg|439.9953308105469](https://www.howandwhys.com/wp-content/uploads/2023/01/Highcompressed_1697883001.jpg)
 
-![maxresdefault.jpg|478](https://i.ytimg.com/vi/FO9lnZfdefk/maxresdefault.jpg)
+![maxresdefault.jpg|478.0623474121094](https://i.ytimg.com/vi/FO9lnZfdefk/maxresdefault.jpg)
 
-![?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPQCXZzYznso%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=a48217a1f3b0fa10221135fac7b97ccaf0c42cac13dc7fbc35d79ee83e9ca838&ipo=images|479](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPQCXZzYznso%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=a48217a1f3b0fa10221135fac7b97ccaf0c42cac13dc7fbc35d79ee83e9ca838&ipo=images)
+![?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPQCXZzYznso%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=a48217a1f3b0fa10221135fac7b97ccaf0c42cac13dc7fbc35d79ee83e9ca838&ipo=images|479.06048583984375](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPQCXZzYznso%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=a48217a1f3b0fa10221135fac7b97ccaf0c42cac13dc7fbc35d79ee83e9ca838&ipo=images)
 
 \
 
@@ -1925,58 +1923,6 @@ A former White House chief of staff, John Podesta, and an international investig
 
 \
 
-## 2008, August 28 - "Hello from Earth" message sent from Evpatoria
-
-A digital radio message transmitted from the Evpatoria Planetary Radar in Ukraine toward Gliese 581c (exoplanet in habitable zone, 20.4 light years away). The message included:
-
-CONTENTS:
-- 501 text messages selected from 25,880 submissions via social networking site Bebo
-- Messages from people in 195 countries
-- Photos and drawings
-- Messages of peace, hope, and greeting
-
-TRANSMISSION DETAILS:
-- Date: August 28, 2008
-- Duration: 4.5 hours
-- Target arrival: 2029
-- Frequency: 5 GHz
-- Power: 500 kW
-
-First message to be "crowdsourced" from the public via social media.
-
-Morse code pattern: —·—··· (long, short-long, three short)
-
-https://en.wikipedia.org/wiki/A_Message_From_Earth
-https://www.space.com/5893-message-earth-beamed-alien-planet.html
-
-\
-
-## 2001, September 3 - Teen Age Message transmitted
-
-A series of interstellar radio messages sent from the 70-meter Evpatoria Planetary Radar in Ukraine toward six sun-like stars (47 Ursae Majoris, 37 Geminorum, HD 126053, HD 76151, HD 193664, HD 95128). The message included:
-
-CONTENTS:
-- Coherent sounding signal
-- Logotype of Teen Age Message
-- Musical melodies (Theremin concert)
-- Bilingual Russian-English message
-- Images and text created by teens
-- Scientific information
-
-TARGETS: Stars 45-70 light years away, selected for being similar to our Sun
-TRANSMISSION: Three days of transmission (Sept 3-5, 2001)
-FREQUENCY: 5 GHz
-POWER: 150 kW
-
-First message composed by teens for potential extraterrestrial recipients.
-
-Morse code pattern: ··—·· (two short, one long, two short)
-
-https://en.wikipedia.org/wiki/Teen_Age_Message
-https://www.seti.org/teen-age-message
-
-\
-
 ## 2001, February - Gary McKinnon, a British hacker, allegedly accessed NASA websites and claims to have found images resembling extraterrestrial spaceships #new #news (2023-08-10)
 
 [https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/](https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/) 
@@ -2147,7 +2093,7 @@ UFO sightings are reported across multiple locations in Russia between 8:00 p.m.
 
 [https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673](https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673) 
 
-![calvine-photograph.jpg|486](https://m.economictimes.com/thumb/msid-93595297,width-2500,height-1998,resizemode-4,imgsize-206942/calvine-photograph.jpg)
+![calvine-photograph.jpg|486.1505126953125](https://m.economictimes.com/thumb/msid-93595297,width-2500,height-1998,resizemode-4,imgsize-206942/calvine-photograph.jpg)
 
 \
 
@@ -2219,7 +2165,7 @@ Possible hint at Ross Coulthart's giant UFO that is "part of five eyes", ""not i
 
 On November 17, 1986, a notable UFO incident involving a Japan Air Lines Cargo Flight 1628 took place. This incident centred around a Japanese Boeing 747-200F cargo aircraft travelling from Paris to Narita International Airport near Tokyo. The airplane was carrying Beaujolais wine. While flying over eastern Alaska during the Reykjavík to Anchorage leg of the journey at around 17:11, the crew spotted two unidentified objects to their left. These objects rapidly ascended from below and approached to escort the aircraft. Each object displayed two arrays of glowing nozzles or thrusters while their bodies remained obscured in darkness. The aircraft's cabin was illuminated, and the crew could feel the heat on their faces as the objects came closer. Eventually, the two escorting craft departed, making way for a much larger, disk-shaped object that began trailing behind the airplane. Anchorage Air Traffic Control even asked an approaching United Airlines flight and a military aircraft to confirm the unidentified traffic, but by around 17:51, when they observed JAL 1628, no other crafts could be identified. The entire sighting persisted for 50 minutes and concluded in the vicinity of Denali.
 
-![5db773086622e.image.png?resize=987%2C500|537](https://bloximages.chicago2.vip.townnews.com/anchoragepress.com/content/tncms/assets/v3/editorial/b/9a/b9a1089a-f9d6-11e9-9c2c-33fd8965056e/5db773086622e.image.png?resize=987%2C500)
+![5db773086622e.image.png?resize=987%2C500|537.9143676757812](https://bloximages.chicago2.vip.townnews.com/anchoragepress.com/content/tncms/assets/v3/editorial/b/9a/b9a1089a-f9d6-11e9-9c2c-33fd8965056e/5db773086622e.image.png?resize=987%2C500)
 
 \
 
@@ -2249,7 +2195,7 @@ Betty Cash, Vickie Landrum, and Vickie’s grandson Colby reported encountering 
 
 \
 
-1947 — Kenneth Arnold sighting (Washington State, USA)
+## 1947 — Kenneth Arnold sighting (Washington State, USA)
 
 Why it matters: Kicked off the modern UFO era (“flying saucers”); multiple objects, high speed, shaped reporting baseline.
 
@@ -2257,7 +2203,7 @@ Evidence/sources: Contemporary press; FBI/USAF memos.
 
 \
 
-\- 1947 — Roswell incident (New Mexico, USA)
+## 1947 — Roswell incident (New Mexico, USA)
 
 Why it matters: Most famous alleged recovery; decades of FOIA and USAF reports (Project Mogul explanation) keep it central to crash–retrieval debates.
 
@@ -2265,7 +2211,7 @@ Evidence/sources: USAF 1994/1997 reports; GAO; extensive FOIA material.
 
 \
 
-\- 1952 — Washington, D.C. “radar–visual” flap (USA)
+## 1952 — Washington, D.C. “radar–visual” flap (USA)
 
 Why it matters: Multi-night ATC radar tracks + visual sightings; F-94 scrambles over the capital; triggered CIA’s Robertson Panel.
 
@@ -2273,7 +2219,7 @@ Evidence/sources: USAF/CAA records; press; CIA history.
 
 \
 
-\- 1952 — Tremonton/Great Falls films (Utah/Montana, USA)
+## 1952 — Tremonton/Great Falls films (Utah/Montana, USA)
 
 Why it matters: Early multi-object films evaluated by Navy/USAF; part of Project Blue Book Special Reports.
 
@@ -2281,7 +2227,7 @@ Evidence/sources: Declassified analyses; NICAP/Blue Book files.
 
 \
 
-\- 1957 — RB-47 case (Gulf of Mexico, USA)
+## 1957 — RB-47 case (Gulf of Mexico, USA)
 
 Why it matters: Six-man crew; simultaneous EW gear, radar, and visual tracking over hundreds of miles; classic multi-sensor.
 
@@ -2289,7 +2235,7 @@ Evidence/sources: USAF logs; crew interviews; Condon Report section.
 
 \
 
-\- 1964 — Socorro/Lonnie Zamora (New Mexico, USA)
+## 1964 — Socorro/Lonnie Zamora (New Mexico, USA)
 
 Why it matters: Police witness; close approach, landing traces, burned brush; Project Blue Book “unknown.”
 
@@ -2297,7 +2243,7 @@ Evidence/sources: Blue Book; NICAP; FBI memos.
 
 \
 
-\- 1965 — Valensole (France)
+## 1965 — Valensole (France)
 
 Why it matters: CEIII with ground traces; gendarmerie took statements; long-term physiological effects claimed.
 
@@ -2305,7 +2251,7 @@ Evidence/sources: French police reports; GEPAN dossiers.
 
 \
 
-\- 1966 — Westall school mass sighting (Victoria, Australia)
+## 1966 — Westall school mass sighting (Victoria, Australia)
 
 Why it matters: Hundreds of students/staff reportedly observed maneuvering craft; enduring testimony; school-related mass case.
 
@@ -2313,7 +2259,7 @@ Evidence/sources: Australian archives; witness compilations.
 
 \
 
-\- 1967 — Malmstrom AFB Minuteman shutdowns (Montana, USA)
+## 1967 — Malmstrom AFB Minuteman shutdowns (Montana, USA)
 
 Why it matters: UAP coincident with ICBM silo malfunctions; nuclear connection that recurs in later testimony.
 
@@ -2321,7 +2267,7 @@ Evidence/sources: USAF affidavits/memos; FOIA; Hastings/Salas docs.
 
 \
 
-\- 1967 — Shag Harbour USO (Nova Scotia, Canada)
+## 1967 — Shag Harbour USO (Nova Scotia, Canada)
 
 Why it matters: Multiple official witnesses; probable object entry into water; RCMP/Canadian Coast Guard search and reports.
 
@@ -2329,7 +2275,7 @@ Evidence/sources: Canadian National Archives; RCMP docs.
 
 \
 
-\- 1971 — Costa Rica aerial survey photo (Lake Cote)
+## 1971 — Costa Rica aerial survey photo (Lake Cote)
 
 Why it matters: High-resolution, government aerial mapping photo showing disc-like object; frequently cited as best daylight photo case.
 
@@ -2337,7 +2283,7 @@ Evidence/sources: Costa Rican mapping agency negatives; analyses.
 
 \
 
-\- 1973 — Pascagoula abduction (Mississippi, USA)
+1973 — Pascagoula abduction (Mississippi, USA)
 
 Why it matters: Two shipyard workers; taped private conversation suggests sincerity; enduring case with new corroborations.
 
@@ -2345,7 +2291,7 @@ Evidence/sources: Sheriff’s recordings; affidavits.
 
 \
 
-\- 1975 — NORAD/SAC base intrusions (Loring/Wurtsmith/Malmstrom/etc., USA)
+## 1975 — NORAD/SAC base intrusions (Loring/Wurtsmith/Malmstrom/etc., USA)
 
 Why it matters: Multi-night incursions over nuclear weapons storage/ICBM sites; helicopters/UAP; security alerts.
 
@@ -2353,7 +2299,7 @@ Evidence/sources: FOIA’d logs; teletype messages; NORAD reports.
 
 \
 
-\- 1976 — Tehran F-4 intercept (Iran)
+## 1976 — Tehran F-4 intercept (Iran)
 
 Why it matters: EM effects on two fighters; radar–visual; crew attempted engagement; documented in DIA/NSA cables.
 
@@ -2361,7 +2307,7 @@ Evidence/sources: Declassified DIA/NSA reports.
 
 \
 
-\- 1978 — Frederick Valentich disappearance (Bass Strait, Australia)
+## 1978 — Frederick Valentich disappearance (Bass Strait, Australia)
 
 Why it matters: Pilot vanishes after reporting “not an aircraft” hovering above; audio recording preserved.
 
@@ -2369,7 +2315,7 @@ Evidence/sources: Australian ATSB files; audio transcript.
 
 \
 
-\- 1980 — Cash–Landrum (Texas, USA)
+## 1980 — Cash–Landrum (Texas, USA)
 
 Why it matters: Close encounter with intense radiation-like injuries; legal action vs. U.S. government.
 
@@ -2377,7 +2323,7 @@ Evidence/sources: Medical records; AFOSI inquiries.
 
 \
 
-\- 1980 — Rendlesham Forest (UK)
+## 1980 — Rendlesham Forest (UK)
 
 Why it matters: Multiple nights; USAF personnel; Halt memo and audio; ground impressions and radiation readings reported.
 
@@ -2385,7 +2331,7 @@ Evidence/sources: UK MoD files; Halt memo/tape.
 
 \
 
-\- 1981 — Trans-en-Provence (France)
+## 1981 — Trans-en-Provence (France)
 
 Why it matters: Physical trace case with soil/plant biochemical changes; investigated by GEPAN/SEPRA (French CNES).
 
@@ -2393,7 +2339,7 @@ Evidence/sources: CNES report; lab analyses.
 
 \
 
-\- 1986 — “Night of the UFOs” (Brazil)
+## 1986 — “Night of the UFOs” (Brazil)
 
 Why it matters: Country-wide radar tracks; FAB jets scrambled; official press conference acknowledging anomalies.
 
@@ -2401,7 +2347,7 @@ Evidence/sources: Brazilian Air Force declassifications; pilot testimony.
 
 \
 
-\- 1986 — JAL 1628 (Alaska, USA)
+## 1986 — JAL 1628 (Alaska, USA)
 
 Why it matters: Veteran crew; huge object/pacing lights; FAA radar correlation; ATC tapes.
 
@@ -2409,7 +2355,7 @@ Evidence/sources: FAA records; radar summaries; interviews.
 
 \
 
-\- 1989–1990 — Belgian wave (Belgium)
+## 1989–1990 — Belgian wave (Belgium)
 
 Why it matters: Triangle craft; mass sightings; police/air force involvement; F-16 pursuits and radar.
 
@@ -2417,7 +2363,7 @@ Evidence/sources: Belgian Air Force briefings; SOBEPS.
 
 \
 
-\- 1991 — Father Gill/Boianai was 1959 (Papua New Guinea) — including here as a historic CEIII
+## 1991 — Father Gill/Boianai was 1959 (Papua New Guinea) — including here as a historic CEIII
 
 Why it matters: Missionary and dozens observe craft with occupants “waving”; multiple witness statements.
 
@@ -2425,7 +2371,7 @@ Evidence/sources: Contemporary reports; later re-interviews.
 
 \
 
-\- 1994 — Ariel School (Ruwa, Zimbabwe)
+## 1994 — Ariel School (Ruwa, Zimbabwe)
 
 Why it matters: Dozens of students report close encounter with entities; recorded interviews by Cynthia Hind and John Mack.
 
@@ -2433,7 +2379,7 @@ Evidence/sources: Raw interviews; school staff statements.
 
 \
 
-\- 1994 — Trumbull County police pursuit (Ohio, USA)
+## 1994 — Trumbull County police pursuit (Ohio, USA)
 
 Why it matters: Multiple police units chase/observe; dispatch audio preserved.
 
@@ -2441,7 +2387,7 @@ Evidence/sources: 911/dispatch tapes; officer reports.
 
 \
 
-\- 2006 — O’Hare International Airport (Chicago, USA)
+## 2006 — O’Hare International Airport (Chicago, USA)
 
 Why it matters: Airline and ramp personnel observe disc punching hole in cloud layer; FAA FOIA yields call logs.
 
@@ -2449,7 +2395,7 @@ Evidence/sources: FAA FOIA logs; media corroboration.
 
 \
 
-\- 2007 — Alderney airline sighting (Channel Islands, UK)
+## 2007 — Alderney airline sighting (Channel Islands, UK)
 
 Why it matters: Two commercial crews; structured object(s), daylight, long duration.
 
@@ -2457,7 +2403,7 @@ Evidence/sources: CAA reports; pilot interviews.
 
 \
 
-\- 2013 — Aguadilla/DHS FLIR (Puerto Rico)
+## 2013 — Aguadilla/DHS FLIR (Puerto Rico)
 
 Why it matters: Government thermal video of fast, low-altitude object reportedly splitting/merging; often cited in FOIA context.
 
@@ -2473,7 +2419,7 @@ Evidence/sources: CEFAA report; raw video.
 
 \
 
-\- 1976 — Canary Islands CEIII (Spain)
+## 1976 — Canary Islands CEIII (Spain)
 
 Why it matters: Mass sighting with occupant claims; Spanish Air Force files later declassified.
 
@@ -2481,7 +2427,7 @@ Evidence/sources: Spanish MoD release.
 
 \
 
-\- 1953 — Kinross/F-89 disappearance (Lake Superior, USA)
+## 1953 — Kinross/F-89 disappearance (Lake Superior, USA)
 
 Why it matter
 
@@ -2495,7 +2441,7 @@ Evidence/sources: USAF reports; accident records.
 
 On April 11, 1980, at La Joya Air Force Base in Peru, General Luis Spicer oversaw Peruvian Air Force training when a UFO was detected by the control tower. A large, glowing object approached the base, evading attempts at communication. Lieutenant Oscar Santa Maria Huertas piloted a Su-22 to intercept the UFO, describing it as a dome-shaped craft with a bright halo and remarkable agility. Despite firing at it, the UFO absorbed projectiles and ascended rapidly, displaying advanced capabilities. The incident, witnessed by around 2,000 personnel, remains a well-documented UFO encounter involving the military. Santa Maria's encounter with the enigmatic object prompted Peruvian government reporting to U.S. authorities like the CIA, NSA, and secretary of state. General Spicer emphasized the importance of understanding these phenomena to determine their nature and potential implications.
 
-![combate-ovni1.jpg|549](https://earth-chronicles.com/wp-content/uploads/2021/09/combate-ovni1.jpg)
+![combate-ovni1.jpg|549.6666870117188](https://earth-chronicles.com/wp-content/uploads/2021/09/combate-ovni1.jpg)
 
 \
 
@@ -2525,77 +2471,11 @@ The 1976 Tehran UFO Incident occurred on September 19, involving an unidentified
 
 \
 
-## 1999, May 24 - Cosmic Call transmitted
-
-The first Cosmic Call was transmitted from the 70-meter Evpatoria Planetary Radar in Ukraine toward four nearby stars. The message used a sophisticated mathematical language called "Lexicon" developed specifically for interstellar communication.
-
-CONTENTS:
-- Primer on mathematics and physics
-- Information about Earth and humanity
-- Bilingual Russian-English dictionary
-- Images and scientific data
-- Musical compositions
-
-TARGETS:
-- HD 178428 (Sagittarius, 68 light years)
-- HD 186408 (Cygnus, 69 light years)  
-- HD 190406 (Cygnus, 57 light years)
-- HD 190360 (Cygnus, 52 light years)
-
-TRANSMISSION DETAILS:
-- Date: May 24, 1999
-- Frequency: 5 GHz
-- Power: 150 kW
-- Duration: Multiple hours
-
-A second Cosmic Call was sent in 2003 to five additional stars.
-
-Morse code pattern: ·—· (short-long-short)
-
-https://en.wikipedia.org/wiki/Cosmic_Call
-https://www.seti.org/cosmic-call
-
-\  
-
 ## 1969, October 24 - A Chilean informant claims a Chilean Navy destroyer witnessed six objects that approached the ship, one larger than the destroyer. The objects were cube and egg-shaped, and electromagnetic interference was reported
 
 http://www.waterufo.net/item.php?id=197
 
 Note: Publisher of this account, to whom the Chilean source spoke to, was an Australian ufologist of reasonable quality who had vetted AU govt. sources properly previously.
-
-\
-
-## 1973, March 3 - Pioneer 11 plaque launched
-
-NASA's Pioneer 11 spacecraft carries an identical gold-anodized aluminum plaque to Pioneer 10. Designed by Carl Sagan and Frank Drake, the 6" × 9" plaque shows:
-- Nude figures of a man and woman
-- Hydrogen atom hyperfine transition (universal unit of time/length)
-- Radial pattern showing Earth's position relative to 14 pulsars
-- Solar system diagram with spacecraft trajectory
-- Silhouette of spacecraft for scale
-
-Morse code pattern: —·· (one long burst, then two short bursts)
-
-https://en.wikipedia.org/wiki/Pioneer_plaque
-https://www.nasa.gov/feature/jpl/the-golden-record
-
-\
-
-## 1972, March 2 - Pioneer 10 launched with plaque
-
-Pioneer 10 becomes the first spacecraft to carry a message from humanity intended for potential extraterrestrial discovery. The 6" × 9" gold-anodized aluminum plaque contains:
-- Nude figures of a man and woman (woman's hand raised in greeting)
-- Hyperfine transition of hydrogen (universal physical constant)
-- Radial pattern showing Earth's location relative to 14 pulsars and galactic center
-- Solar system diagram showing spacecraft's origin and trajectory
-- Binary representation of Earth's position as third planet
-
-Designed by Carl Sagan and Frank Drake, drawn by Linda Salzman Sagan. The plaque is attached to the spacecraft's antenna support struts to shield it from erosion by interstellar dust.
-
-Morse code pattern: —·· (one long burst, then two short bursts)
-
-https://www.nasa.gov/mission_pages/pioneer/index.html
-https://en.wikipedia.org/wiki/Pioneer_plaque
 
 \
 
@@ -2617,62 +2497,9 @@ https://archive.org/details/ufoexperience00jall/page/208/mode/2up (p208)
 
 \
 
-## 1974, November 16 - Arecibo Message transmitted
-
-The Arecibo Message was a 1,679-bit radio signal (169 seconds duration) sent from the Arecibo Observatory in Puerto Rico toward globular star cluster M13, 25,000 light years away. Designed by Frank Drake and Carl Sagan, the binary message contains:
-- Numbers 1-10 in binary
-- Atomic numbers of elements in DNA (H, C, N, O, P)
-- Formulas for DNA nucleotides
-- DNA double helix structure
-- Human figure and average height
-- Earth's population (4 billion in 1974)
-- Solar system diagram
-- Arecibo telescope diagram
-
-Transmitted at 2,380 MHz with 1,000 kW power (20 trillion watts ERP). The message will arrive at M13 in approximately 25,000 years.
-
-Morse code pattern: ·—·— (short-long-short-long)
-
-https://en.wikipedia.org/wiki/Arecibo_message
-https://www.seti.org/arecibo-message
-View full message: dist/arecibo-message-1974.txt
-
-\
-
 ## 1973, October 11 - Pascagoula Abduction (October 11, 1973)
 
    - In Pascagoula, Mississippi, Charles Hickson and Calvin Parker reported being abducted by alien beings while fishing. They described being taken aboard a craft where they encountered humanoid creatures. This case is one of the earliest and most famous abduction reports in the United States.
-
-\
-
-## 1977, August 20 - Voyager Golden Record launched
-
-NASA's Voyager 1 (Sept 5) and Voyager 2 (Aug 20) spacecraft each carry a 12-inch gold-plated copper phonograph record. Created by a committee chaired by Carl Sagan, the records contain:
-
-AUDIO CONTENTS:
-- Greetings in 55 languages (including ancient Sumerian)
-- Natural sounds: thunder, rain, surf, wind, birds, whales, etc.
-- Human sounds: heartbeat, laughter, footsteps, kiss
-- Music: 90 minutes from various cultures and eras (Bach, Mozart, Chuck Berry, Peruvian panpipes, Navajo chants, etc.)
-
-IMAGE CONTENTS:
-- 116 images showing Earth, life, and human civilization
-- Mathematical and physical definitions
-- DNA structure
-- Human anatomy
-- Various landscapes and structures
-
-The cover includes:
-- Instructions for playing the record (in symbolic language)
-- Pulsar map showing Earth's location
-- Ultra-pure uranium-238 sample for dating
-
-Expected to last over 1 billion years in space.
-
-Morse code pattern: — ···· (one long, then four shorts)
-
-https://voyager.jpl.nasa.gov/golden-record/
-https://en.wikipedia.org/wiki/Voyager_Golden_Record
 
 \
 
@@ -2764,7 +2591,7 @@ The incident at Malmstrom Air Force Base is one of the most significant events i
 
 ## 1967 - Unidentified Spherical Object
 
-![1967-unidentified-spherical-object-v0-02wv8f2wcr3d1.jpeg?width=640&crop=smart&auto=webp&s=f7b295446243f4b960e740e164eb6dcafa0d7bfa|467](https://preview.redd.it/1967-unidentified-spherical-object-v0-02wv8f2wcr3d1.jpeg?width=640&crop=smart&auto=webp&s=f7b295446243f4b960e740e164eb6dcafa0d7bfa)
+![1967-unidentified-spherical-object-v0-02wv8f2wcr3d1.jpeg?width=640&crop=smart&auto=webp&s=f7b295446243f4b960e740e164eb6dcafa0d7bfa|467.9961242675781](https://preview.redd.it/1967-unidentified-spherical-object-v0-02wv8f2wcr3d1.jpeg?width=640&crop=smart&auto=webp&s=f7b295446243f4b960e740e164eb6dcafa0d7bfa)
 
 \
 
@@ -2772,7 +2599,7 @@ The incident at Malmstrom Air Force Base is one of the most significant events i
 
 [https://time.com/4232540/history-ufo-sightings/](https://time.com/4232540/history-ufo-sightings/) 
 
-![8ec9868b-8a18-461e-85f0-c7ef75b1068a.png|436](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/8ec9868b-8a18-461e-85f0-c7ef75b1068a.png)
+![8ec9868b-8a18-461e-85f0-c7ef75b1068a.png|436.9939880371094](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/8ec9868b-8a18-461e-85f0-c7ef75b1068a.png)
 
 \
 
@@ -2849,7 +2676,7 @@ The National Investigations Committee On Aerial Phenomena was formed in 1956, wi
 
 During the Cold War, recently revealed secret files indicate that two U.S. fighter planes were dispatched to intercept and potentially shoot down an unidentified flying object (UFO) over the English countryside. The incident, disclosed through National Archives files in London, occurred in May 1957. Pilot Milton Torres, now living in Miami, recounted his experience when he was seconds away from firing rockets at the object, which exhibited erratic movement and had a radar reading resembling "a flying aircraft carrier." Despite reaching speeds exceeding 7,600 mph (12,000 kph) and moments from firing, the UFO abruptly vanished from radar. Following the incident, Torres was cautioned by an undisclosed individual, threatening national security repercussions if he spoke about it. The documents don't offer an official explanation for the event, with speculation ranging from secret military experiments to possible UFO involvement.
 
-![c4da3aca-03fc-4591-ac93-ce3d481569d7.png|561](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/c4da3aca-03fc-4591-ac93-ce3d481569d7.png) [^22]
+![c4da3aca-03fc-4591-ac93-ce3d481569d7.png|561.6666870117188](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/c4da3aca-03fc-4591-ac93-ce3d481569d7.png) [^22]
 
 \
 
@@ -2927,7 +2754,7 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 ![](https://preview.redd.it/here-is-the-picture-i-took-from-the-guy-who-claimed-to-have-v0-6pd33438jd8d1.jpeg?width=640&crop=smart&auto=webp&s=7ffa63043c7c3b47718c57bee2a590907bb5a040)
 
-![caa743e0-0a88-4d16-ab9c-f8da43223ecf.png|342](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/caa743e0-0a88-4d16-ab9c-f8da43223ecf.png) [^23]
+![caa743e0-0a88-4d16-ab9c-f8da43223ecf.png|342.9758605957031](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/caa743e0-0a88-4d16-ab9c-f8da43223ecf.png) [^23]
 
 ![](https://preview.redd.it/ufo-twitter-has-discovered-this-v0-ufeublg9hf8d1.jpg?width=596&format=pjpg&auto=webp&s=e84dacfb92326a44a1971187e7ddf39d273fb4ef)
 
@@ -2939,7 +2766,7 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 ![](https://preview.redd.it/here-is-the-picture-i-took-from-the-guy-who-claimed-to-have-v0-6pd33438jd8d1.jpeg?width=640&crop=smart&auto=webp&s=7ffa63043c7c3b47718c57bee2a590907bb5a040)
 
-![caa743e0-0a88-4d16-ab9c-f8da43223ecf.png|342](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/caa743e0-0a88-4d16-ab9c-f8da43223ecf.png) [^24]
+![caa743e0-0a88-4d16-ab9c-f8da43223ecf.png|342.9758605957031](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/caa743e0-0a88-4d16-ab9c-f8da43223ecf.png) [^24]
 
  
 
@@ -3109,17 +2936,17 @@ The Roswell incident in June and July 1947 in New Mexico involved the military's
 
 It boggles my mind how most people never heard of any of that and instead they just accept lies and misleading statements that apparently there were only second hand stories and that everything was explained.
 
-![roswelldailyrecord_0.jpg|439](https://th-thumbnailer.cdn-si-edu.com/IwjfJpcbVLJRuKrmbLkrO-eLjEA=/1000x750/filters:no_upscale():focal(747x308:748x309)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/2a/c8/2ac8e2af-bde4-49ea-9835-a543b87ded15/roswelldailyrecord_0.jpg)
+![roswelldailyrecord_0.jpg|439.9857482910156](https://th-thumbnailer.cdn-si-edu.com/IwjfJpcbVLJRuKrmbLkrO-eLjEA=/1000x750/filters:no_upscale():focal(747x308:748x309)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/2a/c8/2ac8e2af-bde4-49ea-9835-a543b87ded15/roswelldailyrecord_0.jpg)
 
 \
 
 ## 1947, June 24 - Civilian pilot Kenneth Arnold.
 
-civilian pilot Kenneth Arnold. While flying his small aircraft near Washington’s Mount Rainier on June 24, 1947, Arnold claimed to have seen nine blue, glowing objects flying fast—at an estimated 1,700 m.p.h.—in a “V” formation.
+Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington’s Mount Rainier on June 24, 1947, Arnold claimed to have seen nine blue, glowing objects flying fast—at an estimated 1,700 m.p.h.—in a “V” formation.
 
 [https://www.history.com/news/historys-most-infamous-ufo-sightings](https://www.history.com/news/historys-most-infamous-ufo-sightings) 
 
-![kenneth-arnold-515217790.jpg?width=2048&height=1432&crop=2048%3A1432%2Csmart&quality=75&auto=webp|468](https://assets.editorial.aetnd.com/uploads/2018/08/kenneth-arnold-515217790.jpg?width=2048&height=1432&crop=2048%3A1432%2Csmart&quality=75&auto=webp)
+![kenneth-arnold-515217790.jpg?width=2048&height=1432&crop=2048%3A1432%2Csmart&quality=75&auto=webp|468.4314880371094](https://assets.editorial.aetnd.com/uploads/2018/08/kenneth-arnold-515217790.jpg?width=2048&height=1432&crop=2048%3A1432%2Csmart&quality=75&auto=webp)
 
 \
 
@@ -3399,7 +3226,7 @@ The Hyaku Monogatari, a collection of Japanese ghost stories, reported an object
 
 \
 
-## 1100 CE - Bright Sky Object As Significant Harbinger
+## 1100 CE - Bright Sky Object as a Significant Harbinger
 
 The Gukanshō in Japan described a bright object seen in the sky as a harbinger of significant events.
 
@@ -3669,15 +3496,19 @@ Cassius Dio, a historian in Rome, saw a bright comet appear in the sky, seen as 
 
 \
 
-## 138 BCE - Fiery Torches In The Sky
-
-Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
+## 
 
 \
 
 ## 134 BCE - Large Bright Object
 
 Julius Obsequens, a chronicler in Rome, noted a large, bright object moving across the sky, witnessed by many.
+
+\
+
+## 138 BCE - Fiery Torches In The Sky
+
+Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
 
 \
 
@@ -3701,7 +3532,7 @@ Details: According to the Roman historian Livy, an object that resembled a round
 
 ## 218 BCE - Phantom Ships Over Rome
 
-Livy in Rome reported that "phantom ships" were seen gleaming in the sky over various parts of Rome. According to the Roman historian Livy, there were sightings of what were described as "phantom ships" in the sky. These ships were reportedly seen over various parts of Rome and were described as "gleaming," suggesting they may have been illuminated or reflective. This event is one of the earliest recorded instances of unidentified flying objects (UFOs), although it was interpreted in the context of the ancient Roman world. Further specifics, such as the exact date, duration of the event, or public reaction, are not provided in the record.
+Livy in Rome reported that "phantom ships" were seen gleaming in the sky over various parts of Rome. According to the Roman historian Livy, there were sightings of what were described as "phantom ships" in the sky. These ships were reportedly seen over various parts of Rome and were described as "gleaming," suggesting they may have been illuminated or reflective. This event is one of the earliest recorded instances of unidentified flying objects (UFOs), although it was interpreted in the context of the ancient Roman world. Further specifics, such as the exact date, the event's duration, or public reaction, are not provided in the record.
 
 \
 
@@ -3719,7 +3550,7 @@ Plutarch in Turkey reported during a battle between Roman and Mithridatic forces
 
 ## 66 BCE - Burning Shield Scattering Sparks At Sunset
 
-Pliny the Elder in Rome reported a burning shield scattering sparks moving across the sky at sunset, which many in Rome saw.
+Pliny the Elder in Rome reported a burning shield that scattered sparks across the sky at sunset, which many in Rome saw.
 
 \
 
@@ -3732,824 +3563,3 @@ Julius Obsequens in Rome reported a "spark" fell from a star and grew as it desc
 ## 1440 BCE - Circle Of Fire In The Sky
 
 During the reign of Thutmose III in Egypt, a "circle of fire" brighter than the sun hovered in the sky, emitting a foul odour. It appeared for several days before vanishing. This event is recorded in the Tulli Papyrus.
-
-\
-
-\
-
-UK MoD “Project Condign” (2000; released mid‑2000s): “Unidentified Aerial Phenomena in the UK Air Defence Region.” It’s the UK’s most substantial official technical assessment (plasma/hypotheses, sensor considerations). You reference 2006 press coverage, but not the report itself. Add the full report and annexes.
-
-\
-
-\- France CNES/GEIPAN and the 1999 COMETA Report:
-
-  - GEIPAN case files: official French aerospace agency investigations (Trans-en-Provence, Valensole, many others) with primary documentation.
-
-  - COMETA (“UFOs and Defense: What Should We Prepare For?”): semi‑official retired flag officer/scientist report concluding some cases likely non‑conventional technology. Often cited in policy discussions.
-
-\
-
-\- Spain Ejército del Aire “Expedientes OVNI” (declassified Spanish Air Force case files):
-
-  - 1979 Manises incident (airliner diversion; military scramble; official dossier).
-
-  - 1976–78 Canary Islands CEIII file (already alluded to in your list; include the primary MoD release).
-
-\
-
-\- Canada civil-aviation data streams:
-
-  - Transport Canada CADORS (Civil Aviation Daily Occurrence Reporting System): many recent “UFO/UAP” coded pilot reports (2019–present).
-
-  - NAV CANADA/Transport Canada ATC advisories related to “UFO/Drone/Unknown” in NOTAMs and occurrence logs.
-
-\
-
-\- FAA/NASA pilot-safety reporting datasets:
-
-  - FAA ATC facility logs (you used some for O’Hare) and NASA‑run ASRS incident narratives, which since 2021 include UAP tags in some reports.
-
-\
-
-\- ODNI Annual UAP Reports to Congress (post‑2021):
-
-  - 2022 and 2023 ODNI annual reports (distinct from the June 2021 Preliminary Assessment). They quantify and categorize reports (balloons/UAS, clutter, “other”) and discuss sensor/reporting biases. Having all three together lets you trend categories year over year.
-
-\
-
-\- USAF Project Blue Book Special Report No. 14 (1955):
-
-  - Statistical analysis of 3,000+ Blue Book cases by Battelle; key for historical baselines and “unknown” vs “insufficient data” rates. It anchors pre‑modern sensor/airspace context.
-
-\
-
-\- U.S. “green fireball”/Project Twinkle primary files (Los Alamos/Sandia 1948–51):
-
-  - You cite later DOE letters referencing the 1948–51 period; add the original Air Force/Los Alamos documentation and the Project Twinkle record for the nuclear‑site nexus in the earliest era.
-
-\
-
-\- Additional “classics” with official files that help the nuclear/aviation patterns:
-
-  - 1967 Falcon Lake (Canada): RCMP, hospital, and metallurgical records (physical effects).
-
-  - 1973 Coyne helicopter case (Mansfield, Ohio): FAA/USAF documents; close‑range aviation safety incident.
-
-  - 1957 Ubatuba (Brazil) magnesium fragments: original analyses and later re‑tests (use with caveats but worth cataloging with lab reports).
-
-  - 1995 Bariloche (Argentina) airliner encounter: Argentine aviation authority files.
-
-\
-
-\- Latin America official programs:
-
-  - Chile DGAC/CEFAA full case archive (you have the 2014 helo/IR case; include the program archive).
-
-  - Uruguay CRIDOVNI (official Uruguayan Air Force UAP files).
-
-  - Brazil FAB declassifications you already cite for 1986; include the 2009–2011 releases that added radar/ATC tapes.
-
-\
-
-\- U.S. Navy 2019 night‑vision “pyramids” and spherical UAS images:
-
-  - The Pentagon confirmed these were taken by Navy personnel (not that they are “pyramids”). Include the DoD acknowledgement and AARO’s later “bokeh/aperture” explanation to show the artifact/noise bucket alongside better cases.
-
-\
-
-\- GAO oversight work:
-
-  - GAO products evaluating AARO coordination, classification, and data‑sharing (use latest available). They give you an independent audit thread tying legislation to implementation.
-
-\
-
-Where the dots connect best (patterns to document quantitatively)
-
-\- Nuclear/DOE/ICBM correlation:
-
-  - Your set already spans 1948–51 Los Alamos green fireballs; 1967 Malmstrom shutdown; 1975 SAC base intrusions; 1984 Indian Point; 2002 DOE WSA orb; 2019 LLNL Site 300 spheres; Oak Ridge references; 2024–2025 testimony re nuclear links.
-
-  - Add: France (Pierrelatte/Marcoule reports in GEIPAN), Spain (Manises not nuclear but high‑value air defense), UK (Bentwaters airbase is nuclear‑linked). The cross‑national recurrence around nuclear weapons/fuel cycles is one of the few robust, decades‑long signals.
-
-\
-
-\- Maritime/undersea domain signal:
-
-  - 1967 Shag Harbour (Canada, USO search); 1971 USS Trepang photos; 2019 “Omaha” USO; multiple Navy carrier strike group “orbs/spheres” over water; Gallaudet’s USO emphasis; DOE coastal sites (LLNL Site 300 is inland but DOE complex is recurrent).
-
-  - Add known coastal GEIPAN/CEFAA cases and overlay with bathymetry/shipping lanes to distinguish drones/balloons vs transmedium claims.
-
-\
-
-\- Sensor/upgrade correlation (confounding but important):
-
-  - Post‑2014 East Coast spike correlates with F/A‑18 AESA radar upgrades (cited by Graves); 2018–2023 small UAS proliferation; better EO/IR on Navy and CBP platforms; more permissive reporting pipelines (AARO, NASA, ASRS).
-
-  - Add ODNI annual category shifts and AARO artifact explanations to quantify how much of the newer volume is attributable to drones/balloons/sensor artifacts vs a residual.
-
-\
-
-\- Legislative/bureaucratic feedback loop:
-
-  - 2017 NYT/TTSA exposure → Navy reporting policy changes (2019) → 2021 ODNI preliminary assessment → NASA independent study → AARO creation → NDAA UAP sections and NARA UAP Records Collection → 2024–2025 hearings/FOIA surges.
-
-  - Track whether public releases (CBP videos, DIA reading‑room drops, AARO case postings) cluster just ahead of hearings or NDAA milestones.
-
-\
-
-\- Shape/mode clusters across decades:
-
-  - Spheres/orbs and “tic‑tac/egg” types recur in your list from the 1950s to 2025. Triangles cluster at night, often with bokeh/aperture confounds. Daylight discs with ground traces (Trans‑en‑Provence, Lake Cote) remain outliers with physical effects. Categorize by daylight vs night, sensor type, and proximity to restricted areas.
-
-\
-
-What likely correlates (and what likely doesn’t)
-
-\- Likely correlations to test:
-
-  - Proximity to nuclear facilities (weapons storage areas, ICBM fields, DOE labs, nuclear power plants).
-
-  - Proximity to restricted or military training airspace (Warning Areas, MOAs, carrier workups).
-
-  - Reporting spikes aligned with:
-
-    - Sensor upgrades (AESA radars, EO/IR pods, CBP ISR deployments).
-
-    - Policy changes (new reporting portals) and congressional events.
-
-  - Maritime density (coastal incidents) vs inland incidents.
-
-\
-
-\- Caution on causation:
-
-  - Nuclear correlation ≠ proof of NHI interest. It could indicate adversary ISR drone activity targeting high‑value sites, or selection/reporting bias (security sites log better).
-
-  - Night‑vision “triangles” strongly track with aperture/bokeh artifacts; include AARO’s demonstrations to avoid false positives.
-
-  - GoFast/Gimbal speed illusions, parallax, and sensor auto‑track behavior explain some “ex
-
-treme kinematics”; include peer technical re‑analyses alongside AARO notes.
-
-[^1]: and I are making huge progress getting into the C/R program.
-    Circa 2020
-    He plans to meet with you at some point.
-    16m
-    Christopher Mellon
-    The
-    would be slack-jawed if they found out what we now know.
-    15m
-    Senior USG Official
-    45' VS
-    Right now we haven't gone that far back. We're dealing with the recovered UAP
-    that landed in Kingman, AZ in the 50s. We're vacuuming up info as
-    gets read-in. We now know the management structure and security
-    control systems and ownership of the C/R. We also know who recovers landed or
-    crashed UAPs under what authorities. We also know that a still-highly classified
-    memo by a Secretary of the USAF in the 1950s is still in effect to maintain the
-    cover on UAPs.
-    9m
-    Name redacted here
-    We also know the SES-2 who's the Air Force gatekeeper:
-    but provided to
-    8m
-    Congress
-
-[^2]: Way Forward: UAP Campaign Plan Lines-of-Effort (LOEs).
-    1 JAN 2024
-    1 JAN 2026
-    1 OCT 2030
-    1 OCT 2034
-    INDEFINITE
-    Phase 1:
-    Phase 2: Correlate
-    Phase 3:
-    Phase 4:
-    Phase 5:
-    Demonstrate
-    Signatures
-    Characterize
-    Determine Nature
-    Engagement
-    Existence
-    Performance
-    Phase 0:
-    STRATEGIC
-    (A) PUBLIC SECTOR: GOVERNMENT (Policy, Law, Nat'l Security, IA)
-    AFTER DISCLOSURE ???
-    Shaping
-    ENDSTATE
-    \* Proper
-    NIDS
-    Oversight
-    (B) PHILOSOPHICAL INVESTIGATION: HUMANITIES (Ethics, Anthropology, Sociology, Religion)
-    AAWSAP
-    Restored
-    AATIP
-    Catastrophic
-    DOD VIDEO
-    (C) SCIENTIFIC RESEARCH: NATURAL SCIENCES (Physics, Chemistry, Materials Science, Biology)
-    Disclosure
-    RELEASE
-    Avoided
-    2017 NYT ARTICLE
-    Scientific
-    UAPTF
-    (D) PRIVATE SECTOR: INDUSTRY & SOCIETY (Intellectual Property, Industry, Economics, Trade)
-    Understanding
-    Advanced
-    DATA APPROACH: - REACTIVE
-    . PERSISTENT
-    . PROACTIVE
-    . TARGETED
-    . INTERACTIVE
-    ANALYTIC APPROACH: . HYPOTHESIS GENERATION . FORENSIC
-    . PREDICTIVE
-    . INTEGRATED
-    SCIENTIFIC DISCOVERY
-    OBJECTIVE: ' GOV ACCEPTANCE
-    ACADEMIC ACCEPTANCE
-    . PUBLIC ACCEPTANCE
-    . 5-Ws ANSWERED
-    STRATEGIC END-STATE
-    LEGEND
-    On-Target
-    At-Risk
-    off-Target
-    Decision Point
-    15
-
-[^3]: As a matter of discretion, IC IG notes that it has not conducted any audit, inspection,
-    evaluation, or review of alleged UAP programs within the responsibility and authority of the
-    DNI that would enable this office to provide a fulsome response to your questions.
-    Please let me know if you have any questions regarding this matter.
-
-[^4]: South Asian Object (Image 1)
-    Footage taken by an MQ-9 of an unidentified object in South Asia with an apparent
-    atmospheric wake or cavitation, later assessed as a likely commercial aircraft by the
-    All-domain Anomaly Resolution Office. The cavitation is likely a sensor artifact resulting
-    from video compression.
-    The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.
-
-[^5]: GROUND TRACK
-    2813
-    AUTO IR
-    675
-    AUTO
-    COR-A
-    DELT AUTO
-    42
-    02-
-    01-
-    30-
-    L.
-    IC
-    -31-
-    CHRISARM
-    OFF
-    NONE
-    ACFT
-    s'27'2'8 2'9 30 3'1
-    TGT
-    $31:1
-    9
-    2575
-    1857
-    18:23
-    15
-    PALET
-    2 0:413 17 3:54 7
-
-[^6]: Reported UAP-Morphology
-    Reported sightings of 'Unidentified Anomalous
-    Phenomena (UAP)' by form
-    Orb. Round. Sphere
-    Ambiguous Sensor Contact
-    Lights
-    Other
-    Oval
-    Cylinder
-    Disk
-    Triangle
-    Rectangle
-    Square
-    Polygon
-    Tik Tak
-    Vector
-    0%
-    10%
-    20%
-    30%
-    40%
-    SOURCE: DEPARTMENT OF DEFENSE \| OFFICE OF PREPUBLICATION AND
-    SECURITY REVIEW
-
-[^7]: Taking the shot
-    The U.S. military has scrambled fighters after tracking
-    airborne objects of different sizes. So far, it's not clear what all
-    of them are, or where they came from
-    Beaufort
-    Sea
-    FEB. 10
-    F-22 shoots down
-    "car-size object" at
-    GREENLAND
-    ALASKA
-    40,000 ft. over Alaska
-    YUKON
-    FEB. 11
-    U.S. F-22 shoots down
-    "cylindrical" object
-    over northern Canada
-    FEB. 12
-    CANADA
-    F-16 destroys object
-    flying about 20,000 ft.
-    over Lake Huron
-    MT.
-    .. ........... . . ..
-    Approximate
-    S.D.
-    path of
-    MI.
-    Chinese spy
-    balloon
-    U.S.
-    Atlantic
-    MO.
-    . .. . . .. . . . . . . . . .
-    Ocean
-    S.C. Myrtle
-    Beach
-    FEB. 4
-    F-22 fighter shoots
-    MEXICO
-    down a Chinese
-    200 MILES
-    TIME
-    balloon at 60,000 ft.
-    322 KM
-
-[^8]: N
-
-[^9]: This letter is in response to the Freedom of Information Act (FOIA) request
-    for any and all emails, message traffic, reports, or videos related to or
-    sent to and from the 22nd Marine Expeditionary Unit (MEU) embarked on USS
-    Kearsarge (LHD-3) to their chain of command including the Marine
-    Expeditionary Strike Group (ESG) concerning unauthorized UAP, UAV or UAS
-    incursions during training operations in the naval operations areas off the
-    East Coast in October - November 2021 and January 2022.
-    After a thorough search, the requested records could not be located. This
-    does not constitute a denial because no records were found or withheld.
-
-[^10]: 2121
-    CAPTAIN IS OFF THE BRIDGE
-    2207
-    USS KIDD REPORTED VAV OVERHEAD WARNED
-    OPERATORS TO SECURE USE LAT: 32. 29 9021
-    LONG: 1 190 24. 385'
-    SET: 74.8 T DRIFT: 1.LETS
-    2210
-    AWAY THE SNOOPLE TEAM .
-    JOHN FINN REPORTS TWO DRONES OVERHEAD LAT :
-    32 21. 398' LONG : 1190 23 9413'
-    2213
-    COMMODORE IS ON THE BRIDGE
-    2215 AAS
-    2218
-    SECURED LOW VIS DETAIL .
-    SECURED SOUND SIGNALS
-    2227
-    USS KIDD REPORTED UAV OVERHEAD WARNED
-    OPERATORS TO SECURE USE . LAT : 32 29. 902 1
-    LONG : 1 190 21. 284 '
-    2258
-    WHISKEY AUTHORIZED BURN THROUGH.
-
-[^11]: Details
-    At approximately 1030 hours, I
-    (b) (6)
-    was notified by the Central Alarm Station
-    CAS) that they heard over the escort channel about a possible drone sighting. The CAS
-    Operator said he heard the escorts at the building 815 project talk about a drone in their area a
-    approximately 1027 hours.
-    Imade contact with Security Escorts
-    (b) (6)
-    and
-    (b) (6)
-    (b) (6)
-    at building 815 in the Process Area. They both said, " I saw a round silver
-    drone flying around the Process Area and periodically stopping and hovering for several seconds
-    Once it continued it flew to the north of my location and stopped and hovered for several more
-    seconds. It flew over there area for several minutes and departed south east. It was really high up
-    and it looked like it was just under the clouds."
-    The drone like object was flying at a distance and height that made identification of the
-    characteristics of the object impossible for
-    (b) (6)
-    (b) (6)
-    contact
-    (b) (6)
-    who said there was no scheduled drone
-    flights for Site 300 today.
-
-[^12]: X
-    STEALTH SHIPS WHEN IT SUDDENLY
-
-[^13]: SPA
-    IR
-    DFLT
-    AU
-    AL
-    @Jeremy Corbell X f
-    3
-    SKA
-    72A
-
-[^14]: Mon
-    2017
-
-[^15]: VIC
-    1500
-    AUTO
-    COR-A TEN
-    @Jeremy
-    - 93-
-    - 84-
-    .05-
-    PULSE
-    PULSE
-    ARMED
-    3as LF
-    25 24
-    27
-    289 3FT
-    728FT 264035
-    Lus . 3753
-
-[^16]: NAR
-    TR
-    ROL
-    OPR 2 2.0
-    220
-    LST
-    1688
-    1688
-    TO/R
-
-[^17]: 0PR Z1.0
-    52" L
-    3.8 RNG
-    1BOW
-    MEDru
-    -31.
-    LST
-    1688
-    1688
-    LTD/R
-    G1
-
-[^18]: (3) Records exempted from automatic declassification under this paragraph
-    shall be automatically declassified on December 31 of a year that is no
-    more than 75 years from the date of origin unless an agency head, within
-    5 years of that date, proposes to exempt specific information from declas-
-    sification at 75 years and the proposal is formally approved by the Panel.
-    (i) Specific records exempted from automatic declassification prior to the
-    establishment of the Center described in section 3.7 of this order shall
-    be subject to the provisions of paragraph (h) of this section in a scheduled
-    and prioritized manner determined by the Center.
-
-[^19]: N
-    5-6
-    415
-
-[^20]: United States
-    USSR/Russia
-    1972
-    1979
-    1987
-    1991
-    80,000
-    SALT I
-    SALT II
-    Intermediate-Range
-    START I
-    41, 116
-    52,396
-    Nuclear Forces Treaty
-    48, 162
-    1968
-    61,682
-    60,000
-    Non-Pro-
-    liferation
-    Treaty
-    2011
-    39,051
-    New START
-    40,000
-    1993
-    9,755
-    1962
-    START II
-    Cuban
-    35,914
-    2003
-    Missile
-    SORT
-    20,000
-    Crisis
-    19,103
-    28,886
-    O
-    -
-    1950
-    1960
-    1970
-    1980
-    1990
-    2000
-    2010
-    2020
-
-[^21]: US Navy
-
-[^22]: 879
-    U.S. AIR FORCE
-    FU-574
-
-[^23]: MILITARY MINIATURES
-    1/35 GERMAN SOLDIERS AT REST
-    TAMIYA
-
-[^24]: MILITARY MINIATURES
-    1/35 GERMAN SOLDIERS AT REST
-    TAMIYA
-
-[^25]: z. The term "source material" means (1) uranium, thorium, or
-    any other material which is determined by the Commission pursu-
-    ant to the provisions of section 61 to be source material; or (2) ores
-    containing one or more of the foregoing materials, in such con-
-    centration as the Commission may by regulation determine from
-    time to time.
-    aa. The term "special nuclear material" means (1) plutonium,
-    uranium enriched in the isotope 233 or in the isotope 235, and any
-    other material which the Commission, pursuant to the provisions
-    of section 51, determines to be special nuclear material, but does
-    not include source material; or (2) any material artifically 8 en-
-
-[^26]: FROMs Dept of the Air Force Has U.S. Air Force
-    TO :
-    Soo below
-    Ltr
-    SUBJECTs Destruction of Air Intelligence Report Number 100-203-79
-    1. It is requested that action be taken to destroy all copies of.
-    Top Secret Air Intelligence Report Number 100-203-70, subject, "Analysis
-    of Flying Object noidents in the U.S., "atd 10 Dec 1948.
-
-[^27]: 500X
-    65811
-    500%
-    65809
-    Figure 21. Heat 'TH245, 3.5% Ni.
-    Figure 23. Heat "H241, 7.5% Ni.
-    Quenched from 1600F. in the beta"
-    Quenched from 1550 F. in the beta
-    field. Acicular alpha (transformed
-    field. The nickel-rich phase, shown
-    beta) is shown.
-    in Figure 24, is absent when the
-    specimen is quenched from 1550 F.
-    500X
-    65810
-    500x
-    65808
-    Figure 22. Heat "H245, 3.5% Ni.
-    Figure 24. Heat 'H241, 7.5% Ni.
-    Quenched from 1550 F. in the alpha
-    Quenched from 1450 F. in the beta
-    + beta field. Islands of alpha
-    + gamma field. The light-colored con-
-    (light) appear in an acicular alpha
-    stituent is the nickel-rich phase
-    (transformed beta) matrix.
-    in a beta matrix.
-    Typical structures observed in binary titanium-nickel alloys made from
-    Process a metal.
-
-[^28]: THURSDAY MORNING.
-    Los Angeles Times
-    Searchlights and Anti-aircraft Guns Comb Sky During Alarm
-    MEKING OUT "OBJECT"-Sewer of washlights built a wigwam of light be
-    MARKINGS HUCK Lands
-    picture taken during black.
-    #1738 W. 4 3ad Place
-    In By in Culver Cay wes. The
-    wits to holes mode in Na
-    it stood in gorops,
-
-[^29]: EXTRAORDINARY
-    Phenomenon in the Sun,
-    Seen off BOSTON, in America, by Captain HAYES, and all the Officers and Seamen of his
-    Majesty's Ship MAJESTIC, now lying in Plymouth Harbour.
-    THE following is an authentic and correct
-    Prophetic Explanation.
-    account, for the truth of which Captain HAYES,
-    of his Majesty's ship Majestic, now lying in
-    The foregoing remarks may satisfy the philoso-
-    Plymouth harbour, and the whole of his officers
-    pher ; but it is presumed the humble reader will
-    and ship's company, may be appealed to :-
-    not think a few moments mis-spent in taking a
-    " On the morning of the 27th of August, 1813,
-    a different view of the subject :-
-    the Majestic being then off Boston, the men on
-    The Flag is undoubtedly an emblem of war ;
-    board observed, at the rising of the Sun, the com-
-    the Three Lines by which it is divided, seem
-    plete figure of a Man in the centre of that lumi-
-    prophetic that the war between England and Ameri-
-    nary, with a Flag divided by three lines, in his hand.
-    ca (which commenced in 1813, and ended in
-    He was at first on his back, but as day advanced,
-    1815) would exist in three successive years ; and
-    he gradually assumed an erect posture, and at
-    the appearance of the phenomenon on three suc-
-    mid-day stood upright: towards evening he as
-    cessive days, renders this conjecture the more
-    gradually declined, descending with his flag head-
-    probable, especially as a day, in prophetic lan-
-    foremost. We have seen a drawing of the phoe-
-    guage, sometimes signifies a year, as in the pro-
-    nomenon, and nothing can be more correct than
-    phecy of Daniel, 8th chapter, and 24th verse,
-    the human figure, its dress complete, and the
-    where 490 years are called 70 weeks, reckoning
-    every day as a year ; thus,
-    flag.
-    " On the 28th it retained the same outline, but
-    A week contains 7 days.
-    had become a skeleton.
-    Multiplied by 70
-    " On the 29th the figure was disjointed, and its
-    Makes - - - 490 prophetic days, or years.
-    parts gradually assumed the appearance of six
-    separate flags, united in a circle by an apparent
-    Prophecy is very seldom understood before
-    cord or line. After this, nothing could be observed
-    the person or thing to which the prophecy alludes,
-    on the Sun's disc but a few small spots.
-    receives a visible existence :-Thus the number of
-    " The American papers, we believe, notice only
-    the beast (sir hundred three score and six ) men-
-    the extraordinary appearance of the Sun on the
-    tioned in the 13th chapter of the Revelations, and
-    above-mentioned days. Perhaps the observers
-    18th verse, appears to have been covered with an
-    on the continent were not in a position to catch
-    impenetrable veil, till the appearance of the Latin
-    the precise appearance which the particles of
-    for LOUIS (that is, LVDOVICVS) on the cur-
-    matter presented to the ship's company of the
-    rent coin of France, before the French Revolution,
-    Majestic. There could be no optical delusion on
-    rendered the prophecy intelligible ; thus,
-    the occasion, as the phoenomenon was observed
-    stands for the number 5
-    by so many different eyes, and for so long a time.
-    The first figure was seen during the whole of
-    500
-    the 27th, the skeleton the whole of the 28th,
-    and the six flags during a great part of the 29th.
-    " The above is an occurrence which may merit
-    the attention of the philosophic. It is singular,
-    100
-    we conceive, but nothing miraculous or por-
-    tentous. Indeed, as the Sun is the centre of
-    S is not a numerical letter.
-    planets, several of which are much larger and
-    The total Number is 666
-    probably more important than our's, we do not
-    know why this common luminary should shape
-    With respect to the Phoenomenon,-The figure
-    his face, or have it shaped for him, so as to
-    which appeared on the 27th, seems to represent
-    indicate the particular occurrences of this earth.
-    NAPOLEON, Emperor of France, in 1813. The
-    The Sun is no doubt a material, luminous body,
-    Skeleton was a fit emblem of him, during his exile
-    -perhaps liable to an internal irregular motion
-    in the island of Elba, in 1814; and the " six Flags,
-    of its parts ; at least this phenomenon would
-    united in a circle by an apparent Cord or Line,"
-    seem to prove it so: and most people have ob-
-    seem to represent six belligerent Powers, united
-    served how frequently the ignited cinders of a
-    by a Treaty to prevent the military and political
-    common fire present at different times the various
-    resurrection of the Skeleton.
-    appearances of men, trees, horses, houses, &c.
-    England is the hieroglyphic Sun which diffuses
-    The evidence, however, for the phoenomenon
-    religious light, by the distribution of the holy
-    itself, we must again add, is of the most undoubted
-    Scriptures, to every quarter of the globe ; and it is
-    and respectable kind. We have seen, and have by
-    hoped that, after the year 1815, this country will
-    us, copies of drawings made by Captain HAYES
-    enjoy the blessings of peace, as nothing was seen
-    on the occasion."
-    on the sun's disc, after the third day (1815) " but
-    a few small spots," which appear to represent the
-    Times newspaper, June 21, 1815.
-    taxes occasioned by long-continued war.
-    Biscoe, Primer, Angel Street, London.
-    Price Three-Pence.
-
-[^30]: A Windmill Demolishes It.
-    Aurora, Wise Co., Tex.,Ap ril 17.-(To
-    The News.)-About 6 o'clock this morning
-    the early risers of Aurora were astonished
-    at the sudden appearance of the airship
-    which has been sailing through the coun-
-    try.
-    It was traveling due north, and much
-    nearer the earth than ever before. Evi-
-    dently some of the machinery was out of
-    order, for it was making a speed of only
-    ten or twelve miles an hour and gradually
-    settling toward the earth. It sailed direct-
-    ly over the public square, and when it
-    reached the north part of town collided
-    with the tower of Judge Proctor's wind-
-    mlil and went to pieces with a terrific ex-
-    plosion, scattering debris over several acres
-    of ground, wrecking the windmill and water
-    tank and destroying the judge's flower gar-
-    den.
-    The pilot of the ship is supposed to have
-    been the only one on board, and while his
-    remains are badly disfigured, enough of the
-    original has been picked up to show that
-    he was not an inhabitant of this world.
-    Mr. T. J. Weems, the United States sig-
-    nal service officer at this place and an au-
-    thority on astronomy, gives it as his opin-
-    ion that he was a native of the planet Mars.
-    Papers found on his person-evidently the
-    record of his travels-am written in some
-    unknown hieroglyphics, and can not be de-
-    ciphered.
-    The ship was too badly wrecked to form
-    any conclusion as to its construction or
-    motive power. It was built of an unknown
-    metal, resembling somewhat a mixture of
-    aluminum and silver, and it must have
-    weighed several tons.
-    The town is full of people to-day who are
-    viewing the wreck and gathering speci-
-    mens of the strange metal from the debris.
-    The pilot's funeral will take place at noon
-    to-morrow.
-    S. E. HAYDON.
-
-[^31]: 200 0
-    X
-    Dino M. D. LXIMin dem XIIII tag 20millis ju morgens
-    baben die KozxBen fo febz alle bic kugel enter einander gefarm / who hefftig alles niteinane
-    switchen 2lim geontag vno dom garaup/oneiftsu morgenewijchen 4 vid
-    der gofiften uno getochten/Bey einer guten funds / Dno wit der Etreyt bas ain meylinn
-    s auff dee flamen wholift cinfebe erfchocklich geficht an der Con vote fic im
-    die Comebindin/ vno widerums berauf am beffrighten bin onober gefarenlich dermal
-    anti gang gewefen erichinnem/und 3u WurmBergin Oct Star uno por dem,
-    fen mitcinander abgematt It es alice wie obeseychnet con der Sonnen / com byme!
-    then and auf dem Land you vilen maffe no weybe perform gefchen wor.
-    berasauff ore er dengletch alls of co alles Brenner gefallen \| vno mit einem groffen dampff
-    bent. Erfilich ift die Comm mit sweyen Stat farGen half runden (trichef gleichfo:mig man
-    berunten auf der LE coen allgemad vergangen.Vlad folchem allen ift auch) gleichformig
-    Do noun im abremen/mitten burch bie Connectfcbinnen vno gefeben worden/ vno inn
-    cinemichwarren Spect/der jchafft vom auffgang / Dno bielpinenum Llidergang in
-    Ser SonmeloBenfonten / Dno auf Seven feytten Glut farBeyond cines they Is 6186licheover
-    groffer dict no long gefchen word. Was aber folche seychen Becenten\] ift Bott allan
-    1tylen fat be auch fchmart fare runde Zsugel gefiancen / Defedben gleichen auff bay dent
-    miffent/ viewcylmir aber furg auffanander/fouid ono manderley seychen am gyml ba.
-    forthemono ringfcheyben pm6 die Conne berumB/fein folche blut rote/vno der andernfugd
-    Sen/die pno Ser 2illmehtige Gott/vonvnfers fundlichen leche/damit er ons geen sur 6up
-    in angal vieletto drey innote lenge enter weylen vier in cintem Quatrangel/auch cliche
-    reinen vis locten mostferfchainen left/ fo fei wit leyber foundanclBar/das wir folche bobs
-    ninigg geltanoand smoifchen folchen Kugeln fan auch etliche Glutfarbe Creus gechen
-    3vehemen> Munbermerck Gottes verachten / 2luch fporlich Sanon rever ond inn winds
-    who swifchen folchen Creusen vno Auganfcin Blutfarbe ftreyme binden dick / Dno porn
-    flagdi/ justforgate wetbevne Bott vmB onferer unoanclBarleyty millenfein \[choice.
-    hinaup / etwas gefchincydiger alls bocken cho/ Zillentballen mit cin vermificht genefer/
-    liche (traff (endmy wood, meron folche die Cotefairchrigen in feinen reg vcradten/jon
-    Lampt enter andernstcyen groffen ron/cines sur recbren/ vno des ander sut lincFen banot
-    ber alle diefe treme warnung free gnebigen Datters im byind Bebernigen / j= Leben Bef.
-    frebent/in welchen Ficinen vno groffen Rom/su axeyen/auch vier und mebe lugd genefen.
-    fern/ Bott tremlich Gitten/ Bases fanen Billigen sozn/fampt der wol ver dienten freaff von
-    Diefen alles bat met einander anfaben su freyten / fan dielugel fo erfiled in der Connge.
-    pug roll aBrenden / Damit mir alle fine linder bie seytlich ono dost emig leBas megan
-    wefen/berauf auft dieffogy Beydenfertten geftandem/gefarn/ fo fein die fo herauffen gene-
-    Sarsu vna Bott allen wollehelffen/ Amen.
-    I'm \[amps oct Fagein any den Elin vno groffen kom/ iun bic C one binein gefaru / 38 Dem
-    S by anno Blafer Driftmaler /38 27 arm ferg.
-
