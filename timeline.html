@@ -256,6 +256,121 @@
             text-decoration: underline;
         }
         
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        
+        .modal.visible {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .modal-content {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            max-width: 800px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+            padding: 30px;
+        }
+        
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #c9d1d9;
+            width: 32px;
+            height: 32px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+        
+        .modal-close:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        
+        .modal-title {
+            color: #58a6ff;
+            font-size: 1.3em;
+            margin-bottom: 15px;
+            padding-right: 40px;
+        }
+        
+        .modal-date {
+            color: #8b949e;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
+        
+        .modal-body {
+            color: #c9d1d9;
+            line-height: 1.6;
+        }
+        
+        .modal-body img {
+            max-width: 100%;
+            height: auto;
+            margin: 15px 0;
+            border-radius: 6px;
+            border: 1px solid #30363d;
+        }
+        
+        .modal-links {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #30363d;
+        }
+        
+        .modal-links a {
+            color: #58a6ff;
+            text-decoration: none;
+            display: block;
+            margin: 5px 0;
+            word-break: break-all;
+        }
+        
+        .modal-links a:hover {
+            text-decoration: underline;
+        }
+        
+        .modal-tags {
+            margin-top: 15px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .modal-tag {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85em;
+        }
+        
         @media (max-width: 768px) {
             h1 {
                 font-size: 1.5em;
@@ -453,6 +568,17 @@
         <div class="tooltip-title"></div>
         <div class="tooltip-date"></div>
         <div class="tooltip-description"></div>
+    </div>
+    
+    <div class="modal" id="eventModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">×</button>
+            <div class="modal-title" id="modalTitle"></div>
+            <div class="modal-date" id="modalDate"></div>
+            <div class="modal-body" id="modalBody"></div>
+            <div class="modal-links" id="modalLinks"></div>
+            <div class="modal-tags" id="modalTags"></div>
+        </div>
     </div>
     
     <script>
@@ -841,16 +967,8 @@
                 tooltip.classed('visible', false);
             })
             .on('click', function(event, d) {
-                // For chronology events, link to the chronology viewer with the event highlighted
-                if (d.type === 'chronology' && d.originalDateStr) {
-                    // Encode the title for URL
-                    const searchTerm = encodeURIComponent(d.title);
-                    window.location.href = `viewer.html#chronology?search=${searchTerm}`;
-                } else if (d.type === 'outbound') {
-                    window.location.href = 'viewer.html#outbound';
-                } else if (d.type === 'inbound') {
-                    window.location.href = 'viewer.html#inbound';
-                }
+                event.stopPropagation();
+                showEventModal(d);
             })
             .style('cursor', 'pointer');
         
@@ -1018,6 +1136,181 @@
             document.querySelectorAll('.period-filter').forEach(cb => cb.checked = false);
             applyPeriodFilters();
         }
+        
+        // Modal functions
+        let chronologyData = null;
+        
+        async function loadChronologyData() {
+            if (chronologyData) return chronologyData;
+            
+            try {
+                const response = await fetch('dist/chronology.md');
+                const text = await response.text();
+                chronologyData = parseChronologyData(text);
+                return chronologyData;
+            } catch (error) {
+                console.error('Error loading chronology data:', error);
+                return null;
+            }
+        }
+        
+        function parseChronologyData(text) {
+            const lines = text.split('\n');
+            const entries = [];
+            let currentEntry = null;
+            
+            for (let line of lines) {
+                line = line.trim();
+                
+                const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
+                
+                if (headerMatch) {
+                    if (currentEntry) entries.push(currentEntry);
+                    currentEntry = {
+                        date: headerMatch[1],
+                        title: headerMatch[2],
+                        content: '',
+                        images: [],
+                        links: [],
+                        tags: []
+                    };
+                } else if (currentEntry) {
+                    // Parse images
+                    if (line.startsWith('![')) {
+                        const imgMatch = line.match(/!\[([^\]]*)\]\(([^)]+)\)/);
+                        if (imgMatch) {
+                            currentEntry.images.push(imgMatch[2]);
+                        }
+                    }
+                    // Parse links
+                    else if (line.startsWith('http://') || line.startsWith('https://')) {
+                        currentEntry.links.push(line);
+                    }
+                    // Parse tags
+                    const tags = line.match(/#[A-Za-z0-9_]+/g);
+                    if (tags) currentEntry.tags.push(...tags);
+                    
+                    // Add to content (skip image lines, footnotes, etc)
+                    if (!line.startsWith('![') && !line.startsWith('[^') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
+                        const cleanLine = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+                        if (cleanLine.trim().length > 0) {
+                            currentEntry.content += (currentEntry.content ? '\n' : '') + cleanLine;
+                        }
+                    }
+                }
+            }
+            
+            if (currentEntry) entries.push(currentEntry);
+            return entries;
+        }
+        
+        async function showEventModal(eventData) {
+            const modal = document.getElementById('eventModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalDate = document.getElementById('modalDate');
+            const modalBody = document.getElementById('modalBody');
+            const modalLinks = document.getElementById('modalLinks');
+            const modalTags = document.getElementById('modalTags');
+            
+            // Set basic info
+            modalTitle.textContent = eventData.title;
+            
+            // Format date
+            let dateStr;
+            if (eventData.originalDateStr) {
+                if (eventData.originalDateStr.match(/BCE|CE/i)) {
+                    dateStr = eventData.originalDateStr;
+                } else {
+                    const yearMatch = eventData.originalDateStr.match(/^(\d{4})/);
+                    if (yearMatch) {
+                        const year = yearMatch[1];
+                        const monthMatch = eventData.originalDateStr.match(/,\s+([A-Za-z]+)(?:\s+(\d{1,2}))?/);
+                        if (monthMatch) {
+                            const month = monthMatch[1];
+                            const day = monthMatch[2] || '1';
+                            dateStr = `${month} ${day}, ${year}`;
+                        } else {
+                            dateStr = year;
+                        }
+                    } else {
+                        dateStr = eventData.originalDateStr;
+                    }
+                }
+            } else {
+                dateStr = d3.timeFormat('%B %d, %Y')(eventData.date);
+            }
+            modalDate.textContent = dateStr;
+            
+            // For chronology events, load full content
+            if (eventData.type === 'chronology') {
+                const data = await loadChronologyData();
+                if (data) {
+                    const entry = data.find(e => e.title === eventData.title);
+                    if (entry) {
+                        modalBody.innerHTML = entry.content.replace(/\n/g, '<br>');
+                        
+                        // Add images
+                        if (entry.images.length > 0) {
+                            const imagesHtml = entry.images.map(img => 
+                                `<img src="${img}" alt="" loading="lazy">`
+                            ).join('');
+                            modalBody.innerHTML += imagesHtml;
+                        }
+                        
+                        // Add links
+                        if (entry.links.length > 0) {
+                            modalLinks.innerHTML = '<div style="color: #8b949e; margin-bottom: 10px;">Sources:</div>' +
+                                entry.links.map(link => `<a href="${link}" target="_blank">${link}</a>`).join('');
+                        } else {
+                            modalLinks.innerHTML = '';
+                        }
+                        
+                        // Add tags
+                        if (entry.tags.length > 0) {
+                            modalTags.innerHTML = entry.tags.map(tag => 
+                                `<span class="modal-tag">${tag}</span>`
+                            ).join('');
+                        } else {
+                            modalTags.innerHTML = '';
+                        }
+                    } else {
+                        modalBody.textContent = eventData.description;
+                        modalLinks.innerHTML = '';
+                        modalTags.innerHTML = '';
+                    }
+                } else {
+                    modalBody.textContent = eventData.description;
+                    modalLinks.innerHTML = '';
+                    modalTags.innerHTML = '';
+                }
+            } else {
+                // Communication events
+                modalBody.textContent = eventData.description;
+                modalLinks.innerHTML = '';
+                modalTags.innerHTML = '';
+            }
+            
+            modal.classList.add('visible');
+        }
+        
+        function closeModal() {
+            const modal = document.getElementById('eventModal');
+            modal.classList.remove('visible');
+        }
+        
+        // Close modal when clicking outside
+        document.getElementById('eventModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+        
+        // Close modal with Escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
         
         function resetZoom() {
             if (allEvents.length === 0) return;
