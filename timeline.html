@@ -766,6 +766,9 @@
             window.xScale = xScale;
             window.xAxis = xAxis;
             window.svg = svg;
+            
+            // Apply initial period filters (default to 1900+)
+            applyPeriodFilters();
         }
         
         // Filter functions
