@@ -736,8 +736,8 @@
                 
                 if (!inChronology) continue;
                 
-                // Match markdown headers like "## 2025, September 9 - Title"
-                const headerMatch = line.match(/^##\s+(\d{4}(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/);
+                // Match markdown headers like "## 2025, September 9 - Title" or "## 70 CE - Title"
+                const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
                 
                 if (headerMatch) {
                     if (currentEntry) allEntries.push(currentEntry);
