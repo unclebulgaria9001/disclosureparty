@@ -623,12 +623,16 @@
                     const entryContent = entry.content.toLowerCase();
                     const entryTags = entry.tags.map(t => t.toLowerCase());
                     
-                    // Check if it's a special filter
-                    if (searchTerm === 'bce') {
-                        return entryDate.includes('bce') || entryDate.includes('ce');
+                    // Check if it's a date/year filter (numbers or bce/ce)
+                    if (/^\d+$/.test(searchTerm) || searchTerm === 'bce') {
+                        if (searchTerm === 'bce') {
+                            return entryDate.includes('bce') || entryDate.includes('ce');
+                        }
+                        // Only search date field for year filters
+                        return entryDate.includes(searchTerm);
                     }
                     
-                    // Otherwise check all fields
+                    // For other filters (hearing, foia, etc), search all fields
                     return entryDate.includes(searchTerm) ||
                            entryTitle.includes(searchTerm) ||
                            entryContent.includes(searchTerm) ||
