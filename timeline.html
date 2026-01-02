@@ -418,6 +418,7 @@
             <button class="btn active" onclick="showAll()">ALL EVENTS</button>
             <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
             <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
+            <button class="btn" onclick="showContactAttempts()">CONTACT ATTEMPTS</button>
             <button class="btn" onclick="showChronology()">CHRONOLOGY</button>
             <button class="btn" onclick="resetZoom()">RESET ZOOM</button>
         </div>
@@ -1076,6 +1077,12 @@
         
         function showChronology() {
             currentFilter = 'chronology';
+            updateButtons();
+            applyPeriodFilters();
+        }
+        
+        function showContactAttempts() {
+            currentFilter = 'contact-attempt';
             updateButtons();
             applyPeriodFilters();
         }

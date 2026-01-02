@@ -1150,6 +1150,8 @@
                 <div class="controls">
                     <input type="text" class="search-box" id="searchBox" placeholder="SEARCH CHRONOLOGY...">
                     <button class="filter-btn active" data-filter="all">ALL</button>
+                    <button class="filter-btn" data-filter="outbound">OUTBOUND</button>
+                    <button class="filter-btn" data-filter="inbound">INBOUND</button>
                     <button class="filter-btn" data-filter="2025">2025</button>
                     <button class="filter-btn" data-filter="2024">2024</button>
                     <button class="filter-btn" data-filter="2023">2023</button>
@@ -1409,6 +1411,31 @@
                         
                         // Fallback
                         return year.startsWith(searchTerm);
+                    }
+                    
+                    // Special filters for communication types
+                    if (searchTerm === 'outbound') {
+                        return entryTitle.includes('pioneer') || 
+                               entryTitle.includes('voyager') || 
+                               entryTitle.includes('arecibo') ||
+                               entryTitle.includes('cosmic call') ||
+                               entryTitle.includes('teen age message') ||
+                               entryTitle.includes('hello from earth') ||
+                               entryContent.includes('outbound') ||
+                               entryContent.includes('message from earth') ||
+                               entryContent.includes('transmitted to');
+                    }
+                    
+                    if (searchTerm === 'inbound') {
+                        return entryTitle.includes('wow') || 
+                               entryTitle.includes('chilbolton') || 
+                               entryTitle.includes('crabwood') ||
+                               entryTitle.includes('ariel school') ||
+                               entryTitle.includes('matanzas') ||
+                               entryTitle.includes('varginha') ||
+                               entryContent.includes('inbound') ||
+                               entryContent.includes('crop formation') ||
+                               entryContent.includes('signal from');
                     }
                     
                     // For other filters (hearing, foia, etc), search all fields
