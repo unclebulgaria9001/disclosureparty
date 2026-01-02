@@ -159,6 +159,12 @@
             r: 3;
         }
         
+        .event-node.contact-attempt {
+            fill: #a371f7;
+            stroke: #8957e5;
+            stroke-width: 2;
+        }
+        
         .event-node:hover {
             r: 10;
             filter: brightness(1.3);
@@ -232,6 +238,10 @@
         
         .legend-dot.inbound {
             background: #f85149;
+        }
+        
+        .legend-dot.contact-attempt {
+            background: #a371f7;
         }
         
         input[type="checkbox"] {
@@ -555,6 +565,10 @@
                 <div class="legend-dot inbound"></div>
                 <span>Inbound (Space → Earth)</span>
             </div>
+            <div class="legend-item">
+                <div class="legend-dot contact-attempt"></div>
+                <span>Contact Attempts (In-Person)</span>
+            </div>
         </div>
         
         <div id="timeline"></div>
@@ -668,6 +682,29 @@
                 type: 'inbound',
                 title: 'Crabwood Formation',
                 description: 'Crop formation with alien face and binary message: "Beware the bearers of false gifts... Conduit closing."'
+            },
+            
+            // Contact Attempts (In-Person)
+            {
+                date: new Date(1994, 3, 16),
+                originalDateStr: '1994, April 16',
+                type: 'contact-attempt',
+                title: 'Ariel School, Zimbabwe',
+                description: '62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth. Investigated by Dr. John Mack and Cynthia Hind.'
+            },
+            {
+                date: new Date(1996, 8, 10),
+                originalDateStr: '1996, September 10',
+                type: 'contact-attempt',
+                title: 'Matanzas Rural School, Cuba',
+                description: 'Dozens of children witnessed large glowing oval craft silently over assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate.'
+            },
+            {
+                date: new Date(1996, 0, 1),
+                originalDateStr: '1996',
+                type: 'contact-attempt',
+                title: 'Varginha, Brazil',
+                description: 'Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America\'s highest-profile mass-contact claims with physical evidence reports.'
             }
         ];
         
@@ -817,9 +854,10 @@
                 .domain([paddedMin, paddedMax])
                 .range([0, width]);
             
-            const yOutbound = height * 0.3;
-            const yInbound = height * 0.5;
-            const yChronology = height * 0.7;
+            const yOutbound = height * 0.25;
+            const yInbound = height * 0.45;
+            const yContactAttempt = height * 0.65;
+            const yChronology = height * 0.85;
         
             // Axes with custom tick format for BCE/CE dates
             const xAxis = d3.axisBottom(xScale)
@@ -864,6 +902,13 @@
             svg.append('line')
                 .attr('class', 'timeline-track')
                 .attr('x1', 0)
+                .attr('y1', yContactAttempt)
+                .attr('x2', width)
+                .attr('y2', yContactAttempt);
+            
+            svg.append('line')
+                .attr('class', 'timeline-track')
+                .attr('x1', 0)
                 .attr('y1', yChronology)
                 .attr('x2', width)
                 .attr('y2', yChronology);
@@ -886,6 +931,15 @@
                 .style('fill', '#f85149')
                 .style('font-size', '11px')
                 .text('INBOUND ←');
+            
+            svg.append('text')
+                .attr('x', -10)
+                .attr('y', yContactAttempt)
+                .attr('text-anchor', 'end')
+                .attr('dominant-baseline', 'middle')
+                .style('fill', '#a371f7')
+                .style('font-size', '11px')
+                .text('CONTACT ◉');
             
             svg.append('text')
                 .attr('x', -10)
@@ -922,6 +976,7 @@
                 .attr('cy', d => {
                     if (d.type === 'outbound') return yOutbound;
                     if (d.type === 'inbound') return yInbound;
+                    if (d.type === 'contact-attempt') return yContactAttempt;
                     return yChronology;
                 })
                 .attr('r', d => d.type === 'chronology' ? 3 : 6)
@@ -973,14 +1028,19 @@
             .style('cursor', 'pointer');
         
         // Add year labels for key communication events only (not chronology to avoid clutter)
-        const communicationEventsOnly = allEvents.filter(d => d.type === 'outbound' || d.type === 'inbound');
+        const communicationEventsOnly = allEvents.filter(d => d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt');
         svg.selectAll('.event-label')
             .data(communicationEventsOnly)
             .enter()
             .append('text')
             .attr('class', 'event-label')
             .attr('x', d => xScale(d.date))
-            .attr('y', d => (d.type === 'outbound' ? yOutbound : yInbound) - 15)
+            .attr('y', d => {
+                if (d.type === 'outbound') return yOutbound - 15;
+                if (d.type === 'inbound') return yInbound - 15;
+                if (d.type === 'contact-attempt') return yContactAttempt - 15;
+                return yChronology - 15;
+            })
             .attr('text-anchor', 'middle')
             .text(d => d3.timeFormat('%Y')(d.date));
         
@@ -1075,12 +1135,14 @@
                         const eventYear = d.date.getFullYear();
                         shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                     } else {
-                        shouldShow = true; // Always show communication events
+                        shouldShow = true; // Always show communication and contact-attempt events
                     }
                 } else if (currentFilter === 'outbound') {
                     shouldShow = d.type === 'outbound';
                 } else if (currentFilter === 'inbound') {
                     shouldShow = d.type === 'inbound';
+                } else if (currentFilter === 'contact-attempt') {
+                    shouldShow = d.type === 'contact-attempt';
                 } else if (currentFilter === 'chronology') {
                     // Show chronology events that match selected periods
                     if (d.type === 'chronology') {
