@@ -685,25 +685,39 @@
         function showAll() {
             currentFilter = 'all';
             updateButtons();
-            if (window.nodes) window.nodes.style('display', 'block');
+            if (window.nodes) {
+                window.nodes.style('display', 'block');
+            }
         }
         
         function showOutbound() {
             currentFilter = 'outbound';
             updateButtons();
-            if (window.nodes) window.nodes.style('display', d => d.type === 'outbound' ? 'block' : 'none');
+            if (window.nodes) {
+                window.nodes.each(function(d) {
+                    d3.select(this).style('display', d.type === 'outbound' ? 'block' : 'none');
+                });
+            }
         }
         
         function showInbound() {
             currentFilter = 'inbound';
             updateButtons();
-            if (window.nodes) window.nodes.style('display', d => d.type === 'inbound' ? 'block' : 'none');
+            if (window.nodes) {
+                window.nodes.each(function(d) {
+                    d3.select(this).style('display', d.type === 'inbound' ? 'block' : 'none');
+                });
+            }
         }
         
         function showChronology() {
             currentFilter = 'chronology';
             updateButtons();
-            if (window.nodes) window.nodes.style('display', d => d.type === 'chronology' ? 'block' : 'none');
+            if (window.nodes) {
+                window.nodes.each(function(d) {
+                    d3.select(this).style('display', d.type === 'chronology' ? 'block' : 'none');
+                });
+            }
         }
         
         function resetZoom() {
