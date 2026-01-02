@@ -464,6 +464,7 @@
             // Outbound Communications
             {
                 date: new Date(1972, 2, 2),
+                originalDateStr: '1972',
                 type: 'outbound',
                 title: 'Pioneer 10 Plaque',
                 description: 'First physical message from humanity. Gold-anodized aluminum plaque with human figures and Earth\'s location.'
@@ -576,6 +577,7 @@
                     if (date) {
                         chronologyEvents.push({
                             date: date,
+                            originalDateStr: dateStr,
                             type: 'chronology',
                             title: title,
                             description: `UAP/UFO event from chronology: ${title}`
@@ -799,14 +801,18 @@
                 .attr('r', d => d.type === 'chronology' ? 3 : 6)
             .on('mouseover', function(event, d) {
                 tooltip.select('.tooltip-title').text(d.title);
-                // Format date with BCE/CE handling
-                const year = d.date.getFullYear();
+                // Use original date string if available, otherwise format the date
                 let dateStr;
-                if (year < 1000) {
-                    dateStr = `${1000 - year} BCE`;
-                } else if (year >= 1000 && year < 2000) {
-                    dateStr = `${year - 1000} CE`;
+                if (d.originalDateStr) {
+                    // Check if it's a BCE/CE date
+                    if (d.originalDateStr.match(/BCE|CE/i)) {
+                        dateStr = d.originalDateStr;
+                    } else {
+                        // Modern date - format nicely
+                        dateStr = d3.timeFormat('%B %d, %Y')(d.date);
+                    }
                 } else {
+                    // Fallback for events without originalDateStr
                     dateStr = d3.timeFormat('%B %d, %Y')(d.date);
                 }
                 tooltip.select('.tooltip-date').text(dateStr);
