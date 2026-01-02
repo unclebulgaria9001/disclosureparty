@@ -50,6 +50,9 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
+## 2025, June 20 –  The first tranche of the UAP Records Collection goes live in the National Archives Catalog.  
+By this date (540 days after enactment of the NDAA UAP disclosure sections), NARA must post all the digital UAP/unknown-origin technology records that every federal agency reviewed and transferred.  The public can now download FOIA-ready copies of everything tagged “UAP,” “technology of unknown origin,” or “non-human intelligence” and browse them online for the first time.
+
 ## 2025, April 9 - Classification of UAPs by Skywatcher
 
 [https://www.reddit.com/r/UFOs/comments/1jucnfg/classification_of_uaps_by_skywatcher/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/UFOs/comments/1jucnfg/classification_of_uaps_by_skywatcher/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
