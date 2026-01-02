@@ -808,8 +808,21 @@
                     if (d.originalDateStr.match(/BCE|CE/i)) {
                         dateStr = d.originalDateStr;
                     } else {
-                        // Modern date - format nicely
-                        dateStr = d3.timeFormat('%B %d, %Y')(d.date);
+                        // Modern date - parse the year from original string
+                        const yearMatch = d.originalDateStr.match(/^(\d{4})/);
+                        if (yearMatch) {
+                            const year = yearMatch[1];
+                            const monthMatch = d.originalDateStr.match(/,\s+([A-Za-z]+)(?:\s+(\d{1,2}))?/);
+                            if (monthMatch) {
+                                const month = monthMatch[1];
+                                const day = monthMatch[2] || '1';
+                                dateStr = `${month} ${day}, ${year}`;
+                            } else {
+                                dateStr = year;
+                            }
+                        } else {
+                            dateStr = d.originalDateStr;
+                        }
                     }
                 } else {
                     // Fallback for events without originalDateStr
