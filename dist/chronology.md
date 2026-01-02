@@ -1925,19 +1925,55 @@ A former White House chief of staff, John Podesta, and an international investig
 
 \
 
-## 2003, July 6 - "Hello from Earth" message sent from Evpatoria
+## 2008, August 28 - "Hello from Earth" message sent from Evpatoria
 
-A digital radio message was transmitted from the Evpatoria Planetary Radar in Ukraine toward HD 178428. The message included greetings, images, and music from Earth. Morse code pattern: —·—··· (long, short-long, three short)
+A digital radio message transmitted from the Evpatoria Planetary Radar in Ukraine toward Gliese 581c (exoplanet in habitable zone, 20.4 light years away). The message included:
 
-https://en.wikipedia.org/wiki/Cosmic_Call
+CONTENTS:
+- 501 text messages selected from 25,880 submissions via social networking site Bebo
+- Messages from people in 195 countries
+- Photos and drawings
+- Messages of peace, hope, and greeting
+
+TRANSMISSION DETAILS:
+- Date: August 28, 2008
+- Duration: 4.5 hours
+- Target arrival: 2029
+- Frequency: 5 GHz
+- Power: 500 kW
+
+First message to be "crowdsourced" from the public via social media.
+
+Morse code pattern: —·—··· (long, short-long, three short)
+
+https://en.wikipedia.org/wiki/A_Message_From_Earth
+https://www.space.com/5893-message-earth-beamed-alien-planet.html
 
 \
 
 ## 2001, September 3 - Teen Age Message transmitted
 
-A series of interstellar radio messages were sent from the Evpatoria Planetary Radar toward six nearby sun-like stars. The messages contained scientific and cultural information. Morse code pattern: ··—·· (two short, one long, two short)
+A series of interstellar radio messages sent from the 70-meter Evpatoria Planetary Radar in Ukraine toward six sun-like stars (47 Ursae Majoris, 37 Geminorum, HD 126053, HD 76151, HD 193664, HD 95128). The message included:
+
+CONTENTS:
+- Coherent sounding signal
+- Logotype of Teen Age Message
+- Musical melodies (Theremin concert)
+- Bilingual Russian-English message
+- Images and text created by teens
+- Scientific information
+
+TARGETS: Stars 45-70 light years away, selected for being similar to our Sun
+TRANSMISSION: Three days of transmission (Sept 3-5, 2001)
+FREQUENCY: 5 GHz
+POWER: 150 kW
+
+First message composed by teens for potential extraterrestrial recipients.
+
+Morse code pattern: ··—·· (two short, one long, two short)
 
 https://en.wikipedia.org/wiki/Teen_Age_Message
+https://www.seti.org/teen-age-message
 
 \
 
@@ -2489,6 +2525,38 @@ The 1976 Tehran UFO Incident occurred on September 19, involving an unidentified
 
 \
 
+## 1999, May 24 - Cosmic Call transmitted
+
+The first Cosmic Call was transmitted from the 70-meter Evpatoria Planetary Radar in Ukraine toward four nearby stars. The message used a sophisticated mathematical language called "Lexicon" developed specifically for interstellar communication.
+
+CONTENTS:
+- Primer on mathematics and physics
+- Information about Earth and humanity
+- Bilingual Russian-English dictionary
+- Images and scientific data
+- Musical compositions
+
+TARGETS:
+- HD 178428 (Sagittarius, 68 light years)
+- HD 186408 (Cygnus, 69 light years)  
+- HD 190406 (Cygnus, 57 light years)
+- HD 190360 (Cygnus, 52 light years)
+
+TRANSMISSION DETAILS:
+- Date: May 24, 1999
+- Frequency: 5 GHz
+- Power: 150 kW
+- Duration: Multiple hours
+
+A second Cosmic Call was sent in 2003 to five additional stars.
+
+Morse code pattern: ·—· (short-long-short)
+
+https://en.wikipedia.org/wiki/Cosmic_Call
+https://www.seti.org/cosmic-call
+
+\  
+
 ## 1969, October 24 - A Chilean informant claims a Chilean Navy destroyer witnessed six objects that approached the ship, one larger than the destroyer. The objects were cube and egg-shaped, and electromagnetic interference was reported
 
 http://www.waterufo.net/item.php?id=197
@@ -2497,19 +2565,37 @@ Note: Publisher of this account, to whom the Chilean source spoke to, was an Aus
 
 \
 
-## 1973, March 3 - Pioneer 10 plaque launched
+## 1973, March 3 - Pioneer 11 plaque launched
 
-NASA's Pioneer 10 spacecraft carries a gold-anodized aluminum plaque designed by Carl Sagan and Frank Drake. The plaque depicts a man and woman, Earth's location in the galaxy, and other information about humanity. Morse code pattern: —·· (one long burst, then two short bursts)
+NASA's Pioneer 11 spacecraft carries an identical gold-anodized aluminum plaque to Pioneer 10. Designed by Carl Sagan and Frank Drake, the 6" × 9" plaque shows:
+- Nude figures of a man and woman
+- Hydrogen atom hyperfine transition (universal unit of time/length)
+- Radial pattern showing Earth's position relative to 14 pulsars
+- Solar system diagram with spacecraft trajectory
+- Silhouette of spacecraft for scale
+
+Morse code pattern: —·· (one long burst, then two short bursts)
 
 https://en.wikipedia.org/wiki/Pioneer_plaque
+https://www.nasa.gov/feature/jpl/the-golden-record
 
 \
 
 ## 1972, March 2 - Pioneer 10 launched with plaque
 
-Pioneer 10 becomes the first spacecraft to carry a message from humanity intended for potential extraterrestrial discovery. The plaque shows human figures, our solar system's location, and basic scientific information.
+Pioneer 10 becomes the first spacecraft to carry a message from humanity intended for potential extraterrestrial discovery. The 6" × 9" gold-anodized aluminum plaque contains:
+- Nude figures of a man and woman (woman's hand raised in greeting)
+- Hyperfine transition of hydrogen (universal physical constant)
+- Radial pattern showing Earth's location relative to 14 pulsars and galactic center
+- Solar system diagram showing spacecraft's origin and trajectory
+- Binary representation of Earth's position as third planet
+
+Designed by Carl Sagan and Frank Drake, drawn by Linda Salzman Sagan. The plaque is attached to the spacecraft's antenna support struts to shield it from erosion by interstellar dust.
+
+Morse code pattern: —·· (one long burst, then two short bursts)
 
 https://www.nasa.gov/mission_pages/pioneer/index.html
+https://en.wikipedia.org/wiki/Pioneer_plaque
 
 \
 
@@ -2533,9 +2619,23 @@ https://archive.org/details/ufoexperience00jall/page/208/mode/2up (p208)
 
 ## 1974, November 16 - Arecibo Message transmitted
 
-The Arecibo Message was a radio signal sent from the Arecibo Observatory in Puerto Rico toward the globular star cluster M13. The message contained information about humanity, DNA, Earth's position, and the telescope itself. Morse code pattern: ·—·— (short-long-short-long)
+The Arecibo Message was a 1,679-bit radio signal (169 seconds duration) sent from the Arecibo Observatory in Puerto Rico toward globular star cluster M13, 25,000 light years away. Designed by Frank Drake and Carl Sagan, the binary message contains:
+- Numbers 1-10 in binary
+- Atomic numbers of elements in DNA (H, C, N, O, P)
+- Formulas for DNA nucleotides
+- DNA double helix structure
+- Human figure and average height
+- Earth's population (4 billion in 1974)
+- Solar system diagram
+- Arecibo telescope diagram
+
+Transmitted at 2,380 MHz with 1,000 kW power (20 trillion watts ERP). The message will arrive at M13 in approximately 25,000 years.
+
+Morse code pattern: ·—·— (short-long-short-long)
 
 https://en.wikipedia.org/wiki/Arecibo_message
+https://www.seti.org/arecibo-message
+View full message: dist/arecibo-message-1974.txt
 
 \
 
@@ -2547,9 +2647,32 @@ https://en.wikipedia.org/wiki/Arecibo_message
 
 ## 1977, August 20 - Voyager Golden Record launched
 
-NASA's Voyager 1 and 2 spacecraft carry golden records containing sounds and images representing Earth's diversity. The records include greetings in 55 languages, music from various cultures, and natural sounds. Morse code pattern: — ···· (one long, then four shorts)
+NASA's Voyager 1 (Sept 5) and Voyager 2 (Aug 20) spacecraft each carry a 12-inch gold-plated copper phonograph record. Created by a committee chaired by Carl Sagan, the records contain:
+
+AUDIO CONTENTS:
+- Greetings in 55 languages (including ancient Sumerian)
+- Natural sounds: thunder, rain, surf, wind, birds, whales, etc.
+- Human sounds: heartbeat, laughter, footsteps, kiss
+- Music: 90 minutes from various cultures and eras (Bach, Mozart, Chuck Berry, Peruvian panpipes, Navajo chants, etc.)
+
+IMAGE CONTENTS:
+- 116 images showing Earth, life, and human civilization
+- Mathematical and physical definitions
+- DNA structure
+- Human anatomy
+- Various landscapes and structures
+
+The cover includes:
+- Instructions for playing the record (in symbolic language)
+- Pulsar map showing Earth's location
+- Ultra-pure uranium-238 sample for dating
+
+Expected to last over 1 billion years in space.
+
+Morse code pattern: — ···· (one long, then four shorts)
 
 https://voyager.jpl.nasa.gov/golden-record/
+https://en.wikipedia.org/wiki/Voyager_Golden_Record
 
 \
 
