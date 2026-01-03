@@ -6,7 +6,7 @@
     <title>Request Direct NHI Communication | UAP/UFO Disclosure Database</title>
     
     <!-- PWA -->
-    <link rel="manifest" href="manifest.json">
+    <link rel="manifest" href="manifest.json?v=20260103">
     <meta name="theme-color" content="#58a6ff">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -1643,9 +1643,9 @@
             }
         }
         
-        // Register service worker
+        // Register service worker with cache busting
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('sw.js')
+            navigator.serviceWorker.register('sw.js?v=20260103')
                 .then(reg => console.log('Service Worker registered'))
                 .catch(err => console.log('Service Worker registration failed'));
         }
