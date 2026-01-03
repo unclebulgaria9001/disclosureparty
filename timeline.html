@@ -148,23 +148,20 @@
         
         .toggle-sidebar {
             position: fixed;
-            left: 320px;
-            top: 50%;
-            transform: translateY(-50%);
+            top: 10px;
+            right: 10px;
             background: #21262d;
             border: 1px solid #30363d;
-            border-left: none;
             color: #8b949e;
-            padding: 12px 8px;
+            padding: 10px 20px;
             cursor: pointer;
             font-family: 'Share Tech Mono', monospace;
             font-size: 0.85em;
-            border-radius: 0 6px 6px 0;
+            border-radius: 6px;
             transition: all 0.3s ease;
             z-index: 1000;
-            writing-mode: vertical-rl;
-            text-orientation: mixed;
             box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+            font-weight: 600;
         }
         
         .toggle-sidebar:hover {
@@ -173,8 +170,9 @@
             color: #58a6ff;
         }
         
-        .toggle-sidebar.collapsed {
-            left: 0;
+        .toggle-sidebar::before {
+            content: '☰ ';
+            font-size: 1.2em;
         }
         
         .timeline-container {
@@ -518,19 +516,8 @@
             }
             
             .toggle-sidebar {
-                left: 50%;
-                top: auto;
-                bottom: 0;
-                transform: translateX(-50%);
-                writing-mode: horizontal-tb;
-                border-left: 1px solid #30363d;
-                border-top: none;
-                border-radius: 6px 6px 0 0;
-            }
-            
-            .toggle-sidebar.collapsed {
-                left: 50%;
-                bottom: 0;
+                top: 10px;
+                right: 10px;
             }
         }
     </style>
