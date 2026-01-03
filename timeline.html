@@ -1040,8 +1040,8 @@
             const xContactAttempt = width * 0.55;
             const xChronology = width * 0.75;
         
-            // Check if we have any ancient events (BCE/CE) in the current view
-            const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 2000);
+            // Check if we have any truly ancient events (BCE/CE before year 1000) in the current view
+            const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 1900);
             
             // Axes with custom tick format - only show BCE/CE if ancient events exist
             const yAxis = d3.axisLeft(yScale)
@@ -1049,8 +1049,8 @@
                 .tickFormat(d => {
                     const year = d.getFullYear();
                     
-                    // Only use BCE/CE format if we have ancient events
-                    if (hasAncientEvents) {
+                    // Only use BCE/CE format if we have truly ancient events (pre-1900)
+                    if (hasAncientEvents && year < 1900) {
                         if (year < 1000) {
                             return `${1000 - year} BCE`;
                         } else if (year >= 1000 && year < 2000) {
@@ -1058,7 +1058,7 @@
                         }
                     }
                     
-                    // Otherwise just show the year normally
+                    // Show modern years normally (1900+)
                     return year.toString();
                 });
         
