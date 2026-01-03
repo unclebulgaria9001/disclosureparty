@@ -379,6 +379,11 @@
                     
                     <div class="stats" id="stats" style="margin-top: 20px; padding: 15px; background: rgba(30, 35, 55, 0.6); border-radius: 8px; color: #a0a0a0; text-align: center;" data-i18n="loadingChronology">Loading chronology...</div>
                     
+                    <div id="translationNotice" style="display: none; margin-top: 20px; padding: 15px; background: rgba(74, 158, 255, 0.1); border: 1px solid rgba(74, 158, 255, 0.3); border-radius: 8px; color: #4a9eff; text-align: center; font-size: 0.85em;">
+                        <div data-i18n="translationNote" style="margin-bottom: 10px;">Content is in English. Use browser translation or the translate button.</div>
+                        <button class="filter-btn" onclick="triggerBrowserTranslation()" data-i18n="autoTranslate" style="width: auto; padding: 8px 16px;">Auto-Translate</button>
+                    </div>
+                    
                     <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
                         <a href="index.html" style="color: #4a9eff; text-decoration: none; font-size: 0.85em;" data-i18n="backToIndex">← Back to Index</a>
                     </div>
@@ -583,6 +588,53 @@
         // Initialize language switcher
         document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
         updatePageLanguage();
+        
+        // Show translation notice if not English
+        function checkTranslationNotice() {
+            const currentLang = getCurrentLanguage();
+            const notice = document.getElementById('translationNotice');
+            if (currentLang !== 'en' && notice) {
+                notice.style.display = 'block';
+            } else if (notice) {
+                notice.style.display = 'none';
+            }
+        }
+        
+        // Trigger browser translation
+        function triggerBrowserTranslation() {
+            const currentLang = getCurrentLanguage();
+            
+            // Try to trigger Google Translate if available
+            if (window.google && window.google.translate) {
+                const translateElement = new google.translate.TranslateElement({
+                    pageLanguage: 'en',
+                    includedLanguages: 'zh-CN,es,ar,pt',
+                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                }, 'google_translate_element');
+            } else {
+                // Fallback: Add translate attribute to content
+                const timeline = document.getElementById('timeline');
+                if (timeline) {
+                    timeline.setAttribute('translate', 'yes');
+                    
+                    // Show instruction
+                    alert(t('translationNote') + '\n\n' + 
+                          'Chrome/Edge: Right-click → Translate to ' + languageNames[currentLang] + '\n' +
+                          'Firefox: Right-click → Translate Page\n' +
+                          'Safari: Right-click → Translate to ' + languageNames[currentLang]);
+                }
+            }
+        }
+        
+        // Check translation notice on language change
+        const originalSetLanguage = setLanguage;
+        setLanguage = function(lang) {
+            originalSetLanguage(lang);
+            checkTranslationNotice();
+        };
+        
+        // Check on initial load
+        checkTranslationNotice();
     </script>
 </body>
 </html>

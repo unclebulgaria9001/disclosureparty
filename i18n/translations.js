@@ -89,7 +89,13 @@ const translations = {
         // Messages
         nhiContactMessage: "NHI Contact Message",
         areciboMessage: "Arecibo Message",
-        rawMarkdown: "Raw Markdown"
+        rawMarkdown: "Raw Markdown",
+        
+        // Translation
+        translateContent: "Translate Content",
+        translating: "Translating...",
+        translationNote: "Content is in English. Use browser translation or the translate button.",
+        autoTranslate: "Auto-Translate"
     },
     
     zh: {
@@ -179,7 +185,13 @@ const translations = {
         // Messages
         nhiContactMessage: "NHI联系信息",
         areciboMessage: "阿雷西博信息",
-        rawMarkdown: "原始Markdown"
+        rawMarkdown: "原始Markdown",
+        
+        // Translation
+        translateContent: "翻译内容",
+        translating: "翻译中...",
+        translationNote: "内容为英文。使用浏览器翻译或翻译按钮。",
+        autoTranslate: "自动翻译"
     },
     
     es: {
@@ -269,7 +281,13 @@ const translations = {
         // Messages
         nhiContactMessage: "Mensaje de Contacto NHI",
         areciboMessage: "Mensaje de Arecibo",
-        rawMarkdown: "Markdown Original"
+        rawMarkdown: "Markdown Original",
+        
+        // Translation
+        translateContent: "Traducir Contenido",
+        translating: "Traduciendo...",
+        translationNote: "El contenido está en inglés. Use la traducción del navegador o el botón de traducción.",
+        autoTranslate: "Traducción Automática"
     },
     
     ar: {
@@ -359,7 +377,13 @@ const translations = {
         // Messages
         nhiContactMessage: "رسالة اتصال NHI",
         areciboMessage: "رسالة أريسيبو",
-        rawMarkdown: "Markdown الأصلي"
+        rawMarkdown: "Markdown الأصلي",
+        
+        // Translation
+        translateContent: "ترجمة المحتوى",
+        translating: "جاري الترجمة...",
+        translationNote: "المحتوى باللغة الإنجليزية. استخدم ترجمة المتصفح أو زر الترجمة.",
+        autoTranslate: "ترجمة تلقائية"
     },
     
     pt: {
@@ -449,7 +473,13 @@ const translations = {
         // Messages
         nhiContactMessage: "Mensagem de Contato NHI",
         areciboMessage: "Mensagem de Arecibo",
-        rawMarkdown: "Markdown Original"
+        rawMarkdown: "Markdown Original",
+        
+        // Translation
+        translateContent: "Traduzir Conteúdo",
+        translating: "Traduzindo...",
+        translationNote: "O conteúdo está em inglês. Use a tradução do navegador ou o botão de tradução.",
+        autoTranslate: "Tradução Automática"
     }
 };
 
