@@ -1035,10 +1035,10 @@
                 .domain([paddedMin, paddedMax])
                 .range([0, height]);
             
-            const xOutbound = width * 0.15;
-            const xInbound = width * 0.35;
-            const xContactAttempt = width * 0.55;
-            const xChronology = width * 0.75;
+            const xOutbound = width * 0.25;
+            const xInbound = width * 0.45;
+            const xContactAttempt = width * 0.65;
+            const xChronology = width * 0.85;
         
             // Check if we have any truly ancient events (BCE/CE before year 1000) in the current view
             const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 1900);
@@ -1138,6 +1138,81 @@
                 .style('fill', '#8b949e')
                 .style('font-size', '11px')
                 .text('OTHER EVENTS');
+        
+        // Add visual legend on the far left
+        const legendX = 20;
+        const legendY = 100;
+        const legendSpacing = 40;
+        
+        // Legend title
+        svg.append('text')
+            .attr('x', legendX)
+            .attr('y', legendY - 20)
+            .style('fill', '#58a6ff')
+            .style('font-size', '12px')
+            .style('font-weight', 'bold')
+            .text('LEGEND');
+        
+        // Outbound (square)
+        svg.append('rect')
+            .attr('x', legendX - 6)
+            .attr('y', legendY - 6)
+            .attr('width', 12)
+            .attr('height', 12)
+            .style('fill', '#58a6ff')
+            .style('stroke', '#1f6feb')
+            .style('stroke-width', 2);
+        svg.append('text')
+            .attr('x', legendX + 20)
+            .attr('y', legendY)
+            .attr('dominant-baseline', 'middle')
+            .style('fill', '#c9d1d9')
+            .style('font-size', '10px')
+            .text('Outbound');
+        
+        // Inbound (triangle)
+        svg.append('polygon')
+            .attr('points', `${legendX},${legendY + legendSpacing - 8} ${legendX + 7},${legendY + legendSpacing + 5} ${legendX - 7},${legendY + legendSpacing + 5}`)
+            .style('fill', '#f85149')
+            .style('stroke', '#da3633')
+            .style('stroke-width', 2);
+        svg.append('text')
+            .attr('x', legendX + 20)
+            .attr('y', legendY + legendSpacing)
+            .attr('dominant-baseline', 'middle')
+            .style('fill', '#c9d1d9')
+            .style('font-size', '10px')
+            .text('Inbound');
+        
+        // Contact (diamond)
+        svg.append('polygon')
+            .attr('points', `${legendX},${legendY + legendSpacing * 2 - 7} ${legendX + 7},${legendY + legendSpacing * 2} ${legendX},${legendY + legendSpacing * 2 + 7} ${legendX - 7},${legendY + legendSpacing * 2}`)
+            .style('fill', '#a371f7')
+            .style('stroke', '#8957e5')
+            .style('stroke-width', 2);
+        svg.append('text')
+            .attr('x', legendX + 20)
+            .attr('y', legendY + legendSpacing * 2)
+            .attr('dominant-baseline', 'middle')
+            .style('fill', '#c9d1d9')
+            .style('font-size', '10px')
+            .text('Contact');
+        
+        // Other (circle)
+        svg.append('circle')
+            .attr('cx', legendX)
+            .attr('cy', legendY + legendSpacing * 3)
+            .attr('r', 4)
+            .style('fill', '#8b949e')
+            .style('stroke', '#6e7681')
+            .style('stroke-width', 1.5);
+        svg.append('text')
+            .attr('x', legendX + 20)
+            .attr('y', legendY + legendSpacing * 3)
+            .attr('dominant-baseline', 'middle')
+            .style('fill', '#c9d1d9')
+            .style('font-size', '10px')
+            .text('Other');
         
         // Tooltip
         const tooltip = d3.select('#tooltip');
