@@ -19,24 +19,22 @@
             background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
             color: #e0e0e0;
             line-height: 1.6;
-            padding: 20px;
+            padding: 0;
+            margin: 0;
         }
         
         .container {
-            max-width: 1400px;
-            margin: 0 auto;
+            max-width: 100%;
+            margin: 0;
             background: rgba(20, 25, 45, 0.95);
-            border-radius: 15px;
-            padding: 40px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 0;
         }
         
         header {
             text-align: center;
-            margin-bottom: 40px;
-            padding-bottom: 30px;
+            padding: 30px 20px;
             border-bottom: 2px solid rgba(74, 158, 255, 0.3);
+            background: rgba(20, 25, 45, 0.95);
         }
         
         h1 {
@@ -73,23 +71,79 @@
             border-color: #4a9eff;
         }
         
+        .main-layout {
+            display: flex;
+            min-height: calc(100vh - 200px);
+        }
+        
+        .sidebar {
+            width: 320px;
+            background: rgba(20, 25, 45, 0.98);
+            border-right: 1px solid rgba(74, 158, 255, 0.3);
+            overflow-y: auto;
+            transition: margin-left 0.3s ease;
+            position: relative;
+        }
+        
+        .sidebar.collapsed {
+            margin-left: -320px;
+        }
+        
+        .sidebar-content {
+            padding: 20px;
+        }
+        
+        .toggle-sidebar {
+            position: fixed;
+            left: 320px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(30, 35, 55, 0.9);
+            border: 1px solid rgba(74, 158, 255, 0.3);
+            border-left: none;
+            color: #4a9eff;
+            padding: 12px 8px;
+            cursor: pointer;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.85em;
+            border-radius: 0 6px 6px 0;
+            transition: all 0.3s ease;
+            z-index: 1000;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+        }
+        
+        .toggle-sidebar:hover {
+            background: rgba(74, 158, 255, 0.3);
+            border-color: #4a9eff;
+        }
+        
+        .toggle-sidebar.collapsed {
+            left: 0;
+        }
+        
+        .content-container {
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+        }
+        
         .controls {
             display: flex;
+            flex-direction: column;
             gap: 15px;
-            margin-bottom: 30px;
-            flex-wrap: wrap;
-            align-items: center;
+            margin-bottom: 20px;
         }
         
         .search-box {
-            flex: 1;
-            min-width: 300px;
+            width: 100%;
             padding: 12px 20px;
             background: rgba(30, 35, 55, 0.9);
             border: 1px solid rgba(74, 158, 255, 0.3);
             border-radius: 8px;
             color: #e0e0e0;
-            font-size: 1em;
+            font-size: 0.9em;
         }
         
         .search-box:focus {
@@ -98,20 +152,34 @@
             box-shadow: 0 0 10px rgba(74, 158, 255, 0.3);
         }
         
+        .filter-section {
+            margin-bottom: 25px;
+        }
+        
+        .filter-section-title {
+            color: #4a9eff;
+            font-weight: 600;
+            margin-bottom: 12px;
+            font-size: 0.95em;
+        }
+        
         .filter-buttons {
             display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
+            flex-direction: column;
+            gap: 8px;
         }
         
         .filter-btn {
-            padding: 8px 16px;
+            width: 100%;
+            padding: 10px 16px;
             background: rgba(30, 35, 55, 0.9);
             border: 1px solid rgba(74, 158, 255, 0.3);
             border-radius: 5px;
             color: #e0e0e0;
             cursor: pointer;
             transition: all 0.3s ease;
+            text-align: left;
+            font-family: 'Segoe UI', sans-serif;
         }
         
         .filter-btn:hover, .filter-btn.active {
@@ -239,10 +307,48 @@
         
         footer {
             margin-top: 40px;
-            padding-top: 20px;
+            padding: 20px;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
             text-align: center;
             color: #888;
+            background: rgba(20, 25, 45, 0.95);
+        }
+        
+        @media (max-width: 768px) {
+            .main-layout {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid rgba(74, 158, 255, 0.3);
+            }
+            
+            .sidebar.collapsed {
+                margin-left: 0;
+                margin-top: -100%;
+            }
+            
+            .toggle-sidebar {
+                left: 50%;
+                top: auto;
+                bottom: 0;
+                transform: translateX(-50%);
+                writing-mode: horizontal-tb;
+                border-left: 1px solid rgba(74, 158, 255, 0.3);
+                border-top: none;
+                border-radius: 6px 6px 0 0;
+            }
+            
+            .toggle-sidebar.collapsed {
+                left: 50%;
+                bottom: 0;
+            }
+            
+            .content-container {
+                padding: 20px;
+            }
         }
     </style>
 </head>
@@ -259,28 +365,47 @@
             </div>
         </header>
         
-        <div class="controls">
-            <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search chronology... (dates, keywords, events)">
-            <div class="filter-buttons">
-                <button class="filter-btn active" data-filter="all">All</button>
-                <button class="filter-btn" data-filter="2025">2025</button>
-                <button class="filter-btn" data-filter="2024">2024</button>
-                <button class="filter-btn" data-filter="2023">2023</button>
-                <button class="filter-btn" data-filter="hearing">Hearings</button>
-                <button class="filter-btn" data-filter="foia">FOIA</button>
+        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar()">FILTERS</button>
+        
+        <div class="main-layout">
+            <div class="sidebar" id="sidebar">
+                <div class="sidebar-content">
+                    <div class="filter-section">
+                        <div class="filter-section-title">SEARCH</div>
+                        <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search chronology...">
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-section-title">QUICK FILTERS</div>
+                        <div class="filter-buttons">
+                            <button class="filter-btn active" data-filter="all">All Events</button>
+                            <button class="filter-btn" data-filter="2025">2025</button>
+                            <button class="filter-btn" data-filter="2024">2024</button>
+                            <button class="filter-btn" data-filter="2023">2023</button>
+                            <button class="filter-btn" data-filter="hearing">Hearings</button>
+                            <button class="filter-btn" data-filter="foia">FOIA</button>
+                        </div>
+                    </div>
+                    
+                    <div class="stats" id="stats" style="margin-top: 20px; padding: 15px; background: rgba(30, 35, 55, 0.6); border-radius: 8px; color: #a0a0a0; text-align: center;">Loading chronology...</div>
+                    
+                    <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
+                        <a href="index.html" style="color: #4a9eff; text-decoration: none; font-size: 0.85em;">← Back to Index</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="content-container">
+                <div class="timeline" id="timeline">
+                    <div class="loading">Loading chronology data...</div>
+                </div>
+                
+                <footer>
+                    <p>Data source: <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank" style="color: #4a9eff;">Amplenote Chronology</a></p>
+                    <p style="margin-top: 10px;">For content suggestions: <a href="mailto:uncle.bulgaria9001@gmail.com" style="color: #4a9eff;">uncle.bulgaria9001@gmail.com</a></p>
+                </footer>
             </div>
         </div>
-        
-        <div class="stats" id="stats">Loading chronology...</div>
-        
-        <div class="timeline" id="timeline">
-            <div class="loading">Loading chronology data...</div>
-        </div>
-        
-        <footer>
-            <p>Data source: <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank" style="color: #4a9eff;">Amplenote Chronology</a></p>
-            <p style="margin-top: 10px;">For content suggestions: <a href="mailto:uncle.bulgaria9001@gmail.com" style="color: #4a9eff;">uncle.bulgaria9001@gmail.com</a></p>
-        </footer>
     </div>
     
     <script>
@@ -438,6 +563,27 @@
         
         // Load on page load
         loadChronology();
+        
+        // Toggle sidebar functionality
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const toggleBtn = document.getElementById('toggleSidebar');
+            sidebar.classList.toggle('collapsed');
+            toggleBtn.classList.toggle('collapsed');
+            
+            // Persist state
+            const isCollapsed = sidebar.classList.contains('collapsed');
+            localStorage.setItem('chronologySidebarCollapsed', isCollapsed);
+        }
+        
+        // Restore sidebar state on load
+        window.addEventListener('DOMContentLoaded', function() {
+            const isCollapsed = localStorage.getItem('chronologySidebarCollapsed') === 'true';
+            if (isCollapsed) {
+                document.getElementById('sidebar').classList.add('collapsed');
+                document.getElementById('toggleSidebar').classList.add('collapsed');
+            }
+        });
     </script>
 </body>
 </html>
