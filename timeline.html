@@ -9,6 +9,13 @@
     <meta name="description" content="Interactive timeline visualization of UAP/UFO sightings, NHI encounters, and Earth's communication attempts with non-human intelligence">
     <meta name="keywords" content="UAP timeline, NHI communication, Arecibo message, crop circles, interstellar messages">
     
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#58a6ff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Disclosure DB">
+    
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
@@ -532,6 +539,7 @@
         <header>
             <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
             <div class="subtitle">Interactive Timeline Visualization</div>
+            <button id="installBtn" class="btn" onclick="installApp()" style="display: none; margin: 10px auto;">📱 Install App</button>
         </header>
         
         <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
@@ -1663,6 +1671,53 @@
             const toggleBtn = document.getElementById('toggleSidebar');
             sidebar.classList.toggle('collapsed');
             toggleBtn.classList.toggle('collapsed');
+            
+            // Persist state
+            const isCollapsed = sidebar.classList.contains('collapsed');
+            localStorage.setItem('sidebarCollapsed', isCollapsed);
+        }
+        
+        // Restore sidebar state on load
+        window.addEventListener('DOMContentLoaded', function() {
+            const isCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
+            if (isCollapsed) {
+                document.getElementById('sidebar').classList.add('collapsed');
+                document.getElementById('toggleSidebar').classList.add('collapsed');
+            }
+        });
+        
+        // PWA Install
+        let deferredPrompt;
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            const installBtn = document.getElementById('installBtn');
+            if (installBtn) {
+                installBtn.style.display = 'block';
+            }
+        });
+        
+        function installApp() {
+            if (deferredPrompt) {
+                deferredPrompt.prompt();
+                deferredPrompt.userChoice.then((choiceResult) => {
+                    if (choiceResult.outcome === 'accepted') {
+                        console.log('App installed');
+                    }
+                    deferredPrompt = null;
+                    const installBtn = document.getElementById('installBtn');
+                    if (installBtn) {
+                        installBtn.style.display = 'none';
+                    }
+                });
+            }
+        }
+        
+        // Register service worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(reg => console.log('Service Worker registered'))
+                .catch(err => console.log('Service Worker registration failed'));
         }
     </script>
 </body>
