@@ -1,0 +1,65 @@
+/* Language Switcher Styles */
+.language-switcher {
+    position: fixed;
+    top: 60px;
+    right: 10px;
+    z-index: 999;
+}
+
+.language-select {
+    background: #21262d;
+    border: 1px solid #30363d;
+    color: #8b949e;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.85em;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.language-select:hover {
+    background: #30363d;
+    border-color: #58a6ff;
+    color: #58a6ff;
+}
+
+.language-select:focus {
+    outline: none;
+    border-color: #58a6ff;
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.1);
+}
+
+/* RTL Support for Arabic */
+[dir="rtl"] {
+    text-align: right;
+}
+
+[dir="rtl"] .sidebar {
+    border-right: none;
+    border-left: 1px solid #30363d;
+}
+
+[dir="rtl"] .toggle-sidebar {
+    right: auto;
+    left: 10px;
+}
+
+[dir="rtl"] .language-switcher {
+    right: auto;
+    left: 10px;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .language-switcher {
+        top: 60px;
+        right: 10px;
+    }
+    
+    [dir="rtl"] .language-switcher {
+        right: auto;
+        left: 10px;
+    }
+}
