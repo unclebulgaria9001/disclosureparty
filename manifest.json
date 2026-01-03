@@ -1,12 +1,14 @@
 {
   "name": "UAP/UFO/NHI Disclosure Database",
   "short_name": "Disclosure DB",
-  "description": "Comprehensive database of UAP/UFO disclosure events and NHI communication timeline",
+  "description": "Comprehensive database of UAP/UFO disclosure events and NHI communication timeline. Available in English, Chinese, Spanish, Arabic, and Portuguese. 综合UAP/UFO披露数据库。Base de datos de divulgación OVNI. قاعدة بيانات الكشف عن UFO. Base de dados de divulgação OVNI.",
   "start_url": "/disclosureparty/viewer.html",
   "display": "standalone",
   "background_color": "#0d1117",
   "theme_color": "#58a6ff",
   "orientation": "any",
+  "lang": "en",
+  "dir": "ltr",
   "icons": [
     {
       "src": "icon-192.png",
@@ -21,6 +23,8 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["education", "reference"],
-  "screenshots": []
+  "categories": ["education", "reference", "news"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
 }
