@@ -1261,7 +1261,7 @@
             .style('cursor', 'pointer');
         
         // Add title labels for all events - vertical
-        svg.selectAll('.event-label')
+        const eventLabels = svg.selectAll('.event-label')
             .data(allEvents)
             .enter()
             .append('text')
@@ -1293,6 +1293,7 @@
             window.yScale = yScale;
             window.yAxis = yAxis;
             window.svg = svg;
+            window.eventLabels = eventLabels;
             
             // Apply initial period filters (default to 1900+)
             applyPeriodFilters();
@@ -1417,8 +1418,8 @@
             });
             
             // Also hide/show event labels
-            window.svg.selectAll('.event-label')
-                .style('display', function(d) {
+            if (window.eventLabels) {
+                window.eventLabels.style('display', function(d) {
                     let shouldShow = false;
                     
                     if (currentFilter === 'all') {
@@ -1445,6 +1446,7 @@
                     
                     return shouldShow ? 'block' : 'none';
                 });
+            }
             
             // Update date range based on visible events - vertical
             if (visibleEvents.length > 0 && window.yScale && window.yAxis && window.svg) {
