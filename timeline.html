@@ -1416,6 +1416,36 @@
                 }
             });
             
+            // Also hide/show event labels
+            window.svg.selectAll('.event-label')
+                .style('display', function(d) {
+                    let shouldShow = false;
+                    
+                    if (currentFilter === 'all') {
+                        if (selectedPeriods.length === 0) {
+                            shouldShow = false;
+                        } else {
+                            const eventYear = d.date.getFullYear();
+                            shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
+                        }
+                    } else if (currentFilter === 'communications') {
+                        shouldShow = d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt';
+                    } else if (currentFilter === 'outbound') {
+                        shouldShow = d.type === 'outbound';
+                    } else if (currentFilter === 'inbound') {
+                        shouldShow = d.type === 'inbound' || d.type === 'contact-attempt';
+                    } else if (currentFilter === 'contact-attempt') {
+                        shouldShow = d.type === 'contact-attempt';
+                    } else if (currentFilter === 'chronology') {
+                        if (d.type === 'chronology') {
+                            const eventYear = d.date.getFullYear();
+                            shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
+                        }
+                    }
+                    
+                    return shouldShow ? 'block' : 'none';
+                });
+            
             // Update date range based on visible events - vertical
             if (visibleEvents.length > 0 && window.yScale && window.yAxis && window.svg) {
                 const dates = visibleEvents.map(d => d.date);
