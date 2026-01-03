@@ -1260,10 +1260,9 @@
             })
             .style('cursor', 'pointer');
         
-        // Add year labels for key communication events only (not chronology to avoid clutter) - vertical
-        const communicationEventsOnly = allEvents.filter(d => d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt');
+        // Add title labels for all events - vertical
         svg.selectAll('.event-label')
-            .data(communicationEventsOnly)
+            .data(allEvents)
             .enter()
             .append('text')
             .attr('class', 'event-label')
@@ -1276,7 +1275,19 @@
             })
             .attr('text-anchor', 'start')
             .attr('dominant-baseline', 'middle')
-            .text(d => d3.timeFormat('%Y')(d.date));
+            .style('font-size', '10px')
+            .style('fill', '#c9d1d9')
+            .text(d => {
+                // Truncate title to max 30 characters
+                const maxLength = 30;
+                const title = d.title || 'Untitled';
+                return title.length > maxLength ? title.substring(0, maxLength) + '...' : title;
+            })
+            .style('cursor', 'pointer')
+            .on('click', function(event, d) {
+                event.stopPropagation();
+                showEventModal(d);
+            });
         
             // Store references for filtering
             window.yScale = yScale;
