@@ -28,7 +28,7 @@
         
         .container {
             max-width: 100%;
-            padding: 20px;
+            padding: 0;
         }
         
         header {
@@ -117,9 +117,67 @@
             color: #ffffff;
         }
         
+        .main-layout {
+            display: flex;
+            min-height: calc(100vh - 200px);
+        }
+        
+        .sidebar {
+            width: 320px;
+            background: #161b22;
+            border-right: 1px solid #30363d;
+            overflow-y: auto;
+            transition: margin-left 0.3s ease;
+            position: relative;
+        }
+        
+        .sidebar.collapsed {
+            margin-left: -320px;
+        }
+        
+        .sidebar-content {
+            padding: 20px;
+        }
+        
+        .toggle-sidebar {
+            position: fixed;
+            left: 320px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-left: none;
+            color: #8b949e;
+            padding: 12px 8px;
+            cursor: pointer;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 0.85em;
+            border-radius: 0 6px 6px 0;
+            transition: all 0.3s ease;
+            z-index: 100;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+        }
+        
+        .toggle-sidebar.collapsed {
+            left: 0;
+        }
+        
+        .toggle-sidebar:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        
+        .timeline-container {
+            flex: 1;
+            padding: 20px;
+            overflow-x: auto;
+        }
+        
         #timeline {
             width: 100%;
-            height: 600px;
+            min-height: 800px;
             background: #0d1117;
             position: relative;
         }
@@ -390,13 +448,81 @@
             font-size: 0.85em;
         }
         
+        .filter-section {
+            margin-bottom: 25px;
+        }
+        
+        .filter-section-title {
+            color: #58a6ff;
+            font-weight: 600;
+            margin-bottom: 12px;
+            font-size: 0.95em;
+        }
+        
+        .filter-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        
+        .filter-buttons .btn {
+            width: 100%;
+            text-align: left;
+        }
+        
+        .period-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            font-size: 0.85em;
+        }
+        
+        .period-label {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            color: #c9d1d9;
+            cursor: pointer;
+        }
+        
+        .period-label:hover {
+            color: #58a6ff;
+        }
+        
         @media (max-width: 768px) {
             h1 {
                 font-size: 1.5em;
             }
             
-            #timeline {
-                height: 400px;
+            .main-layout {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid #30363d;
+            }
+            
+            .sidebar.collapsed {
+                margin-left: 0;
+                margin-top: -100%;
+            }
+            
+            .toggle-sidebar {
+                left: 50%;
+                top: auto;
+                bottom: 0;
+                transform: translateX(-50%);
+                writing-mode: horizontal-tb;
+                border-left: 1px solid #30363d;
+                border-top: none;
+                border-radius: 6px 6px 0 0;
+            }
+            
+            .toggle-sidebar.collapsed {
+                left: 50%;
+                bottom: 0;
             }
         }
     </style>
@@ -418,186 +544,203 @@
             <div class="tab active">TIMELINE VIZ</div>
         </div>
         
-        <div style="text-align: center; padding: 20px; background: #0d1117;">
-            <h2 style="color: #58a6ff; margin-bottom: 10px;">UAP/UFO/NHI CHRONOLOGY TIMELINE</h2>
-            <div style="color: #8b949e; font-size: 0.9em;">Interactive visualization of sightings, encounters, communications, and disclosure events</div>
-        </div>
+        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar()">FILTERS</button>
         
-        <div class="controls">
-            <button class="btn active" onclick="showAll()">ALL EVENTS</button>
-            <button class="btn" onclick="showCommunications()">INBOUND & OUTBOUND</button>
-            <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
-            <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
-            <button class="btn" onclick="showContactAttempts()">CONTACT ATTEMPTS</button>
-            <button class="btn" onclick="showChronology()">CHRONOLOGY</button>
-            <button class="btn" onclick="resetZoom()">RESET ZOOM</button>
-        </div>
-        
-        <div style="text-align: center; padding: 10px; color: #8b949e; font-size: 0.85em;">
-            <span id="eventCount">Loading events...</span>
-        </div>
-        
-        <div class="filter-panel" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 20px; margin: 20px auto; max-width: 1000px;">
-            <div style="color: #58a6ff; font-weight: 600; margin-bottom: 15px; text-align: center;">CHRONOLOGY TIME PERIOD FILTERS</div>
-            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 8px; font-size: 0.9em;">
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2030" checked onchange="applyPeriodFilters()">
-                    <span>2030</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2029" checked onchange="applyPeriodFilters()">
-                    <span>2029</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2028" checked onchange="applyPeriodFilters()">
-                    <span>2028</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2027" checked onchange="applyPeriodFilters()">
-                    <span>2027</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2026" checked onchange="applyPeriodFilters()">
-                    <span>2026</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2025" checked onchange="applyPeriodFilters()">
-                    <span>2025</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2024" checked onchange="applyPeriodFilters()">
-                    <span>2024</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2023" checked onchange="applyPeriodFilters()">
-                    <span>2023</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2022" checked onchange="applyPeriodFilters()">
-                    <span>2022</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2021" checked onchange="applyPeriodFilters()">
-                    <span>2021</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2020" checked onchange="applyPeriodFilters()">
-                    <span>2020</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2019" checked onchange="applyPeriodFilters()">
-                    <span>2019</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2018" checked onchange="applyPeriodFilters()">
-                    <span>2018</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2017" checked onchange="applyPeriodFilters()">
-                    <span>2017</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2016" checked onchange="applyPeriodFilters()">
-                    <span>2016</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2015" checked onchange="applyPeriodFilters()">
-                    <span>2015</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2014" checked onchange="applyPeriodFilters()">
-                    <span>2014</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2013" checked onchange="applyPeriodFilters()">
-                    <span>2013</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2012" checked onchange="applyPeriodFilters()">
-                    <span>2012</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2011" checked onchange="applyPeriodFilters()">
-                    <span>2011</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="2010" checked onchange="applyPeriodFilters()">
-                    <span>2010</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="200" checked onchange="applyPeriodFilters()">
-                    <span>2000s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="199" checked onchange="applyPeriodFilters()">
-                    <span>1990s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="198" checked onchange="applyPeriodFilters()">
-                    <span>1980s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="197" checked onchange="applyPeriodFilters()">
-                    <span>1970s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="196" checked onchange="applyPeriodFilters()">
-                    <span>1960s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="195" checked onchange="applyPeriodFilters()">
-                    <span>1950s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="194" checked onchange="applyPeriodFilters()">
-                    <span>1940s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="18" onchange="applyPeriodFilters()">
-                    <span>1800s</span>
-                </label>
-                <label style="display: flex; align-items: center; gap: 6px; color: #c9d1d9; cursor: pointer;">
-                    <input type="checkbox" class="period-filter" value="ancient" onchange="applyPeriodFilters()">
-                    <span>ANCIENT</span>
-                </label>
+        <div class="main-layout">
+            <div class="sidebar" id="sidebar">
+                <div class="sidebar-content">
+                    <div style="text-align: center; margin-bottom: 20px;">
+                        <div style="color: #8b949e; font-size: 0.85em; margin-bottom: 10px;">
+                            <span id="eventCount">Loading events...</span>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-section-title">EVENT TYPE FILTERS</div>
+                        <div class="filter-buttons">
+                            <button class="btn active" onclick="showAll()">ALL EVENTS</button>
+                            <button class="btn" onclick="showCommunications()">INBOUND & OUTBOUND</button>
+                            <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
+                            <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
+                            <button class="btn" onclick="showContactAttempts()">CONTACT ATTEMPTS</button>
+                            <button class="btn" onclick="showChronology()">CHRONOLOGY</button>
+                            <button class="btn" onclick="resetZoom()">RESET ZOOM</button>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-section-title">TIME PERIOD FILTERS</div>
+                        <div class="period-grid">
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2030" checked onchange="applyPeriodFilters()">
+                                <span>2030</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2029" checked onchange="applyPeriodFilters()">
+                                <span>2029</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2028" checked onchange="applyPeriodFilters()">
+                                <span>2028</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2027" checked onchange="applyPeriodFilters()">
+                                <span>2027</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2026" checked onchange="applyPeriodFilters()">
+                                <span>2026</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2025" checked onchange="applyPeriodFilters()">
+                                <span>2025</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2024" checked onchange="applyPeriodFilters()">
+                                <span>2024</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2023" checked onchange="applyPeriodFilters()">
+                                <span>2023</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2022" checked onchange="applyPeriodFilters()">
+                                <span>2022</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2021" checked onchange="applyPeriodFilters()">
+                                <span>2021</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2020" checked onchange="applyPeriodFilters()">
+                                <span>2020</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2019" checked onchange="applyPeriodFilters()">
+                                <span>2019</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2018" checked onchange="applyPeriodFilters()">
+                                <span>2018</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2017" checked onchange="applyPeriodFilters()">
+                                <span>2017</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2016" checked onchange="applyPeriodFilters()">
+                                <span>2016</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2015" checked onchange="applyPeriodFilters()">
+                                <span>2015</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2014" checked onchange="applyPeriodFilters()">
+                                <span>2014</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2013" checked onchange="applyPeriodFilters()">
+                                <span>2013</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2012" checked onchange="applyPeriodFilters()">
+                                <span>2012</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2011" checked onchange="applyPeriodFilters()">
+                                <span>2011</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="2010" checked onchange="applyPeriodFilters()">
+                                <span>2010</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="200" checked onchange="applyPeriodFilters()">
+                                <span>2000s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="199" checked onchange="applyPeriodFilters()">
+                                <span>1990s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="198" checked onchange="applyPeriodFilters()">
+                                <span>1980s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="197" checked onchange="applyPeriodFilters()">
+                                <span>1970s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="196" checked onchange="applyPeriodFilters()">
+                                <span>1960s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="195" checked onchange="applyPeriodFilters()">
+                                <span>1950s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="194" checked onchange="applyPeriodFilters()">
+                                <span>1940s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="18" onchange="applyPeriodFilters()">
+                                <span>1800s</span>
+                            </label>
+                            <label class="period-label">
+                                <input type="checkbox" class="period-filter" value="ancient" onchange="applyPeriodFilters()">
+                                <span>ANCIENT</span>
+                            </label>
+                        </div>
+                        <div style="display: flex; gap: 8px; margin-top: 12px;">
+                            <button class="btn" style="flex: 1;" onclick="selectAllPeriods()">ALL</button>
+                            <button class="btn" style="flex: 1;" onclick="deselectAllPeriods()">NONE</button>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-section-title">LEGEND</div>
+                        <div style="display: flex; flex-direction: column; gap: 10px; font-size: 0.85em;">
+                            <div style="display: flex; align-items: center; gap: 8px;">
+                                <svg width="16" height="16">
+                                    <rect x="2" y="2" width="12" height="12" fill="#58a6ff" stroke="#1f6feb" stroke-width="2"/>
+                                </svg>
+                                <span>Outbound</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 8px;">
+                                <svg width="16" height="16">
+                                    <polygon points="8,2 14,14 2,14" fill="#f85149" stroke="#da3633" stroke-width="2"/>
+                                </svg>
+                                <span>Inbound</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 8px;">
+                                <svg width="16" height="16">
+                                    <polygon points="8,2 14,8 8,14 2,8" fill="#a371f7" stroke="#8957e5" stroke-width="2"/>
+                                </svg>
+                                <span>Contact</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 8px;">
+                                <svg width="16" height="16">
+                                    <circle cx="8" cy="8" r="4" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Other</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #30363d;">
+                        <a href="viewer.html" style="color: #58a6ff; text-decoration: none; font-size: 0.85em;">← Back to Main Viewer</a>
+                    </div>
+                </div>
             </div>
-            <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-                <button class="btn" onclick="selectAllPeriods()">SELECT ALL</button>
-                <button class="btn" onclick="deselectAllPeriods()">DESELECT ALL</button>
+            
+            <div class="timeline-container">
+                <div style="text-align: center; padding: 20px 0;">
+                    <h2 style="color: #58a6ff; margin-bottom: 10px;">UAP/UFO/NHI CHRONOLOGY TIMELINE</h2>
+                    <div style="color: #8b949e; font-size: 0.9em;">Interactive visualization of sightings, encounters, communications, and disclosure events</div>
+                </div>
+                <div id="timeline" role="application" aria-label="Interactive timeline of UAP and communication events"></div>
             </div>
-        </div>
-        
-        <div class="legend" role="region" aria-label="Timeline event types legend">
-            <div class="legend-item">
-                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-                    <rect x="2" y="2" width="12" height="12" fill="#58a6ff" stroke="#1f6feb" stroke-width="2"/>
-                </svg>
-                <span>Outbound (Earth → Space) - Square</span>
-            </div>
-            <div class="legend-item">
-                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-                    <polygon points="8,2 14,14 2,14" fill="#f85149" stroke="#da3633" stroke-width="2"/>
-                </svg>
-                <span>Inbound (Space → Earth) - Triangle</span>
-            </div>
-            <div class="legend-item">
-                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-                    <polygon points="8,2 14,8 8,14 2,8" fill="#a371f7" stroke="#8957e5" stroke-width="2"/>
-                </svg>
-                <span>Contact Attempts (In-Person) - Diamond</span>
-            </div>
-            <div class="legend-item">
-                <svg width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-                    <circle cx="8" cy="8" r="4" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
-                </svg>
-                <span>Other Events - Circle</span>
-            </div>
-        </div>
-        
-        <div id="timeline" role="application" aria-label="Interactive timeline of UAP and communication events"></div>
-        
-        <div class="back-link">
-            <a href="viewer.html">← Back to Main Viewer</a>
         </div>
     </div>
     
@@ -853,10 +996,10 @@
         }
         
         function drawTimeline() {
-            // Timeline dimensions
-            const margin = {top: 60, right: 40, bottom: 60, left: 150};
-            const width = document.getElementById('timeline').clientWidth - margin.left - margin.right;
-            const height = 600 - margin.top - margin.bottom;
+            // Timeline dimensions - rotated 90 degrees
+            const margin = {top: 40, right: 150, bottom: 40, left: 60};
+            const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 600);
+            const height = 1200;
             
             // Create SVG
             const svg = d3.select('#timeline')
@@ -879,19 +1022,19 @@
             const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
             const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
             
-            // Scales
-            const xScale = d3.scaleTime()
+            // Scales - vertical timeline
+            const yScale = d3.scaleTime()
                 .domain([paddedMin, paddedMax])
-                .range([0, width]);
+                .range([0, height]);
             
-            const yOutbound = height * 0.25;
-            const yInbound = height * 0.45;
-            const yContactAttempt = height * 0.65;
-            const yChronology = height * 0.85;
+            const xOutbound = width * 0.15;
+            const xInbound = width * 0.35;
+            const xContactAttempt = width * 0.55;
+            const xChronology = width * 0.75;
         
-            // Axes with custom tick format for BCE/CE dates
-            const xAxis = d3.axisBottom(xScale)
-                .ticks(15)
+            // Axes with custom tick format for BCE/CE dates - vertical
+            const yAxis = d3.axisLeft(yScale)
+                .ticks(20)
                 .tickFormat(d => {
                     const year = d.getFullYear();
                     // Convert back to BCE/CE for display
@@ -904,78 +1047,78 @@
                 });
         
         svg.append('g')
-            .attr('class', 'x-axis')
-            .attr('transform', `translate(0,${height / 2})`)
-            .call(xAxis)
+            .attr('class', 'y-axis')
+            .attr('transform', `translate(${width / 2},0)`)
+            .call(yAxis)
             .selectAll('text')
             .style('fill', '#8b949e')
             .style('font-family', 'Share Tech Mono');
         
-        svg.selectAll('.x-axis path, .x-axis line')
+        svg.selectAll('.y-axis path, .y-axis line')
             .style('stroke', '#30363d');
         
-            // Timeline tracks
+            // Timeline tracks - vertical
             svg.append('line')
                 .attr('class', 'timeline-track')
-                .attr('x1', 0)
-                .attr('y1', yOutbound)
-                .attr('x2', width)
-                .attr('y2', yOutbound);
+                .attr('x1', xOutbound)
+                .attr('y1', 0)
+                .attr('x2', xOutbound)
+                .attr('y2', height);
             
             svg.append('line')
                 .attr('class', 'timeline-track')
-                .attr('x1', 0)
-                .attr('y1', yInbound)
-                .attr('x2', width)
-                .attr('y2', yInbound);
+                .attr('x1', xInbound)
+                .attr('y1', 0)
+                .attr('x2', xInbound)
+                .attr('y2', height);
             
             svg.append('line')
                 .attr('class', 'timeline-track')
-                .attr('x1', 0)
-                .attr('y1', yContactAttempt)
-                .attr('x2', width)
-                .attr('y2', yContactAttempt);
+                .attr('x1', xContactAttempt)
+                .attr('y1', 0)
+                .attr('x2', xContactAttempt)
+                .attr('y2', height);
             
             svg.append('line')
                 .attr('class', 'timeline-track')
-                .attr('x1', 0)
-                .attr('y1', yChronology)
-                .attr('x2', width)
-                .attr('y2', yChronology);
+                .attr('x1', xChronology)
+                .attr('y1', 0)
+                .attr('x2', xChronology)
+                .attr('y2', height);
             
-            // Track labels
+            // Track labels - vertical
             svg.append('text')
-                .attr('x', -10)
-                .attr('y', yOutbound)
-                .attr('text-anchor', 'end')
-                .attr('dominant-baseline', 'middle')
+                .attr('x', xOutbound)
+                .attr('y', -10)
+                .attr('text-anchor', 'middle')
+                .attr('dominant-baseline', 'auto')
                 .style('fill', '#58a6ff')
                 .style('font-size', '11px')
                 .text('EARTH → SPACE');
             
             svg.append('text')
-                .attr('x', -10)
-                .attr('y', yInbound)
-                .attr('text-anchor', 'end')
-                .attr('dominant-baseline', 'middle')
+                .attr('x', xInbound)
+                .attr('y', -10)
+                .attr('text-anchor', 'middle')
+                .attr('dominant-baseline', 'auto')
                 .style('fill', '#f85149')
                 .style('font-size', '11px')
                 .text('SPACE → EARTH');
             
             svg.append('text')
-                .attr('x', -10)
-                .attr('y', yContactAttempt)
-                .attr('text-anchor', 'end')
-                .attr('dominant-baseline', 'middle')
+                .attr('x', xContactAttempt)
+                .attr('y', -10)
+                .attr('text-anchor', 'middle')
+                .attr('dominant-baseline', 'auto')
                 .style('fill', '#a371f7')
                 .style('font-size', '11px')
                 .text('IN-PERSON CONTACT');
             
             svg.append('text')
-                .attr('x', -10)
-                .attr('y', yChronology)
-                .attr('text-anchor', 'end')
-                .attr('dominant-baseline', 'middle')
+                .attr('x', xChronology)
+                .attr('y', -10)
+                .attr('text-anchor', 'middle')
+                .attr('dominant-baseline', 'auto')
                 .style('fill', '#8b949e')
                 .style('font-size', '11px')
                 .text('OTHER EVENTS');
@@ -991,19 +1134,19 @@
                 chronology: allEvents.filter(d => d.type === 'chronology').length
             });
             
-            // Draw events with different shapes for accessibility
+            // Draw events with different shapes for accessibility - vertical
             const eventGroups = svg.selectAll('.event-group')
                 .data(allEvents)
                 .enter()
                 .append('g')
                 .attr('class', 'event-group')
                 .attr('transform', d => {
-                    const x = xScale(d.date);
-                    let y;
-                    if (d.type === 'outbound') y = yOutbound;
-                    else if (d.type === 'inbound') y = yInbound;
-                    else if (d.type === 'contact-attempt') y = yContactAttempt;
-                    else y = yChronology;
+                    const y = yScale(d.date);
+                    let x;
+                    if (d.type === 'outbound') x = xOutbound;
+                    else if (d.type === 'inbound') x = xInbound;
+                    else if (d.type === 'contact-attempt') x = xContactAttempt;
+                    else x = xChronology;
                     return `translate(${x},${y})`;
                 })
                 .attr('role', 'button')
@@ -1101,26 +1244,27 @@
             })
             .style('cursor', 'pointer');
         
-        // Add year labels for key communication events only (not chronology to avoid clutter)
+        // Add year labels for key communication events only (not chronology to avoid clutter) - vertical
         const communicationEventsOnly = allEvents.filter(d => d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt');
         svg.selectAll('.event-label')
             .data(communicationEventsOnly)
             .enter()
             .append('text')
             .attr('class', 'event-label')
-            .attr('x', d => xScale(d.date))
-            .attr('y', d => {
-                if (d.type === 'outbound') return yOutbound - 15;
-                if (d.type === 'inbound') return yInbound - 15;
-                if (d.type === 'contact-attempt') return yContactAttempt - 15;
-                return yChronology - 15;
+            .attr('y', d => yScale(d.date))
+            .attr('x', d => {
+                if (d.type === 'outbound') return xOutbound + 15;
+                if (d.type === 'inbound') return xInbound + 15;
+                if (d.type === 'contact-attempt') return xContactAttempt + 15;
+                return xChronology + 15;
             })
-            .attr('text-anchor', 'middle')
+            .attr('text-anchor', 'start')
+            .attr('dominant-baseline', 'middle')
             .text(d => d3.timeFormat('%Y')(d.date));
         
             // Store references for filtering
-            window.xScale = xScale;
-            window.xAxis = xAxis;
+            window.yScale = yScale;
+            window.yAxis = yAxis;
             window.svg = svg;
             
             // Apply initial period filters (default to 1900+)
@@ -1245,8 +1389,8 @@
                 }
             });
             
-            // Update date range based on visible events
-            if (visibleEvents.length > 0 && window.xScale && window.xAxis && window.svg) {
+            // Update date range based on visible events - vertical
+            if (visibleEvents.length > 0 && window.yScale && window.yAxis && window.svg) {
                 const dates = visibleEvents.map(d => d.date);
                 const minDate = d3.min(dates);
                 const maxDate = d3.max(dates);
@@ -1257,23 +1401,28 @@
                 const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
                 
                 // Update scale domain
-                window.xScale.domain([paddedMin, paddedMax]);
+                window.yScale.domain([paddedMin, paddedMax]);
                 
                 // Redraw axis and reposition nodes
-                window.svg.select('.x-axis')
+                window.svg.select('.y-axis')
                     .transition()
                     .duration(500)
-                    .call(window.xAxis);
+                    .call(window.yAxis);
                 
                 window.nodes
                     .transition()
                     .duration(500)
-                    .attr('cx', d => window.xScale(d.date));
+                    .attr('transform', function(d) {
+                        const currentTransform = d3.select(this).attr('transform');
+                        const xMatch = currentTransform.match(/translate\(([^,]+)/);
+                        const x = xMatch ? xMatch[1] : 0;
+                        return `translate(${x},${window.yScale(d.date)})`;
+                    });
                 
                 window.svg.selectAll('.event-label')
                     .transition()
                     .duration(500)
-                    .attr('x', d => window.xScale(d.date));
+                    .attr('y', d => window.yScale(d.date));
             }
         }
         
@@ -1477,8 +1626,8 @@
             const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
             const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
             
-            if (window.xScale) {
-                window.xScale.domain([paddedMin, paddedMax]);
+            if (window.yScale) {
+                window.yScale.domain([paddedMin, paddedMax]);
                 updateTimeline();
             }
         }
@@ -1497,11 +1646,23 @@
         }
         
         function updateTimeline() {
-            if (window.svg && window.xAxis && window.xScale && window.nodes) {
-                window.svg.select('.x-axis').call(window.xAxis);
-                window.nodes.attr('cx', d => window.xScale(d.date));
-                window.svg.selectAll('.event-label').attr('x', d => window.xScale(d.date));
+            if (window.svg && window.yAxis && window.yScale && window.nodes) {
+                window.svg.select('.y-axis').call(window.yAxis);
+                window.nodes.attr('transform', function(d) {
+                    const currentTransform = d3.select(this).attr('transform');
+                    const xMatch = currentTransform.match(/translate\(([^,]+)/);
+                    const x = xMatch ? xMatch[1] : 0;
+                    return `translate(${x},${window.yScale(d.date)})`;
+                });
+                window.svg.selectAll('.event-label').attr('y', d => window.yScale(d.date));
             }
+        }
+        
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const toggleBtn = document.getElementById('toggleSidebar');
+            sidebar.classList.toggle('collapsed');
+            toggleBtn.classList.toggle('collapsed');
         }
     </script>
 </body>
