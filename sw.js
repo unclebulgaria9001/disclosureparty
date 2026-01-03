@@ -1,40 +1,39 @@
 const CACHE_NAME = 'disclosure-db-v1';
-const urlsToCache = [
-  '/disclosureparty/',
-  '/disclosureparty/viewer.html',
-  '/disclosureparty/timeline.html',
-  '/disclosureparty/chronology-viewer.html',
-  '/disclosureparty/contact-viewer.html',
-  '/disclosureparty/index.html',
-  '/disclosureparty/dist/chronology.md',
-  'https://d3js.org/d3.v7.min.js',
-  'https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap'
-];
 
 self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then(cache => cache.addAll(urlsToCache))
-  );
-});
-
-self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches.match(event.request)
-      .then(response => response || fetch(event.request))
-  );
+  self.skipWaiting();
 });
 
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(cacheNames => {
       return Promise.all(
-        cacheNames.map(cacheName => {
-          if (cacheName !== CACHE_NAME) {
-            return caches.delete(cacheName);
-          }
-        })
+        cacheNames.map(cacheName => caches.delete(cacheName))
       );
-    })
+    }).then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    fetch(event.request)
+      .then(response => {
+        // Clone the response
+        const responseToCache = response.clone();
+        
+        // Cache external resources only (fonts, libraries)
+        if (event.request.url.includes('d3js.org') || 
+            event.request.url.includes('googleapis.com')) {
+          caches.open(CACHE_NAME).then(cache => {
+            cache.put(event.request, responseToCache);
+          });
+        }
+        
+        return response;
+      })
+      .catch(() => {
+        // Fallback to cache only for external resources
+        return caches.match(event.request);
+      })
   );
 });
