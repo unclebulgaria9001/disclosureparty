@@ -95,7 +95,10 @@ const translations = {
         translateContent: "Translate Content",
         translating: "Translating...",
         translationNote: "Content is in English. Use browser translation or the translate button.",
-        autoTranslate: "Auto-Translate"
+        autoTranslate: "Auto-Translate",
+        
+        // Footer message
+        truthMessage: "WE ARE NOT ALONE. THE TRUTH BELONGS TO HUMANITY."
     },
     
     zh: {
@@ -191,7 +194,10 @@ const translations = {
         translateContent: "翻译内容",
         translating: "翻译中...",
         translationNote: "内容为英文。使用浏览器翻译或翻译按钮。",
-        autoTranslate: "自动翻译"
+        autoTranslate: "自动翻译",
+        
+        // Footer message
+        truthMessage: "我们并不孤单。真相属于全人类。"
     },
     
     es: {
@@ -287,7 +293,10 @@ const translations = {
         translateContent: "Traducir Contenido",
         translating: "Traduciendo...",
         translationNote: "El contenido está en inglés. Use la traducción del navegador o el botón de traducción.",
-        autoTranslate: "Traducción Automática"
+        autoTranslate: "Traducción Automática",
+        
+        // Footer message
+        truthMessage: "NO ESTAMOS SOLOS. LA VERDAD PERTENECE A LA HUMANIDAD."
     },
     
     ar: {
@@ -383,7 +392,10 @@ const translations = {
         translateContent: "ترجمة المحتوى",
         translating: "جاري الترجمة...",
         translationNote: "المحتوى باللغة الإنجليزية. استخدم ترجمة المتصفح أو زر الترجمة.",
-        autoTranslate: "ترجمة تلقائية"
+        autoTranslate: "ترجمة تلقائية",
+        
+        // Footer message
+        truthMessage: "نحن لسنا وحدنا. الحقيقة ملك للإنسانية."
     },
     
     pt: {
@@ -479,7 +491,10 @@ const translations = {
         translateContent: "Traduzir Conteúdo",
         translating: "Traduzindo...",
         translationNote: "O conteúdo está em inglês. Use a tradução do navegador ou o botão de tradução.",
-        autoTranslate: "Tradução Automática"
+        autoTranslate: "Tradução Automática",
+        
+        // Footer message
+        truthMessage: "NÃO ESTAMOS SOZINHOS. A VERDADE PERTENCE À HUMANIDADE."
     }
 };
 
