@@ -1387,13 +1387,9 @@
                 let shouldShow = false;
                 
                 if (currentFilter === 'all') {
-                    // Show all events, but filter chronology by period
-                    if (d.type === 'chronology') {
-                        const eventYear = d.date.getFullYear();
-                        shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
-                    } else {
-                        shouldShow = true; // Always show communication and contact-attempt events
-                    }
+                    // Show all events, but filter by period
+                    const eventYear = d.date.getFullYear();
+                    shouldShow = selectedPeriods.length === 0 || selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                 } else if (currentFilter === 'communications') {
                     shouldShow = d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt';
                 } else if (currentFilter === 'outbound') {
