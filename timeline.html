@@ -17,6 +17,8 @@
     <meta name="apple-mobile-web-app-title" content="Disclosure DB">
     
     <script src="https://d3js.org/d3.v7.min.js?v=20260103"></script>
+    <link rel="stylesheet" href="i18n/language-switcher.css">
+    <script src="i18n/translations.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
         
@@ -525,22 +527,23 @@
 <body>
     <div class="container">
         <header>
-            <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
-            <div class="subtitle">Interactive Timeline Visualization</div>
-            <button id="installBtn" class="btn" onclick="installApp()" style="display: none; margin: 10px auto;">📱 Install App</button>
+            <h1 data-i18n="siteTitle">UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+            <div class="subtitle" data-i18n="timelineSubtitle">Interactive Timeline Visualization</div>
+            <button id="installBtn" class="btn" onclick="installApp()" style="display: none; margin: 10px auto;" data-i18n="installApp">📱 Install App</button>
         </header>
         
         <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
-            <div class="tab" onclick="window.location.href='viewer.html'">INDEX</div>
-            <div class="tab" onclick="window.location.href='viewer.html#chronology'">CHRONOLOGY</div>
-            <div class="tab" onclick="window.location.href='viewer.html#contact'">REQUEST NHI CONTACT</div>
-            <div class="tab" onclick="window.location.href='viewer.html#outbound'">OUTBOUND</div>
-            <div class="tab" onclick="window.location.href='viewer.html#inbound'">INBOUND</div>
-            <div class="tab" onclick="window.location.href='viewer.html#arecibo'">ARECIBO 1974</div>
-            <div class="tab active">TIMELINE VIZ</div>
+            <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="index">INDEX</div>
+            <div class="tab" onclick="window.location.href='viewer.html#chronology'" data-i18n="chronology">CHRONOLOGY</div>
+            <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">REQUEST NHI CONTACT</div>
+            <div class="tab" onclick="window.location.href='viewer.html#outbound'" data-i18n="outbound">OUTBOUND</div>
+            <div class="tab" onclick="window.location.href='viewer.html#inbound'" data-i18n="inbound">INBOUND</div>
+            <div class="tab" onclick="window.location.href='viewer.html#arecibo'" data-i18n="arecibo">ARECIBO 1974</div>
+            <div class="tab active" data-i18n="timelineViz">TIMELINE VIZ</div>
         </div>
         
-        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar(event)">FILTERS</button>
+        <div id="languageSwitcherContainer"></div>
+        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar(event)" data-i18n="filters">FILTERS</button>
         
         <div class="main-layout">
             <div class="sidebar" id="sidebar">
@@ -552,20 +555,20 @@
                     </div>
                     
                     <div class="filter-section">
-                        <div class="filter-section-title">EVENT TYPE FILTERS</div>
+                        <div class="filter-section-title" data-i18n="eventTypeFilters">EVENT TYPE FILTERS</div>
                         <div class="filter-buttons">
-                            <button class="btn active" onclick="showAll()">ALL EVENTS</button>
-                            <button class="btn" onclick="showCommunications()">INBOUND & OUTBOUND</button>
-                            <button class="btn" onclick="showOutbound()">OUTBOUND ONLY</button>
-                            <button class="btn" onclick="showInbound()">INBOUND ONLY</button>
-                            <button class="btn" onclick="showContactAttempts()">CONTACT ATTEMPTS</button>
-                            <button class="btn" onclick="showChronology()">CHRONOLOGY</button>
-                            <button class="btn" onclick="resetZoom()">RESET ZOOM</button>
+                            <button class="btn active" onclick="showAll()" data-i18n="allEvents">ALL EVENTS</button>
+                            <button class="btn" onclick="showCommunications()" data-i18n="inboundOutbound">INBOUND & OUTBOUND</button>
+                            <button class="btn" onclick="showOutbound()" data-i18n="outboundOnly">OUTBOUND ONLY</button>
+                            <button class="btn" onclick="showInbound()" data-i18n="inboundOnly">INBOUND ONLY</button>
+                            <button class="btn" onclick="showContactAttempts()" data-i18n="contactAttempts">CONTACT ATTEMPTS</button>
+                            <button class="btn" onclick="showChronology()" data-i18n="chronology">CHRONOLOGY</button>
+                            <button class="btn" onclick="resetZoom()" data-i18n="resetZoom">RESET ZOOM</button>
                         </div>
                     </div>
                     
                     <div class="filter-section">
-                        <div class="filter-section-title">TIME PERIOD FILTERS</div>
+                        <div class="filter-section-title" data-i18n="timePeriodFilters">TIME PERIOD FILTERS</div>
                         <div class="period-grid">
                             <label class="period-label">
                                 <input type="checkbox" class="period-filter" value="2030" checked onchange="applyPeriodFilters()">
@@ -689,50 +692,50 @@
                             </label>
                         </div>
                         <div style="display: flex; gap: 8px; margin-top: 12px;">
-                            <button class="btn" style="flex: 1;" onclick="selectAllPeriods()">ALL</button>
-                            <button class="btn" style="flex: 1;" onclick="deselectAllPeriods()">NONE</button>
+                            <button class="btn" style="flex: 1;" onclick="selectAllPeriods()" data-i18n="selectAll">ALL</button>
+                            <button class="btn" style="flex: 1;" onclick="deselectAllPeriods()" data-i18n="deselectAll">NONE</button>
                         </div>
                     </div>
                     
                     <div class="filter-section">
-                        <div class="filter-section-title">LEGEND</div>
+                        <div class="filter-section-title" data-i18n="legend">LEGEND</div>
                         <div style="display: flex; flex-direction: column; gap: 10px; font-size: 0.85em;">
                             <div style="display: flex; align-items: center; gap: 8px;">
                                 <svg width="16" height="16">
                                     <rect x="2" y="2" width="12" height="12" fill="#58a6ff" stroke="#1f6feb" stroke-width="2"/>
                                 </svg>
-                                <span>Outbound</span>
+                                <span data-i18n="outboundLegend">Outbound</span>
                             </div>
                             <div style="display: flex; align-items: center; gap: 8px;">
                                 <svg width="16" height="16">
                                     <polygon points="8,2 14,14 2,14" fill="#f85149" stroke="#da3633" stroke-width="2"/>
                                 </svg>
-                                <span>Inbound</span>
+                                <span data-i18n="inboundLegend">Inbound</span>
                             </div>
                             <div style="display: flex; align-items: center; gap: 8px;">
                                 <svg width="16" height="16">
                                     <polygon points="8,2 14,8 8,14 2,8" fill="#a371f7" stroke="#8957e5" stroke-width="2"/>
                                 </svg>
-                                <span>Contact</span>
+                                <span data-i18n="contactLegend">Contact</span>
                             </div>
                             <div style="display: flex; align-items: center; gap: 8px;">
                                 <svg width="16" height="16">
                                     <circle cx="8" cy="8" r="4" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
                                 </svg>
-                                <span>Other</span>
+                                <span data-i18n="otherLegend">Other</span>
                             </div>
                         </div>
                     </div>
                     
                     <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #30363d;">
-                        <a href="viewer.html" style="color: #58a6ff; text-decoration: none; font-size: 0.85em;">← Back to Main Viewer</a>
+                        <a href="viewer.html" style="color: #58a6ff; text-decoration: none; font-size: 0.85em;" data-i18n="backToViewer">← Back to Main Viewer</a>
                     </div>
                 </div>
             </div>
             
             <div class="timeline-container">
                 <div style="text-align: center; padding: 20px 0;">
-                    <h2 style="color: #58a6ff; margin-bottom: 10px;">UAP/UFO/NHI CHRONOLOGY TIMELINE</h2>
+                    <h2 style="color: #58a6ff; margin-bottom: 10px;" data-i18n="chronologyTitle">UAP/UFO/NHI CHRONOLOGY TIMELINE</h2>
                     <div style="color: #8b949e; font-size: 0.9em;">Interactive visualization of sightings, encounters, communications, and disclosure events</div>
                 </div>
                 <div id="timeline" role="application" aria-label="Interactive timeline of UAP and communication events"></div>
@@ -1720,6 +1723,10 @@
                 .then(reg => console.log('Service Worker registered'))
                 .catch(err => console.log('Service Worker registration failed'));
         }
+        
+        // Initialize language switcher
+        document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
+        updatePageLanguage();
     </script>
 </body>
 </html>

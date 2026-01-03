@@ -7,6 +7,8 @@
     <meta name="theme-color" content="#58a6ff">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <title>UAP/UFO/NHI Chronology Viewer</title>
+    <link rel="stylesheet" href="i18n/language-switcher.css">
+    <script src="i18n/translations.js"></script>
     <style>
         * {
             margin: 0;
@@ -342,42 +344,43 @@
 <body>
     <div class="container">
         <header>
-            <h1>🛸 UAP/UFO/NHI Chronology</h1>
-            <p class="subtitle">Comprehensive Timeline of Disclosure Events</p>
+            <h1 data-i18n="chronologyTitle">🛸 UAP/UFO/NHI Chronology</h1>
+            <p class="subtitle" data-i18n="chronologySubtitle">Comprehensive Timeline of Disclosure Events</p>
             <div class="nav-links">
-                <a href="index.html">← Back to Index</a>
-                <a href="dist/contact-nhi.txt" target="_blank">NHI Contact Message</a>
-                <a href="dist/arecibo-message-1974.txt" target="_blank">Arecibo Message</a>
-                <a href="dist/chronology.md" target="_blank">Raw Markdown</a>
+                <a href="index.html" data-i18n="backToIndex">← Back to Index</a>
+                <a href="dist/contact-nhi.txt" target="_blank" data-i18n="nhiContactMessage">NHI Contact Message</a>
+                <a href="dist/arecibo-message-1974.txt" target="_blank" data-i18n="areciboMessage">Arecibo Message</a>
+                <a href="dist/chronology.md" target="_blank" data-i18n="rawMarkdown">Raw Markdown</a>
             </div>
         </header>
         
-        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar(event)">FILTERS</button>
+        <div id="languageSwitcherContainer"></div>
+        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar(event)" data-i18n="filters">FILTERS</button>
         
         <div class="main-layout">
             <div class="sidebar" id="sidebar">
                 <div class="sidebar-content">
                     <div class="filter-section">
-                        <div class="filter-section-title">SEARCH</div>
-                        <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search chronology...">
+                        <div class="filter-section-title" data-i18n="search">SEARCH</div>
+                        <input type="text" class="search-box" id="searchBox" data-i18n-placeholder="searchPlaceholder" placeholder="🔍 Search chronology...">
                     </div>
                     
                     <div class="filter-section">
-                        <div class="filter-section-title">QUICK FILTERS</div>
+                        <div class="filter-section-title" data-i18n="quickFilters">QUICK FILTERS</div>
                         <div class="filter-buttons">
-                            <button class="filter-btn active" data-filter="all">All Events</button>
+                            <button class="filter-btn active" data-filter="all" data-i18n="allEvents">All Events</button>
                             <button class="filter-btn" data-filter="2025">2025</button>
                             <button class="filter-btn" data-filter="2024">2024</button>
                             <button class="filter-btn" data-filter="2023">2023</button>
-                            <button class="filter-btn" data-filter="hearing">Hearings</button>
-                            <button class="filter-btn" data-filter="foia">FOIA</button>
+                            <button class="filter-btn" data-filter="hearing" data-i18n="hearings">Hearings</button>
+                            <button class="filter-btn" data-filter="foia" data-i18n="foia">FOIA</button>
                         </div>
                     </div>
                     
-                    <div class="stats" id="stats" style="margin-top: 20px; padding: 15px; background: rgba(30, 35, 55, 0.6); border-radius: 8px; color: #a0a0a0; text-align: center;">Loading chronology...</div>
+                    <div class="stats" id="stats" style="margin-top: 20px; padding: 15px; background: rgba(30, 35, 55, 0.6); border-radius: 8px; color: #a0a0a0; text-align: center;" data-i18n="loadingChronology">Loading chronology...</div>
                     
                     <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
-                        <a href="index.html" style="color: #4a9eff; text-decoration: none; font-size: 0.85em;">← Back to Index</a>
+                        <a href="index.html" style="color: #4a9eff; text-decoration: none; font-size: 0.85em;" data-i18n="backToIndex">← Back to Index</a>
                     </div>
                 </div>
             </div>
@@ -388,8 +391,8 @@
                 </div>
                 
                 <footer>
-                    <p>Data source: <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank" style="color: #4a9eff;">Amplenote Chronology</a></p>
-                    <p style="margin-top: 10px;">For content suggestions: <a href="mailto:uncle.bulgaria9001@gmail.com" style="color: #4a9eff;">uncle.bulgaria9001@gmail.com</a></p>
+                    <p><span data-i18n="dataSource">Data source:</span> <a href="https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi" target="_blank" style="color: #4a9eff;">Amplenote Chronology</a></p>
+                    <p style="margin-top: 10px;"><span data-i18n="contentSuggestions">For content suggestions:</span> <a href="mailto:uncle.bulgaria9001@gmail.com" style="color: #4a9eff;">uncle.bulgaria9001@gmail.com</a></p>
                 </footer>
             </div>
         </div>
@@ -576,6 +579,10 @@
                 document.getElementById('toggleSidebar').classList.add('collapsed');
             }
         });
+        
+        // Initialize language switcher
+        document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
+        updatePageLanguage();
     </script>
 </body>
 </html>

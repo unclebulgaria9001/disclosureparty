@@ -12,6 +12,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="Disclosure DB">
     
+    <link rel="stylesheet" href="i18n/language-switcher.css">
+    <script src="i18n/translations.js"></script>
+    
     <!-- SEO Meta Tags -->
     <meta name="description" content="Urgent public message to Non-Human Intelligence requesting direct, transparent communication. Comprehensive UAP/UFO disclosure timeline, evidence, and historical Earth messages to extraterrestrial civilizations.">
     <meta name="keywords" content="NHI, Non-Human Intelligence, UAP, UFO, alien contact, extraterrestrial communication, disclosure, FOIA, Arecibo message, SETI, interstellar message, alien message, contact NHI, UAP disclosure, UFO evidence">
@@ -684,16 +687,16 @@
 <body>
     <div class="progress-banner" id="progressBanner">
         <div class="progress-container">
-            <button class="toggle-countdown" onclick="toggleCountdown()">HIDE COUNTDOWN</button>
-            <div class="progress-title">📢 NHI CONTACT REQUEST TIMELINE</div>
+            <button class="toggle-countdown" onclick="toggleCountdown()" data-i18n="hideCountdown">HIDE COUNTDOWN</button>
+            <div class="progress-title" data-i18n="countdownTitle">📢 NHI CONTACT REQUEST TIMELINE</div>
             <div class="phases-wrapper">
                 <!-- Phase 1: Distribution -->
                 <div class="phase-box phase-1">
                     <div class="phase-header">
                         <div class="phase-icon">📆</div>
                         <div>
-                            <div class="phase-title">Phase 1: Distribution</div>
-                            <div class="phase-subtitle">Spread the Message</div>
+                            <div class="phase-title" data-i18n="phase1Title">Phase 1: Distribution</div>
+                            <div class="phase-subtitle" data-i18n="phase1Subtitle">Spread the Message</div>
                         </div>
                     </div>
                     
@@ -725,8 +728,8 @@
                     <div class="phase-header">
                         <div class="phase-icon">⏳</div>
                         <div>
-                            <div class="phase-title">Phase 2: Countdown</div>
-                            <div class="phase-subtitle">Final Week</div>
+                            <div class="phase-title" data-i18n="phase2Title">Phase 2: Countdown</div>
+                            <div class="phase-subtitle" data-i18n="phase2Subtitle">Final Week</div>
                         </div>
                     </div>
                     
@@ -762,19 +765,21 @@
     
     <div class="container">
         <header>
-            <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
-            <div class="subtitle">Comprehensive Timeline & Documentation</div>
-            <button id="installBtn" class="filter-btn" onclick="installApp()" style="display: none; margin: 10px auto;">📱 Install App</button>
+            <h1 data-i18n="siteTitle">UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+            <div class="subtitle" data-i18n="subtitle">Comprehensive Timeline & Documentation</div>
+            <button id="installBtn" class="filter-btn" onclick="installApp()" style="display: none; margin: 10px auto;" data-i18n="installApp">📱 Install App</button>
         </header>
         
+        <div id="languageSwitcherContainer"></div>
+        
         <div class="tabs">
-            <div class="tab active" data-doc="index">INDEX</div>
-            <div class="tab" data-doc="chronology">CHRONOLOGY</div>
-            <div class="tab" data-doc="contact">REQUEST NHI CONTACT</div>
-            <div class="tab" data-doc="outbound">OUTBOUND</div>
-            <div class="tab" data-doc="inbound">INBOUND</div>
-            <div class="tab" data-doc="arecibo">ARECIBO 1974</div>
-            <div class="tab" onclick="window.location.href='timeline.html'">TIMELINE VIZ</div>
+            <div class="tab active" data-doc="index" data-i18n="index">INDEX</div>
+            <div class="tab" data-doc="chronology" data-i18n="chronology">CHRONOLOGY</div>
+            <div class="tab" data-doc="contact" data-i18n="requestContact">REQUEST NHI CONTACT</div>
+            <div class="tab" data-doc="outbound" data-i18n="outbound">OUTBOUND</div>
+            <div class="tab" data-doc="inbound" data-i18n="inbound">INBOUND</div>
+            <div class="tab" data-doc="arecibo" data-i18n="arecibo">ARECIBO 1974</div>
+            <div class="tab" onclick="window.location.href='timeline.html'" data-i18n="timelineViz">TIMELINE VIZ</div>
         </div>
         
         <div id="controlsContainer"></div>
@@ -1649,6 +1654,10 @@
                 .then(reg => console.log('Service Worker registered'))
                 .catch(err => console.log('Service Worker registration failed'));
         }
+        
+        // Initialize language switcher
+        document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
+        updatePageLanguage();
         
         // Handle URL hash and query parameters
         function handleUrlParams() {
