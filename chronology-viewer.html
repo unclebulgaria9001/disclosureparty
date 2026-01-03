@@ -552,7 +552,12 @@
         loadChronology();
         
         // Toggle sidebar functionality
-        function toggleSidebar() {
+        function toggleSidebar(event) {
+            if (event) {
+                event.preventDefault();
+                event.stopPropagation();
+            }
+            
             const sidebar = document.getElementById('sidebar');
             const toggleBtn = document.getElementById('toggleSidebar');
             sidebar.classList.toggle('collapsed');
