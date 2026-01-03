@@ -1035,10 +1035,10 @@
                 .domain([paddedMin, paddedMax])
                 .range([0, height]);
             
-            const xOutbound = width * 0.25;
-            const xInbound = width * 0.45;
-            const xContactAttempt = width * 0.65;
-            const xChronology = width * 0.85;
+            const xOutbound = width * 0.15;
+            const xInbound = width * 0.35;
+            const xContactAttempt = width * 0.55;
+            const xChronology = width * 0.75;
         
             // Check if we have any truly ancient events (BCE/CE before year 1000) in the current view
             const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 1900);
