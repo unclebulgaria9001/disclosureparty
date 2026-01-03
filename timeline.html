@@ -161,19 +161,20 @@
             font-size: 0.85em;
             border-radius: 0 6px 6px 0;
             transition: all 0.3s ease;
-            z-index: 100;
+            z-index: 1000;
             writing-mode: vertical-rl;
             text-orientation: mixed;
-        }
-        
-        .toggle-sidebar.collapsed {
-            left: 0;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
         }
         
         .toggle-sidebar:hover {
             background: #30363d;
             border-color: #58a6ff;
             color: #58a6ff;
+        }
+        
+        .toggle-sidebar.collapsed {
+            left: 0;
         }
         
         .timeline-container {
