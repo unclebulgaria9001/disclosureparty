@@ -1825,10 +1825,25 @@
                 }
             });
             
-            // Count events with photos
+            // Count visible events with photos
             const data = await loadChronologyData();
             if (data) {
-                const withPhotosCount = data.filter(e => e.images && e.images.length > 0).length;
+                let withPhotosCount = 0;
+                window.nodes.each(function(d) {
+                    if (d.type !== 'chronology') return;
+                    
+                    const node = d3.select(this);
+                    const isVisible = node.style('display') !== 'none';
+                    
+                    if (!isVisible) return;
+                    
+                    // Find entry in chronology data
+                    const entry = data.find(e => e.title.trim() === d.title.trim());
+                    if (entry && entry.images && entry.images.length > 0) {
+                        withPhotosCount++;
+                    }
+                });
+                
                 const photoFilterLabel = document.querySelector('#photoFilter').parentElement;
                 const span = photoFilterLabel.querySelector('span');
                 const currentText = span.textContent.replace(/\s*\(\d+\)/, '');
