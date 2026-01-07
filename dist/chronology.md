@@ -1691,6 +1691,8 @@ https://web.archive.org/web/20150703123417/http:/www.presidentialufo.com/old sit
 
 In Arizona’s Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparent non-human entities aboard a craft. The case received extensive publicity and remains one of the most famous abduction reports in UFO lore.
 
+[https://en.wikipedia.org/wiki/Travis_Walton_abduction](https://en.wikipedia.org/wiki/Travis_Walton_abduction)
+
 \
 
 ## 1971 - Photos from the USS Trepang SSN 674 submarine as it traveled between Iceland and Norway's Jan Mayen Island. Cylindrical UFO rising from the water. #FOIA-- #image #new #limited (2023-08-09)
@@ -1807,7 +1809,9 @@ The Westall UFO was a reported UFO sighting in Australia that occurred on 6 Apri
 
 ## 1964, April 24 - Lonnie Zamora incident
 
-On April 24, 1964, at approximately 5:45 p.m., Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident. Zamora advised Lopez that he would be “checking the car down in the arroyo".  Shortly after, Lopez received another radio call from Zamora asking Lopez to look out of the window, to see if he could see an object. When Lopez asked Zamora to describe it, Zamora said, "it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location. When Chavez arrived, he asked Zamora what the trouble was. Zamora led him to examine some burning brush. When other police officers arrived, they noted patches of smoldering grass and brush. The object looked like a white egg. 
+On April 24, 1964, at approximately 5:45 p.m., Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident. Zamora advised Lopez that he would be "checking the car down in the arroyo".  Shortly after, Lopez received another radio call from Zamora asking Lopez to look out of the window, to see if he could see an object. When Lopez asked Zamora to describe it, Zamora said, "it looks like a balloon" and requested New Mexico State Police Sergeant Chavez meet him at his location. When Chavez arrived, he asked Zamora what the trouble was. Zamora led him to examine some burning brush. When other police officers arrived, they noted patches of smoldering grass and brush. The object looked like a white egg. 
+
+[https://en.wikipedia.org/wiki/Lonnie_Zamora_sighting](https://en.wikipedia.org/wiki/Lonnie_Zamora_sighting)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lonnie_Zamora-tuig_van_24_April_1964_te_Secorro%2C_NM%2C_a.jpg/220px-Lonnie_Zamora-tuig_van_24_April_1964_te_Secorro%2C_NM%2C_a.jpg)
 
@@ -1819,6 +1823,8 @@ On April 24, 1964, at approximately 5:45 p.m., Socorro Police radio dispatcher N
 ## 1961, September 19 - Betty and Barney Hill Abduction  
 
 This incident is widely considered the first well-publicized report of an alien abduction in the United States. Betty and Barney Hill claimed to have observed a bright object while driving on a rural road in New Hampshire and then experienced an unexplained period of lost time. Later, under hypnosis, they recounted detailed memories of being taken aboard a UFO and subjected to medical examinations by non-human beings.
+
+[https://en.wikipedia.org/wiki/Hill_abduction](https://en.wikipedia.org/wiki/Hill_abduction)
 
 \
 
@@ -1875,6 +1881,8 @@ Gruskinski states he could see silhouettes through windows in the object, “You
 In the film Close Encounters of the Third Kind, there’s a famous scene where a UFO makes the electronics in a car go haywire. The real-life inspiration for that scene came from an incident in 1957, when dozens of citizens of Levelland, Texas, individually reported seeing a rocket or strange lights that interfered with their vehicles: Engines died, lights cut out.
 
 [https://www.history.com/news/historys-most-infamous-ufo-sightings](https://www.history.com/news/historys-most-infamous-ufo-sightings) 
+
+[https://en.wikipedia.org/wiki/Levelland_UFO_incident](https://en.wikipedia.org/wiki/Levelland_UFO_incident) 
 
  
 
@@ -2120,9 +2128,11 @@ It boggles my mind how most people never heard of any of that and instead they j
 
 ## 1947, June 24 - Civilian pilot Kenneth Arnold.
 
-Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington’s Mount Rainier on June 24, 1947, Arnold claimed to have seen nine blue, glowing objects flying fast—at an estimated 1,700 m.p.h.—in a “V” formation.
+Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington's Mount Rainier on June 24, 1947, Arnold claimed to have seen nine blue, glowing objects flying fast—at an estimated 1,700 m.p.h.—in a "V" formation.
 
-[https://www.history.com/news/historys-most-infamous-ufo-sightings](https://www.history.com/news/historys-most-infamous-ufo-sightings) 
+[https://www.history.com/news/historys-most-infamous-ufo-sightings](https://www.history.com/news/historys-most-infamous-ufo-sightings)
+
+[https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting) 
 
 ![kenneth-arnold-515217790.jpg?width=2048&height=1432&crop=2048%3A1432%2Csmart&quality=75&auto=webp|468.4314880371094](https://assets.editorial.aetnd.com/uploads/2018/08/kenneth-arnold-515217790.jpg?width=2048&height=1432&crop=2048%3A1432%2Csmart&quality=75&auto=webp)
 
