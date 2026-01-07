@@ -1779,7 +1779,8 @@
             if (eventData.type === 'chronology') {
                 const data = await loadChronologyData();
                 if (data) {
-                    const entry = data.find(e => e.title === eventData.title);
+                    // Match by title (eventData.title already has tags stripped)
+                    const entry = data.find(e => e.title.trim() === eventData.title.trim());
                     if (entry) {
                         let bodyHtml = '';
                         
