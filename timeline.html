@@ -495,11 +495,22 @@
         }
         
         .period-label {
-            display: flex;
+            display: inline-flex;
             align-items: center;
             gap: 6px;
             color: #c9d1d9;
             cursor: pointer;
+            vertical-align: middle;
+        }
+        
+        .period-label input[type="checkbox"] {
+            margin: 0;
+            flex-shrink: 0;
+        }
+        
+        .period-label span {
+            line-height: 1;
+            vertical-align: middle;
         }
         
         .period-label:hover {
