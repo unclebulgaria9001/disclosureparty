@@ -1703,12 +1703,20 @@
                     
                     // Parse based on current section
                     if (currentSection === 'links') {
-                        // Parse markdown links
+                        // Parse markdown links [text](url)
                         const mdLinkMatch = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
                         if (mdLinkMatch) {
-                            currentEntry.links.push({text: mdLinkMatch[1], url: mdLinkMatch[2]});
+                            const linkText = mdLinkMatch[1];
+                            const linkUrl = mdLinkMatch[2];
+                            // If text is a URL, extract domain for display
+                            const displayText = linkText.startsWith('http') ? 
+                                linkText.replace(/^https?:\/\//, '').split('/')[0] : 
+                                linkText;
+                            currentEntry.links.push({text: displayText, url: linkUrl});
                         } else if (line.startsWith('http://') || line.startsWith('https://')) {
-                            currentEntry.links.push({text: line, url: line});
+                            // Plain URL
+                            const displayText = line.replace(/^https?:\/\//, '').split('/')[0];
+                            currentEntry.links.push({text: displayText, url: line});
                         }
                     } else if (currentSection === 'photos') {
                         // Parse images
