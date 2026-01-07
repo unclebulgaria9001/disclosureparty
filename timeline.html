@@ -912,17 +912,14 @@
                     // Parse date
                     const date = parseDateString(dateStr);
                     if (date) {
-                        // Exclude ancient (BCE/CE) and pre-1900 events
-                        const year = date.getFullYear();
-                        if (year >= 1900) {
-                            chronologyEvents.push({
-                                date: date,
-                                originalDateStr: dateStr,
-                                type: 'chronology',
-                                title: title,
-                                description: `UAP/UFO event from chronology: ${title}`
-                            });
-                        }
+                        // Include all events (ancient and modern)
+                        chronologyEvents.push({
+                            title: title,
+                            date: date,
+                            originalDateStr: dateStr,
+                            description: '',
+                            type: 'chronology'
+                        });
                     }
                 }
             }
