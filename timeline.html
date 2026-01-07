@@ -1597,7 +1597,16 @@
             const photoFilterChecked = document.getElementById('photoFilter').checked;
             
             if (!photoFilterChecked) {
-                // No content filter active, apply tag filters normally
+                // No content filter active, show all and apply tag filters normally
+                window.nodes.each(function(d) {
+                    if (d.type === 'chronology') {
+                        const node = d3.select(this);
+                        const label = window.svg.selectAll('.event-label')
+                            .filter(labelData => labelData === d);
+                        node.style('display', null);
+                        label.style('display', null);
+                    }
+                });
                 applyTagFilters();
                 return;
             }
@@ -1605,6 +1614,12 @@
             // Load chronology data to check for photos
             const data = await loadChronologyData();
             
+            if (!data) {
+                console.error('Could not load chronology data for photo filter');
+                return;
+            }
+            
+            // First pass: apply photo filter
             window.nodes.each(function(d) {
                 if (d.type !== 'chronology') {
                     return;
@@ -1614,23 +1629,25 @@
                 const label = window.svg.selectAll('.event-label')
                     .filter(labelData => labelData === d);
                 
-                if (photoFilterChecked) {
-                    // Find entry in chronology data
-                    const entry = data ? data.find(e => e.title.trim() === d.title.trim()) : null;
-                    const hasPhotos = entry && entry.images && entry.images.length > 0;
-                    
-                    if (hasPhotos) {
-                        node.style('display', null);
-                        label.style('display', null);
-                    } else {
-                        node.style('display', 'none');
-                        label.style('display', 'none');
-                    }
+                // Find entry in chronology data
+                const entry = data.find(e => e.title.trim() === d.title.trim());
+                const hasPhotos = entry && entry.images && entry.images.length > 0;
+                
+                if (hasPhotos) {
+                    node.style('display', null);
+                    label.style('display', null);
+                    // Mark as having photos for tag filter
+                    d._hasPhotos = true;
+                } else {
+                    node.style('display', 'none');
+                    label.style('display', 'none');
+                    d._hasPhotos = false;
                 }
             });
             
-            // Also apply tag filters
+            // Second pass: apply tag filters only to events with photos
             applyTagFilters();
+            updateEventCount();
         }
         
         function applyTagFilters() {
