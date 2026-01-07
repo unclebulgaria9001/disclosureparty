@@ -1076,9 +1076,9 @@
         
         function drawTimeline() {
             // Timeline dimensions - rotated 90 degrees
-            const margin = {top: 40, right: 150, bottom: 40, left: 60};
+            const margin = {top: 40, right: 200, bottom: 40, left: 60};
             const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 600);
-            const height = 1200;
+            const height = 800;
             
             // Create SVG
             const svg = d3.select('#timeline')
@@ -1339,18 +1339,25 @@
             .attr('class', 'event-label')
             .attr('y', d => yScale(d.date))
             .attr('x', d => {
-                if (d.type === 'outbound') return xOutbound + 15;
-                if (d.type === 'inbound') return xInbound + 15;
-                if (d.type === 'contact-attempt') return xContactAttempt + 15;
-                return xChronology + 15;
+                if (d.type === 'outbound') return xOutbound + 12;
+                if (d.type === 'inbound') return xInbound + 12;
+                if (d.type === 'contact-attempt') return xContactAttempt + 12;
+                return xChronology + 12;
             })
             .attr('text-anchor', 'start')
             .attr('dominant-baseline', 'middle')
-            .style('font-size', '10px')
+            .attr('transform', d => {
+                const x = d.type === 'outbound' ? xOutbound + 12 :
+                         d.type === 'inbound' ? xInbound + 12 :
+                         d.type === 'contact-attempt' ? xContactAttempt + 12 :
+                         xChronology + 12;
+                return `rotate(-45, ${x}, ${yScale(d.date)})`;
+            })
+            .style('font-size', '9px')
             .style('fill', '#c9d1d9')
             .text(d => {
-                // Truncate title to max 30 characters
-                const maxLength = 30;
+                // Truncate title to max 40 characters (can fit more with angle)
+                const maxLength = 40;
                 const title = d.title || 'Untitled';
                 return title.length > maxLength ? title.substring(0, maxLength) + '...' : title;
             })
