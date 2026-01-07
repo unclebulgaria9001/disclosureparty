@@ -2000,11 +2000,13 @@
                         
                         // Add photos section
                         if (entry.images && entry.images.length > 0) {
+                            console.log('Rendering images:', entry.images);
                             bodyHtml += '<div style="margin-bottom: 20px;"><strong style="color: #58a6ff;">Photos:</strong><div style="margin-top: 10px;">';
                             entry.images.forEach(img => {
                                 // Ensure path is correct - add dist/ prefix if not present
                                 const imgSrc = img.src.startsWith('dist/') ? img.src : `dist/${img.src}`;
-                                bodyHtml += `<img src="${imgSrc}" alt="${img.alt}" loading="lazy" style="max-width: 100%; margin: 10px 0; border-radius: 6px;">`;
+                                console.log('Image src:', imgSrc);
+                                bodyHtml += `<img src="${imgSrc}" alt="${img.alt}" loading="lazy" style="max-width: 100%; height: auto; margin: 10px 0; border-radius: 6px; border: 1px solid #30363d; display: block;" onerror="console.error('Failed to load image:', this.src)">`;
                             });
                             bodyHtml += '</div></div>';
                         }
