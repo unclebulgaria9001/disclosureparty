@@ -1347,28 +1347,20 @@
             .enter()
             .append('text')
             .attr('class', 'event-label')
-            .attr('x', d => {
-                if (d.type === 'outbound') return xOutbound + 12;
-                if (d.type === 'inbound') return xInbound + 12;
-                if (d.type === 'contact-attempt') return xContactAttempt + 12;
-                return xChronology + 12;
-            })
             .attr('y', d => yScale(d.date))
+            .attr('x', d => {
+                if (d.type === 'outbound') return xOutbound + 15;
+                if (d.type === 'inbound') return xInbound + 15;
+                if (d.type === 'contact-attempt') return xContactAttempt + 15;
+                return xChronology + 15;
+            })
             .attr('text-anchor', 'start')
             .attr('dominant-baseline', 'middle')
-            .attr('transform', d => {
-                const x = d.type === 'outbound' ? xOutbound + 12 :
-                         d.type === 'inbound' ? xInbound + 12 :
-                         d.type === 'contact-attempt' ? xContactAttempt + 12 :
-                         xChronology + 12;
-                const y = yScale(d.date);
-                return `translate(${x},${y}) rotate(-45)`;
-            })
-            .style('font-size', '9px')
+            .style('font-size', '10px')
             .style('fill', '#c9d1d9')
             .text(d => {
-                // Truncate title to max 40 characters (can fit more with angle)
-                const maxLength = 40;
+                // Truncate title to max 30 characters
+                const maxLength = 30;
                 const title = d.title || 'Untitled';
                 return title.length > maxLength ? title.substring(0, maxLength) + '...' : title;
             })
