@@ -94,13 +94,13 @@ After leaving active duty, he states that he contracted with the Department of D
 
 [https://x.com/BillyKryzak/status/1881016226773954962](https://x.com/BillyKryzak/status/1881016226773954962) 
 
-https://www.reddit.com/r/UFOs/s/1jbDkhARSi
+[https://www.reddit.com/r/UFOs/s/1jbDkhARSi](https://www.reddit.com/r/UFOs/s/1jbDkhARSi)
 
-https://www.newsnationnow.com/space/ufo/uap-whistleblower-ufo-retrieval-program/
+[https://www.newsnationnow.com/space/ufo/uap-whistleblower-ufo-retrieval-program/](https://www.newsnationnow.com/space/ufo/uap-whistleblower-ufo-retrieval-program/)
 
-https://www.reddit.com/r/UFOs/s/teZmIaccSr
+[https://www.reddit.com/r/UFOs/s/teZmIaccSr](https://www.reddit.com/r/UFOs/s/teZmIaccSr)
 
-https://m.youtube.com/watch?v=3dtA9w5ldHw
+[https://m.youtube.com/watch?v=3dtA9w5ldHw](https://m.youtube.com/watch?v=3dtA9w5ldHw)
 
 [https://x.com/BillyKryzak/status/1881016226773954962](https://x.com/BillyKryzak/status/1881016226773954962) 
 
@@ -110,7 +110,7 @@ https://m.youtube.com/watch?v=3dtA9w5ldHw
 
 ## 2024, December 13  - NJ Drones
 
-https://www.reddit.com/r/UFOs/s/P3Gh4swx6f
+[https://www.reddit.com/r/UFOs/s/P3Gh4swx6f](https://www.reddit.com/r/UFOs/s/P3Gh4swx6f)
 
 ![brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b|396.00323486328125](https://preview.redd.it/brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b)
 
@@ -250,18 +250,19 @@ Key Takeaways from November 13 2024 Hearings:
 
 [https://www.reddit.com/r/UFOs/comments/1fzb05p/the_term_immaculate_constellation_is_rarely/](https://www.reddit.com/r/UFOs/comments/1fzb05p/the_term_immaculate_constellation_is_rarely/) 
 
-[https://old.reddit.com/r/UFOs/comments/1fzcu7i/shellenberger_pentagons_uap_program_immaculate/lr0fm0t/](https://old.reddit.com/r/UFOs/comments/1fzcu7i/shellenberger_pentagons_uap_program_immaculate/lr0fm0t/) 
+[Shellenberger: Pentagon's UAP program "Immaculate Constellation"](https://old.reddit.com/r/UFOs/comments/1fzcu7i/shellenberger_pentagons_uap_program_immaculate/lr0fm0t/)
 
 ![](https://external-preview.redd.it/the-term-immaculate-constellation-is-rarely-searched-for-on-v0-bFOSnbbmbi4DgctGSgX8rZ7qfvdTYV7vurRG_Mu7pn8.jpg?width=640&crop=smart&auto=webp&s=3c97d008d9f5af66d8d3c2ca675e4ab0c27187b1)
 
 ## 2024, September 9 - General H. R. McMaster to Bill Maher about UAPs 9/6/2024 - “There are things that cannot be explained.” “There are phenomena that have been witnessed by multiple people that are just inexplicable by the science available to us.”
 
-https://www.msn.com/en-us/news/technology/sarah-gamm-former-uap-task-force-intel-analyst-says-jellyfish-vid-was-not-a-ufo/vi-AA1sxMR7
+[MSNBC: Sarah Gamm, former UAP task force intel analyst, says jellyfish vid was not a UFO](https://www.msn.com/en-us/news/technology/sarah-gamm-former-uap-task-force-intel-analyst-says-jellyfish-vid-was-not-a-ufo/vi-AA1sxMR7)
 
 \
 
 ## 2024, August 20 - Defense Intelligence Agency, former employer of Lue Elizondo when he was part of AAWSAP and AATIP, dropped a treasure trove of hard-science documents today.
 
+[UFOs on Reddit](https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/)
 [https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/](https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/) 
 
 [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/) 
@@ -404,9 +405,9 @@ Agencies must identify all UAP records in any format, make digital copies of the
 
 Mellon's Signal conversation contains very specific redactions: Who redacted what exactly, and why did he leave "45' vs." in?
 
-https://twitter.com/ChrisKMellon/status/1782521425305243793?t=Zg1W4taa5LZy-IGkC4-oLQ&s=19
+[https://twitter.com/ChrisKMellon/status/1782521425305243793?t=Zg1W4taa5LZy-IGkC4-oLQ&s=19](https://twitter.com/ChrisKMellon/status/1782521425305243793?t=Zg1W4taa5LZy-IGkC4-oLQ&s=19)
 
-https://www.reddit.com/r/UFOs/s/SneoLc2MrA
+[https://www.reddit.com/r/UFOs/s/SneoLc2MrA](https://www.reddit.com/r/UFOs/s/SneoLc2MrA)
 
 ![1252a0df-0cfe-4298-86a3-246805d98fe0.jpg|795.9375](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/1252a0df-0cfe-4298-86a3-246805d98fe0.jpg) [^1]
 
@@ -565,7 +566,7 @@ According to Grusch (and many other sources), the Atomic Energy Act was used to 
 
 Such material is capable of releasing substantial quantities of atomic energy. The president can't legally declassify or disclose anything that falls under that act:
 
-https://www.americanbar.org/news/abanews/aba-news-archives/2022/10/fact-check-presidential-authority/
+[https://www.americanbar.org/news/abanews/aba-news-archives/2022/10/fact-check-presidential-authority/](https://www.americanbar.org/news/abanews/aba-news-archives/2022/10/fact-check-presidential-authority/)
 
 Some secrets, such as information related to nuclear weapons, are handled separately under a specific statutory scheme that Congress has adopted under the Atomic Energy Act. The president cannot automatically declassify those secrets alone and must, by law, consult extensively with executive branch agencies.
 
@@ -721,9 +722,7 @@ AMENDMENT TO RULES COMMITTEE PRINT 118- 10 OFFERED BY MR. BURCHETT OF TENNESSEE 
 
 In a shocking revelation, it has emerged that the CIA has a secretive office which has been retrieving aircraft from UFO crash sites for decades. Now, politicians are calling for more transparency. At least nine “ non-human craft” have been collected by the US government in top secret operations which have only just been revealed. Some of these UFOs - collected by the Office of Global Access (OGA) wing of the Central Intelligence Agency’s science team - have been destroyed by a crash while two have remained entirely intact.
 
-[https://www.mirror.co.uk/news/us-news/cia-secret-office-retrieved-ufos-31563776](https://www.mirror.co.uk/news/us-news/cia-secret-office-retrieved-ufos-31563776) 
-
-https://www.mirror.co.uk/news/us-news/cia-secret-office-retrieved-ufos-31563776
+[https://www.mirror.co.uk/news/us-news/cia-secret-office-retrieved-ufos-31563776](https://www.mirror.co.uk/news/us-news/cia-secret-office-retrieved-ufos-31563776)
 
 \
 
@@ -1149,9 +1148,9 @@ The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed
 
 ## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #20 # new (2023-09-10) #canada #usa
 
-https://amp.cnn.com/cnn/2023/02/11/politics/unidentified-object-alaska-military-latest/index.html
+[https://amp.cnn.com/cnn/2023/02/11/politics/unidentified-object-alaska-military-latest/index.html](https://amp.cnn.com/cnn/2023/02/11/politics/unidentified-object-alaska-military-latest/index.html)
 
-https://reddit.com/r/UFOs/s/A27l9CHkFl 
+[https://reddit.com/r/UFOs/s/A27l9CHkFl](https://reddit.com/r/UFOs/s/A27l9CHkFl) 
 
 The object taken down Friday, which officials have not characterized as a balloon, was shot down at 1:45 p.m. EST, according to Pentagon spokesman Brig. Gen. Patrick Ryder said recovery teams are now collecting the debris that is sitting on top of ice in US territorial waters. "No official video footage of the objects or their take-down has been cleared for release, and I would not have any information about a timeline for any future potential release," said a DoD spokesperson.  Canadian Prime Minister Justin Trudeau received a secret memo laying out how the Canadian government was responding to the Feb. 11 Yukon incident. In addition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. The "Memorandum for the Prime Minister," transmitted Feb. 14
 
@@ -1163,7 +1162,7 @@ The object taken down Friday, which officials have not characterized as a balloo
 
 Multiple airborne objects, sometimes reported in mainstream media as UFOs, were observed and sometimes shot down by military aircraft. Many of the objects were reported as meteorology or espionage balloons
 
-https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023 
+[https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023](https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023) 
 
 ![49dec725-0f56-41c8-b77f-701b2d2d4944.png|349.0170593261719](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/49dec725-0f56-41c8-b77f-701b2d2d4944.png) [^7]
 
@@ -1229,7 +1228,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 ## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth
 
-https://en.wikipedia.org/wiki/James_Webb_Space_Telescopery 25 - 
+[https://en.wikipedia.org/wiki/James_Webb_Space_Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) 
 
 \
 
@@ -1345,7 +1344,7 @@ Former Israeli space security chief Haim Eshed claimed that humanity has been en
 
 ## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully:
 
-https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/&ved=2ahUKEwjB17P6nueGAxX-MkQIHTCwByoQFnoECCQQAQ&usg=AOvVaw2oNZfcb8061is2kRwWpI4v
+[https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/](https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
 
 May 2023:
 
@@ -1417,7 +1416,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 [https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf](https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf) 
 
-https://reddit.com/r/UFOs/s/9PSLtKNN7O
+[https://reddit.com/r/UFOs/s/9PSLtKNN7O](https://reddit.com/r/UFOs/s/9PSLtKNN7O)
 
 [https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents) 
 
@@ -1678,823 +1677,6 @@ Former Canadian defense minister Paul Hellyer asserts that the U.S. possesses kn
 ## 2010,  October - USAF personnel at Francis E. Warren AFB near
 
 Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that day, the missile site loses communications with 50 Minuteman III nuclear missiles, affecting five Missile Alert Facilities Alpha through Echo comprising the 319th Strategic Missile Squadron. The USAF commander of the squadron tells its members not to talk to journalists about the “things they may or may not have seen” and threatens severe penalties for violating security.
-
-[https://www.theatlantic.com/politics/archive/2010/10/failure-shuts-down-squadron-of-nuclear-mis siles/65207](<https://www.theatlantic.com/politics/archive/2010/10/failure-shuts-down-squadron-of-nuclear-mis siles/65207>)/ 
-
-[http://www.nicap.org/20101023cheyenne dir.htm](<http://www.nicap.org/20101023cheyenne dir.htm >) 
-
-[https://www.ufohastings.com/index.php/articles/huge-ufo-sighted-near-nuclear-missiles-during-o ctober-2010-launch-system-disruption](<https://www.ufohastings.com/index.php/articles/huge-ufo-sighted-near-nuclear-missiles-during-o ctober-2010-launch-system-disruption>) 
-
-\
-
-## 2010,  September 27 - Former USAF Capt. Robert Salas, missile targeting officer Robert C. Jamison, Col. Charles I. Halt, Navy Intelligence Command Master Chief Southwest Region Patrick McDonough, Lt. Col. Dwynne C. Arneson and Capt. Bruce Fenstermacher write affidavits that state UAP can neutralize nuclear missiles at U.S. and Russian bases. At the National Press Club in Washington, D.C., they state their superiors regularly told them nuclear UAP events “didn’t happen” and were “top secret.”
-
-https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/
-
-https://youtu.be/SULJf2-XnuE (press briefing)
-
-https://www.ufohastings.com/index.php/articles/the-ufos-nukes-connection-press-conference 
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/salas_01.jpg  
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/salas 02.jpg 
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/mcdonough 01.jpg  
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/mcdonough_02.jpg 
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/jamison 01.jpg 
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/jamison_02.jpg 
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/arneson 01.jpg    
-
-https://www.ufohastings.com/storage/files/image/2010-10-11/fenstermacher 01.jpg   
-
-[https://www.ufohastings.com/storage/files/image/2010-10-11/fenstermacher_02.jpg ]() 
-
-\
-
-## 2010, January - U.S. Navy Petty Officer John Baughman sees a “Tic-Tac” shaped object from the flight deck of the USS Carl Vinson near Haiti. 
-
-It was barely beneath the surface when he saw it, white and 20 feet long, and quickly “darted” into the depths. “It was definitely a solid object, but when it descended, its forward end rapidly collapsed in on itself and disappeared.” Baughman told his work center supervisor about the UAP, to which he was not debriefed and was not told to file a report. The supervisor told him “everyone sees weird shit in the ocean.” The event likely did not make its way into Navy or UAPTF reporting channels or Congress prior to it being disclosed to a journalist in 2021.
-
-[https://medium.com/on-the-trail-of-the-saucers/new-navy-witness-says-he-saw-a-tic-tac-operating -underwater-92344d29ac1](<https://medium.com/on-the-trail-of-the-saucers/new-navy-witness-says-he-saw-a-tic-tac-operating -underwater-92344d29ac1 >) 
-
-\
-
-## 2009, December 29 - Executive Order 13526
-
-E.O. 13526 prescribes a "uniform system for classifying, safeguarding, and declassifying national security information." The Order declares that the democratic principles of our nation require that the American people be informed of the activities of their Government while it simultaneously acknowledges that "the national interest has required that certain information be maintained in confidence in order to protect our citizens, our democratic institutions, and our participation within the community of nations." Based on these principals, Executive Order 13526, "Classified National Security Information" requires the automatic declassification of records of permanent historical value that are more than 25 years old, The Order also recognizes that some information might remain sensitive and pose a threat to the national security if released at the 25-year mark such as information which reveals the identity of a confidential human source, human intelligence source, or key design concepts of weapons of mass destruction, which may have a duration up to 75 years. Therefore, the Order allows agency heads to identify this information and provides for its further protection.
-
-2009, 75 Federal Register 707, January 5, 2010; President Barack H. Obama, “Implementation of the Executive Order, ‘Classified National Security Information,’” December 29, 2009, 75 Federal Register 733, January 5, 2010; and President Barack H. Obama, “Original Classification Authority,” December 29, 2009, 75 Federal Register 735, January 5, 2010.
-
-![](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/9bb67337-e29d-43e2-b3f3-01cc17e201de.png) [^18]
-
-[https://en.wikipedia.org/wiki/Executive_Order_13526#:\~:text=Executive%20Order%2013526%20was%20issued%20on](https://en.wikipedia.org/wiki/Executive_Order_13526#:\~:text=Executive%20Order%2013526%20was%20issued%20on) 
-
-[https://crsreports.congress.gov/product/pdf/r/r41528](https://crsreports.congress.gov/product/pdf/r/r41528) 
-
-[https://www.archives.gov/files/isoo/policy-documents/cnsi-eo.pdf](https://www.archives.gov/files/isoo/policy-documents/cnsi-eo.pdf) 
-
-\
-
-## 2009, June - In a letter dated June 24, 2009, addressed to Deputy Secretary of Defense William Lynn III, former U.S. Senate Majority Leader Harry Reid discusses the Advanced Aerospace Threat and Identification Program (AATIP) and its purpose #new #FOIA (2023-08-10)
-
-[https://upload.wikimedia.org/wikipedia/commons/c/ca/Letter_by_Senator_Harry_Reid%2C_then_US_Senate_Majority_Leader%2C_2009.pdf](https://upload.wikimedia.org/wikipedia/commons/c/ca/Letter_by_Senator_Harry_Reid%2C_then_US_Senate_Majority_Leader%2C_2009.pdf) 
-
-[https://commons.wikimedia.org/wiki/File:Letter_by_Senator_Harry_Reid,_then_US_Senate_Majority_Leader,_2009.pdf](https://commons.wikimedia.org/wiki/File:Letter_by_Senator_Harry_Reid,_then_US_Senate_Majority_Leader,_2009.pdf) 
-
-In a letter dated June 24, 2009, addressed to Deputy Secretary of Defense William Lynn III, former U.S. Senate Majority Leader Harry Reid discusses the Advanced Aerospace Threat and Identification Program (AATIP) and its purpose. The letter highlights the Senate's mandate for the Defense Intelligence Agency to assess foreign aerospace threats spanning up to forty years into the future. Technical studies encompass advanced lift, propulsion, unconventional materials, controls, weaponry, and human effects. Reid emphasizes the need for stringent protection of sensitive and unconventional aerospace findings, requesting the establishment of a Restricted Special-Access-Program (SAP) with restricted access for specific portions of the AATIP. The letter outlines the necessity for specialized individuals from the Department of Defense and the private sector due to the potential application of these technologies in space flight, weapons, communications, and propulsion. Reid underscores the unique security challenges posed by the project and highlights the need for enhanced safeguarding procedures beyond conventional SAP protocols.
-
-\
-
-## 2009, November - The questions of life's origins and of whether life exists elsewhere in the universe are very suitable and deserve serious consideration,, said the Rev. Jose Gabriel Funes, an astronomer and director of the Vatican Observatory #quote #news
-
-[https://www.nbcnews.com/id/wbna33838894](https://www.nbcnews.com/id/wbna33838894) 
-
-If biology is not unique to the Earth, or life elsewhere differs biochemically from our version, or we ever make contact with an intelligent species in the vastness of space, the implications for our self-image will be profound. How can we rule out that life may have developed elsewhere?
-
-\
-
-## 2008 Stephenville, Texas  
-
-   – Multiple residents and a local pilot track a silent, low-flying, 1⁄4-mile-wide object; radar data from both FAA and military installations.  
-
-\
-
-## 2008, May - Vatican chief astronomer #quote
-
-[https://www.reuters.com/article/us-pope-extraterrestrials/vatican-scientist-says-belief-in-god-and-aliens-is-ok-idINL146364620080514](https://www.reuters.com/article/us-pope-extraterrestrials/vatican-scientist-says-belief-in-god-and-aliens-is-ok-idINL146364620080514) 
-
-Rev. Jose Gabriel Funes, the Vatican's chief astronomer, advocates for the possibility of advanced extraterrestrial life, highlighting the abundance of planets in various galaxies. He sees no contradiction between belief in extraterrestrial beings and faith in God, suggesting that just as Earth has diverse creatures, other intelligent beings might exist as creations of God. Funes speculates that humanity could be the "lost sheep" of the universe while other beings could enjoy a harmonious relationship with their creator. He calls for improved dialogue between faith and science, suggesting that scientists explore the Bible and the Church keeps up with scientific advancements to bridge the gap. Funes views the "big bang" theory as compatible with faith in God as the universe's creator. Alongside this, Project Blue Book, a US Air Force study on UFOs conducted from 1952 to 1969, aimed to assess the threat of UFOs to national security and analyze related data. Despite collecting thousands of reports, only 701 cases remained unexplained at the project's termination, and the overall conclusion was that UFOs posed no significant threat or demonstrated extraterrestrial technology.
-
-\
-
-## 2007, December - Japan's chief cabinet secretary, Nobutaka Machimura, humorously acknowledged the existence of UFOs during a press conference #quote 
-
-[https://www.reuters.com/article/oukoe-uk-ufo/japan-government-spokesman-says-ufos-do-exist-idUKT37017220071218](https://www.reuters.com/article/oukoe-uk-ufo/japan-government-spokesman-says-ufos-do-exist-idUKT37017220071218) 
-
-Japan's chief cabinet secretary, Nobutaka Machimura, humorously acknowledged the existence of UFOs during a press conference, eliciting laughter from reporters. This response came after the cabinet issued a statement that it could not confirm any cases of unidentified flying objects following a question from opposition lawmaker Ryuji Yamane. While Yamane emphasized that UFOs are an issue of national interest and require a confirmation operation, he criticized the government for not actively collecting the necessary information for verification. Despite Machimura's lighthearted personal belief in their existence, Prime Minister Yasuo Fukuda adhered to the official view that UFOs had not been confirmed.
-
-\
-
-## 2006, November 7 - 2006, O'Hare International Airport UFO Sighting. Metallic, saucer-shaped craft hovering over Gate C-17
-
-[https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting](https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting) 
-
- On November 7, 2006, around 16:15 CST, a remarkable incident occurred at Chicago O'Hare International Airport. Federal authorities received a report that a group of twelve airport employees had witnessed a metallic, saucer-shaped craft hovering over Gate C-17. The sighting began when a ramp employee pushing back United Airlines Flight 446, bound for Charlotte, North Carolina, spotted the object. The sighting was corroborated by pilots, airline personnel, and mechanics. Interestingly, air traffic controllers did not observe the object, and it didn't register on radar. Witnesses described the craft as noiseless, with a diameter ranging from 6 to 24 feet, and it appeared dark gray. Witnesses outside the airport also reported seeing the same object, with one observer describing it as a disc-shaped craft hovering over the airport, creating a distinct hole in the cloud cover as it shot through at high speed. This unusual event lasted for about five minutes and was witnessed by several United Airlines employees who had rushed out to view it. On November 7, 2006, several employees and airport patrons at Chicago's O'Hare International Airport reported seeing a saucer-shaped, metallic object hovering over the terminal. The object was described as having a circular, white light underneath and maneuvering silently before disappearing at high speed. Pilots flying through the area were also queried but did not observe the phenomenon. The Federal Aviation Administration later stated that the sighting was likely a weather phenomenon, such as a saucer-shaped part of a weather balloon.
-
-\
-
-## 2006, October 17 - Eric Davis states George Bush Sr. says he was briefed by Col. Trudeau at the time of the 1968 Mendel Rivers Congressional Hearings. #quote #new (2023-08-11)
-
-[https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248) 
-
-Bush Sr. claims Trudeau told him that one of his men, Col. Corso, had been asked to testify before Congress and was about to reveal rumblings of “alien” hardware that had been distributed to “industrial labs.” The Corso testimony was squashed as a result of this conversation.
-
-\
-
-## 2006 - O’Hare International Airport Saucer (2006)
-
-[https://www.history.com/news/ufo-sightings-credible-modern](https://www.history.com/news/ufo-sightings-credible-modern) 
-
-Flight 446 was getting ready to fly to North Carolina from Chicago’s O’Hare International Airport when a United Airlines employee on the tarmac noticed a dark grey metallic craft hovering over gate C17. That day, November 7, 2006, a total of 12 United employees—and a few witnesses outside the airport—spotted the saucer-shaped craft around 4:15 p.m. 
-
-The witnesses say it hovered for about five minutes before shooting upward, where it broke a hole in the clouds—enough that pilots and mechanics could see the blue sky. The news report became the most-read story on The Chicago Tribune’s website to that date and made international news. However, because the UFO was not seen on radar, the FAA called it a “weather phenomenon” and declined to investigate.
-
-\
-
-## 2006, May - A "secret report" by the UK's Ministry of Defence (MoD) regarding UFOs has garnered media attention. The report, authored in 2000 and recently unearthed by researcher David Clarke, compiles UFO sightings reported to the MoD over previous decades. #new #news #FOIA (2023-08-10)
-
-[https://www.nature.com/news/2006/060508/full/news060508-6.html](https://www.nature.com/news/2006/060508/full/news060508-6.html) 
-
-A "secret report" by the UK's Ministry of Defence (MoD) regarding UFOs has garnered media attention. The report, authored in 2000 and recently unearthed by researcher David Clarke, compiles UFO sightings reported to the MoD over previous decades. However, the report's credibility has been questioned due to its lack of direct consultation with scientists and reliance on literature searches and theories from UFO folklore. The report suggests that many UFO sightings could be attributed to misidentifications of aircraft or unusual weather phenomena. Claims that plasma balls in the atmosphere could interfere with the brain's temporal lobes and create abduction memories have also been criticized as lacking solid scientific backing. 
-
-\
-
-## 2005, November - A document marked "Top Secret Umbra" has been released, shedding light on how the National Security Agency (NSA) became involved in the UFO phenomenon. #new #FOIA (2023-08-10)
-
-[https://www.nbcnews.com/id/wbna10070986](https://www.nbcnews.com/id/wbna10070986) 
-
-[https://irp.fas.org/nsa/yeates-ufo.pdf](https://irp.fas.org/nsa/yeates-ufo.pdf) 
-
-A document marked "Top Secret Umbra" has been released, shedding light on how the National Security Agency (NSA) became involved in the UFO phenomenon. The document, originally filed in 1980 in response to a lawsuit, reveals that the NSA had 239 UFO-related documents in its files, with some originating from other government agencies. The document highlights intercepted communications discussing unidentified aerial phenomena, radar observations, and reports of luminous objects in the sky. The document is largely declassified, with redacted sections to protect employee names and sensitive NSA information. Despite its release, the document does not address the UFO phenomenon conclusively but provides insight into the NSA's operations during the Cold War era. 
-
-\
-
-## 2004, March 5 - Mexican Air Force pilots using infrared equipment to search for drug-smuggling aircraft recorded 11 unidentified objects over southern Campechel #limited
-
-[https://en.m.wikipedia.org/wiki/UFO_sightings_in_Mexico#2004](https://en.m.wikipedia.org/wiki/UFO_sightings_in_Mexico#2004) 
-
-Mexico’s Defense Department issued a press release on May 12 accompanied by videotape that showed moving bright lights at 11,500 feet. Mexican UFOlogist Jaime Maussan interpreted the videotape as "proof of alien visitation", but science writer and skeptic Michael Shermer was critical of witness accounts that "varied wildly", saying, "it was like a fisherman's tale, growing with each retelling", while other experts suggested the lights were most likely burn-off flares on offshore oil platforms in the Gulf of Mexico.
-
-\
-
-## 2004 - Gen. Roger Ramey is photographed holding a typed message at AAC Fort Worth, TX after the alleged Roswell crash; it is later digitized and increased in size in 2004 #quote #new (2010-08-11)
-
-[http://www.roswellproof.com/Ramey_memo_compare.html](http://www.roswellproof.com/Ramey_memo_compare.html) 
-
-[https://libraries.uta.edu/roswell/node/21](https://libraries.uta.edu/roswell/node/21) 
-
-[http://www.roswellproof.com/Memo_HiRes_600dpi.html](http://www.roswellproof.com/Memo_HiRes_600dpi.html) 
-
-[https://vault.fbi.gov/Roswell%20UFO](https://vault.fbi.gov/Roswell%20UFO) 
-
-[http://thewandererschuckandkate.blogspot.com/2013/03/summer-day-1947.html](http://thewandererschuckandkate.blogspot.com/2013/03/summer-day-1947.html) 
-
-[http://www.roswellproof.com/Ramey_memo_letter_counts.html](http://www.roswellproof.com/Ramey_memo_letter_counts.html) 
-
-The memo discusses interpreting the Ramey memo and the importance of knowing word lengths to prevent misreads. It addresses challenges in deciphering the memo due to factors like faint letters, page curvature, and distorted text. The graphic illustrates how column lines help determine word lengths accurately. The memo provides commentary on disputed words and character counts, rejecting assumptions and advocating for evidence-based interpretations. It discusses discrepancies in word readings and highlights the use of column lines to distinguish characters. The memo rejects misspellings and emphasizes the need for objective analysis. It addresses specific lines and words in the memo, highlighting the character count disagreements and proposing alternative readings based on evidence. The author comments on how their interpretations align with the message's context and purpose.
-
-RECOVERY OPERATION WITH ROSWELL DISK ON JULY 4TH. THE
-
-VICTIMS OF THE WRECK YOU FORWARDED TO THE TEAM AT FORT WORTH, TEX; ESSOR
-
-ON THE “DISK” MUST HAVE SENT TO LOS ALAMOS A\*\*\*\*\*D; \*\*\*\*URGENT POWERS ARE
-
-NEEDED SITE TWO NM ROSWELL, N. MEX; MIDDAY 509TH TOLD NEWSPAPER MEANING OF STORY AND MISSION ONLY SHOW\*\*\*\*BY WEATHER BALLOONS WOULD MAKE \*\*\*\*509 HAS LAND SURVEYOR CREWS; TEMPLE. 
-
-2nd Annual UFO Crash Retrieval Conference, p225
-
-![](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/d915b33f-a58c-4072-8bf7-6d69d11a6103.png) [^19]
-
-\
-
-## 2004 - Testimony under oath. Commander David Fravor experience regarding UAP events #new #alien (2023-08-10) #video #sensors
-
-[https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf) 
-
-[https://drive.google.com/file/d/1Eo6xZL37PMGgu01pmOJxyH8cUY1zPejS/view?usp=drive_link](https://drive.google.com/file/d/1Eo6xZL37PMGgu01pmOJxyH8cUY1zPejS/view?usp=drive_link) 
-
-On November 2004, Fravor was the Commanding Officer of Strike Fighter Squadron Forty-One aboard the USS Nimitz (CVN-68). During a training exercise, he encountered a distinctive UAP phenomenon. As he launched with his wingman, they were informed of real-world tasking, suspending their training exercise. The USS Princeton, CG-59, tracked unknown objects on their radar systems for about two weeks. These objects had descended from above 80,000 feet, coming down to 20,000 feet, remaining for hours, and ascending rapidly.
-
-On that day, at 20,000 feet, a contact appeared in the vicinity, and the controller indicated a Merge Plot. As they observed, they spotted a small Tic Tac-shaped object above the ocean's white water. It exhibited extraordinary agility, abruptly changing direction and altitude. Fravor's aircraft attempted to approach for a closer look, but the object accelerated and disappeared. The incident was captured in a now-famous video taken by another crew. Fravor revealed that the event was never officially investigated, and his crew was not questioned. In 2009, Jay Stratton, part of the ATIP program, reached out to investigate. Fravor continued by discussing his subsequent contact with Lue Elizondo, who had left the Pentagon and joined To The Stars Academy. This organization addressed UAP issues, leading to articles in the New York Times in December 2017, contributing to the growing public and government interest in UAPs. Their aircraft's infrared sensor also detected the object's heat signature, which lacked the typical plume of conventional propulsion systems. While the exact number of observers is not explicitly stated, it involved Commander Fravor, his Weapons System Officer, and potentially his wingman, emphasizing the need for oversight and understanding of such UAP encounters.
-
-![](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/c7b049f1-2800-4270-8f81-6da38b7ff25b.png)
-
-\
-
-## 2002, October - Clinton aide slams Pentagon's UFO secrecy #news #new (2023-08-10)
-
-A former White House chief of staff, John Podesta, and an international investigative journalist have called on the Pentagon to declassify classified files related to unidentified flying objects (UFOs). They are not seeking to prove the existence of aliens but rather to promote the scientific investigation of unexplained aerial phenomena. The Coalition for Freedom of Information (CFI), backed by the Sci-Fi channel, aims to access secret government records involving projects like Project Moon Dust and Operation Blue Fly, which were clandestine operations investigating UFOs and retrieving unknown objects. The CFI emphasizes that the goal is a serious scientific investigation, not a publicity stunt, to address the documented cases of strange aerial phenomena and reduce scientific ridicule associated with UFOs.
-
-\
-
-## 2002, August 15 - Crabwood Formation crop circle
-
-Elaborate crop formation appeared near Winchester, UK featuring an alien face and a disc containing a spiral binary-coded message. When decoded, the message read: "Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. BELIEVE. There is GOOD out there. We OPpose DECEPTION. Conduit CLOSING." The formation's complexity and the coherent binary message made it one of the most discussed crop formations.
-
-[https://en.wikipedia.org/wiki/Crabwood_crop_circle](https://en.wikipedia.org/wiki/Crabwood_crop_circle)
-
-[https://www.cropcircleconnector.com/2002/crabwood/crabwood2002a.html](https://www.cropcircleconnector.com/2002/crabwood/crabwood2002a.html)
-
-\
-
-## 2002, October — A three-foot orb moves along the perimeter fences of Area 2, a weapons storage area for the Nevada Test Site (Nevada National Security Site) overseen by the Department of Energy (DOE)’s National Nuclear Security Administration (NNSA). Security teams on site chase it, and the UAP eventually outpaces the personnel. It is unlikely these NNSA UAP events have ever made their way into the hands of Congress, and it is unknown how many of them are tracked in incident reports like those described in the October 1998 entry. #rumor #book
-
-[https://www.amazon.com/UFOs-Nukes-Extraordinary-Encounters-Nuclear/dp/1544822197 (p513)]() 
-
-## 2002, September 1 — Jacques Vallee states a “Brian and Tina in Arizona” tell him at a meeting at NARCAP head Dick Haines’ house that they saw a large collection of UFO and USO files at Norton AFB in March 1985. They claim many reports were from the Navy and showed objects coming out of the ocean. They were told they would be taken to see “something” in a hangar at Edwards AFB but it never materialized. #rumor #book
-
-[https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248) 
-
-\
-
-## 2001, August 19-20 - Chilbolton Arecibo Reply crop formation
-
-Crop formation appeared in a field near Chilbolton radio telescope in Hampshire, UK, mirroring the structure of the 1974 Arecibo message but with different data. The formation showed modifications including silicon-based DNA (instead of carbon), a different population figure, a different solar system diagram, and a different telescope design. Five days earlier, on August 14, a separate "Face" formation had appeared in the same area showing a humanoid face. Both formations remain unexplained.
-
-[https://en.wikipedia.org/wiki/Chilbolton_radio_telescope#Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_radio_telescope#Chilbolton_crop_circle)
-
-[https://www.cropcircleconnector.com/2001/chilbolton2001a.html](https://www.cropcircleconnector.com/2001/chilbolton2001a.html)
-
-\
-
-## 2001, February - Gary McKinnon, a British hacker, allegedly accessed NASA websites and claims to have found images resembling extraterrestrial spaceships #new #news (2023-08-10)
-
-[https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/](https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/) 
-
-[https://www.express.co.uk/news/us/1815854/NASA-military-UFO-aliens-truth](https://www.express.co.uk/news/us/1815854/NASA-military-UFO-aliens-truth) 
-
-[https://www.reddit.com/r/hacking/comments/t0nric/hi_im_gary_mckinnon_i_was_in_the_news_for_a/](https://www.reddit.com/r/hacking/comments/t0nric/hi_im_gary_mckinnon_i_was_in_the_news_for_a/) 
-
-[https://www.youtube.com/watch?v=_SOTGFj7BwI](https://www.youtube.com/watch?v=_SOTGFj7BwI) 
-
-[https://ufosint.gitbook.io/hackers/#most-well-known-gary-mckinnon](https://ufosint.gitbook.io/hackers/#most-well-known-gary-mckinnon) 
-
-[https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/?utm_source=share&utm_medium=web2x&context=3](https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/?utm_source=share&utm_medium=web2x&context=3) 
-
-Gary McKinnon, a British hacker, allegedly accessed NASA websites and claims to have found images resembling extraterrestrial spaceships. Facing extradition to the United States from his North London home, he could receive a 70-year prison term and hefty fines. McKinnon's actions took place between February 2001 and March 2002, and his search through U.S. computer networks occurred when U.S. national security was under increased scrutiny following the September 11, 2001 attacks. In this exclusive interview, he discusses his motives, findings, and experiences, describing his belief in suppressed information about antigravity, UFO-related technologies, and free energy. I also got access to Excel spreadsheets. One was titled "Non-Terrestrial Officers." It contained names and ranks of U.S. Air Force personnel who are not registered anywhere else. It also contained information about ship-to-ship transfers, but I've never seen the names of these ships noted anywhere else. I was able to briefly see one of these pictures. It was a silvery, cigar-shaped object with geodesic spheres on either side. There were no visible seams or riveting. There was no reference to the size of the object and the picture was taken presumably by a satellite looking down on it. The object didn't look manmade or anything like what we have created.
-
-\
-
-## 2001,ll - Dick Cheney in 2001 when asked about UFOs: “If I had been briefed on that, I’m sure it was probably classified, and I couldn’t talk about it.”
-
-\
-
-\[
-
-https://www.reddit.com?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1
-
-\
-
-## 2000, May 9 - Jacques Vallee states Hal Puthoff tells him about a “story” he heard regarding a SecDef black project audit. #rumor #book
-
-On 9 June 2001 John Petersen of the Arlington Institute tells Vallee the same story.
-
-[https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248) 
-
-Jacques Vallee states Hal Puthoff tells him about a “story” he heard regarding a SecDef black project audit. No timeframe is given. An unnamed Gen. who was Assistant SecDef at the time found a discrepancy of “only” a few million dollars and received a briefing; it was low-level maintenance work at a private contractor entrusted with keeping “some material” from prying eyes. He was told the material was from a crashed UFO but was not being tested at the moment.
-
-\
-
-## 1997, March 13 - Phoenix Lights (March 13, 1997)
-
-   - Thousands of people in Arizona, Nevada, and Sonora, Mexico, observed a formation of lights moving silently over the Phoenix metropolitan area. Witnesses described the formation as V-shaped or triangular. The incident gained extensive media coverage and remains one of the most notable mass UFO sightings.
-
-\
-
-## 1997 - Former Director of the DIA (Defense Intelligence Agency) Admiral Thomas Wilson denied access to UFO recovery/retrieval & reverse engineering black budget projects based on released documents that are currently available for download via congress.gov and is a part of the official Congressional Record. #new  #leak (2023-08-12)
-
-[https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf](https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf) 
-
-[https://www.reddit.com/r/ChilluminatiPod/comments/118mgcb/former_director_of_the_dia_defense_intelligence/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1](https://www.reddit.com/r/ChilluminatiPod/comments/118mgcb/former_director_of_the_dia_defense_intelligence/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) 
-
-The "Wilson-Davis Memo" is a leaked document detailing a meeting between Dr. Eric W. Davis and former Director of the Defense Intelligence Agency, Admiral Thomas Wilson, in 2002. Wilson recounted his attempts to access a Special Access Program (SAP) focused on UFO recovery and reverse engineering during the meeting. Despite his position, Wilson was denied access by the program's managers, who maintained strict criteria for entry. The managers revealed that the program involved reverse engineering a non-human craft with trans medium capabilities, suggesting extraterrestrial origin. The memo highlights the challenges of accessing classified programs, offering insights into government involvement in UFO-related activities within the black budget realm. Various figures, such as Christopher Mellon and Oke Shannon, have commented on the memo's authenticity and implications for understanding classified UFO endeavors.
-
-\
-
-## 1997, August - U.S. military misled the public about the true nature of many unidentified flying object (UFO) sightings to hide the existence of its spy planes #news #new (2023-08-10)
-
-[https://www.nytimes.com/1997/08/03/us/cia-admits-government-lied-about-ufo-sightings.html](https://www.nytimes.com/1997/08/03/us/cia-admits-government-lied-about-ufo-sightings.html) 
-
-[https://www.washingtonpost.com/archive/politics/1997/08/05/cold-war-ufo-coverup-shielded-spy-planes/950c5264-ee58-4c61-9f03-f5767d5b58c5/](https://www.washingtonpost.com/archive/politics/1997/08/05/cold-war-ufo-coverup-shielded-spy-planes/950c5264-ee58-4c61-9f03-f5767d5b58c5/) 
-
-During the cold war, the U.S. military misled the public about the true nature of many unidentified flying object (UFO) sightings to hide the existence of its spy planes, according to a Central Intelligence Agency (CIA) study. The study reveals that many UFO reports were actually sightings of U-2 and SR-71 spy planes developed in the 1950s and 1960s to gather intelligence. These planes flew at high altitudes beyond those of commercial airliners, which contributed to their mysterious appearances. Rather than acknowledging the existence of these top-secret flights, the Air Force created false cover stories attributing the sightings to atmospheric phenomena. The admission of this deception is seen as significant and raises questions about other UFO-related cover-ups.
-
-\
-
-## 1996, September 10 - Matanzas, Cuba UFO visits school children.
-
-[https://www.tiktok.com/t/ZP8J56JVe/](https://www.tiktok.com/t/ZP8J56JVe/) 
-
-https://www.reddit.com/r/UAP/s/rJ8QoLUyYJ
-
-\
-
-\
-
-## 1996 - When residents of Varginha, Brazil claimed seeing one or more strange creatures and at least one unidentified flying object (UFO) #news #alien
-
-[https://en.wikipedia.org/wiki/VarginhaUFOincident](https://en.wikipedia.org/wiki/Varginha_UFO_incident) 
-
-[https://www.reddit.com/r/movies/comments/12jvjvf/moment_of_contact_review_a_riveting_look_into_the/](https://www.reddit.com/r/movies/comments/12jvjvf/moment_of_contact_review_a_riveting_look_into_the/) 
-
-The Varginha UFO incident occurred in 1996 in Varginha, Brazil, involving claims of sightings of strange creatures and UFOs by residents. Witnesses reported a large-headed creature with red eyes and unusual markings called the "ET de Varginha." Rumors spread, suggesting captured extraterrestrial beings in a hospital and military involvement. However, an official inquiry in 2010 debunked these claims, attributing the sightings to misinterpretations of normal events or people with physical conditions. Skeptics criticized sensational media coverage, and despite the debunking, the incident left a lasting impact on Varginha, leading to tourism and merchandise related to aliens and UFOs. Structures like spaceship-shaped bus stops and a water tower with a disc-shaped reservoir were erected, reflecting the incident's influence on local culture and economy.
-
-\
-
-## 1995 - President Bill Clinton issues Executive Order 12,958, which establishes a system to automatically declassify information over 25 years old unless the government takes discrete steps to continue classifying a particular document or group of documents. #law
-
-[http://www.cufos.org/pdfs/UFOsandIntelligence.pdf](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf) 
-
-[https://www.justice.gov/oip/blog/foia-update-executive-order-12958-classified-national-security-information](https://www.justice.gov/oip/blog/foia-update-executive-order-12958-classified-national-security-information) 
-
-The order takes effect on October 14, 1995. The DOE has some exceptions
-
-\
-
-## 1995 - 400-foot cigar-shaped object at 30,000 feet altitude #FOIA
-
-[https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf](https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf) 
-
-[https://drive.google.com/file/d/1h311G2lJUUCWwy6DVlumBJpKoW5TbkB_/view?usp=drive_link](https://drive.google.com/file/d/1h311G2lJUUCWwy6DVlumBJpKoW5TbkB_/view?usp=drive_link) 
-
-[http://www.nicap.org/reports/950525trans.htm](http://www.nicap.org/reports/950525trans.htm) 
-
-[https://youtu.be/xXsrH2qT2O4](https://youtu.be/xXsrH2qT2O4) 
-
-[https://books.google.com/books?id=Gic3gcQysOsC&lpg=PA66&ots=nPadI9MKXT&dq=%22Walter%20N.%20Webb%22%20american%20west%20ufo&pg=PA66#v=onepage&q&f=false](https://books.google.com/books?id=Gic3gcQysOsC&lpg=PA66&ots=nPadI9MKXT&dq=%22Walter%20N.%20Webb%22%20american%20west%20ufo&pg=PA66#v=onepage&q&f=false)  
-
-American West Flight 564 and a USAF F-117A from Holloman AFB observe a 400-foot cigar-shaped object at 30,000 feet altitude. The object interacts with the commercial plane's wing and later approaches the USAF aircraft. FAA audio records reveal communication between Albuquerque ATC and NORAD's Western Air Defense Sector HQ, with NORAD initially confirming tracking the object for 3-4 minutes as a "search-only track." However, in later months, NORAD changes its explanation, attributing the object to a small aircraft with a malfunctioning transponder.
-
-\
-
-## 1994 - 60 children at Ariel school in Ruwa, Zimbabwe said they'd seen a 'UFO' and 'aliens with big eyes' in bushland near their school playground. The story was reported around the world. #news #alien
-
-[https://www.bbc.com/news/av/stories-57749238](https://www.bbc.com/news/av/stories-57749238)[https://en.wikipedia.org/wiki/ArielSchoolUFOincident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident) 
-
-On September 16, 1994, a UFO sighting occurred near Ruwa, Zimbabwe, involving 62 pupils at Ariel School who reported seeing a silver craft descending and landing near their school. The children described encountering one or more beings dressed in black who communicated with them through telepathy, conveying an environmental message that frightened them. The incident gained considerable attention and was considered a significant-close encounter by Fortean writer Jerome Clark. Skeptics have suggested mass hysteria as an explanation, and not all students claimed to have witnessed anything unusual. Harvard professor John Mack interviewed witnesses, documenting the incident and adding to its significance. While some witnesses stand by their accounts, others attribute the experience to cultural interpretations. The Ariel School UFO incident remains a notable case in African UFO history, with the ongoing debate between proponents and skeptics about its authenticity. 1994, September 16 – “Ariel School” encounter, Ruwa, Zimbabwe  
-
-   • 62 students (ages 5–12) watching morning assembly witnessed a silvery, disc-shaped object land or hover low over the school grounds.  
-
-   • Several children reported that small, humanoid figures emerged from the craft, “dancing” or darting back and forth “very quickly” in front of the windows before the object departed.  
-
-   • The incident was investigated by NICAP’s Schlaufman and later by Harvard psychiatrist Dr. David Jacobs; many of the children’s sketches show the beings in motion
-
-## 
-
-## 1993 - A NASA whistleblower, Bob Oechsler, has hinted at the significance and relevance of an interview. 
-
-[https://www.reddit.com/r/UFOs/comments/15p32k7/ross_coulthart_hints_on_an_interview_by_nasa/](https://www.reddit.com/r/UFOs/comments/15p32k7/ross_coulthart_hints_on_an_interview_by_nasa/) 
-
-[https://twitter.com/rosscoulthart/status/1667259073639903233?s=20](https://twitter.com/rosscoulthart/status/1667259073639903233?s=20) 
-
-The discussion pertains to the secrecy surrounding Unidentified Aerial Phenomena (UAP) and its potential connection to socioeconomic factors. 
-
-The implication is that disclosing information about UAPs could shift our understanding. Unfortunately, your text does not provide specific URL links for additional context.
-
-The individual had access to information from the highest echelons of the intelligence community, including insights from informants like Bobby Ray Inman, a distinguished figure in the US Navy and Intelligence Community. Inman conveyed that matters related to Unidentified Aerial Phenomena (UAP) or Non-Human Intelligence (NHI) are classified under national secrecy regulations, revealing possession of operational crafts in this realm. The concept of NHI dates back to 1993, and secrecy surrounding these subjects traces its origins to the 1950s. Reference is made to a NASA study exploring the potential consequences of publicly addressing encounters with NHI, highlighting significant shifts in theology, economics, technology, and energy, exemplified by the obsolescence of fossil fuels. Rather than an abrupt disclosure, the approach gradually introduced transformative changes over time, although this strategy deviated from its intended course. Multiple governments are similarly inclined to keep these matters confidential due to concerns about socio-economic upheaval, as also indicated by Grusch. The narrator underscores personal sightings of NHI vehicles on several occasions.
-
-\
-
-## 1991 - CIA Russian Soldiers Turn to Stone After Shooting Down a UFO #FOIA #new #limited  (2023-08-09)
-
-[https://drive.google.com/file/d/1G0BlQ5bQJgfr6-XOP6Z4VB1dnGlIFVGA/view?usp=drivesd](https://drive.google.com/file/d/1G0BlQ5bQJgfr6-XOP6Z4VB1dnGlIFVGA/view?usp=drivesd) 
-
-[https://www.cia.gov/static/Somewhere-in-Siberia.pdf](https://www.cia.gov/static/Somewhere-in-Siberia.pdf) 
-
-The claim suggests that Russian soldiers were turned to stone after shooting down a UFO on March 27, 1993. A CIA report, complete with photos and witness statements, documents the incident. According to reports from a Ukrainian publication called Ternopil Vechirniy, soldiers in Siberia observed a flying saucer, shot it down, and saw five alien beings emerge. The story states that a white ball appeared, exploded, and turned 23 soldiers into stone. There are speculations about alleged contact between Russians and gray aliens in 1942. Surviving soldiers described the aliens' advanced technology. However, due to the fantastical nature of the claim, it should be approached with skepticism and verified through credible sources. Declassified documents related to the incident can be found on the CIA's website.
-
-\
-
-## 1990, Debember - Rendlesham Forest Incident:
-
-   - Often referred to as "Britain's Roswell," this incident involved multiple Royal Air Force personnel stationed at RAF Woodbridge and RAF Bentwaters in Suffolk, England. Witnesses reported seeing strange lights and a metallic craft in Rendlesham Forest. Some reported physical evidence, such as impressions in the ground and radiation readings. This event remains one of the most well-documented and debated UFO sightings in history.
-
-\
-
-## 1990 - UFOs are seen over a wide area of Russia, encompassing Novoselye, Sergiyev Posad, Yakovlevo, Dubki, Kablukovo, Fryazino, Khabarovsk, and Kirzhach. Radar stations #FOIA #new #limited (2023-08-09)
-
-[https://ufologie.patrickgross.org/htm/foia49.htm](https://ufologie.patrickgross.org/htm/foia49.htm) 
-
-[http://www.openminds.tv/wp-content/uploads/Rabochaya-Tribuna-Maltsev.pdf](http://www.openminds.tv/wp-content/uploads/Rabochaya-Tribuna-Maltsev.pdf) 
-
-[https://drive.google.com/file/d/1hPtbTFOLOd6Zv-VBfeu9S0JIuO71S2uG/view?usp=drive_link](https://drive.google.com/file/d/1hPtbTFOLOd6Zv-VBfeu9S0JIuO71S2uG/view?usp=drive_link) 
-
-UFO sightings are reported across multiple locations in Russia between 8:00 p.m. and 12:00 midnight, including Novoselye, Sergiyev Posad, Yakovlevo, Dubki, Kablukovo, Fryazino, Khabarovsk, and Kirzhach. Due to these reports, radar stations and aircraft are put on alert. At 9:38 p.m., a UFO is spotted over Pereslavl-Zalessky at 6,500 feet. Lt. Col. A. A. Semenchenko is dispatched in an interceptor aircraft to investigate, and at 10:05 p.m., he tracks the UFO on radar, observing its manoeuvres and emitting two white lights. Despite attempts at communication, the UFO does not respond. Other UFO sightings occur during the same timeframe, including bright red silent spheres and a black cigar-shaped object with a ruby-red exhaust. Officers forward over 100 visual reports to Gen. Col. Igor Maltsev, chief of antiaircraft defence headquarters, describing the object as a disc with blinking lights, snakelike movement, and rotation on its axis.
-
-\
-
-## 1990, August 4 - Two hikers near Calvine in Scotland took a photograph of a mysterious, diamond-shaped flying object hovering in the middle of the sky
-
-[https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673](https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673) 
-
-![calvine-photograph.jpg|486.1505126953125](https://m.economictimes.com/thumb/msid-93595297,width-2500,height-1998,resizemode-4,imgsize-206942/calvine-photograph.jpg)
-
-\
-
-## 1989 - USAF Capt. Richard P. Osedacz writes an unclassified paper at the Air Force Institute of Technology at Wright-Patterson AFB starting a database of UAP in near-Earth orbit exists and has existed since at least 1972 #FOIA
-
-[https://documents.theblackvault.com/documents/ufos/fastwalkers/a209227.pdf](https://documents.theblackvault.com/documents/ufos/fastwalkers/a209227.pdf) 
-
-[https://drive.google.com/file/d/1hTgBrgeO_9Q-fJaPsK4yx3ZPWYDjM11b/view?usp=drive_link](https://drive.google.com/file/d/1hTgBrgeO_9Q-fJaPsK4yx3ZPWYDjM11b/view?usp=drive_link) 
-
-USAF Capt. Richard P. Osedacz authored an unclassified paper at the Air Force Institute of Technology detailing the existence of a database of Unidentified Aerial Phenomena (UAP) in near-Earth orbit dating back to 1972. These UAP events, known as "fast walkers," were tracked by NORAD. The USAF Foreign Technology Division, Flight Performance Division (FTD/SQDF), was assigned to analyze unknown data related to these UAPs. The paper notes "undocumented" simulations conducted on UAP within NORAD's Space Surveillance Center at Cheyenne Mountain Complex. It remains unclear if conclusions regarding fast walkers were shared with Congress in classified settings, as they have not been disclosed publicly or in open hearings. J. Allen Hynek, Project Blue Book's scientific advisor, previously revealed that NORAD and SAC radar had tracked UAP in 1967.
-
-\
-
-## 
-
-## 1988, March 28 - Final signal from Phobos 2
-
-[https://www.ufocasebook.com/phobos2.html](https://www.ufocasebook.com/phobos2.html) 
-
- On March 28, 1989 an elliptical object was detected moving towards the satellite seconds before it failed.
-
-All indications were that the elliptical object had attacked the satellite which was now dead and left spinning out of control.
-
-On March 28, 1989 Tass, the official Soviet news agency stated
-
-"Phobos II failed to communicate with Earth as scheduled after completing an operation yesterday around the Martian moon Phobos. Scientists at mission control have been unable to establish stable radio contact."
-
-\
-
-![](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/4e16870b-5a05-4b9e-bc91-f924a687c8c7.jpg)
-
-## 1987, December 1987 - In a congress leak from CIA and civilian pilot John Lear, the son of William Lear, founder of Lear Siegler Corp, claimed that the US government (USG) had been collaborating with gray extraterrestrials since the 1960s  - John Lear mentioned this #conspiracy #new #limited (2023-08-07)
-
-[https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo](https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo) 
-
-[https://sacred-texts.com/ufo/coverup.htm](https://sacred-texts.com/ufo/coverup.htm) 
-
-[https://archive.org/details/john-lear-statement-1987](https://archive.org/details/john-lear-statement-1987) 
-
-[https://www.ars.usda.gov/plains-area/fort-collins-co/center-for-agricultural-resources-research/paagrpru/docs/seed/us-contribution-to-the-svalbard-global-seed-vault/](https://www.ars.usda.gov/plains-area/fort-collins-co/center-for-agricultural-resources-research/paagrpru/docs/seed/us-contribution-to-the-svalbard-global-seed-vault/) 
-
-In a congress leak from 29 December 1987, CIA and civilian pilot John Lear, the son of William Lear, founder of Lear Siegler Corp, claimed that the US government (USG) had been collaborating with gray extraterrestrials since the 1960s. He made several other claims, including assertions that Germany may have recovered a saucer as early as 1939, Gen. James Doolittle inspected a crashed saucer in Sweden in 1946, Truman established MJ-12 in 1947, and there were multiple saucer crashes in the late 1940s in places like Roswell, Aztec, and Laredo, TX. Notably, one saucer crashed in the 1950s was too large to transport and had to be buried. Allegedly, the logistics for moving crashed saucers were legendary, involving night moves, purchasing entire farms, clearing forests, blocking highways, and using multiple trucks in tandem. He also claimed that the first communicationi between aliens and the USG occurred at Holloman AFB on 30 April 1964, leading to a deal in which the USG ignored abductions in exchange for technology. He said abductions were more sinister than just monitoring; they involved implanting devices, posthypnotic suggestions, termination of people for biological material, termination of threats, genetic experiments, and impregnation. He further asserted that an altercation occurred at the Dulce laboratory in 1979. By the 1980s, MJ-12, a secretive group, began promoting positive film projects about aliens to distract from their dealings with extraterrestrial beings. Some MJ-12 members at a place referred to as the "Country Club" contemplated confessing the scheme, while others aimed to develop anti-UAP (Unidentified Aerial Phenomena) weapons under the cover of SDI (Strategic Defense Initiative). One saucer was so enormous, and the logistical problems in transportation were so enormous that it was buried at the crash site and remains there today.  The stories are legendary for transporting crashed saucers over long distances, moving only at night, purchasing complete farms, slashing through forests, blocking major highways, and sometimes driving two and three low-boys in tandem with an extraterrestrial load a hundred feet in diameter.
-
-\
-
-Possible hint at Ross Coulthart's giant UFO that is "part of five eyes", ""not in America", is "too big to move", and "had to build over it", has a "laudatory" purpose and is "football" shaped, and some text in "[https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo](https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo)".  One section talks about visiting a crashed saucer "General James H. Doolittle went to Sweden in 1946 to inspect a flying saucer that had crashed there in Spitzbergen." Spitzbergen Svalbard Global Seed Vault (1980-2008). Bilateral agreements for funding, interest to the world, General James visited the location to view a crashed UFO, the crash site would need to be covered up with popularity of commercial satellites maps, giant concrete thing check, doesn't receive regular visitors, secretive and high secured personal, and an interest to USA, Canada, UK, Australia, others like it, but this is the biggest seed bank. Other larger structures, according to LLM Chatbot - structures started in 1900-1990 in Sweden or Norway include Sweden tele2 Arena (2010-2013), Sweden Globen Arena (1996-1989), Sweden Globen Shopping (1988-1989), and Sweden Friends Arena (2010-2012), and Norway Statoil Headquarters largest energy companies (now Equinor)(\~1980s-1996), Norway Oslo City Hall known for hosting the Nobel Peace Prize ceremony (1950), Norway The Fram Museum (1936), Spitzbergen Svalbard Global Seed Vault (2006), Spitzbergen University Center in Svalbard (UNIS) (\~1990),  Spitzbergen Svalbard Satellite Station (\~1990)
-
-\
-
-\
-
-## 1987 - Treaty Between The United States Of America And The Union Of Soviet Socialist Republics On The Elimination Of Their Intermediate-Range And Shorter-Range Missiles (INF Treaty)
-
-[https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty](https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty)[https://www.statista.com/chart/16305/stockpiled-nuclear-warhead-count/](https://www.statista.com/chart/16305/stockpiled-nuclear-warhead-count/)[https://www.armscontrol.org/factsheets/INFtreaty](https://www.armscontrol.org/factsheets/INFtreaty)[https://2009-2017.state.gov/t/avc/trty/102360.htm](https://2009-2017.state.gov/t/avc/trty/102360.htm) 
-
- The 1987 Intermediate-Range Nuclear Forces (INF) Treaty required the United States and the Soviet Union to eliminate and permanently forswear all of their nuclear and conventional ground-launched ballistic and cruise missiles with ranges of 500 to 5,500 kilometres. The treaty marked the first time the superpowers had agreed to reduce their nuclear arsenals, eliminate an entire category of nuclear weapons, and employ extensive on-site inspections for verification. As a result of the INF Treaty, the United States and the Soviet Union destroyed a total of 2,692 short--, medium--, and intermediate-range missiles by the treaty's implementation deadline of June 1, 1991.
-
-![7ac14b4f-a0ec-4943-904e-ba6cd0e6fa8d.png|511](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/7ac14b4f-a0ec-4943-904e-ba6cd0e6fa8d.png) [^20]
-
-\
-
-## 1986, November 17 - Japan Air Lines Cargo Flight 1628 incident
-
-[https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628_incident](https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628_incident) 
-
-[https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/](https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/) 
-
-[https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/](https://www.washingtonpost.com/archive/politics/1987/01/02/ufo-sighting-confirmed-by-faa-air-force-radar/c186c4b7-54ed-459e-b94d-eeeff7b3322e/) 
-
-On November 17, 1986, a notable UFO incident involving a Japan Air Lines Cargo Flight 1628 took place. This incident centred around a Japanese Boeing 747-200F cargo aircraft travelling from Paris to Narita International Airport near Tokyo. The airplane was carrying Beaujolais wine. While flying over eastern Alaska during the Reykjavík to Anchorage leg of the journey at around 17:11, the crew spotted two unidentified objects to their left. These objects rapidly ascended from below and approached to escort the aircraft. Each object displayed two arrays of glowing nozzles or thrusters while their bodies remained obscured in darkness. The aircraft's cabin was illuminated, and the crew could feel the heat on their faces as the objects came closer. Eventually, the two escorting craft departed, making way for a much larger, disk-shaped object that began trailing behind the airplane. Anchorage Air Traffic Control even asked an approaching United Airlines flight and a military aircraft to confirm the unidentified traffic, but by around 17:51, when they observed JAL 1628, no other crafts could be identified. The entire sighting persisted for 50 minutes and concluded in the vicinity of Denali.
-
-![5db773086622e.image.png?resize=987%2C500|537.9143676757812](https://bloximages.chicago2.vip.townnews.com/anchoragepress.com/content/tncms/assets/v3/editorial/b/9a/b9a1089a-f9d6-11e9-9c2c-33fd8965056e/5db773086622e.image.png?resize=987%2C500)
-
-\
-
-## 1984 - UAP causes the plant's movement sensors, alarms, and security communications computer to fail. #FOIA #new (2023-08-07)
-
-[https://archive.org/details/anonpdffrommarkdown](https://archive.org/details/anon_pdf_from_markdown) 
-
-[http://www.ufoevidence.org/documents/doc689.htm](http://www.ufoevidence.org/documents/doc689.htm) 
-
-[https://documents.theblackvault.com/documents/nrc/FOIA-2017-0368-NRC-UFO.pdf](https://documents.theblackvault.com/documents/nrc/FOIA-2017-0368-NRC-UFO.pdf) 
-
-[https://drive.google.com/file/d/1h_bMK6i1L8D9hsRLHDJ7V318Lfo6Vhml/view?usp=drive_link](https://drive.google.com/file/d/1h_bMK6i1L8D9hsRLHDJ7V318Lfo6Vhml/view?usp=drive_link) 
-
-Security police at the Indian Point Nuclear Plant in Buchanan, NY, reportedly witnessed a UAP with oscillating yellow, white, and blue lights that caused the plant's sensors, alarms, and security communications computer to fail. The UAP, described as cone-shaped and as long as three football fields, passed directly over the Unit 3 reactor for about five minutes. One officer managed to film the object using a camera. Within two days, the U.S. Nuclear Regulatory Commission (NRC) reportedly reassigned the plant's security operations, and records of the event were removed. The NRC, a regulatory agency established in the 1970s, was allegedly aware of a similar UAP sighting over another nuclear station in the late 1980s but did not formally investigate it.
-
-\
-
-## 1981, January 8 - Trans-en-Provence Case 
-
-   - In Trans-en-Provence, France, a farmer named Renato Nicolai reported finding physical debris with unusual properties after witnessing a bright light in the sky. The case was investigated by French authorities, and some scientists suggested the debris had extraordinary characteristics, fueling ongoing debates about its origin.
-
-\
-
-## 1980, December 29 - Cash-Landrum Incident  
-
-Betty Cash, Vickie Landrum, and Vickie’s grandson Colby reported encountering a large, diamond-shaped object emitting intense heat on a rural highway near Dayton, Texas. Soon after, military helicopters allegedly followed or surrounded the object. Betty Cash and Vickie Landrum later developed health problems they attributed to exposure to this unidentified craft. Despite various investigations, the nature of the object and the role of the helicopters remain unexplained.
-
-\
-
-## 1947 — Kenneth Arnold sighting (Washington State, USA)
-
-Why it matters: Kicked off the modern UFO era (“flying saucers”); multiple objects, high speed, shaped reporting baseline.
-
-Evidence/sources: Contemporary press; FBI/USAF memos.
-
-\
-
-## 1947 — Roswell incident (New Mexico, USA)
-
-Why it matters: Most famous alleged recovery; decades of FOIA and USAF reports (Project Mogul explanation) keep it central to crash–retrieval debates.
-
-Evidence/sources: USAF 1994/1997 reports; GAO; extensive FOIA material.
-
-\
-
-## 1952 — Washington, D.C. “radar–visual” flap (USA)
-
-Why it matters: Multi-night ATC radar tracks + visual sightings; F-94 scrambles over the capital; triggered CIA’s Robertson Panel.
-
-Evidence/sources: USAF/CAA records; press; CIA history.
-
-\
-
-## 1952 — Tremonton/Great Falls films (Utah/Montana, USA)
-
-Why it matters: Early multi-object films evaluated by Navy/USAF; part of Project Blue Book Special Reports.
-
-Evidence/sources: Declassified analyses; NICAP/Blue Book files.
-
-\
-
-## 1957 — RB-47 case (Gulf of Mexico, USA)
-
-Why it matters: Six-man crew; simultaneous EW gear, radar, and visual tracking over hundreds of miles; classic multi-sensor.
-
-Evidence/sources: USAF logs; crew interviews; Condon Report section.
-
-\
-
-## 1964 — Socorro/Lonnie Zamora (New Mexico, USA)
-
-Why it matters: Police witness; close approach, landing traces, burned brush; Project Blue Book “unknown.”
-
-Evidence/sources: Blue Book; NICAP; FBI memos.
-
-\
-
-## 1965 — Valensole (France)
-
-Why it matters: CEIII with ground traces; gendarmerie took statements; long-term physiological effects claimed.
-
-Evidence/sources: French police reports; GEPAN dossiers.
-
-\
-
-## 1966 — Westall school mass sighting (Victoria, Australia)
-
-Why it matters: Hundreds of students/staff reportedly observed maneuvering craft; enduring testimony; school-related mass case.
-
-Evidence/sources: Australian archives; witness compilations.
-
-\
-
-## 1967 — Malmstrom AFB Minuteman shutdowns (Montana, USA)
-
-Why it matters: UAP coincident with ICBM silo malfunctions; nuclear connection that recurs in later testimony.
-
-Evidence/sources: USAF affidavits/memos; FOIA; Hastings/Salas docs.
-
-\
-
-## 1967 — Shag Harbour USO (Nova Scotia, Canada)
-
-Why it matters: Multiple official witnesses; probable object entry into water; RCMP/Canadian Coast Guard search and reports.
-
-Evidence/sources: Canadian National Archives; RCMP docs.
-
-\
-
-## 1971 — Costa Rica aerial survey photo (Lake Cote)
-
-Why it matters: High-resolution, government aerial mapping photo showing disc-like object; frequently cited as best daylight photo case.
-
-Evidence/sources: Costa Rican mapping agency negatives; analyses.
-
-\
-
-1973 — Pascagoula abduction (Mississippi, USA)
-
-Why it matters: Two shipyard workers; taped private conversation suggests sincerity; enduring case with new corroborations.
-
-Evidence/sources: Sheriff’s recordings; affidavits.
-
-\
-
-## 1975 — NORAD/SAC base intrusions (Loring/Wurtsmith/Malmstrom/etc., USA)
-
-Why it matters: Multi-night incursions over nuclear weapons storage/ICBM sites; helicopters/UAP; security alerts.
-
-Evidence/sources: FOIA’d logs; teletype messages; NORAD reports.
-
-\
-
-## 1976 — Tehran F-4 intercept (Iran)
-
-Why it matters: EM effects on two fighters; radar–visual; crew attempted engagement; documented in DIA/NSA cables.
-
-Evidence/sources: Declassified DIA/NSA reports.
-
-\
-
-## 1978 — Frederick Valentich disappearance (Bass Strait, Australia)
-
-Why it matters: Pilot vanishes after reporting “not an aircraft” hovering above; audio recording preserved.
-
-Evidence/sources: Australian ATSB files; audio transcript.
-
-\
-
-## 1980 — Cash–Landrum (Texas, USA)
-
-Why it matters: Close encounter with intense radiation-like injuries; legal action vs. U.S. government.
-
-Evidence/sources: Medical records; AFOSI inquiries.
-
-\
-
-## 1980 — Rendlesham Forest (UK)
-
-Why it matters: Multiple nights; USAF personnel; Halt memo and audio; ground impressions and radiation readings reported.
-
-Evidence/sources: UK MoD files; Halt memo/tape.
-
-\
-
-## 1981 — Trans-en-Provence (France)
-
-Why it matters: Physical trace case with soil/plant biochemical changes; investigated by GEPAN/SEPRA (French CNES).
-
-Evidence/sources: CNES report; lab analyses.
-
-\
-
-## 1986 — “Night of the UFOs” (Brazil)
-
-Why it matters: Country-wide radar tracks; FAB jets scrambled; official press conference acknowledging anomalies.
-
-Evidence/sources: Brazilian Air Force declassifications; pilot testimony.
-
-\
-
-## 1986 — JAL 1628 (Alaska, USA)
-
-Why it matters: Veteran crew; huge object/pacing lights; FAA radar correlation; ATC tapes.
-
-Evidence/sources: FAA records; radar summaries; interviews.
-
-\
-
-## 1989–1990 — Belgian wave (Belgium)
-
-Why it matters: Triangle craft; mass sightings; police/air force involvement; F-16 pursuits and radar.
-
-Evidence/sources: Belgian Air Force briefings; SOBEPS.
-
-\
-
-## 1991 — Father Gill/Boianai was 1959 (Papua New Guinea) — including here as a historic CEIII
-
-Why it matters: Missionary and dozens observe craft with occupants “waving”; multiple witness statements.
-
-Evidence/sources: Contemporary reports; later re-interviews.
-
-\
-
-## 1994 — Ariel School (Ruwa, Zimbabwe)
-
-Why it matters: Dozens of students report close encounter with entities; recorded interviews by Cynthia Hind and John Mack.
-
-Evidence/sources: Raw interviews; school staff statements.
-
-\
-
-## 1994 — Trumbull County police pursuit (Ohio, USA)
-
-Why it matters: Multiple police units chase/observe; dispatch audio preserved.
-
-Evidence/sources: 911/dispatch tapes; officer reports.
-
-\
-
-## 2006 — O’Hare International Airport (Chicago, USA)
-
-Why it matters: Airline and ramp personnel observe disc punching hole in cloud layer; FAA FOIA yields call logs.
-
-Evidence/sources: FAA FOIA logs; media corroboration.
-
-\
-
-## 2007 — Alderney airline sighting (Channel Islands, UK)
-
-Why it matters: Two commercial crews; structured object(s), daylight, long duration.
-
-Evidence/sources: CAA reports; pilot interviews.
-
-\
-
-## 2013 — Aguadilla/DHS FLIR (Puerto Rico)
-
-Why it matters: Government thermal video of fast, low-altitude object reportedly splitting/merging; often cited in FOIA context.
-
-Evidence/sources: DHS-sourced video; analysis papers.
-
-\
-
-\- 2014 (released 2017) — Chilean Navy/CEFAA case
-
-Why it matters: Helicopter IR video of anomalous object emitting plumes; investigated 2 years, no prosaic ID.
-
-Evidence/sources: CEFAA report; raw video.
-
-\
-
-## 1976 — Canary Islands CEIII (Spain)
-
-Why it matters: Mass sighting with occupant claims; Spanish Air Force files later declassified.
-
-Evidence/sources: Spanish MoD release.
-
-\
-
-## 1953 — Kinross/F-89 disappearance (Lake Superior, USA)
-
-Why it matter
-
-s: Interceptor vanishes while merging on radar with unknown target.
-
-Evidence/sources: USAF reports; accident records.
-
-## 1980, April 11 - Peruvian Air Force’s SU-22 battle with a UFO in 1980
-
-[https://earth-chronicles.com/ufo/peruvian-air-forces-su-22-battle-with-a-ufo-in-1980.html](https://earth-chronicles.com/ufo/peruvian-air-forces-su-22-battle-with-a-ufo-in-1980.html) 
-
-On April 11, 1980, at La Joya Air Force Base in Peru, General Luis Spicer oversaw Peruvian Air Force training when a UFO was detected by the control tower. A large, glowing object approached the base, evading attempts at communication. Lieutenant Oscar Santa Maria Huertas piloted a Su-22 to intercept the UFO, describing it as a dome-shaped craft with a bright halo and remarkable agility. Despite firing at it, the UFO absorbed projectiles and ascended rapidly, displaying advanced capabilities. The incident, witnessed by around 2,000 personnel, remains a well-documented UFO encounter involving the military. Santa Maria's encounter with the enigmatic object prompted Peruvian government reporting to U.S. authorities like the CIA, NSA, and secretary of state. General Spicer emphasized the importance of understanding these phenomena to determine their nature and potential implications.
-
-![combate-ovni1.jpg|549.6666870117188](https://earth-chronicles.com/wp-content/uploads/2021/09/combate-ovni1.jpg)
-
-\
-
-## 1980 - Bob Lazar is an American businessman and conspiracy theorist who claims to have worked on reverse-engineering #leak #LARPing #conspiracy
-
-[https://en.wikipedia.org/wiki/BobLazar](https://en.wikipedia.org/wiki/Bob_Lazar) 
-
-Bob Lazar is a controversial American businessman and conspiracy theorist who asserts that he participated in reverse-engineering extraterrestrial technology at a secret site called "S-4," located near Area 51. He claims to have examined an alien spacecraft and accessed US government documents detailing alien interactions with humans across millennia. Lazar's claims have popularized discussions about Area 51 and fueled conspiracy narratives regarding its covert activities. However, doubts have been cast on his educational background, as there is no verifiable evidence of his alleged degrees from MIT and Caltech. He was employed as a technician for a contractor at the Los Alamos Meson Physics Facility, not as a physicist. Critics and the US Air Force have discredited Lazar's alleged involvement in reverse-engineering flying saucers at "S-4," particularly his assertions about an antimatter-powered craft fueled by element E115, which lacks scientific support. His claims about the historical connection between saucers and extraterrestrial beings lack substantiating evidence. Despite attracting both proponents and skeptics, there is no concrete proof to corroborate his claims of alien technology or interactions. Lazar's workplace was subject to a law enforcement raid in 2017, linked to a murder investigation in which he was not implicated.
-
-\
-
-## 1977, August 15 - Wow! Signal detected
-
-Strong narrowband radio signal detected by Ohio State University's Big Ear radio telescope. The 72-second signal came from the direction of Sagittarius and was so remarkable that astronomer Jerry Ehman wrote "Wow!" on the printout. Despite numerous follow-up observations, the signal has never been detected again. The signal's characteristics matched what would be expected from an extraterrestrial transmission, though natural explanations (including a passing comet) have been proposed but remain controversial.
-
-[https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
-
-\
-
-## 1977-78 - A significant UFO phenomenon occurred in Brazil during 1977-78 #FOIA #new (2023-08-09)
-
-[https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf](https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf) 
-
-[https://drive.google.com/file/d/1hmM9snd0qAJVzpd5ko51H1c--cPbIepD/view?usp=drive_link](https://drive.google.com/file/d/1hmM9snd0qAJVzpd5ko51H1c--cPbIepD/view?usp=drive_link) 
-
-Operação Prato, a significant UFO phenomenon, unfolded in Brazil from 1977 to 1978. Investigated by the Brazilian Air Force, the event encompassed prolonged UFO sightings and interactions primarily in villages like Colares. Witnesses reported experiencing burns from light rays emitted by the UFOs. Air Force agents witnessed these unidentified aerial phenomena and collected photographic and film evidence. The official investigation lasted four months but continued unofficially into 1978. In 2005, Brazilian ufologists pushed for declassifying classified UFO files, leading to meetings with high-ranking generals. These officials acknowledged the systematic tracking of UFOs since 1954. Recognizing the importance of ufology, the Air Force pledged to release classified files and proposed a collaborative committee for UFO research. However, public access to classified files necessitated approval from the Air Force chief, Defense Minister, and Brazilian president. The Operação Prato incident is part of a broader history of UFO engagement by the Brazilian government, such as the 1986 radar-tracked incident involving UFOs and jet fighter pursuits.
-
-\
-
-## 1976 - Tehran UFO Incident was a radar and visual sighting of an unidentified flying object (UFO) over Tehran, the capital of Iran, during the early morning hours of 19 September 1976
-
-[https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident](https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident) 
-
-The 1976 Tehran UFO Incident occurred on September 19, involving an unidentified flying object (UFO) over Tehran, Iran. During the event, two F-4 Phantom II jet interceptors from the Imperial Iranian Air Force reported losing instrumentation and communication as they approached the object, with their systems restored upon withdrawal. One jet also experienced a temporary weapons systems failure. Civilians and military personnel spotted a shining object in the sky, and two interceptors were sent to investigate. One pilot reported losing instruments and communications upon approaching the object, while another described encountering a flashing, multicolored object that caused equipment malfunctions when he attempted to engage it. Analysis suggests possible misidentifications of astronomical bodies and meteor showers, as well as equipment malfunctions, contributing to the incident. Skeptics assert that many elements can be explained without invoking the presence of an alien spacecraft.
-
-\
-
-## 1969, October 24 - A Chilean informant claims a Chilean Navy destroyer witnessed six objects that approached the ship, one larger than the destroyer. The objects were cube and egg-shaped, and electromagnetic interference was reported
-
-http://www.waterufo.net/item.php?id=197
-
-Note: Publisher of this account, to whom the Chilean source spoke to, was an Australian ufologist of reasonable quality who had vetted AU govt. sources properly previously.
-
-\
-
-## 1972  -  Marine mammal protection act 
-
-The MMPA mandates protection of marine mammals and their habitats. Key components of the Act include a moratorium on takes and imports of marine mammals, maintenance of sustainable populations, and exemptions to the moratorium, including subsistence harvest for Alaska Natives. To learn more about the fundamental components of the law, see our MMPA fact sheet.
-
-https://www.mmc.gov/about-the-commission/our-mission/marine-mammal-protection-act/
-
-\
-
-## 1971, June - U.S. Navy Yeoman Third Class James M. Kopf is on the USS John F. Kennedy in the Caribbean Sea, completing an Operational Readiness Exercise when communications messages begin coming in garbled. Ship radar, compasses and electrical systems then stop working. Kopf and others go outside and see a large, pulsating orange sphere sitting silently above the ship. It lasts for about 20 minutes. Two days later, commanding officer Capt. Ferdinand B. Koch tells the crew certain events are to be considered classified
-
-Hynek also writes he suspected Blue Book was a “front” for a more classified investigation, stating he was told to drop one case and told by higher-ups “not to pursue the matter further.” This is significant because for decades the USAF used Blue Book’s conclusions to debunk UAP to the American public and Congressional inquiries.
-
-https://archive.org/details/ufoexperience00jall/page/206/mode/2up (p207)
-
-https://archive.org/details/ufoexperience00jall/page/208/mode/2up (p208)
-
-\
-
-## 1973, October 11 - Pascagoula Abduction (October 11, 1973)
-
    - In Pascagoula, Mississippi, Charles Hickson and Calvin Parker reported being abducted by alien beings while fishing. They described being taken aboard a craft where they encountered humanoid creatures. This case is one of the earliest and most famous abduction reports in the United States.
 
 \
@@ -2531,7 +1713,7 @@ The incident involves multiple photos of a large cylindrical UFO emerging from t
 
 1971 - Costa Rica UFO
 
-https://www.reddit.com/r/UFOs/s/teOUvQl69r
+[https://www.reddit.com/r/UFOs/s/teOUvQl69r](https://www.reddit.com/r/UFOs/s/teOUvQl69r)
 
 ![](https://images.amplenote.com/c190e470-1445-11ee-a2bb-9e6a8a58b18e/e987b3a5-12b7-430b-a6d7-4a39bb54e54d.png)
 
@@ -2617,7 +1799,7 @@ The Westall UFO was a reported UFO sighting in Australia that occurred on 6 Apri
 
 [https://youtu.be/z32BIlzn38w?si=22T90TiNa7HdT76p](https://youtu.be/z32BIlzn38w?si=22T90TiNa7HdT76p) 
 
-https://rebelinsight.com/2021/03/charles-james-hall-tic-tac-ufos-belong-to-ets-he-encountered-called-tall-whites.html
+[https://rebelinsight.com/2021/03/charles-james-hall-tic-tac-ufos-belong-to-ets-he-encountered-called-tall-whites.html](https://rebelinsight.com/2021/03/charles-james-hall-tic-tac-ufos-belong-to-ets-he-encountered-called-tall-whites.html)
 
  Hall was enlisted in the United States Air Force in 1964 and was stationed at a remote weather shack on the Nellis Air Force Base outside Las Vegas, Nevada, in ’65. There, he was tasked with observing weather patterns on the Gunnery ranges at Indian Springs
 
@@ -2992,7 +2174,7 @@ John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive g
 
 ## 1665, April - A UFO in 1665. The Air Battle of Stralsund
 
-https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/
+[https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/](https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/)
 
 \
 
