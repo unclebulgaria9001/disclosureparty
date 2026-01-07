@@ -58,7 +58,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 [https://www.reddit.com/r/UFOs/comments/1jucnfg/classification_of_uaps_by_skywatcher/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/UFOs/comments/1jucnfg/classification_of_uaps_by_skywatcher/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 
-![](images/image_1.png)
+![](images/2025-classification-of-uaps-by-skywatcher-1.png)
 
 ## 2025, February 11 - Chairman Comer Taps Luna to Lead Task Force on Declassification and Transparency
 
@@ -72,13 +72,13 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 [https://www.reddit.com/r/UFOs/comments/1i6pm86/4chan_egg_leak_in_antarctica_in_2022_leaker/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/UFOs/comments/1i6pm86/4chan_egg_leak_in_antarctica_in_2022_leaker/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 
-![](images/image_2.png)
+![](images/2025-4chan-egg-leaklarper-shared-egg-video-and-pictures-1.png)
 
- ![](images/image_3.jpg)
+ ![](images/2025-4chan-egg-leaklarper-shared-egg-video-and-pictures-2.jpg)
 
-![](images/image_4.jpg)
+![](images/2025-4chan-egg-leaklarper-shared-egg-video-and-pictures-3.jpg)
 
-![](images/image_5.jpeg)
+![](images/2025-4chan-egg-leaklarper-shared-egg-video-and-pictures-4.jpeg)
 
 \
 
@@ -104,7 +104,7 @@ After leaving active duty, he states that he contracted with the Department of D
 
 [https://x.com/BillyKryzak/status/1881016226773954962](https://x.com/BillyKryzak/status/1881016226773954962) 
 
-![](images/image_6.png)
+![](images/2025-jake-barber-and-the-egg-nhi-1.png)
 
  
 
@@ -114,7 +114,7 @@ After leaving active duty, he states that he contracted with the Department of D
 
 ![brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b|396.00323486328125](https://preview.redd.it/brightened-and-adjusted-ufo-picture-v0-isjamixrup6e1.jpeg?width=640&crop=smart&auto=webp&s=ca250e9ebdce17144ff3970dd858458c843f929b)
 
-![](images/image_7.png)
+![](images/2024-nj-drones-1.png)
 
 [https://packaged-media.redd.it/u4huveiqfo6e1/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&v=1&e=1734152400&s=6e89bb084ecfa202b842904833dc39782e56a6ce&x-auth-token=eyJhbGciOiJIUzI1NiIsImtpZCI6InNPQ1JhUkNOTkZnL3Y3NkFRWVdYUkJhYWJ4QT0iLCJ0eXAiOiJKV1QifQ.eyJjYyI6IlVTIiwiY3IiOiIiLCJleHAiOjE3MzQxNjMxMTYsImp0aSI6IiIsInJpZCI6InQzXzFoZGxvN3AiLCJzdWIiOiJ0Ml8ydGdlbzlxaCIsInVybCI6InU0aHV2ZWlxZm82ZTEifQ.IlSMhyb8GbCo4R1r-qVPBVUDe8IXNVE5E57buVJ89ig](https://packaged-media.redd.it/u4huveiqfo6e1/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&v=1&e=1734152400&s=6e89bb084ecfa202b842904833dc39782e56a6ce&x-auth-token=eyJhbGciOiJIUzI1NiIsImtpZCI6InNPQ1JhUkNOTkZnL3Y3NkFRWVdYUkJhYWJ4QT0iLCJ0eXAiOiJKV1QifQ.eyJjYyI6IlVTIiwiY3IiOiIiLCJleHAiOjE3MzQxNjMxMTYsImp0aSI6IiIsInJpZCI6InQzXzFoZGxvN3AiLCJzdWIiOiJ0Ml8ydGdlbzlxaCIsInVybCI6InU0aHV2ZWlxZm82ZTEifQ.IlSMhyb8GbCo4R1r-qVPBVUDe8IXNVE5E57buVJ89ig) 
 
@@ -252,7 +252,7 @@ Key Takeaways from November 13 2024 Hearings:
 
 [Shellenberger: Pentagon's UAP program "Immaculate Constellation"](https://old.reddit.com/r/UFOs/comments/1fzcu7i/shellenberger_pentagons_uap_program_immaculate/lr0fm0t/)
 
-![](images/image_8.jpg)
+![](images/2024-immaculate-constellation-1.jpg)
 
 ## 2024, September 9 - General H. R. McMaster to Bill Maher about UAPs 9/6/2024 - “There are things that cannot be explained.” “There are phenomena that have been witnessed by multiple people that are just inexplicable by the science available to us.”
 
@@ -409,7 +409,7 @@ Mellon's Signal conversation contains very specific redactions: Who redacted wha
 
 [https://www.reddit.com/r/UFOs/s/SneoLc2MrA](https://www.reddit.com/r/UFOs/s/SneoLc2MrA)
 
-![](images/image_9.jpg) [^1]
+![](images/2024-christopher-k-mellon-1.jpg) [^1]
 
 \
 
@@ -474,7 +474,7 @@ Released by the newly-convened Sol Foundation, a think tank dedicated to studyin
 
 2024, February - Karl Nell disclosure timeline presentation at SOL Foundation 
 
-![](images/image_10.jpg) [^2]
+![](images/2024-aaro-historical-record-report-volume-1-1.jpg) [^2]
 
 ## 2024, January 12 - Congress interviews the DoD ICIG in a SCIF
 
@@ -674,7 +674,7 @@ See threads and discussions for links to source materials.
 
 \
 
-![](images/image_11.jpg)![](images/image_12.jpg)
+![](images/2023-biden-signs-the-uap-disclosure-act-2024-as-part-of-1.jpg)![](images/image_12.jpg)
 
 \
 
@@ -774,7 +774,7 @@ IC IG - November 16
 
 [https://twitter.com/RepTimBurchett/status/1702781241827708982/photo/2](https://twitter.com/RepTimBurchett/status/1702781241827708982/photo/2) 
 
- ![](images/image_13.png) [^3]
+ ![](images/2023-the-ic-ig-states-that-it-has-not-conducted-any-aud-1.png) [^3]
 
 \
 
@@ -792,7 +792,7 @@ IC IG - November 16
 
 NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena (UAP) within a broader government framework. The agency's expertise in data analysis, collection, curation, and distribution makes it a key player. Engaging the public through crowdsourcing techniques, such as smartphone apps, can enhance data collection. NASA should explore the development of a crowdsourcing system and help establish a standardized civilian UAP reporting system. Additionally, NASA's involvement can help reduce the stigma around UAP reporting, which currently hinders data collection. NASA's credibility and transparency can set an example for approaching UAP research scientifically and involving the public. Furthermore, the panel suggests integrating UAP studies into the Aviation Safety Reporting System (ASRS), administered by NASA for the FAA. This confidential system, receiving thousands of reports yearly, could provide valuable data for understanding UAP threats to airspace safety. Leveraging NASA's partnership with the FAA, advanced analysis techniques could enhance future air traffic management systems. NASA's fleet of earth-observing satellites should play a powerful supporting role in determining the environmental conditions that coincide with UAP. It is essential to note the pivotal role structured data curation plays in a rigorous and evidence-based framework to understand UAP better. The U.S. commercial remote-sensing industry offers a potent mix of Earth-observing sensors with the potential to resolve UAP events directly. The standardization of collected information via well-crafted calibration will make it possible to carry out a rigorous scientific investigation into UAP. NASA's experience in this area will be vital. NASA should leverage its considerable expertise in this domain to potentially utilize multispectral or hyperspectral data as part of a rigorous campaign.
 
-![](images/image_14.png) [^4]
+![](images/2023-nasa-is-well-positioned-to-contribute-to-studying-1.png) [^4]
 
 \
 
@@ -934,9 +934,9 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
  The origins of this release remain a mystery. There are two main possibilities: either CBP took the initiative to proactively disclose these materials to the public, or they were released as a result of a Freedom of Information Act (FOIA) request. The Black Vault currently has multiple FOIA cases with CBP. Some of these requests were transferred to other agencies, while others remain open with CBP.
 
- ![](images/image_15.png)
+ ![](images/2023-unidentified-aerial-phenomena-uap-a-batch-of-docum-1.png)
 
-![](images/image_16.png) [^5]
+![](images/2023-unidentified-aerial-phenomena-uap-a-batch-of-docum-2.png) [^5]
 
 \
 
@@ -948,9 +948,9 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 [https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/](https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/) 
 
-![](images/image_17.jpg)
+![](images/2023-pentagon-releases-new-map-of-ufo-hotspots-japan-tu-1.jpg)
 
- ![](images/image_18.png) [^6]
+ ![](images/2023-pentagon-releases-new-map-of-ufo-hotspots-japan-tu-2.png) [^6]
 
 \
 
@@ -1082,7 +1082,7 @@ I've been told that we have recovered technology that did not originate on this 
 
 A reader from Poland, who was vacationing in Turkey, wrote to a Reddit user. While relaxing on the beach, she decided to use a feature of her iPhone 13 Pro Max that allows taking a series of quick photos. The phone took six nearly identical pictures, but something unusual appeared in one of them, which is hard to explain. Analyzing the photos, which were taken immediately one after the other, you can notice the movement of the water 
 
-![](images/image_19.png)
+![](images/2023-turkey-ufo-1.png)
 
 \
 
@@ -1110,7 +1110,7 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 [https://www.dvidshub.net/video/885193/western-us-objects](https://www.dvidshub.net/video/885193/western-us-objects) 
 
-![](images/image_20.png)
+![](images/2023-western-us-objects-new-2023-09-04-usa-1.png)
 
 \
 
@@ -1142,7 +1142,7 @@ The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed
 
  
 
-![](images/image_21.jpg)
+![](images/2023-canadian-prime-minister-justin-trudeau-received-a-1.jpg)
 
 \
 
@@ -1164,7 +1164,7 @@ Multiple airborne objects, sometimes reported in mainstream media as UFOs, were 
 
 [https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023](https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023) 
 
-![](images/image_22.png) [^7]
+![](images/2023-list-of-high-altitude-object-events-in-2023-usa-ca-1.png) [^7]
 
  
 
@@ -1186,7 +1186,7 @@ The Department of Defense (DoD) has officially confirmed to Liberation Times tha
 
 During an open hearing before the Senate Armed Services Committee on April 19, the Department of Defense (DoD) provided insights into Unidentified Anomalous Phenomena. Dr. Sean Kirkpatrick, the director of the All-domain Anomaly Resolution Office (AARO), displayed videos portraying an unidentified object with an atmospheric wake or cavitation behind it. The video was recorded by an MQ-9 forward-looking infrared video sensor in South Asia, tracking another MQ-9. AARO conducted a comprehensive analysis involving full motion video, additional footage, and commercial flight data, leading them to tentatively conclude that the object is likely a commercial aircraft and the trailing cavitation results from video compression. The investigation is still pending final review, suggesting the process is ongoing. The supplementary footage presented exhibited apparent back-and-forth motion due to the sensor attempting to zoom in on the swiftly moving Unidentified Aerial Phenomenon (UAP) rather than the MQ-9.
 
-![](images/image_23.png)
+![](images/2023-dod-releases-new-ufouap-videos-they-believe-they-i-1.png)
 
 \
 
@@ -1214,7 +1214,7 @@ This compilation of information and discussions covers various UFO sightings and
 
 Navy 2021 Flyby video
 
-![](images/image_24.png)
+![](images/2022-navy-2021-flyby-video-new-2023-09-04-video-offical-1.png)
 
 \
 
@@ -1238,7 +1238,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 During an open hearing regarding Unidentified Anomalous Phenomena at the Senate Armed Services Committee, Dr. Sean Kirkpatrick from the All-domain Anomaly Resolution Office (AARO) showcased a video depicting a silver, orb-like object in motion across a sensor's field of view. The video, captured by an MQ-9 drone in the Middle East region, was presented as an example of the numerous cases received by AARO with limited available data. Although AARO's assessment suggests the object lacks anomalous behavior, its identity remains undisclosed. These cases are stored in AARO's active archive, awaiting the possibility of acquiring additional information or data to resolve the mysteries surrounding them.
 
-![](images/image_25.png) [^8]
+![](images/2022-dod-releases-new-ufouap-video-from-an-undisclosed-1.png) [^8]
 
 ## 2022 - United States Congress hearings on UFOs  #law #usa
 
@@ -1274,7 +1274,7 @@ Issued on June 25, 2021, by the Office of the Director of National Intelligence,
 
 In 2021, the National Reconnaissance Office (NRO) utilized its classified analysis system called "Sentient" to detect an unconventional "tic tac" shaped object. Sentient, an advanced tool with classified details, was designed to process diverse data, anticipate future events, and direct satellites. While the full extent of its capabilities remains classified, it was disclosed in 2022 that Sentient can identify UFOs. Documents released under the Freedom of Information Act #FOIA by the NRO revealed that Sentient detected and tracked unidentified aerial phenomena (UAPs) on May 6, 2021. The object's shape resembled the "tic tac" observed in the famous 2004 USS Nimitz incident, suggesting it was not a sensor artefact. The NRO's redacted PowerPoint presentation indicated the involvement of the UAP Task Force, NRO, and potentially a contractor in discussions about using Sentient's capabilities for UAP detection. Due to redactions, details about another "vessel" 15.5 miles away from the UAP were unclear. FOIA requests by The Black Vault and others aim to uncover more information about this UAP sighting and Sentient's functions.
 
-![](images/image_26.png)
+![](images/2021-highly-classified-nro-system-captures-possible-tic-1.png)
 
 \
 
@@ -1296,7 +1296,7 @@ SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) an
 
 In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP) sightings above the USS Kearsarge in the Fall of 2021. He documented the detailed account of these sightings, which can be accessed through his write-up. Despite his efforts, Dave's Freedom of Information Act #FOIA request (case DON-USMC-006344) for related records was denied, indicating no records were found. Researcher Kyle Warfel also pursued a FOIA request (case DON-USMC-2022-006943) for the same incident and received a response containing a heavily redacted printed PowerPoint presentation. This redacted version was shared with The Black Vault for preservation and further analysis. Interestingly, Dave later obtained the same presentation from the office, initially denying his FOIA request, resulting in differing outcomes. The reasons for these discrepancies remain unclear, but responsive documents related to Kyle's FOIA request are now accessible for download from The Black Vault.
 
-![](images/image_27.png) [^9]
+![](images/2021-uap-seen-over-the-uss-kearsarge-in-the-fall-of-202-1.png) [^9]
 
 \
 
@@ -1402,7 +1402,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 [https://www.thedrive.com/the-war-zone/43561/mysterious-drone-swarms-over-navy-destroyers-o ff-california-went-on-for-weeks](<https://www.thedrive.com/the-war-zone/43561/mysterious-drone-swarms-over-navy-destroyers-o ff-california-went-on-for-weeks>) 
 
-![](images/image_28.png) [^10]
+![](images/2019-unusual-and-extensive-redactions-exist-in-the-logs-1.png) [^10]
 
 \
 
@@ -1424,7 +1424,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Alarm Station (CAS) that they heard over the escort channel about a possible drone sighting. The CAS Operator reported hearing escorts at building 815 in the Process Area discussing a drone sighting at around 10:27 hours. I subsequently contacted Security Escorts (b) (6) and (b) (6) at building 815 in the Process Area. Both escorts confirmed the sighting, stating, "I saw a round silver drone flying around the Process Area and periodically stopping and hovering for several seconds. It continued flying to the north of my location, paused, and hovered for several more seconds. Afterward, it moved over the area for several minutes and departed to the southeast. It was flying at a high altitude, just below the clouds." The drone-like object was flying at a distance and height that prevented (b) (6) from identifying its characteristics. I also made contact with (b) (6), who confirmed that there were no scheduled drone activities or lights for Site 300 on that day.
 
-![](images/image_29.png) [^11]
+![](images/2019-doe-documents-report-round-silver-object-flying-ar-1.png) [^11]
 
 \
 
@@ -1434,7 +1434,7 @@ Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Ala
 
 What appears to be a UFO flies around a Navy ship off the coast of San Diego before suddenly disappearing after flying into the water. NBC’s Gadi Schwartz reports.
 
-![](images/image_30.png) [^12]
+![](images/2019-leaked-2019-video-of-uap-flying-near-a-stealth-shi-1.png) [^12]
 
 \
 
@@ -1444,7 +1444,7 @@ What appears to be a UFO flies around a Navy ship off the coast of San Diego bef
 
 The Pentagon UFO videos consist of visual recordings captured by US Navy fighter jets in 2004, 2014, 2015, and 2019, depicting encounters with unidentified aerial phenomena (UAP). After gaining significant media attention and speculation, the Pentagon officially declassified and released these videos in 2020 and 2021. Notable instances include Commander David Fravor's investigation of a possible UFO target in 2004, observing a white, oval-shaped object hovering above the ocean, and videos from 2014-2015 showing unknown aerial objects encountered by pilots from the USS Theodore Roosevelt carrier strike group. Various explanations for these videos include instrument malfunctions, observational illusions, conventional aircraft or aerial devices, and speculative ideas about alien spacecraft. Some experts suggest the UFOs might be drones operated by foreign nations to assess US defenses, while others consider possibilities like electronic warfare or sensor errors. The US Navy revised its reporting procedures to encourage pilots to report unexplained aerial observations. The 2021 preliminary UFO report by the US Office of the Director of National Intelligence (ODNI) did not provide a definitive conclusion on the nature of these UAPs, presenting five potential categories of explanation. The investigation into UAP phenomena continues, focusing on implications for aircraft safety and national security.
 
-![](images/image_31.png)
+![](images/2019-pentagon-ufo-videos-foia-alien-1.png)
 
 \
 
@@ -1456,7 +1456,7 @@ The Pentagon UFO videos consist of visual recordings captured by US Navy fighter
 
 I nvestigative journalists Jeremy Corbell and George Knapp obtained and are revealing for the first time - footage of a military filmed UAP incursion within a United States joint operations base. This UAP of unknown origin displayed transmedium capability - and has been officially designated by the United States intelligence agencies as a UAP (Unidentified Aerial Phenomena).
 
-![](images/image_32.png) [^13]
+![](images/2018-iraq-jellyfish-uap-1.png) [^13]
 
 \
 
@@ -1506,7 +1506,7 @@ Former Senate majority leader Harry Reid was key in initiating the Advanced Aero
 
 Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention for his groundbreaking research in astrophysics, particularly on topics such as black holes and the early universe. However, he has also stirred controversy by delving into the subject of space aliens and their potential existence. His involvement with the Breakthrough Starshot project, aimed at sending light sail spacecraft to nearby stars, drew significant interest. In 2017, Loeb's focus shifted when the interstellar object 'Oumuamua entered the scene. The object's peculiar properties, including its shape, reflectivity, and acceleration, led Loeb to propose the idea that it might be an extraterrestrial light sail, a notion that has garnered both media attention and skepticism from fellow scientists. Despite criticism, Loeb stands firm in his belief that the scientific community should openly explore unconventional ideas, including the search for technological signs of alien life. He has published a book, "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth," to further discuss his persfirmly believespective and challenge the norms of scientific inquiry. Loeb emphasizes the importance of genuine curiosity, evidence-based exploration, and open dialogue in shaping the future of scientific discovery.
 
-![](images/image_33.png) [^14]
+![](images/2017-the-first-known-interstellar-object-to-visit-our-s-1.png) [^14]
 
 \
 
@@ -1530,7 +1530,7 @@ DeLonge states he has been told how public perception on UAP has been shaped by 
 
 The Department of Defense has declassified a new UFO image showing a metallic-looking orb flying over Mosul, Iraq. The image was taken by a US spy plane in April 2016 and was part of a classified briefing video on UFOs presented to various US government agencies.
 
-![](images/image_34.png) [^15]
+![](images/2016-new-ufo-image-declassified-by-department-of-defens-1.png) [^15]
 
 \
 
@@ -1566,7 +1566,7 @@ Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed seve
 
 Gimbal is one of three US military videos of unidentified aerial phenomenon (UAP) that has been through the official declassification review process of the United States government and has been approved for public release.
 
-![](images/image_35.png) [^16]
+![](images/2015-gimbal-is-one-of-three-us-military-videos-of-unide-1.png) [^16]
 
 \
 
@@ -1580,7 +1580,7 @@ Gimbal is one of three US military videos of unidentified aerial phenomenon (UAP
 
 GO FAST is one of three official USG videos selected for release after an official review by multiple government organizations. While To The Stars Academy of Arts & Science was the first to obtain a copy, it should be available to any member of the press or public via the Freedom of Information Act. This footage was captured by a U.S. Navy F/A-18 Super Hornet using the Raytheon ATFLIR Pod that was being operated by a highly trained aerial observer and weapons system operator whom the government has spent millions of dollars to train. Go Fast reveals a Navy encounter that occurred off the East Coast of the United States in 2015 and the object in view remains unidentified.
 
-![](images/image_36.png) [^17]
+![](images/2015-go-fast-official-usg-footage-of-uap-for-public-rel-1.png) [^17]
 
 \
 
@@ -1602,7 +1602,7 @@ One significant event occurred during a training mission in Warning Area W-72, t
 
 I founded Americans for Safe Aerospace to offer support, research, and public education for aircrew impacted by UAP encounters. Our organization has connected with nearly 5,000 members and worked with over 30 UAP witnesses who have come forward with their experiences. In conclusion, I aim today to emphasize the urgency of addressing these UAP events. As a pilot and witness, I firmly believe advanced UAP sightings are a significant national security and aviation safety concern. The American people, and the global community, deserve transparency and serious investigation into these encounters.
 
-![](images/image_37.png)
+![](images/2014-testimony-under-oath-ryan-fobs-graves-a-former-f-1-1.png)
 
 \
 
@@ -1654,11 +1654,11 @@ According to the information provided, the uploaded clips are small samples sele
 
 [https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/](https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/) 
 
-![](images/image_38.jpg)
+![](images/2011-skinny-bob-nhi-1.jpg)
 
-![](images/image_39.jpg)
+![](images/2011-skinny-bob-nhi-2.jpg)
 
-![](images/image_40.jpg)
+![](images/2011-skinny-bob-nhi-3.jpg)
 
 \
 
@@ -1703,7 +1703,7 @@ In Arizona’s Apache-Sitgreaves National Forest, logger Travis Walton vanished 
 
 [https://drive.google.com/file/d/1GOqVufBwxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk](https://drive.google.com/file/d/1GOqVufB_wxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk) 
 
-![](images/image_41.png) [^21]
+![](images/1971-photos-from-the-uss-trepang-ssn-674-submarine-as-i-1.png) [^21]
 
 \
 
@@ -1717,7 +1717,7 @@ The incident involves multiple photos of a large cylindrical UFO emerging from t
 
 [https://www.reddit.com/r/UFOs/s/teOUvQl69r](https://www.reddit.com/r/UFOs/s/teOUvQl69r)
 
-![](images/image_42.png)
+![](images/1971-photos-from-the-uss-trepang-ssn-674-submarine-as-i-2.png)
 
 \
 
@@ -1771,7 +1771,7 @@ The incident at Malmstrom Air Force Base is one of the most significant events i
 
 ## 1967 - Unidentified Spherical Object
 
-![](images/image_43.jpeg)
+![](images/1967-unidentified-spherical-object-1.jpeg)
 
 \
 
@@ -1779,7 +1779,7 @@ The incident at Malmstrom Air Force Base is one of the most significant events i
 
 [https://time.com/4232540/history-ufo-sightings/](https://time.com/4232540/history-ufo-sightings/) 
 
-![](images/image_44.png)
+![](images/1967-a-new-mexico-state-university-student-took-this-ph-1.png)
 
 \
 
@@ -1813,7 +1813,7 @@ On April 24, 1964, at approximately 5:45 p.m., Socorro Police radio dispatcher N
 
 [https://en.wikipedia.org/wiki/Lonnie_Zamora_sighting](https://en.wikipedia.org/wiki/Lonnie_Zamora_sighting)
 
-![](images/image_45.jpg)
+![](images/1964-lonnie-zamora-incident-1.jpg)
 
 | |
 |-|
@@ -1844,7 +1844,7 @@ The National Investigations Committee On Aerial Phenomena was formed in 1956, wi
 
 [https://time.com/4232540/history-ufo-sightings/](https://time.com/4232540/history-ufo-sightings/) 
 
-![](images/image_46.png)
+![](images/1957-this-light-was-photographed-on-oct-16-1957-when-it-1.png)
 
 \
 
@@ -1860,7 +1860,7 @@ The National Investigations Committee On Aerial Phenomena was formed in 1956, wi
 
 During the Cold War, recently revealed secret files indicate that two U.S. fighter planes were dispatched to intercept and potentially shoot down an unidentified flying object (UFO) over the English countryside. The incident, disclosed through National Archives files in London, occurred in May 1957. Pilot Milton Torres, now living in Miami, recounted his experience when he was seconds away from firing rockets at the object, which exhibited erratic movement and had a radar reading resembling "a flying aircraft carrier." Despite reaching speeds exceeding 7,600 mph (12,000 kph) and moments from firing, the UFO abruptly vanished from radar. Following the incident, Torres was cautioned by an undisclosed individual, threatening national security repercussions if he spoke about it. The documents don't offer an official explanation for the event, with speculation ranging from secret military experiments to possible UFO involvement.
 
-![](images/image_47.png) [^22]
+![](images/1957-us-pilot-was-ordered-to-shoot-down-ufo-1.png) [^22]
 
 \
 
@@ -1936,13 +1936,13 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 [https://en.wikipedia.org/wiki/McMinnville_UFO_photographs](https://en.wikipedia.org/wiki/McMinnville_UFO_photographs) 
 
-![](images/image_48.jpg)
+![](images/1955-depicts-a-crashed-flying-saucer-that-was-reportedl-3.jpg)
 
 ![](https://preview.redd.it/here-is-the-picture-i-took-from-the-guy-who-claimed-to-have-v0-6pd33438jd8d1.jpeg?width=640&crop=smart&auto=webp&s=7ffa63043c7c3b47718c57bee2a590907bb5a040)
 
-![](images/image_49.png) [^23]
+![](images/1954-establishes-government-wide-policies-for-classifyi-1.png) [^23]
 
-![](images/image_48.jpg)
+![](images/1955-depicts-a-crashed-flying-saucer-that-was-reportedl-3.jpg)
 
 ## 1954 - Atomic Energy Act of 1954 - Establishes Government-wide policies for classifying, safeguarding, and declassifying Restricted Data information.
 
@@ -1952,7 +1952,7 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 ![](https://preview.redd.it/here-is-the-picture-i-took-from-the-guy-who-claimed-to-have-v0-6pd33438jd8d1.jpeg?width=640&crop=smart&auto=webp&s=7ffa63043c7c3b47718c57bee2a590907bb5a040)
 
-![](images/image_49.png) [^24]
+![](images/1954-establishes-government-wide-policies-for-classifyi-1.png) [^24]
 
  
 
@@ -1966,13 +1966,13 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 (aa) The term "special nuclear material" means (1) plutonium, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the Commission, pursuant to the provisions of section 2071 of this title, determines to be special nuclear material, but does not include source material; or (2) any material artificially enriched by any of the foregoing, but does not include source material.
 
-![](images/image_50.png) [^25] 
+![](images/1954-establishes-government-wide-policies-for-classifyi-2.png) [^25] 
 
 \
 
 1953, May 6 - France
 
-![](images/image_51.png)
+![](images/1954-establishes-government-wide-policies-for-classifyi-3.png)
 
 ## 1952, July 12 - Washington, D.C., UFO incident
 
@@ -1982,11 +1982,11 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 ## 1952 - Brasil
 
-![](images/image_52.png)
+![](images/1952-brasil-1.png)
 
 ## 1951 - New Zealand
 
-![](images/image_53.png)
+![](images/1951-new-zealand-1.png)
 
 ## 1951, August 25 - US National Archive Case File 978 August 25,1951. Lubbock Texas
 
@@ -2026,9 +2026,9 @@ This document discusses the presence of unidentified flying objects (UFOs) in th
 
 \
 
-![](images/image_54.png) [^26]
+![](images/1949-concerning-flying-discs-september-1947-analysis-of-1.png) [^26]
 
- ![](images/image_55.jpg)![](images/image_56.jpg)![](images/image_57.jpg)![](images/image_58.jpg)![](images/image_59.jpg)![](images/image_60.jpg)
+ ![](images/1949-concerning-flying-discs-september-1947-analysis-of-2.jpg)![](images/image_56.jpg)![](images/image_57.jpg)![](images/image_58.jpg)![](images/image_59.jpg)![](images/image_60.jpg)
 
 \
 
@@ -2052,7 +2052,7 @@ Battelle is highlighted as a significant organization involved in various sector
 
 Dr. Howard C. Cross, a Battelle scientist, is identified as a key figure in UFO research for government agencies and top-secret Titanium alloy studies. The possibility of Battelle's advanced arc furnace's role in creating Nitinol memory metal is raised. The post also delves into Dr. Edgar Mitchell's statements about a "semi or quasi-private organization" involved in UFO secrecy, which the author connects to Battelle due to its characteristics and involvement in UFO-related projects. Overall, the post presents a detailed analysis of documents, reports, and statements to establish the connection between Battelle Memorial Institute and its role in analyzing materials from the Roswell UFO crash.
 
-![](images/image_61.png) [^27]
+![](images/1950-prime-minister-winston-churchill-ordered-a-ufo-sig-1.png) [^27]
 
 \
 
@@ -2062,7 +2062,7 @@ Dr. Howard C. Cross, a Battelle scientist, is identified as a key figure in UFO 
 
 The Battle of Los Angeles occurred on February 24-25, 1942, in Los Angeles, California, during World War II. It was a purported attack on the continental U.S. by Imperial Japan, prompting a massive anti-aircraft artillery barrage. Shortly after the U.S. entered the war, the event initially raised concerns of a Japanese assault. However, Secretary of the Navy Frank Knox later dismissed it as a "false alarm." Speculation arose about a possible cover-up to hide a real invasion. In 1949, it was revealed that a meteorological balloon had triggered the incident, leading to widespread firing and panic. The U.S. Office of Air Force History attributed the event in 1983 to heightened wartime anxiety and lost weather balloons. Despite official explanations, the incident influenced air raid precautions and increased anti-aircraft defenses, while some continued to question its true cause.
 
-![](images/image_62.png) [^28]
+![](images/1942-battle-of-los-angeles-news-1.png) [^28]
 
 \
 
@@ -2134,7 +2134,7 @@ Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington's
 
 [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting) 
 
-![](images/image_63.jpg)
+![](images/1947-civilian-pilot-kenneth-arnold-1.jpg)
 
 \
 
@@ -2158,7 +2158,7 @@ The evidence, however, for the phenomenon itself, we must again add, is of the m
 
 [https://www.reddit.com/r/UFOs/comments/1g6oe97/internationally_reported_ufo_sighting_circa_1815/#lightbox](https://www.reddit.com/r/UFOs/comments/1g6oe97/internationally_reported_ufo_sighting_circa_1815/#lightbox) 
 
-![](images/image_64.png) [^29]
+![](images/1944-new-york-times-us-army-air-force-reported-they-wer-1.png) [^29]
 
 [https://www.nytimes.com/1944/12/14/archives/floating-mystery-ball-is-new-nazi-air-weapon.html](https://www.nytimes.com/1944/12/14/archives/floating-mystery-ball-is-new-nazi-air-weapon.html) 
 
@@ -2166,7 +2166,7 @@ On December 13th, at Supreme Headquarters, Allied Expeditionary Force, a startli
 
 \
 
-![](images/image_65.png)
+![](images/1944-new-york-times-us-army-air-force-reported-they-wer-2.png)
 
 \
 
@@ -2180,7 +2180,7 @@ John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive g
 
 ## 1897,  April 19 - Aurora, Texas, UFO incident
 
-![](images/image_66.jpg) [^30]
+![](images/1897-aurora-texas-ufo-incident-1.jpg) [^30]
 
 ## 1665, April - A UFO in 1665. The Air Battle of Stralsund
 
@@ -2236,7 +2236,7 @@ In 1566 CE, there was a peculiar event recorded in Basel, Switzerland that descr
 
 [https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/](https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/) 
 
-![](images/image_67.png) [^31]
+![](images/1561-germany-celestial-phenomenon-over-nuremberg-as-the-1.png) [^31]
 
 \
 
