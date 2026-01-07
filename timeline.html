@@ -1653,6 +1653,7 @@
             const lines = text.split('\n');
             const entries = [];
             let currentEntry = null;
+            let currentSection = 'summary';
             
             for (let line of lines) {
                 line = line.trim();
@@ -1661,36 +1662,65 @@
                 
                 if (headerMatch) {
                     if (currentEntry) entries.push(currentEntry);
+                    
+                    // Extract title and tags from header
+                    const titleAndTags = headerMatch[2];
+                    const tags = [];
+                    const tagMatches = titleAndTags.match(/#\w+/g);
+                    if (tagMatches) {
+                        tags.push(...tagMatches);
+                    }
+                    const title = titleAndTags.replace(/#\w+/g, '').trim();
+                    
                     currentEntry = {
                         date: headerMatch[1],
-                        title: headerMatch[2],
+                        title: title,
                         content: '',
                         images: [],
                         links: [],
-                        tags: []
+                        tags: tags,
+                        details: ''
                     };
+                    currentSection = 'summary';
                 } else if (currentEntry) {
-                    // Parse images
-                    if (line.startsWith('![')) {
+                    // Track which section we're in
+                    if (line === '**Links:**') {
+                        currentSection = 'links';
+                        continue;
+                    } else if (line === '**Photos:**') {
+                        currentSection = 'photos';
+                        continue;
+                    } else if (line === '**Details:**') {
+                        currentSection = 'details';
+                        continue;
+                    }
+                    
+                    // Skip separators and empty lines
+                    if (line === '\\' || line === '') {
+                        continue;
+                    }
+                    
+                    // Parse based on current section
+                    if (currentSection === 'links') {
+                        // Parse markdown links
+                        const mdLinkMatch = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
+                        if (mdLinkMatch) {
+                            currentEntry.links.push({text: mdLinkMatch[1], url: mdLinkMatch[2]});
+                        } else if (line.startsWith('http://') || line.startsWith('https://')) {
+                            currentEntry.links.push({text: line, url: line});
+                        }
+                    } else if (currentSection === 'photos') {
+                        // Parse images
                         const imgMatch = line.match(/!\[([^\]]*)\]\(([^)]+)\)/);
                         if (imgMatch) {
-                            currentEntry.images.push(imgMatch[2]);
+                            currentEntry.images.push({alt: imgMatch[1], src: imgMatch[2]});
                         }
-                    }
-                    // Parse links
-                    else if (line.startsWith('http://') || line.startsWith('https://')) {
-                        currentEntry.links.push(line);
-                    }
-                    // Parse tags
-                    const tags = line.match(/#[A-Za-z0-9_]+/g);
-                    if (tags) currentEntry.tags.push(...tags);
-                    
-                    // Add to content (skip image lines, footnotes, etc)
-                    if (!line.startsWith('![') && !line.startsWith('[^') && line !== '\\' && line.length > 0 && !line.startsWith('##')) {
-                        // Keep markdown links intact instead of removing them
-                        if (cleanLine.trim().length > 0) {
-                            currentEntry.content += (currentEntry.content ? '\n' : '') + line;
-                        }
+                    } else if (currentSection === 'details') {
+                        // Add to details
+                        currentEntry.details += (currentEntry.details ? '\n' : '') + line;
+                    } else if (currentSection === 'summary') {
+                        // Add to summary content
+                        currentEntry.content += (currentEntry.content ? '\n' : '') + line;
                     }
                 }
             }
@@ -1742,24 +1772,41 @@
                 if (data) {
                     const entry = data.find(e => e.title === eventData.title);
                     if (entry) {
-                        // Convert markdown links to HTML links
-                        let content = entry.content;
-                        content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-                        content = content.replace(/\n/g, '<br>');
-                        modalBody.innerHTML = content;
+                        let bodyHtml = '';
                         
-                        // Add images
-                        if (entry.images.length > 0) {
-                            const imagesHtml = entry.images.map(img => 
-                                `<img src="${img}" alt="" loading="lazy">`
-                            ).join('');
-                            modalBody.innerHTML += imagesHtml;
+                        // Add summary content
+                        if (entry.content) {
+                            let content = entry.content;
+                            content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+                            content = content.replace(/\n/g, '<br>');
+                            bodyHtml += `<div style="margin-bottom: 20px;">${content}</div>`;
                         }
                         
-                        // Add links
+                        // Add photos section
+                        if (entry.images.length > 0) {
+                            bodyHtml += '<div style="margin-bottom: 20px;"><strong style="color: #58a6ff;">Photos:</strong><div style="margin-top: 10px;">';
+                            entry.images.forEach(img => {
+                                bodyHtml += `<img src="${img.src}" alt="${img.alt}" loading="lazy" style="max-width: 100%; margin: 10px 0; border-radius: 6px;">`;
+                            });
+                            bodyHtml += '</div></div>';
+                        }
+                        
+                        // Add details section
+                        if (entry.details) {
+                            let details = entry.details;
+                            details = details.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+                            details = details.replace(/\n/g, '<br>');
+                            bodyHtml += `<div style="margin-bottom: 20px;"><strong style="color: #58a6ff;">Details:</strong><div style="margin-top: 10px;">${details}</div></div>`;
+                        }
+                        
+                        modalBody.innerHTML = bodyHtml;
+                        
+                        // Add links section
                         if (entry.links.length > 0) {
-                            modalLinks.innerHTML = '<div style="color: #8b949e; margin-bottom: 10px;">Sources:</div>' +
-                                entry.links.map(link => `<a href="${link}" target="_blank">${link}</a>`).join('');
+                            modalLinks.innerHTML = '<div style="color: #58a6ff; font-weight: bold; margin-bottom: 10px;">Links:</div>' +
+                                entry.links.map(link => 
+                                    `<div style="margin: 5px 0;"><a href="${link.url}" target="_blank" style="color: #58a6ff; text-decoration: none; word-break: break-all;">${link.text}</a></div>`
+                                ).join('');
                         } else {
                             modalLinks.innerHTML = '';
                         }
