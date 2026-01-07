@@ -1718,69 +1718,78 @@
             });
             
             updateEventCount();
+            updateFilterCounts(); // Update counts after filtering
         }
         
-        // Function to calculate and update filter counts
+        // Function to calculate and update filter counts based on currently visible events
         async function updateFilterCounts() {
+            if (!window.nodes) return;
+            
             const counts = {
                 periods: {},
                 tags: {},
                 withPhotos: 0
             };
             
-            // Count events by period and tags
-            allEvents.forEach(event => {
-                if (event.type === 'chronology') {
-                    const year = event.date.getFullYear();
-                    const yearStr = year.toString();
-                    
-                    // Period filters
-                    if (year >= 2026) counts.periods['2026'] = (counts.periods['2026'] || 0) + 1;
-                    else if (year >= 2025) counts.periods['2025'] = (counts.periods['2025'] || 0) + 1;
-                    else if (year >= 2024) counts.periods['2024'] = (counts.periods['2024'] || 0) + 1;
-                    else if (year >= 2023) counts.periods['2023'] = (counts.periods['2023'] || 0) + 1;
-                    else if (year >= 2022) counts.periods['2022'] = (counts.periods['2022'] || 0) + 1;
-                    else if (year >= 2021) counts.periods['2021'] = (counts.periods['2021'] || 0) + 1;
-                    else if (year >= 2020) counts.periods['2020'] = (counts.periods['2020'] || 0) + 1;
-                    else if (year >= 2019) counts.periods['2019'] = (counts.periods['2019'] || 0) + 1;
-                    else if (year >= 2018) counts.periods['2018'] = (counts.periods['2018'] || 0) + 1;
-                    else if (year >= 2017) counts.periods['2017'] = (counts.periods['2017'] || 0) + 1;
-                    else if (year >= 2016) counts.periods['2016'] = (counts.periods['2016'] || 0) + 1;
-                    else if (year >= 2015) counts.periods['2015'] = (counts.periods['2015'] || 0) + 1;
-                    else if (year >= 2014) counts.periods['2014'] = (counts.periods['2014'] || 0) + 1;
-                    else if (year >= 2013) counts.periods['2013'] = (counts.periods['2013'] || 0) + 1;
-                    else if (year >= 2012) counts.periods['2012'] = (counts.periods['2012'] || 0) + 1;
-                    else if (year >= 2011) counts.periods['2011'] = (counts.periods['2011'] || 0) + 1;
-                    else if (year >= 2010) counts.periods['2010'] = (counts.periods['2010'] || 0) + 1;
-                    else if (yearStr.startsWith('200')) counts.periods['200'] = (counts.periods['200'] || 0) + 1;
-                    else if (yearStr.startsWith('199')) counts.periods['199'] = (counts.periods['199'] || 0) + 1;
-                    else if (yearStr.startsWith('198')) counts.periods['198'] = (counts.periods['198'] || 0) + 1;
-                    else if (yearStr.startsWith('197')) counts.periods['197'] = (counts.periods['197'] || 0) + 1;
-                    else if (yearStr.startsWith('196')) counts.periods['196'] = (counts.periods['196'] || 0) + 1;
-                    else if (yearStr.startsWith('195')) counts.periods['195'] = (counts.periods['195'] || 0) + 1;
-                    else if (yearStr.startsWith('194')) counts.periods['194'] = (counts.periods['194'] || 0) + 1;
-                    else if (yearStr.startsWith('18')) counts.periods['18'] = (counts.periods['18'] || 0) + 1;
-                    else if (year < 1800) counts.periods['ancient'] = (counts.periods['ancient'] || 0) + 1;
-                    
-                    // Count by tags
-                    if (event.tags && event.tags.length > 0) {
-                        event.tags.forEach(tag => {
-                            const tagClean = tag.replace('#', '');
-                            if (tagClean.includes('LegislationPolicy')) counts.tags['LegislationPolicy'] = (counts.tags['LegislationPolicy'] || 0) + 1;
-                            if (tagClean.includes('CongressionalHearings')) counts.tags['CongressionalHearings'] = (counts.tags['CongressionalHearings'] || 0) + 1;
-                            if (tagClean.includes('LeaksDeclass')) counts.tags['LeaksDeclass'] = (counts.tags['LeaksDeclass'] || 0) + 1;
-                            if (tagClean.includes('WhistleblowerDisclosures')) counts.tags['WhistleblowerDisclosures'] = (counts.tags['WhistleblowerDisclosures'] || 0) + 1;
-                            if (tagClean.includes('MilitaryEncounters')) counts.tags['MilitaryEncounters'] = (counts.tags['MilitaryEncounters'] || 0) + 1;
-                            if (tagClean.includes('CivilianSightings')) counts.tags['CivilianSightings'] = (counts.tags['CivilianSightings'] || 0) + 1;
-                            if (tagClean.includes('AbductionCEIII')) counts.tags['AbductionCEIII'] = (counts.tags['AbductionCEIII'] || 0) + 1;
-                            if (tagClean.includes('CrashRetrievals')) counts.tags['CrashRetrievals'] = (counts.tags['CrashRetrievals'] || 0) + 1;
-                            if (tagClean.includes('UnderwaterUSO')) counts.tags['UnderwaterUSO'] = (counts.tags['UnderwaterUSO'] || 0) + 1;
-                            if (tagClean.includes('SpaceSatellite')) counts.tags['SpaceSatellite'] = (counts.tags['SpaceSatellite'] || 0) + 1;
-                            if (tagClean.includes('ScientificStudies')) counts.tags['ScientificStudies'] = (counts.tags['ScientificStudies'] || 0) + 1;
-                            if (tagClean.includes('HistoricalPreModern')) counts.tags['HistoricalPreModern'] = (counts.tags['HistoricalPreModern'] || 0) + 1;
-                            if (tagClean.includes('ReligiousCultural')) counts.tags['ReligiousCultural'] = (counts.tags['ReligiousCultural'] || 0) + 1;
-                        });
-                    }
+            // Count only visible events
+            window.nodes.each(function(d) {
+                if (d.type !== 'chronology') return;
+                
+                const node = d3.select(this);
+                const isVisible = node.style('display') !== 'none';
+                
+                if (!isVisible) return;
+                
+                const event = d;
+                const year = event.date.getFullYear();
+                const yearStr = year.toString();
+                
+                // Period filters
+                if (year >= 2026) counts.periods['2026'] = (counts.periods['2026'] || 0) + 1;
+                else if (year >= 2025) counts.periods['2025'] = (counts.periods['2025'] || 0) + 1;
+                else if (year >= 2024) counts.periods['2024'] = (counts.periods['2024'] || 0) + 1;
+                else if (year >= 2023) counts.periods['2023'] = (counts.periods['2023'] || 0) + 1;
+                else if (year >= 2022) counts.periods['2022'] = (counts.periods['2022'] || 0) + 1;
+                else if (year >= 2021) counts.periods['2021'] = (counts.periods['2021'] || 0) + 1;
+                else if (year >= 2020) counts.periods['2020'] = (counts.periods['2020'] || 0) + 1;
+                else if (year >= 2019) counts.periods['2019'] = (counts.periods['2019'] || 0) + 1;
+                else if (year >= 2018) counts.periods['2018'] = (counts.periods['2018'] || 0) + 1;
+                else if (year >= 2017) counts.periods['2017'] = (counts.periods['2017'] || 0) + 1;
+                else if (year >= 2016) counts.periods['2016'] = (counts.periods['2016'] || 0) + 1;
+                else if (year >= 2015) counts.periods['2015'] = (counts.periods['2015'] || 0) + 1;
+                else if (year >= 2014) counts.periods['2014'] = (counts.periods['2014'] || 0) + 1;
+                else if (year >= 2013) counts.periods['2013'] = (counts.periods['2013'] || 0) + 1;
+                else if (year >= 2012) counts.periods['2012'] = (counts.periods['2012'] || 0) + 1;
+                else if (year >= 2011) counts.periods['2011'] = (counts.periods['2011'] || 0) + 1;
+                else if (year >= 2010) counts.periods['2010'] = (counts.periods['2010'] || 0) + 1;
+                else if (yearStr.startsWith('200')) counts.periods['200'] = (counts.periods['200'] || 0) + 1;
+                else if (yearStr.startsWith('199')) counts.periods['199'] = (counts.periods['199'] || 0) + 1;
+                else if (yearStr.startsWith('198')) counts.periods['198'] = (counts.periods['198'] || 0) + 1;
+                else if (yearStr.startsWith('197')) counts.periods['197'] = (counts.periods['197'] || 0) + 1;
+                else if (yearStr.startsWith('196')) counts.periods['196'] = (counts.periods['196'] || 0) + 1;
+                else if (yearStr.startsWith('195')) counts.periods['195'] = (counts.periods['195'] || 0) + 1;
+                else if (yearStr.startsWith('194')) counts.periods['194'] = (counts.periods['194'] || 0) + 1;
+                else if (yearStr.startsWith('18')) counts.periods['18'] = (counts.periods['18'] || 0) + 1;
+                else if (year < 1800) counts.periods['ancient'] = (counts.periods['ancient'] || 0) + 1;
+                
+                // Count by tags
+                if (event.tags && event.tags.length > 0) {
+                    event.tags.forEach(tag => {
+                        const tagClean = tag.replace('#', '');
+                        if (tagClean.includes('LegislationPolicy')) counts.tags['LegislationPolicy'] = (counts.tags['LegislationPolicy'] || 0) + 1;
+                        if (tagClean.includes('CongressionalHearings')) counts.tags['CongressionalHearings'] = (counts.tags['CongressionalHearings'] || 0) + 1;
+                        if (tagClean.includes('LeaksDeclass')) counts.tags['LeaksDeclass'] = (counts.tags['LeaksDeclass'] || 0) + 1;
+                        if (tagClean.includes('WhistleblowerDisclosures')) counts.tags['WhistleblowerDisclosures'] = (counts.tags['WhistleblowerDisclosures'] || 0) + 1;
+                        if (tagClean.includes('MilitaryEncounters')) counts.tags['MilitaryEncounters'] = (counts.tags['MilitaryEncounters'] || 0) + 1;
+                        if (tagClean.includes('CivilianSightings')) counts.tags['CivilianSightings'] = (counts.tags['CivilianSightings'] || 0) + 1;
+                        if (tagClean.includes('AbductionCEIII')) counts.tags['AbductionCEIII'] = (counts.tags['AbductionCEIII'] || 0) + 1;
+                        if (tagClean.includes('CrashRetrievals')) counts.tags['CrashRetrievals'] = (counts.tags['CrashRetrievals'] || 0) + 1;
+                        if (tagClean.includes('UnderwaterUSO')) counts.tags['UnderwaterUSO'] = (counts.tags['UnderwaterUSO'] || 0) + 1;
+                        if (tagClean.includes('SpaceSatellite')) counts.tags['SpaceSatellite'] = (counts.tags['SpaceSatellite'] || 0) + 1;
+                        if (tagClean.includes('ScientificStudies')) counts.tags['ScientificStudies'] = (counts.tags['ScientificStudies'] || 0) + 1;
+                        if (tagClean.includes('HistoricalPreModern')) counts.tags['HistoricalPreModern'] = (counts.tags['HistoricalPreModern'] || 0) + 1;
+                        if (tagClean.includes('ReligiousCultural')) counts.tags['ReligiousCultural'] = (counts.tags['ReligiousCultural'] || 0) + 1;
+                    });
                 }
             });
             
