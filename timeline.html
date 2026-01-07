@@ -707,6 +707,16 @@
                     </div>
                     
                     <div class="filter-section">
+                        <div class="filter-section-title">CONTENT FILTERS</div>
+                        <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 15px;">
+                            <label class="period-label">
+                                <input type="checkbox" id="photoFilter" onchange="applyContentFilters()">
+                                <span>With Photos Only</span>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
                         <div class="filter-section-title">CATEGORY TAGS</div>
                         <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
                             <label class="period-label" style="font-size: 0.85em;">
@@ -1585,6 +1595,49 @@
             applyTagFilters();
         }
         
+        // Content filter function
+        async function applyContentFilters() {
+            if (!window.nodes) return;
+            
+            const photoFilterChecked = document.getElementById('photoFilter').checked;
+            
+            if (!photoFilterChecked) {
+                // No content filter active, apply tag filters normally
+                applyTagFilters();
+                return;
+            }
+            
+            // Load chronology data to check for photos
+            const data = await loadChronologyData();
+            
+            window.nodes.each(function(d) {
+                if (d.type !== 'chronology') {
+                    return;
+                }
+                
+                const node = d3.select(this);
+                const label = window.svg.selectAll('.event-label')
+                    .filter(labelData => labelData === d);
+                
+                if (photoFilterChecked) {
+                    // Find entry in chronology data
+                    const entry = data ? data.find(e => e.title.trim() === d.title.trim()) : null;
+                    const hasPhotos = entry && entry.images && entry.images.length > 0;
+                    
+                    if (hasPhotos) {
+                        node.style('display', null);
+                        label.style('display', null);
+                    } else {
+                        node.style('display', 'none');
+                        label.style('display', 'none');
+                    }
+                }
+            });
+            
+            // Also apply tag filters
+            applyTagFilters();
+        }
+        
         function applyTagFilters() {
             if (!window.nodes) return;
             
@@ -1598,6 +1651,10 @@
             // If all tags selected or no tags selected, show all chronology events
             const showAll = selectedTags.length === 0 || selectedTags.length === totalTags;
             
+            // Check if photo filter is active
+            const photoFilterChecked = document.getElementById('photoFilter') ? 
+                document.getElementById('photoFilter').checked : false;
+            
             // Filter nodes based on tags
             window.nodes.each(function(d) {
                 if (d.type !== 'chronology') {
@@ -1609,10 +1666,17 @@
                 const label = window.svg.selectAll('.event-label')
                     .filter(labelData => labelData === d);
                 
+                // Skip if already hidden by photo filter
+                if (photoFilterChecked && node.style('display') === 'none') {
+                    return;
+                }
+                
                 if (showAll) {
-                    // Show all chronology events
-                    node.style('display', null);
-                    label.style('display', null);
+                    // Show all chronology events (unless hidden by photo filter)
+                    if (!photoFilterChecked) {
+                        node.style('display', null);
+                        label.style('display', null);
+                    }
                 } else {
                     // Check if event has any of the selected tags
                     const eventTags = d.tags || [];
