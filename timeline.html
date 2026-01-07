@@ -1106,10 +1106,10 @@
                 .domain([paddedMin, paddedMax])
                 .range([0, height]);
             
-            const xOutbound = width * 0.15;
-            const xInbound = width * 0.35;
-            const xContactAttempt = width * 0.55;
-            const xChronology = width * 0.75;
+            const xChronology = width * 0.15;
+            const xOutbound = width * 0.35;
+            const xInbound = width * 0.55;
+            const xContactAttempt = width * 0.75;
         
             // Check if we have any truly ancient events (BCE/CE before year 1000) in the current view
             const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 1900);
@@ -1175,6 +1175,15 @@
             
             // Track labels - vertical
             svg.append('text')
+                .attr('x', xChronology)
+                .attr('y', -10)
+                .attr('text-anchor', 'middle')
+                .attr('dominant-baseline', 'auto')
+                .style('fill', '#8b949e')
+                .style('font-size', '11px')
+                .text('ALL EVENTS');
+            
+            svg.append('text')
                 .attr('x', xOutbound)
                 .attr('y', -10)
                 .attr('text-anchor', 'middle')
@@ -1200,15 +1209,6 @@
                 .style('fill', '#a371f7')
                 .style('font-size', '11px')
                 .text('IN-PERSON CONTACT');
-            
-            svg.append('text')
-                .attr('x', xChronology)
-                .attr('y', -10)
-                .attr('text-anchor', 'middle')
-                .attr('dominant-baseline', 'auto')
-                .style('fill', '#8b949e')
-                .style('font-size', '11px')
-                .text('OTHER EVENTS');
         
         // Tooltip
         const tooltip = d3.select('#tooltip');
