@@ -1671,8 +1671,10 @@
             // Get total number of tag filters
             const totalTags = document.querySelectorAll('.tag-filter').length;
             
-            // If all tags selected or no tags selected, show all chronology events
-            const showAll = selectedTags.length === 0 || selectedTags.length === totalTags;
+            // If all tags selected, show all chronology events
+            // If no tags selected, hide all chronology events
+            const showAll = selectedTags.length === totalTags;
+            const hideAll = selectedTags.length === 0;
             
             // Check if photo filter is active
             const photoFilterChecked = document.getElementById('photoFilter') ? 
@@ -1694,7 +1696,11 @@
                     return;
                 }
                 
-                if (showAll) {
+                if (hideAll) {
+                    // Hide all chronology events when no tags selected
+                    node.style('display', 'none');
+                    label.style('display', 'none');
+                } else if (showAll) {
                     // Show all chronology events (unless hidden by photo filter)
                     if (!photoFilterChecked) {
                         node.style('display', null);
