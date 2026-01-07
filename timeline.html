@@ -1584,8 +1584,11 @@
             const selectedTags = Array.from(document.querySelectorAll('.tag-filter:checked'))
                 .map(cb => cb.value);
             
-            // If no tags selected, hide all chronology events
-            const showAll = selectedTags.length === 0;
+            // Get total number of tag filters
+            const totalTags = document.querySelectorAll('.tag-filter').length;
+            
+            // If all tags selected or no tags selected, show all chronology events
+            const showAll = selectedTags.length === 0 || selectedTags.length === totalTags;
             
             // Filter nodes based on tags
             window.nodes.each(function(d) {
@@ -1599,9 +1602,9 @@
                     .filter(labelData => labelData === d);
                 
                 if (showAll) {
-                    // If no tags selected, hide all chronology events
-                    node.style('display', 'none');
-                    label.style('display', 'none');
+                    // Show all chronology events
+                    node.style('display', null);
+                    label.style('display', null);
                 } else {
                     // Check if event has any of the selected tags
                     const eventTags = d.tags || [];
