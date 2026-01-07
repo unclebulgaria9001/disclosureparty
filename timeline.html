@@ -707,6 +707,68 @@
                     </div>
                     
                     <div class="filter-section">
+                        <div class="filter-section-title">CATEGORY TAGS</div>
+                        <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="LegislationPolicy" checked onchange="applyTagFilters()">
+                                <span>Legislation</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="CongressionalHearings" checked onchange="applyTagFilters()">
+                                <span>Hearings</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="LeaksDeclass" checked onchange="applyTagFilters()">
+                                <span>Leaks/FOIA</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="WhistleblowerDisclosures" checked onchange="applyTagFilters()">
+                                <span>Whistleblower</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="MilitaryEncounters" checked onchange="applyTagFilters()">
+                                <span>Military</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="CivilianSightings" checked onchange="applyTagFilters()">
+                                <span>Civilian</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="AbductionCEIII" checked onchange="applyTagFilters()">
+                                <span>Abduction</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="CrashRetrievals" checked onchange="applyTagFilters()">
+                                <span>Crash/Retrieval</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="UnderwaterUSO" checked onchange="applyTagFilters()">
+                                <span>USO</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="SpaceSatellite" checked onchange="applyTagFilters()">
+                                <span>Space</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="ScientificStudies" checked onchange="applyTagFilters()">
+                                <span>Scientific</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="HistoricalPreModern" checked onchange="applyTagFilters()">
+                                <span>Historical</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="ReligiousCultural" checked onchange="applyTagFilters()">
+                                <span>Religious</span>
+                            </label>
+                        </div>
+                        <div style="display: flex; gap: 8px; margin-top: 12px;">
+                            <button class="btn" style="flex: 1;" onclick="selectAllTags()">ALL</button>
+                            <button class="btn" style="flex: 1;" onclick="deselectAllTags()">NONE</button>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
                         <div class="filter-section-title" data-i18n="legend">LEGEND</div>
                         <div style="display: flex; flex-direction: column; gap: 10px; font-size: 0.85em;">
                             <div style="display: flex; align-items: center; gap: 8px;">
@@ -902,12 +964,23 @@
             for (let line of lines) {
                 line = line.trim();
                 
-                // Match headers like "## 2025, September 9 - Title" or "## 70 CE - Title"
+                // Match headers like "## 2025, September 9 - Title #tag1 #tag2" or "## 70 CE - Title"
                 const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
                 
                 if (headerMatch) {
                     const dateStr = headerMatch[1];
-                    const title = headerMatch[2];
+                    let titleAndTags = headerMatch[2];
+                    
+                    // Extract tags from title
+                    const tags = [];
+                    const tagMatches = titleAndTags.match(/#\w+/g);
+                    if (tagMatches) {
+                        tags.push(...tagMatches.map(tag => tag.substring(1))); // Remove # prefix
+                        // Remove tags from title
+                        titleAndTags = titleAndTags.replace(/#\w+/g, '').trim();
+                    }
+                    
+                    const title = titleAndTags;
                     
                     // Parse date
                     const date = parseDateString(dateStr);
@@ -918,7 +991,8 @@
                             date: date,
                             originalDateStr: dateStr,
                             description: '',
-                            type: 'chronology'
+                            type: 'chronology',
+                            tags: tags
                         });
                     }
                 }
@@ -1490,6 +1564,62 @@
         function deselectAllPeriods() {
             document.querySelectorAll('.period-filter').forEach(cb => cb.checked = false);
             applyPeriodFilters();
+        }
+        
+        // Tag filter functions
+        function selectAllTags() {
+            document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = true);
+            applyTagFilters();
+        }
+        
+        function deselectAllTags() {
+            document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = false);
+            applyTagFilters();
+        }
+        
+        function applyTagFilters() {
+            if (!window.nodes) return;
+            
+            // Get selected tags
+            const selectedTags = Array.from(document.querySelectorAll('.tag-filter:checked'))
+                .map(cb => cb.value);
+            
+            // If no tags selected, hide all chronology events
+            const showAll = selectedTags.length === 0;
+            
+            // Filter nodes based on tags
+            window.nodes.each(function(d) {
+                if (d.type !== 'chronology') {
+                    // Non-chronology events (outbound, inbound, contact) always visible
+                    return;
+                }
+                
+                const node = d3.select(this);
+                const label = window.svg.selectAll('.event-label')
+                    .filter(labelData => labelData === d);
+                
+                if (showAll) {
+                    // If no tags selected, hide all chronology events
+                    node.style('display', 'none');
+                    label.style('display', 'none');
+                } else {
+                    // Check if event has any of the selected tags
+                    const eventTags = d.tags || [];
+                    const hasMatchingTag = selectedTags.some(tag => 
+                        eventTags.some(eventTag => eventTag.includes(tag))
+                    );
+                    
+                    if (hasMatchingTag) {
+                        node.style('display', null);
+                        label.style('display', null);
+                    } else {
+                        node.style('display', 'none');
+                        label.style('display', 'none');
+                    }
+                }
+            });
+            
+            updateEventCount();
         }
         
         // Modal functions
