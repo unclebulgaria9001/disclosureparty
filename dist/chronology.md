@@ -36,6 +36,16 @@ For content suggestions, email uncle.bulgari9001@gmail.com
 
 ## 
 
+## 2026, January 1 - Request Direct NHI Communication #outbound
+
+Public message requesting direct, transparent communication with Non-Human Intelligence (NHI), bypassing government intermediaries. This message was distributed globally via multiple platforms and languages, requesting a response within 7 days after achieving 100M+ awareness.
+
+[https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt](https://unclebulgaria9001.github.io/disclosureparty/dist/contact-nhi.txt)
+
+[https://github.com/unclebulgaria9001/disclosureparty](https://github.com/unclebulgaria9001/disclosureparty)
+
+\
+
 ## 2025, September 9 - House holds hearing on UFO transparency and whistleblower protection
 
 [https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/](https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/) 
@@ -1646,6 +1656,88 @@ Herrington also allegedly stated the existence of extraterrestrials were the “
 
 The videos were uploaded to a YouTube channel named ivan0135 in 2011. The channel was created the same day the first video was uploaded, on the 13th of April. According to the channel description, the creator is from Russia and was born in 1969.
 
+\
+
+## 2008, August 28 - Hello from Earth #outbound
+
+First crowdsourced message to space via Bebo social network. 501 messages from 195 countries were transmitted to the exoplanet Gliese 581c, located approximately 20 light-years away in the constellation Libra. The messages will arrive in 2029.
+
+[https://en.wikipedia.org/wiki/A_Message_From_Earth](https://en.wikipedia.org/wiki/A_Message_From_Earth)
+
+\
+
+## 2003, July 6 - Cosmic Call 2 #outbound
+
+Second Cosmic Call transmission to five additional stars using the Evpatoria RT-70 radio telescope. Continued the METI (Messaging Extraterrestrial Intelligence) program with improved encoding and targeted different stellar systems.
+
+[https://en.wikipedia.org/wiki/Cosmic_Call](https://en.wikipedia.org/wiki/Cosmic_Call)
+
+\
+
+## 2002, August 15 - Crabwood Formation #inbound
+
+Crop formation with alien face and binary message near Winchester, UK: "Beware the bearers of false gifts and their broken promises...Conduit closing." One of the most complex crop circles ever documented, featuring a CD-like disc with encoded ASCII message.
+
+[https://en.wikipedia.org/wiki/Crabwood_crop_circle](https://en.wikipedia.org/wiki/Crabwood_crop_circle)
+
+\
+
+## 2001, September 3 - Teen Age Message #outbound
+
+First interstellar message composed by teenagers from Russia. Transmitted to six sun-like stars using the Evpatoria RT-70 radio telescope in Ukraine. Part of the Cosmic Call project, featuring messages about Earth's youth.
+
+[https://en.wikipedia.org/wiki/Teen_Age_Message](https://en.wikipedia.org/wiki/Teen_Age_Message)
+
+\
+
+## 2001, August 19 - Chilbolton Arecibo Reply #inbound
+
+Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population (10 billion), and different solar system. Appeared near Chilbolton radio telescope, Hampshire, UK.
+
+[https://en.wikipedia.org/wiki/Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_crop_circle)
+
+\
+
+## 2001, August 14 - Chilbolton Face Formation #inbound
+
+Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK. Appeared 5 days before the Arecibo Reply formation in the same area. Face shows non-human features with large eyes.
+
+[https://en.wikipedia.org/wiki/Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_crop_circle)
+
+\
+
+## 1999, May 24 - Cosmic Call #outbound
+
+Radio message using sophisticated "Lexicon" mathematical language transmitted toward nearby stars. Sent from the Evpatoria RT-70 radio telescope in Ukraine as part of the first METI transmission. Targeted four sun-like stars.
+
+[https://en.wikipedia.org/wiki/Cosmic_Call](https://en.wikipedia.org/wiki/Cosmic_Call)
+
+\
+
+## 1996, September 10 - Matanzas Rural School, Cuba #contact-attempt
+
+Dozens of children witnessed large glowing oval craft silently hover over school assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate. Similar to Ariel School incident.
+
+\
+
+## 1996 - Varginha, Brazil #contact-attempt
+
+Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America's highest-profile mass-contact claims with physical evidence reports. Military allegedly captured beings. Known as "Brazil's Roswell."
+
+[https://en.wikipedia.org/wiki/Varginha_UFO_incident](https://en.wikipedia.org/wiki/Varginha_UFO_incident)
+
+\
+
+## 1994, September 16 - Ariel School, Zimbabwe #contact-attempt
+
+62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth and environmental concerns. Investigated by Dr. John Mack and Cynthia Hind.
+
+[https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)
+
+[https://www.johnemackinstitute.org/ariel-school](https://www.johnemackinstitute.org/ariel-school)
+
+\
+
 We can't verify if the channel creator and/or uploader is in fact a single individual and really named Ivan. For the sake of simplicity however, we continue to refer to the uploader as Ivan and address him as a single individual throughout this website.
 
 According to the information provided, the uploaded clips are small samples selectively taken from a larger collection of video material. The original footage is apparently spread across several physical tapes. Ivan provides detailed lists of tape numbers and timestamps for all the clips presented, even embeds an animated timestamp into the first two videos to indicate where in the original footage the sequence was taken from.
@@ -1687,11 +1779,53 @@ https://web.archive.org/web/20150703123417/http:/www.presidentialufo.com/old sit
 
 \
 
+## 1977, August 20 - Voyager Golden Records #outbound
+
+12-inch gold-plated copper records launched aboard Voyager 1 and 2 spacecraft. Contains 116 images, greetings in 55 languages, and 90 minutes of music representing Earth's diversity. Expected to last billions of years in interstellar space.
+
+[https://en.wikipedia.org/wiki/Voyager_Golden_Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
+
+\
+
+## 1977, August 15 - Wow! Signal #inbound
+
+Strong 72-second narrowband radio signal detected by Ohio State University's Big Ear radio telescope from the direction of Sagittarius. Signal was 30 times stronger than background noise. Never detected again despite numerous follow-up searches.
+
+[https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
+
+\
+
 ## 1975, November 5 - Travis Walton Abduction  
 
-In Arizona’s Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparent non-human entities aboard a craft. The case received extensive publicity and remains one of the most famous abduction reports in UFO lore.
+In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparent non-human entities aboard a craft. The case received extensive publicity and remains one of the most famous abduction reports in UFO lore.
 
 [https://en.wikipedia.org/wiki/Travis_Walton_abduction](https://en.wikipedia.org/wiki/Travis_Walton_abduction)
+
+\
+
+## 1974, November 16 - Arecibo Message #outbound
+
+First deliberate interstellar radio message sent from Arecibo Observatory in Puerto Rico. 1,679-bit signal transmitted to globular star cluster M13, approximately 25,000 light-years away. Contains information about humanity, DNA, Earth's solar system, and the Arecibo telescope itself.
+
+[https://en.wikipedia.org/wiki/Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message)
+
+[https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt](https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt)
+
+\
+
+## 1973, April 5 - Pioneer 11 Plaque #outbound
+
+Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's first physical messages to space. Launched aboard Pioneer 11 spacecraft, now in interstellar space beyond Neptune's orbit.
+
+[https://en.wikipedia.org/wiki/Pioneer_plaque](https://en.wikipedia.org/wiki/Pioneer_plaque)
+
+\
+
+## 1972, March 2 - Pioneer 10 Plaque #outbound
+
+First physical message from humanity to potential extraterrestrial intelligence. Gold-anodized aluminum plaque showing human figures, Earth's location in the solar system, and the spacecraft's origin. Launched aboard Pioneer 10, now in interstellar space.
+
+[https://en.wikipedia.org/wiki/Pioneer_plaque](https://en.wikipedia.org/wiki/Pioneer_plaque)
 
 \
 
