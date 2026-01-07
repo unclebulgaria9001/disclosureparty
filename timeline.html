@@ -147,6 +147,9 @@
             overflow-y: auto;
             transition: margin-left 0.3s ease;
             position: relative;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
         
         .sidebar.collapsed {
@@ -155,6 +158,8 @@
         
         .sidebar-content {
             padding: 20px;
+            overflow-y: auto;
+            flex: 1;
         }
         
         .toggle-sidebar {
