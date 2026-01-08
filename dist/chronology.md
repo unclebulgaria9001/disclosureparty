@@ -1649,6 +1649,10 @@ Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hoveri
 
 [https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/](https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/)
 
+**Photos:**
+
+![Diamond-shaped object hovering in sky with military jet for scale - Calvine UFO photograph released via FOIA 2021](images/1990-calvine-ufo-incident-1.jpg)
+
 \
 
 ## 1996, September 10 - Matanzas Rural School, Cuba #contact-attempt #LatinAmerica
@@ -1824,6 +1828,14 @@ First reported on April 2, 1968, luminous apparitions interpreted as the Virgin 
 **Links:**
 
 [https://ovniologia.com.br/2026/01/our-lady-of-zeitoun-when-the-virgin-mary-is-said-to-have-appeared-above-a-church-in-egypt.html](https://ovniologia.com.br/2026/01/our-lady-of-zeitoun-when-the-virgin-mary-is-said-to-have-appeared-above-a-church-in-egypt.html)
+
+**Photos:**
+
+![Luminous apparition above Coptic Church in Zeitoun with dove-like lights](images/1968-our-lady-of-zeitoun-1.jpg)
+![Glowing figure over church dome with crowds of witnesses below](images/1968-our-lady-of-zeitoun-2.jpg)
+![Formation of six spiritual beings in shape of bright pigeons over church](images/1968-our-lady-of-zeitoun-3.jpg)
+![Arabic newspaper reporting on the Zeitoun apparitions](images/1968-our-lady-of-zeitoun-4.jpg)
+![Bird-like luminous objects flying over church without flapping wings](images/1968-our-lady-of-zeitoun-5.jpg)
 
 \
 
