@@ -811,6 +811,52 @@
                     </div>
                     
                     <div class="filter-section">
+                        <div class="filter-section-title">GEOGRAPHIC REGIONS</div>
+                        <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="USA" checked onchange="applyTagFilters()">
+                                <span>USA <span class="tag-count" data-tag="USA"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Europe" checked onchange="applyTagFilters()">
+                                <span>Europe <span class="tag-count" data-tag="Europe"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="LatinAmerica" checked onchange="applyTagFilters()">
+                                <span>Latin America <span class="tag-count" data-tag="LatinAmerica"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Asia" checked onchange="applyTagFilters()">
+                                <span>Asia <span class="tag-count" data-tag="Asia"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="MiddleEast" checked onchange="applyTagFilters()">
+                                <span>Middle East <span class="tag-count" data-tag="MiddleEast"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Africa" checked onchange="applyTagFilters()">
+                                <span>Africa <span class="tag-count" data-tag="Africa"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Oceania" checked onchange="applyTagFilters()">
+                                <span>Oceania <span class="tag-count" data-tag="Oceania"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Canada" checked onchange="applyTagFilters()">
+                                <span>Canada <span class="tag-count" data-tag="Canada"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Russia" checked onchange="applyTagFilters()">
+                                <span>Russia <span class="tag-count" data-tag="Russia"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="International" checked onchange="applyTagFilters()">
+                                <span>International <span class="tag-count" data-tag="International"></span></span>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
                         <div class="filter-section-title" data-i18n="legend">LEGEND</div>
                         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 0.75em;">
                             <div style="display: flex; align-items: center; gap: 6px;">
@@ -1244,7 +1290,9 @@
                 'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings',
                 'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO',
                 'SpaceSatellite', 'ScientificStudies', 'HistoricalPreModern',
-                'ReligiousCultural'
+                'ReligiousCultural',
+                'USA', 'Europe', 'LatinAmerica', 'Asia', 'MiddleEast',
+                'Africa', 'Oceania', 'Canada', 'Russia', 'International'
             ];
             
             const categoryLabels = {
@@ -1263,7 +1311,17 @@
                 'SpaceSatellite': 'SPACE',
                 'ScientificStudies': 'SCIENTIFIC',
                 'HistoricalPreModern': 'HISTORICAL',
-                'ReligiousCultural': 'RELIGIOUS'
+                'ReligiousCultural': 'RELIGIOUS',
+                'USA': 'USA',
+                'Europe': 'EUROPE',
+                'LatinAmerica': 'LATIN\nAMERICA',
+                'Asia': 'ASIA',
+                'MiddleEast': 'MIDDLE\nEAST',
+                'Africa': 'AFRICA',
+                'Oceania': 'OCEANIA',
+                'Canada': 'CANADA',
+                'Russia': 'RUSSIA',
+                'International': 'INTL'
             };
             
             // Calculate x positions for each swim lane with generous spacing
