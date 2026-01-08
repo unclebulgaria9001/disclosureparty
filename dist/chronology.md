@@ -1735,7 +1735,7 @@ Strong 72-second narrowband radio signal detected by Ohio State University's Big
 
 \
 
-## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Europe
+## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #AbductionCEIII #HistoricalPreModern #Europe
 
 On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the most concentrated UFO flaps in UK history.
 
@@ -2250,7 +2250,7 @@ Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington's
 
 \
 
-## 1947, March 25 - Navy Secretary Forrestal Begins Recruiting "Outstanding Administrators" #MilitaryPrograms #ClassifiedRecords #GovernmentPolicy #USA
+## 1947, March 25 - Navy Secretary Forrestal Begins Recruiting "Outstanding Administrators" #MilitaryPrograms #ClassifiedRecords #GovernmentPolicy #LeaksDeclass #Navy #HistoricalPreModern #USA
 
 Three months before Roswell, Navy Secretary James Forrestal drafted a confidential form letter to Naval District Commanders requesting names of "outstanding administrators"—men between 30 and 50, proven, discreet, successful in business, and financially independent enough to accept temporary government service. Political affiliation was explicitly irrelevant. The individuals themselves were not to be informed their names were being submitted. Forrestal specified approximately fifteen candidates as a practical buffer, creating a small personal bench outside normal chains of visibility. Over six days, Forrestal revised the letter twice (March 27 and March 31), finalizing it as standing policy by month's end. A classified Army Air Forces memo dated September 22, 1947 by Lt. Col. Tucker retrospectively references two incidents involving "loaned S-Aircraft" on March 25, 1947 and July 4, 1947, focusing on decompression, radiation exposure, pilot fatalities, and instrumentation limits. The documents reflect different parts of the defense establishment independently adapting structures to manage experimental aircraft whose performance envelopes and physiological effects were not fully understood.
 
