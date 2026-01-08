@@ -1807,6 +1807,16 @@ If you go to the DIA website, there are two files filed under the "other availab
 
 \
 
+## 1968, April 2 - Our Lady of Zeitoun: Marian Apparitions Above Coptic Church in Egypt #ReligiousCultural #CivilianSightings #MultipleWitness #PhotoEvidence #HistoricalPreModern #Africa
+
+First reported on April 2, 1968, luminous apparitions interpreted as the Virgin Mary appeared above the Coptic Orthodox Church of Saint Mary in Zeitoun, Cairo, Egypt. The phenomena continued intermittently until 1971 and were witnessed by thousands of people, including Coptic Orthodox and Catholic Christians, Muslims, Jews, foreign diplomats, journalists, skeptics, and scientists. Witnesses reported seeing a luminous female figure, sometimes accompanied by lights in the shape of doves, intense flashes, or glowing halos moving over the church. The Coptic Orthodox Church officially recognized the apparitions on May 4, 1968, under Pope Cyril VI of Alexandria. Estimates suggest 250,000 to millions witnessed the events over three years. The case remains one of the most documented mass sighting events of the 20th century, with photographic evidence and cross-religious witness testimony.
+
+**Links:**
+
+[https://ovniologia.com.br/2026/01/our-lady-of-zeitoun-when-the-virgin-mary-is-said-to-have-appeared-above-a-church-in-egypt.html](https://ovniologia.com.br/2026/01/our-lady-of-zeitoun-when-the-virgin-mary-is-said-to-have-appeared-above-a-church-in-egypt.html)
+
+\
+
 ## 1967, October 4 - Shag Harbour Incident #UnderwaterUSO #NavalEncounter #RCMP #MassSighting #HistoricalPreModern #USA
 
 - In Shag Harbour, Nova Scotia, Canada, multiple witnesses, including residents and government officials, observed a low-flying, unidentified object crash into the harbor. Despite extensive searches by the Royal Canadian Mounted Police and the Canadian Navy, no definitive evidence of the object's...
