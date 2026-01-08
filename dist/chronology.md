@@ -1735,6 +1735,22 @@ Strong 72-second narrowband radio signal detected by Ohio State University's Big
 
 \
 
+## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Europe
+
+On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the most concentrated UFO flaps in UK history.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Broad_Haven_UFO_sightings](https://en.wikipedia.org/wiki/Broad_Haven_UFO_sightings)
+
+**Photos:**
+
+![Children's drawings of cigar-shaped UFO at Broad Haven School showing remarkable consistency](images/1977-broad-haven-school-ufo-1.jpg)
+![Newspaper coverage of Broad Haven School UFO incident](images/1977-broad-haven-school-ufo-2.jpg)
+![Witness testimony and additional documentation from Broad Haven sightings](images/1977-broad-haven-school-ufo-3.jpg)
+
+\
+
 ## 1975, November 5 - Travis Walton Abduction #MilitaryEncounters #NuclearSite #SecurityIncident #RadarContact #HistoricalPreModern
 
 In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparen...
