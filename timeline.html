@@ -697,19 +697,19 @@
                             </label>
                             <label class="period-label">
                                 <input type="checkbox" class="period-filter" value="194" checked onchange="applyPeriodFilters()">
-                                <span>1940s</span>
+                                <span>1940s <span class="period-count" data-period="194"></span></span>
                             </label>
                             <label class="period-label">
                                 <input type="checkbox" class="period-filter" value="193" checked onchange="applyPeriodFilters()">
-                                <span>1930s</span>
+                                <span>1930s <span class="period-count" data-period="193"></span></span>
                             </label>
                             <label class="period-label">
                                 <input type="checkbox" class="period-filter" value="192" checked onchange="applyPeriodFilters()">
-                                <span>1920s</span>
+                                <span>1920s <span class="period-count" data-period="192"></span></span>
                             </label>
                             <label class="period-label">
                                 <input type="checkbox" class="period-filter" value="191" checked onchange="applyPeriodFilters()">
-                                <span>1910s</span>
+                                <span>1910s <span class="period-count" data-period="191"></span></span>
                             </label>
                             <label class="period-label">
                                 <input type="checkbox" class="period-filter" value="18" onchange="applyPeriodFilters()">
@@ -1558,8 +1558,8 @@
             .style('font-size', '9px')
             .style('fill', '#c9d1d9')
             .text(d => {
-                // Truncate title to max 20 characters for swim lanes
-                const maxLength = 20;
+                // Truncate title to max 30 characters for swim lanes
+                const maxLength = 30;
                 const title = d.title || 'Untitled';
                 return title.length > maxLength ? title.substring(0, maxLength) + '...' : title;
             })
