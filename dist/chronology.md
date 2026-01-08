@@ -1652,6 +1652,7 @@ Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hoveri
 **Photos:**
 
 ![Diamond-shaped object hovering in sky with military jet for scale - Calvine UFO photograph released via FOIA 2021](images/1990-calvine-ufo-incident-1.jpg)
+![Enhanced black and white version of Calvine UFO showing diamond-shaped craft with crowds of witnesses below](images/1990-calvine-ufo-incident-2.jpg)
 
 \
 
