@@ -1304,7 +1304,7 @@
                     .attr('y2', height);
             });
             
-            // Track labels - vertical
+            // Track labels - vertical with line breaks for multi-word labels
             categoryTags.forEach(tag => {
                 const x = lanePositions[tag];
                 const label = categoryLabels[tag];
@@ -1315,15 +1315,36 @@
                 else if (tag === 'Inbound') color = '#f85149';
                 else if (tag === 'ContactAttempt') color = '#a371f7';
                 
-                svg.append('text')
-                    .attr('x', x)
-                    .attr('y', -15)
-                    .attr('text-anchor', 'middle')
-                    .attr('dominant-baseline', 'auto')
-                    .style('fill', color)
-                    .style('font-size', '9px')
-                    .style('font-weight', '600')
-                    .text(label);
+                // Split label into lines if it contains multiple words
+                const words = label.split(/[\s\/]+/);
+                if (words.length > 1) {
+                    // Multi-word label - create tspan for each line
+                    const text = svg.append('text')
+                        .attr('x', x)
+                        .attr('y', -25)
+                        .attr('text-anchor', 'middle')
+                        .style('fill', color)
+                        .style('font-size', '8px')
+                        .style('font-weight', '600');
+                    
+                    words.forEach((word, i) => {
+                        text.append('tspan')
+                            .attr('x', x)
+                            .attr('dy', i === 0 ? 0 : '1em')
+                            .text(word);
+                    });
+                } else {
+                    // Single word label
+                    svg.append('text')
+                        .attr('x', x)
+                        .attr('y', -15)
+                        .attr('text-anchor', 'middle')
+                        .attr('dominant-baseline', 'auto')
+                        .style('fill', color)
+                        .style('font-size', '9px')
+                        .style('font-weight', '600')
+                        .text(label);
+                }
             });
         
         // Tooltip
@@ -1347,10 +1368,24 @@
                     return 'HistoricalPreModern'; // Default for chronology events without tags
                 }
                 // Return first tag that matches our category list
+                // Try exact match first
                 for (const tag of event.tags) {
                     if (categoryTags.includes(tag)) return tag;
                 }
-                return event.tags[0]; // Fallback to first tag
+                // Try case-insensitive match
+                for (const tag of event.tags) {
+                    const found = categoryTags.find(ct => ct.toLowerCase() === tag.toLowerCase());
+                    if (found) return found;
+                }
+                // Check for partial matches (e.g., 'CivilianSighting' matches 'CivilianSightings')
+                for (const tag of event.tags) {
+                    const found = categoryTags.find(ct => 
+                        ct.toLowerCase().includes(tag.toLowerCase()) || 
+                        tag.toLowerCase().includes(ct.toLowerCase())
+                    );
+                    if (found) return found;
+                }
+                return 'HistoricalPreModern'; // Default fallback
             }
             
             // Draw events with different shapes for accessibility - vertical
