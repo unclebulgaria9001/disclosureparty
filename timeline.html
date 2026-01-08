@@ -1195,7 +1195,8 @@
         function drawTimeline() {
             // Timeline dimensions - rotated 90 degrees
             const margin = {top: 60, right: 200, bottom: 40, left: 60};
-            const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 600);
+            // Increase minimum width to accommodate 16 swim lanes with proper spacing
+            const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 2400);
             const height = 800;
             
             // Create SVG
@@ -1253,12 +1254,14 @@
                 'ReligiousCultural': 'RELIGIOUS'
             };
             
-            // Calculate x positions for each swim lane
+            // Calculate x positions for each swim lane with generous spacing
             const laneSpacing = width / (categoryTags.length + 1);
             const lanePositions = {};
             categoryTags.forEach((tag, i) => {
                 lanePositions[tag] = laneSpacing * (i + 1);
             });
+            
+            console.log('Swim lane spacing:', laneSpacing, 'px between lanes');
         
             // Check if we have any truly ancient events (BCE/CE before year 1000) in the current view
             const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 1900);
