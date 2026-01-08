@@ -1641,6 +1641,16 @@ Radio message using sophisticated "Lexicon" mathematical language transmitted to
 
 \
 
+## 1990, August 4 - Calvine UFO Incident: Diamond-Shaped Object Photographed in Scottish Highlands #CivilianSightings #PhotoEvidence #MultipleWitness #MilitaryUAP #FOIARelease #LeaksDeclass #Europe
+
+Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hovering silently in the sky before accelerating away at high speed. They captured several photographs using a 35mm camera showing a solid object with a bright or misty appearance. The photos were handed to the UK Ministry of Defence for analysis and disappeared for decades. In 2021, one original photograph was released under the Freedom of Information Act, showing the diamond-shaped object with what appeared to be a military jet nearby for scale. The MOD suggested it may have been a misidentified Harrier jump jet or optical illusion, but no firm conclusion was reached. The case remains one of the UK's most compelling UFO incidents due to photographic evidence, remote location, and official MOD involvement. Only one of the original photographs has been publicly released; the identities of the hikers have never been confirmed.
+
+**Links:**
+
+[https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/](https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/)
+
+\
+
 ## 1996, September 10 - Matanzas Rural School, Cuba #contact-attempt #LatinAmerica
 
 Dozens of children witnessed large glowing oval craft silently hover over school assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate. Similar to Ariel School incident.
