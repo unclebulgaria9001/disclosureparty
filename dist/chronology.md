@@ -1656,13 +1656,13 @@ Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hoveri
 
 \
 
-## 1996, September 10 - Matanzas Rural School, Cuba #contact-attempt #LatinAmerica
+## 1996, September 10 - Matanzas Rural School, Cuba #ContactAttempt #LatinAmerica
 
 Dozens of children witnessed large glowing oval craft silently hover over school assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate. Similar to Ariel School incident.
 
 \
 
-## 1996 - Varginha, Brazil #contact-attempt #USA
+## 1996 - Varginha, Brazil #ContactAttempt #LatinAmerica
 
 Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America's highest-profile mass-contact claims with physical evidence reports. Military allegedly captured beings. Known as "Brazil's Roswell."
 
@@ -1672,7 +1672,7 @@ Multiple townspeople reported humanoid "grey" beings and nearby craft. One of La
 
 \
 
-## 1994, September 16 - Ariel School, Zimbabwe #contact-attempt #Africa
+## 1994, September 16 - Ariel School, Zimbabwe #ContactAttempt #Africa
 
 62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth and environmental concerns. Investigated by Dr. John Mack and Cynthia Hind.
 
