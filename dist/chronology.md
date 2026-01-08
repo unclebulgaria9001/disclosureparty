@@ -35,7 +35,7 @@ For content suggestions, email uncle.bulgari9001@gmail.com
 
 ## 
 
-## 2026, January 1 - Request Direct NHI Communication #outbound #NonHumanIntelligence #PublicStatement
+## 2026, January 1 - Request Direct NHI Communication #Outbound #NonHumanIntelligence #PublicStatement
 
 Public message requesting direct, transparent communication with Non-Human Intelligence (NHI), bypassing government intermediaries. This message was distributed globally via multiple platforms and languages, requesting a response within 7 days after achieving 100M+ awareness.
 
@@ -1571,7 +1571,7 @@ The videos were uploaded to a YouTube channel named ivan0135 in 2011. The channe
 
 \
 
-## 2008, August 28 - Hello from Earth #outbound
+## 2008, August 28 - Hello from Earth #Outbound
 
 First crowdsourced message to space via Bebo social network. 501 messages from 195 countries were transmitted to the exoplanet Gliese 581c, located approximately 20 light-years away in the constellation Libra. The messages will arrive in 2029.
 
@@ -1581,7 +1581,7 @@ First crowdsourced message to space via Bebo social network. 501 messages from 1
 
 \
 
-## 2003, July 6 - Cosmic Call 2 #outbound
+## 2003, July 6 - Cosmic Call 2 #Outbound
 
 Second Cosmic Call transmission to five additional stars using the Evpatoria RT-70 radio telescope. Continued the METI (Messaging Extraterrestrial Intelligence) program with improved encoding and targeted different stellar systems.
 
@@ -1591,7 +1591,7 @@ Second Cosmic Call transmission to five additional stars using the Evpatoria RT-
 
 \
 
-## 2002, August 15 - Crabwood Formation #inbound#Europe
+## 2002, August 15 - Crabwood Formation #Inbound #Europe
 
 Crop formation with alien face and binary message near Winchester, UK: "Beware the bearers of false gifts and their broken promises...Conduit closing." One of the most complex crop circles ever documented, featuring a CD-like disc with encoded ASCII message.
 
@@ -1601,7 +1601,7 @@ Crop formation with alien face and binary message near Winchester, UK: "Beware t
 
 \
 
-## 2001, September 3 - Teen Age Message #outbound#Europe
+## 2001, September 3 - Teen Age Message #Outbound #Europe
 
 First interstellar message composed by teenagers from Russia. Transmitted to six sun-like stars using the Evpatoria RT-70 radio telescope in Ukraine. Part of the Cosmic Call project, featuring messages about Earth's youth.
 
@@ -1611,7 +1611,7 @@ First interstellar message composed by teenagers from Russia. Transmitted to six
 
 \
 
-## 2001, August 19 - Chilbolton Arecibo Reply #inbound#Europe
+## 2001, August 19 - Chilbolton Arecibo Reply #Inbound #Europe
 
 Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population (10 billion), and different solar system. Appeared near Chilbolton radio telescope, Hampshire, UK.
 
@@ -1621,7 +1621,7 @@ Crop formation mirroring 1974 Arecibo message structure with different data: sil
 
 \
 
-## 2001, August 14 - Chilbolton Face Formation #inbound#Europe
+## 2001, August 14 - Chilbolton Face Formation #Inbound #Europe
 
 Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK. Appeared 5 days before the Arecibo Reply formation in the same area. Face shows non-human features with large eyes.
 
@@ -1631,7 +1631,7 @@ Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire,
 
 \
 
-## 1999, May 24 - Cosmic Call #outbound#Europe
+## 1999, May 24 - Cosmic Call #Outbound #Europe
 
 Radio message using sophisticated "Lexicon" mathematical language transmitted toward nearby stars. Sent from the Evpatoria RT-70 radio telescope in Ukraine as part of the first METI transmission. Targeted four sun-like stars.
 
@@ -1715,7 +1715,7 @@ Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that da
 
 \
 
-## 1977, August 20 - Voyager Golden Records #outbound
+## 1977, August 20 - Voyager Golden Records #Outbound
 
 12-inch gold-plated copper records launched aboard Voyager 1 and 2 spacecraft. Contains 116 images, greetings in 55 languages, and 90 minutes of music representing Earth's diversity. Expected to last billions of years in interstellar space.
 
@@ -1725,7 +1725,7 @@ Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that da
 
 \
 
-## 1977, August 15 - Wow! Signal #inbound
+## 1977, August 15 - Wow! Signal #Inbound
 
 Strong 72-second narrowband radio signal detected by Ohio State University's Big Ear radio telescope from the direction of Sagittarius. Signal was 30 times stronger than background noise. Never detected again despite numerous follow-up searches.
 
@@ -1761,7 +1761,7 @@ In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished af
 
 \
 
-## 1974, November 16 - Arecibo Message #outbound
+## 1974, November 16 - Arecibo Message #Outbound
 
 First deliberate interstellar radio message sent from Arecibo Observatory in Puerto Rico. 1,679-bit signal transmitted to globular star cluster M13, approximately 25,000 light-years away. Contains information about humanity, DNA, Earth's solar system, and the Arecibo telescope itself.
 
@@ -1772,7 +1772,7 @@ First deliberate interstellar radio message sent from Arecibo Observatory in Pue
 
 \
 
-## 1973, April 5 - Pioneer 11 Plaque #outbound
+## 1973, April 5 - Pioneer 11 Plaque #Outbound
 
 Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's first physical messages to space. Launched aboard Pioneer 11 spacecraft, now in interstellar space beyond Neptune's orbit.
 
@@ -1782,7 +1782,7 @@ Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's fir
 
 \
 
-## 1972, March 2 - Pioneer 10 Plaque #outbound
+## 1972, March 2 - Pioneer 10 Plaque #Outbound
 
 First physical message from humanity to potential extraterrestrial intelligence. Gold-anodized aluminum plaque showing human figures, Earth's location in the solar system, and the spacecraft's origin. Launched aboard Pioneer 10, now in interstellar space.
 
