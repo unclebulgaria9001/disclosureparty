@@ -1399,53 +1399,74 @@
                 primaryTag: getPrimaryTag(e)
             })));
             
-            // Helper function to get primary tag for an event
-            function getPrimaryTag(event) {
-                if (!event.tags || event.tags.length === 0) {
-                    // Default to type-based tag for communication events
-                    if (event.type === 'outbound') return 'Outbound';
-                    if (event.type === 'inbound') return 'Inbound';
-                    if (event.type === 'contact-attempt') return 'ContactAttempt';
-                    return 'HistoricalPreModern'; // Default for chronology events without tags
+            // Helper function to get all matching category tags for an event
+            function getMatchingTags(event) {
+                const matchedTags = [];
+                
+                // For communication events, always include their type-based tag
+                if (event.type === 'outbound') matchedTags.push('Outbound');
+                if (event.type === 'inbound') matchedTags.push('Inbound');
+                if (event.type === 'contact-attempt') matchedTags.push('ContactAttempt');
+                
+                // Check event tags against category list
+                if (event.tags && event.tags.length > 0) {
+                    for (const tag of event.tags) {
+                        // Try exact match
+                        if (categoryTags.includes(tag) && !matchedTags.includes(tag)) {
+                            matchedTags.push(tag);
+                            continue;
+                        }
+                        // Try case-insensitive match
+                        const found = categoryTags.find(ct => ct.toLowerCase() === tag.toLowerCase());
+                        if (found && !matchedTags.includes(found)) {
+                            matchedTags.push(found);
+                            continue;
+                        }
+                        // Try partial match
+                        const partialMatch = categoryTags.find(ct => 
+                            ct.toLowerCase().includes(tag.toLowerCase()) || 
+                            tag.toLowerCase().includes(ct.toLowerCase())
+                        );
+                        if (partialMatch && !matchedTags.includes(partialMatch)) {
+                            matchedTags.push(partialMatch);
+                        }
+                    }
                 }
-                // Return first tag that matches our category list
-                // Try exact match first
-                for (const tag of event.tags) {
-                    if (categoryTags.includes(tag)) return tag;
-                }
-                // Try case-insensitive match
-                for (const tag of event.tags) {
-                    const found = categoryTags.find(ct => ct.toLowerCase() === tag.toLowerCase());
-                    if (found) return found;
-                }
-                // Check for partial matches (e.g., 'CivilianSighting' matches 'CivilianSightings')
-                for (const tag of event.tags) {
-                    const found = categoryTags.find(ct => 
-                        ct.toLowerCase().includes(tag.toLowerCase()) || 
-                        tag.toLowerCase().includes(ct.toLowerCase())
-                    );
-                    if (found) return found;
-                }
-                return 'HistoricalPreModern'; // Default fallback
+                
+                // If no matches found, default to HistoricalPreModern
+                return matchedTags.length > 0 ? matchedTags : ['HistoricalPreModern'];
             }
+            
+            // Create event instances for each matching swim lane
+            const eventInstances = [];
+            allEvents.forEach(event => {
+                const matchingTags = getMatchingTags(event);
+                matchingTags.forEach(tag => {
+                    eventInstances.push({
+                        ...event,
+                        swimLaneTag: tag
+                    });
+                });
+            });
+            
+            console.log('Event instances created:', eventInstances.length, 'from', allEvents.length, 'events');
             
             // Draw events with different shapes for accessibility - vertical
             const eventGroups = svg.selectAll('.event-group')
-                .data(allEvents)
+                .data(eventInstances)
                 .enter()
                 .append('g')
                 .attr('class', 'event-group')
+                .attr('data-swim-lane', d => d.swimLaneTag)
                 .attr('transform', d => {
                     const y = yScale(d.date);
-                    const primaryTag = getPrimaryTag(d);
-                    const x = lanePositions[primaryTag] || lanePositions['HistoricalPreModern'];
+                    const x = lanePositions[d.swimLaneTag] || lanePositions['HistoricalPreModern'];
                     return `translate(${x},${y})`;
                 })
                 .attr('role', 'button')
                 .attr('tabindex', '0')
                 .attr('aria-label', d => {
-                    const primaryTag = getPrimaryTag(d);
-                    const tagLabel = categoryLabels[primaryTag] || primaryTag;
+                    const tagLabel = categoryLabels[d.swimLaneTag] || d.swimLaneTag;
                     return `${d.title}, ${tagLabel}, ${d.originalDateStr || d3.timeFormat('%Y')(d.date)}`;
                 });
             
@@ -1469,13 +1490,12 @@
                 'ReligiousCultural': (g, s) => g.append('path').attr('d', `M0,${-s*1.3} L${s*0.3},${-s*0.3} L${s*1.2},${-s*0.3} L${s*0.4},${s*0.2} L${s*0.7},${s*1.2} L0,${s*0.6} L${-s*0.7},${s*1.2} L${-s*0.4},${s*0.2} L${-s*1.2},${-s*0.3} L${-s*0.3},${-s*0.3} Z`)
             };
             
-            // Add different shapes based on primary category tag
+            // Add different shapes based on swim lane category tag
             eventGroups.each(function(d) {
                 const group = d3.select(this);
-                const primaryTag = getPrimaryTag(d);
                 const size = 5;
                 
-                const iconFunc = categoryIcons[primaryTag];
+                const iconFunc = categoryIcons[d.swimLaneTag];
                 if (iconFunc) {
                     const shape = iconFunc(group, size);
                     shape.attr('class', `event-node ${d.type}`);
@@ -1543,14 +1563,14 @@
         
         // Add title labels for all events - vertical
         const eventLabels = svg.selectAll('.event-label')
-            .data(allEvents)
+            .data(eventInstances)
             .enter()
             .append('text')
             .attr('class', 'event-label')
+            .attr('data-swim-lane', d => d.swimLaneTag)
             .attr('y', d => yScale(d.date))
             .attr('x', d => {
-                const primaryTag = getPrimaryTag(d);
-                const x = lanePositions[primaryTag] || lanePositions['HistoricalPreModern'];
+                const x = lanePositions[d.swimLaneTag] || lanePositions['HistoricalPreModern'];
                 return x + 15;
             })
             .attr('text-anchor', 'start')
