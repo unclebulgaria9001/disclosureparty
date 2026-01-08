@@ -35,7 +35,7 @@ For content suggestions, email uncle.bulgari9001@gmail.com
 
 ## 
 
-## 2026, January 1 - Request Direct NHI Communication #outbound
+## 2026, January 1 - Request Direct NHI Communication #outbound #NonHumanIntelligence #PublicStatement
 
 Public message requesting direct, transparent communication with Non-Human Intelligence (NHI), bypassing government intermediaries. This message was distributed globally via multiple platforms and languages, requesting a response within 7 days after achieving 100M+ awareness.
 
@@ -86,7 +86,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
-## 2025, January 21 - 4chan egg leak/larper shared egg video and pictures #LeaksDeclass #Leak #ImageLeak #Reddit #PhotoEvidence #LARPing #CrashRetrievals? (use carefully) #CivilianSighting
+## 2025, January 21 - 4chan egg leak/larper shared egg video and pictures #LeaksDeclass #Leak #ImageLeak #Reddit #PhotoEvidence #LARPing #CivilianSighting
 
 **Links:**
 
@@ -125,7 +125,7 @@ After leaving active duty, he states that he contracted with the Department of D
 
 \
 
-## 2024, December 13 - NJ Drones #CivilianSightings #VideoEvidence #PhotoEvidence #Drone #MultipleWitness #CivilianSighting #Europe
+## 2024, December 13 - NJ Drones #CivilianSightings #VideoEvidence #PhotoEvidence #Drone #MultipleWitness #CivilianSighting #USA
 
 !
 
@@ -295,7 +295,7 @@ Multiple amendments are proposed for the 2025 NDAA
 
 \
 
-## 2024, May 23 - Intelligence Authorization Act 2025 #LegislationPolicy #IntelligenceAuthAct #ClassificationReform #CongressionalOversight #UAPOversight #Europe
+## 2024, May 23 - Intelligence Authorization Act 2025 #LegislationPolicy #IntelligenceAuthAct #ClassificationReform #CongressionalOversight #UAPOversight #USA
 
 Promotes reform of the nation’s security classification system by requiring the President to designate an Executive Agent for Classification and Declassification, improving the system for the classification and declassification of information, and requiring each Federal agency with access to clas...
 
