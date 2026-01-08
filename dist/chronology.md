@@ -1735,7 +1735,7 @@ Strong 72-second narrowband radio signal detected by Ohio State University's Big
 
 \
 
-## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #AbductionCEIII #HistoricalPreModern #Europe
+## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Inbound #HistoricalPreModern #Europe
 
 On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the most concentrated UFO flaps in UK history.
 
