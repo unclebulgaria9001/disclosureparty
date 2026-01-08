@@ -1195,8 +1195,8 @@
         function drawTimeline() {
             // Timeline dimensions - rotated 90 degrees
             const margin = {top: 60, right: 200, bottom: 40, left: 60};
-            // Increase minimum width to accommodate 16 swim lanes with proper spacing
-            const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 2400);
+            // Set minimum width for 16 swim lanes with balanced spacing
+            const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 1600);
             const height = 800;
             
             // Create SVG
@@ -1207,8 +1207,8 @@
                 .append('g')
                 .attr('transform', `translate(${margin.left},${margin.top})`);
             
-            // Filter to modern events only (1970+) for initial display to avoid squashing
-            const modernEvents = allEvents.filter(d => d.date.getFullYear() >= 1970);
+            // Use all events for display (including ancient)
+            const modernEvents = allEvents;
             
             // Find date range from modern events with padding
             const dates = modernEvents.map(d => d.date);
@@ -1643,17 +1643,18 @@
             const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked'))
                 .map(cb => cb.value);
             
+            // If no periods selected, show all events
+            const showAll = selectedPeriods.length === 0;
+            
             // Track visible events for date range calculation
             const visibleEvents = [];
             
             // Apply period filters to all events
             window.nodes.each(function(d) {
                 const node = d3.select(this);
-                let shouldShow = false;
+                let shouldShow = showAll;
                 
-                if (selectedPeriods.length === 0) {
-                    shouldShow = false; // Hide all if no periods selected
-                } else {
+                if (!showAll) {
                     const eventYear = d.date.getFullYear();
                     shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                 }
@@ -1667,9 +1668,7 @@
             // Also hide/show event labels
             if (window.eventLabels) {
                 window.eventLabels.style('display', function(d) {
-                    if (selectedPeriods.length === 0) {
-                        return 'none';
-                    }
+                    if (showAll) return 'block';
                     const eventYear = d.date.getFullYear();
                     const shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                     return shouldShow ? 'block' : 'none';
@@ -1682,10 +1681,10 @@
                 const minDate = d3.min(dates);
                 const maxDate = d3.max(dates);
                 
-                // Add padding
+                // Add padding (10% on each side)
                 const dateRange = maxDate - minDate;
-                const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
-                const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
+                const paddedMin = new Date(minDate.getTime() - dateRange * 0.1);
+                const paddedMax = new Date(maxDate.getTime() + dateRange * 0.1);
                 
                 // Update scale domain
                 window.yScale.domain([paddedMin, paddedMax]);
