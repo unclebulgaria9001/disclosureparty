@@ -1859,10 +1859,12 @@
                         label.style('display', null);
                     }
                 } else {
-                    // Check if event has any of the selected tags
+                    // Check if event has any of the selected tags (exact match, case-insensitive)
                     const eventTags = d.tags || [];
                     const hasMatchingTag = selectedTags.some(tag => 
-                        eventTags.some(eventTag => eventTag.includes(tag))
+                        eventTags.some(eventTag => 
+                            eventTag.toLowerCase() === tag.toLowerCase()
+                        )
                     );
                     
                     if (hasMatchingTag) {
