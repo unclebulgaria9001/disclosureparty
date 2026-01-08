@@ -729,67 +729,67 @@
                         <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="Outbound" checked onchange="applyTagFilters()">
-                                <span>Outbound</span>
+                                <span>Outbound <span class="tag-count" data-tag="Outbound"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="Inbound" checked onchange="applyTagFilters()">
-                                <span>Inbound</span>
+                                <span>Inbound <span class="tag-count" data-tag="Inbound"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="ContactAttempt" checked onchange="applyTagFilters()">
-                                <span>Contact Attempt</span>
+                                <span>Contact Attempt <span class="tag-count" data-tag="ContactAttempt"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="LegislationPolicy" checked onchange="applyTagFilters()">
-                                <span>Legislation</span>
+                                <span>Legislation <span class="tag-count" data-tag="LegislationPolicy"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="CongressionalHearings" checked onchange="applyTagFilters()">
-                                <span>Hearings</span>
+                                <span>Hearings <span class="tag-count" data-tag="CongressionalHearings"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="LeaksDeclass" checked onchange="applyTagFilters()">
-                                <span>Leaks/FOIA</span>
+                                <span>Leaks/FOIA <span class="tag-count" data-tag="LeaksDeclass"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="WhistleblowerDisclosures" checked onchange="applyTagFilters()">
-                                <span>Whistleblower</span>
+                                <span>Whistleblower <span class="tag-count" data-tag="WhistleblowerDisclosures"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="MilitaryEncounters" checked onchange="applyTagFilters()">
-                                <span>Military</span>
+                                <span>Military <span class="tag-count" data-tag="MilitaryEncounters"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="CivilianSightings" checked onchange="applyTagFilters()">
-                                <span>Civilian</span>
+                                <span>Civilian <span class="tag-count" data-tag="CivilianSightings"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="AbductionCEIII" checked onchange="applyTagFilters()">
-                                <span>Abduction</span>
+                                <span>Abduction <span class="tag-count" data-tag="AbductionCEIII"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="CrashRetrievals" checked onchange="applyTagFilters()">
-                                <span>Crash/Retrieval</span>
+                                <span>Crash/Retrieval <span class="tag-count" data-tag="CrashRetrievals"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="UnderwaterUSO" checked onchange="applyTagFilters()">
-                                <span>USO</span>
+                                <span>USO <span class="tag-count" data-tag="UnderwaterUSO"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="SpaceSatellite" checked onchange="applyTagFilters()">
-                                <span>Space</span>
+                                <span>Space <span class="tag-count" data-tag="SpaceSatellite"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="ScientificStudies" checked onchange="applyTagFilters()">
-                                <span>Scientific</span>
+                                <span>Scientific <span class="tag-count" data-tag="ScientificStudies"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="HistoricalPreModern" checked onchange="applyTagFilters()">
-                                <span>Historical</span>
+                                <span>Historical <span class="tag-count" data-tag="HistoricalPreModern"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="ReligiousCultural" checked onchange="applyTagFilters()">
-                                <span>Religious</span>
+                                <span>Religious <span class="tag-count" data-tag="ReligiousCultural"></span></span>
                             </label>
                         </div>
                         <div style="display: flex; gap: 8px; margin-top: 12px;">
@@ -1358,6 +1358,19 @@
                 chronology: allEvents.filter(d => d.type === 'chronology').length
             });
             
+            // Debug: Check tag distribution
+            const tagCounts = {};
+            allEvents.forEach(event => {
+                const primaryTag = getPrimaryTag(event);
+                tagCounts[primaryTag] = (tagCounts[primaryTag] || 0) + 1;
+            });
+            console.log('Events per swim lane:', tagCounts);
+            console.log('Sample event tags:', allEvents.slice(0, 10).map(e => ({
+                title: e.title.substring(0, 30),
+                tags: e.tags,
+                primaryTag: getPrimaryTag(e)
+            })));
+            
             // Helper function to get primary tag for an event
             function getPrimaryTag(event) {
                 if (!event.tags || event.tags.length === 0) {
@@ -1537,11 +1550,39 @@
             window.lanePositions = lanePositions;
             window.categoryTags = categoryTags;
             
+            // Update tag counts in filter UI
+            updateTagCounts();
+            
             // Apply initial tag filters
             applyTagFilters();
             
             // Update filter counts
             updateFilterCounts();
+        }
+        
+        // Function to update tag counts in the filter UI
+        function updateTagCounts() {
+            if (!allEvents || !window.getPrimaryTag) return;
+            
+            const tagCounts = {};
+            categoryTags.forEach(tag => tagCounts[tag] = 0);
+            
+            allEvents.forEach(event => {
+                const primaryTag = window.getPrimaryTag(event);
+                if (tagCounts.hasOwnProperty(primaryTag)) {
+                    tagCounts[primaryTag]++;
+                }
+            });
+            
+            // Update the UI
+            Object.keys(tagCounts).forEach(tag => {
+                const countElement = document.querySelector(`.tag-count[data-tag="${tag}"]`);
+                if (countElement) {
+                    countElement.textContent = `(${tagCounts[tag]})`;
+                    countElement.style.color = '#6e7681';
+                    countElement.style.fontSize = '0.9em';
+                }
+            });
         }
         
         // Filter functions
