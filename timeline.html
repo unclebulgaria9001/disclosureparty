@@ -1583,7 +1583,7 @@
             window.yAxis = yAxis;
             window.svg = svg;
             window.eventLabels = eventLabels;
-            window.getPrimaryTag = getPrimaryTag;
+            window.getMatchingTags = getMatchingTags;
             window.lanePositions = lanePositions;
             window.categoryTags = categoryTags;
             
@@ -1602,16 +1602,18 @@
         
         // Function to update tag counts in the filter UI
         function updateTagCounts() {
-            if (!allEvents || !window.getPrimaryTag) return;
+            if (!allEvents || !window.getMatchingTags) return;
             
             const tagCounts = {};
             categoryTags.forEach(tag => tagCounts[tag] = 0);
             
             allEvents.forEach(event => {
-                const primaryTag = window.getPrimaryTag(event);
-                if (tagCounts.hasOwnProperty(primaryTag)) {
-                    tagCounts[primaryTag]++;
-                }
+                const matchingTags = window.getMatchingTags(event);
+                matchingTags.forEach(tag => {
+                    if (tagCounts.hasOwnProperty(tag)) {
+                        tagCounts[tag]++;
+                    }
+                });
             });
             
             // Update the UI
