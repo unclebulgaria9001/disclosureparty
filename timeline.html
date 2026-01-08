@@ -1373,13 +1373,9 @@
                 chronology: allEvents.filter(d => d.type === 'chronology').length
             });
             
-            // Debug: Check tag distribution
-            const tagCounts = {};
+            // Debug: Track unmatched tags
             const unmatchedTags = new Set();
             allEvents.forEach(event => {
-                const primaryTag = getPrimaryTag(event);
-                tagCounts[primaryTag] = (tagCounts[primaryTag] || 0) + 1;
-                
                 // Track tags that don't match our categories
                 if (event.tags && event.tags.length > 0) {
                     event.tags.forEach(tag => {
@@ -1390,14 +1386,7 @@
                     });
                 }
             });
-            console.log('Events per swim lane:', tagCounts);
-            console.log('Total counted:', Object.values(tagCounts).reduce((a, b) => a + b, 0));
             console.log('Unmatched tags found in chronology.md:', Array.from(unmatchedTags).sort());
-            console.log('Sample events with tags:', allEvents.filter(e => e.tags && e.tags.length > 0).slice(0, 20).map(e => ({
-                title: e.title.substring(0, 40),
-                tags: e.tags,
-                primaryTag: getPrimaryTag(e)
-            })));
             
             // Helper function to get all matching category tags for an event
             function getMatchingTags(event) {
