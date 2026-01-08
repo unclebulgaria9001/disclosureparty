@@ -1669,8 +1669,8 @@
             const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked'))
                 .map(cb => cb.value);
             
-            // If no periods selected, show all events
-            const showAll = selectedPeriods.length === 0;
+            // If no periods selected, hide all events
+            const hideAll = selectedPeriods.length === 0;
             
             // Track visible events for date range calculation
             const visibleEvents = [];
@@ -1678,9 +1678,9 @@
             // Apply period filters to all events
             window.nodes.each(function(d) {
                 const node = d3.select(this);
-                let shouldShow = showAll;
+                let shouldShow = false;
                 
-                if (!showAll) {
+                if (!hideAll) {
                     const eventYear = d.date.getFullYear();
                     shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                 }
@@ -1694,7 +1694,7 @@
             // Also hide/show event labels
             if (window.eventLabels) {
                 window.eventLabels.style('display', function(d) {
-                    if (showAll) return 'block';
+                    if (hideAll) return 'none';
                     const eventYear = d.date.getFullYear();
                     const shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                     return shouldShow ? 'block' : 'none';
