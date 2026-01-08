@@ -1775,7 +1775,6 @@
             
             // Second pass: apply tag filters only to events with photos
             applyTagFilters();
-            updateEventCount();
         }
         
         function applyTagFilters() {
@@ -1835,7 +1834,6 @@
                 }
             });
             
-            updateEventCount();
             updateFilterCounts(); // Update counts after filtering
         }
         
