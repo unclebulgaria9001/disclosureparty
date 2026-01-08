@@ -800,30 +800,102 @@
                     
                     <div class="filter-section">
                         <div class="filter-section-title" data-i18n="legend">LEGEND</div>
-                        <div style="display: flex; flex-direction: column; gap: 10px; font-size: 0.85em;">
-                            <div style="display: flex; align-items: center; gap: 8px;">
-                                <svg width="16" height="16">
-                                    <rect x="2" y="2" width="12" height="12" fill="#58a6ff" stroke="#1f6feb" stroke-width="2"/>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 0.75em;">
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <rect x="-5" y="-5" width="10" height="10" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5"/>
                                 </svg>
-                                <span data-i18n="outboundLegend">Outbound</span>
+                                <span>Outbound</span>
                             </div>
-                            <div style="display: flex; align-items: center; gap: 8px;">
-                                <svg width="16" height="16">
-                                    <polygon points="8,2 14,14 2,14" fill="#f85149" stroke="#da3633" stroke-width="2"/>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <polygon points="0,-6.5 5.5,3.5 -5.5,3.5" fill="#f85149" stroke="#da3633" stroke-width="1.5"/>
                                 </svg>
-                                <span data-i18n="inboundLegend">Inbound</span>
+                                <span>Inbound</span>
                             </div>
-                            <div style="display: flex; align-items: center; gap: 8px;">
-                                <svg width="16" height="16">
-                                    <polygon points="8,2 14,8 8,14 2,8" fill="#a371f7" stroke="#8957e5" stroke-width="2"/>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <polygon points="0,-6 6,0 0,6 -6,0" fill="#a371f7" stroke="#8957e5" stroke-width="1.5"/>
                                 </svg>
-                                <span data-i18n="contactLegend">Contact</span>
+                                <span>Contact</span>
                             </div>
-                            <div style="display: flex; align-items: center; gap: 8px;">
-                                <svg width="16" height="16">
-                                    <circle cx="8" cy="8" r="4" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <rect x="-4" y="-6" width="8" height="12" rx="1" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
                                 </svg>
-                                <span data-i18n="otherLegend">Other</span>
+                                <span>Legislation</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M-5,2.5 L0,-6 L5,2.5 L3,2.5 L3,6 L-3,6 L-3,2.5 Z" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Hearings</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M-6,-4 L6,-4 L6,6 L-6,6 Z M-3,-1 L3,-1 M-4,1.5 L2,1.5 M-3,4 L4,4" fill="#8b949e" stroke="#6e7681" stroke-width="1.2"/>
+                                </svg>
+                                <span>Leaks/FOIA</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <circle r="5.5" fill="none" stroke="#8b949e" stroke-width="2"/>
+                                </svg>
+                                <span>Whistleblower</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M0,-6.5 L6,6.5 L-6,6.5 Z" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Military</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <circle r="5" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Civilian</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <ellipse rx="3.5" ry="6.5" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Abduction</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M-6,-2.5 L0,-6 L6,-2.5 L4,6 L-4,6 Z" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Crash</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M-6,0 Q-6,-6 0,-6 Q6,-6 6,0 Q6,6 0,6 Q-6,6 -6,0" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>USO</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M0,-6.5 L2,-1.5 L6.5,-1.5 L2.5,1.5 L4,6.5 L0,3.5 L-4,6.5 L-2.5,1.5 L-6.5,-1.5 L-2,-1.5 Z" fill="#8b949e" stroke="#6e7681" stroke-width="1.2"/>
+                                </svg>
+                                <span>Space</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M-5.5,4 L-5.5,-4 L5.5,-4 L5.5,4 M-3.5,-2 L3.5,-2 M-3.5,0 L3.5,0 M-3.5,2 L3.5,2" fill="none" stroke="#8b949e" stroke-width="1.2"/>
+                                </svg>
+                                <span>Scientific</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <rect x="-5.5" y="-4.5" width="11" height="9" rx="1.5" fill="#8b949e" stroke="#6e7681" stroke-width="1.5"/>
+                                </svg>
+                                <span>Historical</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 6px;">
+                                <svg width="14" height="14" viewBox="-7 -7 14 14">
+                                    <path d="M0,-6.5 L1.5,-1.5 L6,-1.5 L2,1 L3.5,6 L0,3 L-3.5,6 L-2,1 L-6,-1.5 L-1.5,-1.5 Z" fill="#8b949e" stroke="#6e7681" stroke-width="1.2"/>
+                                </svg>
+                                <span>Religious</span>
                             </div>
                         </div>
                     </div>
@@ -1301,31 +1373,38 @@
                     return `${d.title}, ${tagLabel}, ${d.originalDateStr || d3.timeFormat('%Y')(d.date)}`;
                 });
             
-            // Add different shapes based on event type
+            // Icon mapping for each category
+            const categoryIcons = {
+                'Outbound': (g, s) => g.append('rect').attr('x', -s).attr('y', -s).attr('width', s*2).attr('height', s*2),
+                'Inbound': (g, s) => g.append('polygon').attr('points', `0,${-s*1.3} ${s*1.1},${s*0.7} ${-s*1.1},${s*0.7}`),
+                'ContactAttempt': (g, s) => g.append('polygon').attr('points', `0,${-s*1.2} ${s*1.2},0 0,${s*1.2} ${-s*1.2},0`),
+                'LegislationPolicy': (g, s) => g.append('rect').attr('x', -s*0.8).attr('y', -s*1.2).attr('width', s*1.6).attr('height', s*2.4).attr('rx', s*0.2),
+                'CongressionalHearings': (g, s) => g.append('path').attr('d', `M${-s},${s*0.5} L0,${-s*1.2} L${s},${s*0.5} L${s*0.6},${s*0.5} L${s*0.6},${s*1.2} L${-s*0.6},${s*1.2} L${-s*0.6},${s*0.5} Z`),
+                'LeaksDeclass': (g, s) => g.append('path').attr('d', `M${-s*1.2},${-s*0.8} L${s*1.2},${-s*0.8} L${s*1.2},${s*1.2} L${-s*1.2},${s*1.2} Z M${-s*0.6},${-s*0.2} L${s*0.6},${-s*0.2} M${-s*0.8},${s*0.3} L${s*0.4},${s*0.3} M${-s*0.6},${s*0.8} L${s*0.8},${s*0.8}`),
+                'WhistleblowerDisclosures': (g, s) => g.append('circle').attr('r', s*1.1).attr('stroke-width', s*0.4).attr('fill', 'none'),
+                'MilitaryEncounters': (g, s) => g.append('path').attr('d', `M0,${-s*1.3} L${s*1.2},${s*1.3} L${-s*1.2},${s*1.3} Z`),
+                'CivilianSightings': (g, s) => g.append('circle').attr('r', s),
+                'AbductionCEIII': (g, s) => g.append('ellipse').attr('rx', s*0.7).attr('ry', s*1.3),
+                'CrashRetrievals': (g, s) => g.append('path').attr('d', `M${-s*1.2},${-s*0.5} L0,${-s*1.2} L${s*1.2},${-s*0.5} L${s*0.8},${s*1.2} L${-s*0.8},${s*1.2} Z`),
+                'UnderwaterUSO': (g, s) => g.append('path').attr('d', `M${-s*1.2},0 Q${-s*1.2},${-s*1.2} 0,${-s*1.2} Q${s*1.2},${-s*1.2} ${s*1.2},0 Q${s*1.2},${s*1.2} 0,${s*1.2} Q${-s*1.2},${s*1.2} ${-s*1.2},0`),
+                'SpaceSatellite': (g, s) => g.append('path').attr('d', `M0,${-s*1.3} L${s*0.4},${-s*0.3} L${s*1.3},${-s*0.3} L${s*0.5},${s*0.3} L${s*0.8},${s*1.3} L0,${s*0.7} L${-s*0.8},${s*1.3} L${-s*0.5},${s*0.3} L${-s*1.3},${-s*0.3} L${-s*0.4},${-s*0.3} Z`),
+                'ScientificStudies': (g, s) => g.append('path').attr('d', `M${-s*1.1},${s*0.8} L${-s*1.1},${-s*0.8} L${s*1.1},${-s*0.8} L${s*1.1},${s*0.8} M${-s*0.7},${-s*0.4} L${s*0.7},${-s*0.4} M${-s*0.7},0 L${s*0.7},0 M${-s*0.7},${s*0.4} L${s*0.7},${s*0.4}`),
+                'HistoricalPreModern': (g, s) => g.append('rect').attr('x', -s*1.1).attr('y', -s*0.9).attr('width', s*2.2).attr('height', s*1.8).attr('rx', s*0.3),
+                'ReligiousCultural': (g, s) => g.append('path').attr('d', `M0,${-s*1.3} L${s*0.3},${-s*0.3} L${s*1.2},${-s*0.3} L${s*0.4},${s*0.2} L${s*0.7},${s*1.2} L0,${s*0.6} L${-s*0.7},${s*1.2} L${-s*0.4},${s*0.2} L${-s*1.2},${-s*0.3} L${-s*0.3},${-s*0.3} Z`)
+            };
+            
+            // Add different shapes based on primary category tag
             eventGroups.each(function(d) {
                 const group = d3.select(this);
-                const size = d.type === 'chronology' ? 3 : 6;
+                const primaryTag = getPrimaryTag(d);
+                const size = 5;
                 
-                if (d.type === 'outbound') {
-                    // Square for outbound
-                    group.append('rect')
-                        .attr('class', `event-node ${d.type}`)
-                        .attr('x', -size)
-                        .attr('y', -size)
-                        .attr('width', size * 2)
-                        .attr('height', size * 2);
-                } else if (d.type === 'inbound') {
-                    // Triangle for inbound
-                    group.append('polygon')
-                        .attr('class', `event-node ${d.type}`)
-                        .attr('points', `0,${-size * 1.3} ${size * 1.1},${size * 0.7} ${-size * 1.1},${size * 0.7}`);
-                } else if (d.type === 'contact-attempt') {
-                    // Diamond for contact attempts
-                    group.append('polygon')
-                        .attr('class', `event-node ${d.type}`)
-                        .attr('points', `0,${-size * 1.2} ${size * 1.2},0 0,${size * 1.2} ${-size * 1.2},0`);
+                const iconFunc = categoryIcons[primaryTag];
+                if (iconFunc) {
+                    const shape = iconFunc(group, size);
+                    shape.attr('class', `event-node ${d.type}`);
                 } else {
-                    // Circle for chronology (default)
+                    // Default circle
                     group.append('circle')
                         .attr('class', `event-node ${d.type}`)
                         .attr('r', size);
