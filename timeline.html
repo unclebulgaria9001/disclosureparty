@@ -1101,13 +1101,13 @@
                     const dateStr = headerMatch[1];
                     let titleAndTags = headerMatch[2];
                     
-                    // Extract tags from title
+                    // Extract tags from title (handles both #tag1 #tag2 and #tag1#tag2 formats)
                     const tags = [];
-                    const tagMatches = titleAndTags.match(/#\w+/g);
+                    const tagMatches = titleAndTags.match(/#[\w-]+/g);
                     if (tagMatches) {
                         tags.push(...tagMatches.map(tag => tag.substring(1))); // Remove # prefix
                         // Remove tags from title
-                        titleAndTags = titleAndTags.replace(/#\w+/g, '').trim();
+                        titleAndTags = titleAndTags.replace(/#[\w-]+/g, '').trim();
                     }
                     
                     const title = titleAndTags;
