@@ -585,19 +585,6 @@
                     </div>
                     
                     <div class="filter-section">
-                        <div class="filter-section-title" data-i18n="eventTypeFilters">EVENT TYPE FILTERS</div>
-                        <div class="filter-buttons">
-                            <button class="btn active" onclick="showAll()" data-i18n="allEvents">ALL EVENTS</button>
-                            <button class="btn" onclick="showCommunications()" data-i18n="inboundOutbound">INBOUND & OUTBOUND</button>
-                            <button class="btn" onclick="showOutbound()" data-i18n="outboundOnly">OUTBOUND ONLY</button>
-                            <button class="btn" onclick="showInbound()" data-i18n="inboundOnly">INBOUND ONLY</button>
-                            <button class="btn" onclick="showContactAttempts()" data-i18n="contactAttempts">CONTACT ATTEMPTS</button>
-                            <button class="btn" onclick="showChronology()" data-i18n="chronology">CHRONOLOGY</button>
-                            <button class="btn" onclick="resetZoom()" data-i18n="resetZoom">RESET ZOOM</button>
-                        </div>
-                    </div>
-                    
-                    <div class="filter-section">
                         <div class="filter-section-title" data-i18n="timePeriodFilters">TIME PERIOD FILTERS</div>
                         <div class="period-grid">
                             <label class="period-label">
@@ -741,6 +728,18 @@
                         <div class="filter-section-title">CATEGORY TAGS</div>
                         <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
                             <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Outbound" checked onchange="applyTagFilters()">
+                                <span>Outbound</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="Inbound" checked onchange="applyTagFilters()">
+                                <span>Inbound</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter" value="ContactAttempt" checked onchange="applyTagFilters()">
+                                <span>Contact Attempt</span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
                                 <input type="checkbox" class="tag-filter" value="LegislationPolicy" checked onchange="applyTagFilters()">
                                 <span>Legislation</span>
                             </label>
@@ -874,55 +873,64 @@
                 originalDateStr: '1972',
                 type: 'outbound',
                 title: 'Pioneer 10 Plaque',
-                description: 'First physical message from humanity. Gold-anodized aluminum plaque with human figures and Earth\'s location.'
+                description: 'First physical message from humanity. Gold-anodized aluminum plaque with human figures and Earth\'s location.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(1973, 2, 3),
                 type: 'outbound',
                 title: 'Pioneer 11 Plaque',
-                description: 'Identical plaque to Pioneer 10, continuing humanity\'s first physical messages to space.'
+                description: 'Identical plaque to Pioneer 10, continuing humanity\'s first physical messages to space.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(1974, 10, 16),
                 type: 'outbound',
                 title: 'Arecibo Message',
-                description: 'First deliberate interstellar radio message. 1,679-bit signal sent to M13 cluster 25,000 light years away.'
+                description: 'First deliberate interstellar radio message. 1,679-bit signal sent to M13 cluster 25,000 light years away.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(1977, 7, 20),
                 type: 'outbound',
                 title: 'Voyager Golden Records',
-                description: '12-inch gold-plated records with 116 images, greetings in 55 languages, and 90 minutes of music.'
+                description: '12-inch gold-plated records with 116 images, greetings in 55 languages, and 90 minutes of music.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(1999, 4, 24),
                 type: 'outbound',
                 title: 'Cosmic Call',
-                description: 'Radio message using sophisticated "Lexicon" mathematical language toward nearby stars.'
+                description: 'Radio message using sophisticated "Lexicon" mathematical language toward nearby stars.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(2001, 8, 3),
                 type: 'outbound',
                 title: 'Teen Age Message',
-                description: 'First interstellar message composed by teenagers, transmitted to six sun-like stars.'
+                description: 'First interstellar message composed by teenagers, transmitted to six sun-like stars.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(2003, 6, 6),
                 type: 'outbound',
                 title: 'Cosmic Call 2',
-                description: 'Second Cosmic Call transmission to five additional stars.'
+                description: 'Second Cosmic Call transmission to five additional stars.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(2008, 7, 28),
                 type: 'outbound',
                 title: 'Hello from Earth',
-                description: 'First crowdsourced message via Bebo. 501 messages from 195 countries to Gliese 581c.'
+                description: 'First crowdsourced message via Bebo. 501 messages from 195 countries to Gliese 581c.',
+                tags: ['Outbound']
             },
             {
                 date: new Date(2026, 0, 1),
                 type: 'outbound',
                 title: 'Request Direct NHI Communication',
-                description: 'Public message requesting direct, transparent communication, bypassing government intermediaries.'
+                description: 'Public message requesting direct, transparent communication, bypassing government intermediaries.',
+                tags: ['Outbound']
             },
             
             // Inbound Communications
@@ -930,25 +938,29 @@
                 date: new Date(1977, 7, 15),
                 type: 'inbound',
                 title: 'Wow! Signal',
-                description: 'Strong 72-second narrowband radio signal from Sagittarius. Never detected again despite follow-ups.'
+                description: 'Strong 72-second narrowband radio signal from Sagittarius. Never detected again despite follow-ups.',
+                tags: ['Inbound']
             },
             {
                 date: new Date(2001, 7, 14),
                 type: 'inbound',
                 title: 'Chilbolton Face Formation',
-                description: 'Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK.'
+                description: 'Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK.',
+                tags: ['Inbound']
             },
             {
                 date: new Date(2001, 7, 19),
                 type: 'inbound',
                 title: 'Chilbolton Arecibo Reply',
-                description: 'Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population.'
+                description: 'Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population.',
+                tags: ['Inbound']
             },
             {
                 date: new Date(2002, 7, 15),
                 type: 'inbound',
                 title: 'Crabwood Formation',
-                description: 'Crop formation with alien face and binary message: "Beware the bearers of false gifts... Conduit closing."'
+                description: 'Crop formation with alien face and binary message: "Beware the bearers of false gifts... Conduit closing."',
+                tags: ['Inbound']
             },
             
             // Contact Attempts (In-Person)
@@ -957,21 +969,24 @@
                 originalDateStr: '1994, April 16',
                 type: 'contact-attempt',
                 title: 'Ariel School, Zimbabwe',
-                description: '62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth. Investigated by Dr. John Mack and Cynthia Hind.'
+                description: '62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth. Investigated by Dr. John Mack and Cynthia Hind.',
+                tags: ['ContactAttempt']
             },
             {
                 date: new Date(1996, 8, 10),
                 originalDateStr: '1996, September 10',
                 type: 'contact-attempt',
                 title: 'Matanzas Rural School, Cuba',
-                description: 'Dozens of children witnessed large glowing oval craft silently over assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate.'
+                description: 'Dozens of children witnessed large glowing oval craft silently over assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate.',
+                tags: ['ContactAttempt']
             },
             {
                 date: new Date(1996, 0, 1),
                 originalDateStr: '1996',
                 type: 'contact-attempt',
                 title: 'Varginha, Brazil',
-                description: 'Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America\'s highest-profile mass-contact claims with physical evidence reports.'
+                description: 'Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America\'s highest-profile mass-contact claims with physical evidence reports.',
+                tags: ['ContactAttempt']
             }
         ];
         
@@ -1107,7 +1122,7 @@
         
         function drawTimeline() {
             // Timeline dimensions - rotated 90 degrees
-            const margin = {top: 40, right: 200, bottom: 40, left: 60};
+            const margin = {top: 60, right: 200, bottom: 40, left: 60};
             const width = Math.max(document.getElementById('timeline').clientWidth - margin.left - margin.right, 600);
             const height = 800;
             
@@ -1137,10 +1152,41 @@
                 .domain([paddedMin, paddedMax])
                 .range([0, height]);
             
-            const xChronology = width * 0.15;
-            const xOutbound = width * 0.35;
-            const xInbound = width * 0.55;
-            const xContactAttempt = width * 0.75;
+            // Define all category tags (swim lanes)
+            const categoryTags = [
+                'Outbound', 'Inbound', 'ContactAttempt',
+                'LegislationPolicy', 'CongressionalHearings', 'LeaksDeclass',
+                'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings',
+                'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO',
+                'SpaceSatellite', 'ScientificStudies', 'HistoricalPreModern',
+                'ReligiousCultural'
+            ];
+            
+            const categoryLabels = {
+                'Outbound': 'OUTBOUND',
+                'Inbound': 'INBOUND',
+                'ContactAttempt': 'CONTACT',
+                'LegislationPolicy': 'LEGISLATION',
+                'CongressionalHearings': 'HEARINGS',
+                'LeaksDeclass': 'LEAKS/FOIA',
+                'WhistleblowerDisclosures': 'WHISTLEBLOWER',
+                'MilitaryEncounters': 'MILITARY',
+                'CivilianSightings': 'CIVILIAN',
+                'AbductionCEIII': 'ABDUCTION',
+                'CrashRetrievals': 'CRASH',
+                'UnderwaterUSO': 'USO',
+                'SpaceSatellite': 'SPACE',
+                'ScientificStudies': 'SCIENTIFIC',
+                'HistoricalPreModern': 'HISTORICAL',
+                'ReligiousCultural': 'RELIGIOUS'
+            };
+            
+            // Calculate x positions for each swim lane
+            const laneSpacing = width / (categoryTags.length + 1);
+            const lanePositions = {};
+            categoryTags.forEach((tag, i) => {
+                lanePositions[tag] = laneSpacing * (i + 1);
+            });
         
             // Check if we have any truly ancient events (BCE/CE before year 1000) in the current view
             const hasAncientEvents = modernEvents.some(e => e.date.getFullYear() < 1900);
@@ -1175,71 +1221,38 @@
         svg.selectAll('.y-axis path, .y-axis line')
             .style('stroke', '#30363d');
         
-            // Timeline tracks - vertical
-            svg.append('line')
-                .attr('class', 'timeline-track')
-                .attr('x1', xOutbound)
-                .attr('y1', 0)
-                .attr('x2', xOutbound)
-                .attr('y2', height);
-            
-            svg.append('line')
-                .attr('class', 'timeline-track')
-                .attr('x1', xInbound)
-                .attr('y1', 0)
-                .attr('x2', xInbound)
-                .attr('y2', height);
-            
-            svg.append('line')
-                .attr('class', 'timeline-track')
-                .attr('x1', xContactAttempt)
-                .attr('y1', 0)
-                .attr('x2', xContactAttempt)
-                .attr('y2', height);
-            
-            svg.append('line')
-                .attr('class', 'timeline-track')
-                .attr('x1', xChronology)
-                .attr('y1', 0)
-                .attr('x2', xChronology)
-                .attr('y2', height);
+            // Timeline tracks - vertical (one per category)
+            categoryTags.forEach(tag => {
+                const x = lanePositions[tag];
+                svg.append('line')
+                    .attr('class', 'timeline-track')
+                    .attr('x1', x)
+                    .attr('y1', 0)
+                    .attr('x2', x)
+                    .attr('y2', height);
+            });
             
             // Track labels - vertical
-            svg.append('text')
-                .attr('x', xChronology)
-                .attr('y', -10)
-                .attr('text-anchor', 'middle')
-                .attr('dominant-baseline', 'auto')
-                .style('fill', '#8b949e')
-                .style('font-size', '11px')
-                .text('ALL EVENTS');
-            
-            svg.append('text')
-                .attr('x', xOutbound)
-                .attr('y', -10)
-                .attr('text-anchor', 'middle')
-                .attr('dominant-baseline', 'auto')
-                .style('fill', '#58a6ff')
-                .style('font-size', '11px')
-                .text('EARTH → SPACE');
-            
-            svg.append('text')
-                .attr('x', xInbound)
-                .attr('y', -10)
-                .attr('text-anchor', 'middle')
-                .attr('dominant-baseline', 'auto')
-                .style('fill', '#f85149')
-                .style('font-size', '11px')
-                .text('SPACE → EARTH');
-            
-            svg.append('text')
-                .attr('x', xContactAttempt)
-                .attr('y', -10)
-                .attr('text-anchor', 'middle')
-                .attr('dominant-baseline', 'auto')
-                .style('fill', '#a371f7')
-                .style('font-size', '11px')
-                .text('IN-PERSON CONTACT');
+            categoryTags.forEach(tag => {
+                const x = lanePositions[tag];
+                const label = categoryLabels[tag];
+                
+                // Color coding for special categories
+                let color = '#8b949e';
+                if (tag === 'Outbound') color = '#58a6ff';
+                else if (tag === 'Inbound') color = '#f85149';
+                else if (tag === 'ContactAttempt') color = '#a371f7';
+                
+                svg.append('text')
+                    .attr('x', x)
+                    .attr('y', -15)
+                    .attr('text-anchor', 'middle')
+                    .attr('dominant-baseline', 'auto')
+                    .style('fill', color)
+                    .style('font-size', '9px')
+                    .style('font-weight', '600')
+                    .text(label);
+            });
         
         // Tooltip
         const tooltip = d3.select('#tooltip');
@@ -1252,6 +1265,22 @@
                 chronology: allEvents.filter(d => d.type === 'chronology').length
             });
             
+            // Helper function to get primary tag for an event
+            function getPrimaryTag(event) {
+                if (!event.tags || event.tags.length === 0) {
+                    // Default to type-based tag for communication events
+                    if (event.type === 'outbound') return 'Outbound';
+                    if (event.type === 'inbound') return 'Inbound';
+                    if (event.type === 'contact-attempt') return 'ContactAttempt';
+                    return 'HistoricalPreModern'; // Default for chronology events without tags
+                }
+                // Return first tag that matches our category list
+                for (const tag of event.tags) {
+                    if (categoryTags.includes(tag)) return tag;
+                }
+                return event.tags[0]; // Fallback to first tag
+            }
+            
             // Draw events with different shapes for accessibility - vertical
             const eventGroups = svg.selectAll('.event-group')
                 .data(allEvents)
@@ -1260,21 +1289,16 @@
                 .attr('class', 'event-group')
                 .attr('transform', d => {
                     const y = yScale(d.date);
-                    let x;
-                    if (d.type === 'outbound') x = xOutbound;
-                    else if (d.type === 'inbound') x = xInbound;
-                    else if (d.type === 'contact-attempt') x = xContactAttempt;
-                    else x = xChronology;
+                    const primaryTag = getPrimaryTag(d);
+                    const x = lanePositions[primaryTag] || lanePositions['HistoricalPreModern'];
                     return `translate(${x},${y})`;
                 })
                 .attr('role', 'button')
                 .attr('tabindex', '0')
                 .attr('aria-label', d => {
-                    const typeLabel = d.type === 'outbound' ? 'Earth to Space message' :
-                                     d.type === 'inbound' ? 'Space to Earth signal' :
-                                     d.type === 'contact-attempt' ? 'In-person contact event' :
-                                     'Historical event';
-                    return `${d.title}, ${typeLabel}, ${d.originalDateStr || d3.timeFormat('%Y')(d.date)}`;
+                    const primaryTag = getPrimaryTag(d);
+                    const tagLabel = categoryLabels[primaryTag] || primaryTag;
+                    return `${d.title}, ${tagLabel}, ${d.originalDateStr || d3.timeFormat('%Y')(d.date)}`;
                 });
             
             // Add different shapes based on event type
@@ -1370,18 +1394,17 @@
             .attr('class', 'event-label')
             .attr('y', d => yScale(d.date))
             .attr('x', d => {
-                if (d.type === 'outbound') return xOutbound + 15;
-                if (d.type === 'inbound') return xInbound + 15;
-                if (d.type === 'contact-attempt') return xContactAttempt + 15;
-                return xChronology + 15;
+                const primaryTag = getPrimaryTag(d);
+                const x = lanePositions[primaryTag] || lanePositions['HistoricalPreModern'];
+                return x + 15;
             })
             .attr('text-anchor', 'start')
             .attr('dominant-baseline', 'middle')
-            .style('font-size', '10px')
+            .style('font-size', '9px')
             .style('fill', '#c9d1d9')
             .text(d => {
-                // Truncate title to max 30 characters
-                const maxLength = 30;
+                // Truncate title to max 20 characters for swim lanes
+                const maxLength = 20;
                 const title = d.title || 'Untitled';
                 return title.length > maxLength ? title.substring(0, maxLength) + '...' : title;
             })
@@ -1396,53 +1419,18 @@
             window.yAxis = yAxis;
             window.svg = svg;
             window.eventLabels = eventLabels;
+            window.getPrimaryTag = getPrimaryTag;
+            window.lanePositions = lanePositions;
+            window.categoryTags = categoryTags;
             
-            // Apply initial period filters (default to 1900+)
-            applyPeriodFilters();
+            // Apply initial tag filters
+            applyTagFilters();
             
             // Update filter counts
             updateFilterCounts();
         }
         
         // Filter functions
-        let currentFilter = 'all';
-        
-        function showAll() {
-            currentFilter = 'all';
-            updateButtons();
-            applyPeriodFilters();
-        }
-        
-        function showOutbound() {
-            currentFilter = 'outbound';
-            updateButtons();
-            applyPeriodFilters();
-        }
-        
-        function showInbound() {
-            currentFilter = 'inbound';
-            updateButtons();
-            applyPeriodFilters();
-        }
-        
-        function showChronology() {
-            currentFilter = 'chronology';
-            updateButtons();
-            applyPeriodFilters();
-        }
-        
-        function showContactAttempts() {
-            currentFilter = 'contact-attempt';
-            updateButtons();
-            applyPeriodFilters();
-        }
-        
-        function showCommunications() {
-            currentFilter = 'communications';
-            updateButtons();
-            applyPeriodFilters();
-        }
-        
         function getEventPeriod(date) {
             const year = date.getFullYear();
             
@@ -1487,33 +1475,16 @@
             // Track visible events for date range calculation
             const visibleEvents = [];
             
-            // Apply filters based on current view mode
+            // Apply period filters to all events
             window.nodes.each(function(d) {
                 const node = d3.select(this);
                 let shouldShow = false;
                 
-                if (currentFilter === 'all') {
-                    // Show all events, but filter by period
-                    if (selectedPeriods.length === 0) {
-                        shouldShow = false; // Hide all if no periods selected
-                    } else {
-                        const eventYear = d.date.getFullYear();
-                        shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
-                    }
-                } else if (currentFilter === 'communications') {
-                    shouldShow = d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt';
-                } else if (currentFilter === 'outbound') {
-                    shouldShow = d.type === 'outbound';
-                } else if (currentFilter === 'inbound') {
-                    shouldShow = d.type === 'inbound' || d.type === 'contact-attempt';
-                } else if (currentFilter === 'contact-attempt') {
-                    shouldShow = d.type === 'contact-attempt';
-                } else if (currentFilter === 'chronology') {
-                    // Show chronology events that match selected periods
-                    if (d.type === 'chronology') {
-                        const eventYear = d.date.getFullYear();
-                        shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
-                    }
+                if (selectedPeriods.length === 0) {
+                    shouldShow = false; // Hide all if no periods selected
+                } else {
+                    const eventYear = d.date.getFullYear();
+                    shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                 }
                 
                 node.style('display', shouldShow ? 'block' : 'none');
@@ -1525,30 +1496,11 @@
             // Also hide/show event labels
             if (window.eventLabels) {
                 window.eventLabels.style('display', function(d) {
-                    let shouldShow = false;
-                    
-                    if (currentFilter === 'all') {
-                        if (selectedPeriods.length === 0) {
-                            shouldShow = false;
-                        } else {
-                            const eventYear = d.date.getFullYear();
-                            shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
-                        }
-                    } else if (currentFilter === 'communications') {
-                        shouldShow = d.type === 'outbound' || d.type === 'inbound' || d.type === 'contact-attempt';
-                    } else if (currentFilter === 'outbound') {
-                        shouldShow = d.type === 'outbound';
-                    } else if (currentFilter === 'inbound') {
-                        shouldShow = d.type === 'inbound' || d.type === 'contact-attempt';
-                    } else if (currentFilter === 'contact-attempt') {
-                        shouldShow = d.type === 'contact-attempt';
-                    } else if (currentFilter === 'chronology') {
-                        if (d.type === 'chronology') {
-                            const eventYear = d.date.getFullYear();
-                            shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
-                        }
+                    if (selectedPeriods.length === 0) {
+                        return 'none';
                     }
-                    
+                    const eventYear = d.date.getFullYear();
+                    const shouldShow = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
                     return shouldShow ? 'block' : 'none';
                 });
             }
@@ -1681,8 +1633,8 @@
             // Get total number of tag filters
             const totalTags = document.querySelectorAll('.tag-filter').length;
             
-            // If all tags selected, show all chronology events
-            // If no tags selected, hide all chronology events
+            // If all tags selected, show all events
+            // If no tags selected, hide all events
             const showAll = selectedTags.length === totalTags;
             const hideAll = selectedTags.length === 0;
             
@@ -1692,11 +1644,6 @@
             
             // Filter nodes based on tags
             window.nodes.each(function(d) {
-                if (d.type !== 'chronology') {
-                    // Non-chronology events (outbound, inbound, contact) always visible
-                    return;
-                }
-                
                 const node = d3.select(this);
                 const label = window.svg.selectAll('.event-label')
                     .filter(labelData => labelData === d);
@@ -1707,11 +1654,11 @@
                 }
                 
                 if (hideAll) {
-                    // Hide all chronology events when no tags selected
+                    // Hide all events when no tags selected
                     node.style('display', 'none');
                     label.style('display', 'none');
                 } else if (showAll) {
-                    // Show all chronology events (unless hidden by photo filter)
+                    // Show all events (unless hidden by photo filter)
                     if (!photoFilterChecked) {
                         node.style('display', null);
                         label.style('display', null);
@@ -2160,7 +2107,11 @@
         
         // Restore sidebar state on load
         window.addEventListener('DOMContentLoaded', function() {
-            const isCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
+            // On mobile, start with sidebar collapsed by default
+            const isMobile = window.innerWidth <= 768;
+            const savedState = localStorage.getItem('sidebarCollapsed');
+            const isCollapsed = savedState !== null ? savedState === 'true' : isMobile;
+            
             if (isCollapsed) {
                 document.getElementById('sidebar').classList.add('collapsed');
                 document.getElementById('toggleSidebar').classList.add('collapsed');
