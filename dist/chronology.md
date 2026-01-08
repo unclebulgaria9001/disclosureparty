@@ -2231,6 +2231,26 @@ Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington's
 **Links:**
 
 [https://www.history.com/news/historys-most-infamous-ufo-sightings](https://www.history.com/news/historys-most-infamous-ufo-sightings)
+
+\
+
+## 1947, March 25 - Navy Secretary Forrestal Begins Recruiting "Outstanding Administrators" #MilitaryPrograms #ClassifiedRecords #GovernmentPolicy #USA
+
+Three months before Roswell, Navy Secretary James Forrestal drafted a confidential form letter to Naval District Commanders requesting names of "outstanding administrators"—men between 30 and 50, proven, discreet, successful in business, and financially independent enough to accept temporary government service. Political affiliation was explicitly irrelevant. The individuals themselves were not to be informed their names were being submitted. Forrestal specified approximately fifteen candidates as a practical buffer, creating a small personal bench outside normal chains of visibility. Over six days, Forrestal revised the letter twice (March 27 and March 31), finalizing it as standing policy by month's end. A classified Army Air Forces memo dated September 22, 1947 by Lt. Col. Tucker retrospectively references two incidents involving "loaned S-Aircraft" on March 25, 1947 and July 4, 1947, focusing on decompression, radiation exposure, pilot fatalities, and instrumentation limits. The documents reflect different parts of the defense establishment independently adapting structures to manage experimental aircraft whose performance envelopes and physiological effects were not fully understood.
+
+**Links:**
+
+[https://www.reddit.com/r/UFOs/comments/1i4yvxl/on_march_25_1947three_months_before_roswell/](https://www.reddit.com/r/UFOs/comments/1i4yvxl/on_march_25_1947three_months_before_roswell/)
+
+**Photos:**
+
+![Forrestal confidential letter to Naval District Commanders March 25 1947](images/1947-forrestal-administrators-1.jpg)
+![Forrestal letter revision March 27 1947](images/1947-forrestal-administrators-2.jpg)
+![Forrestal letter final version March 31 1947](images/1947-forrestal-administrators-3.jpg)
+![Lt Col Tucker memo September 22 1947 on S-Aircraft incidents](images/1947-forrestal-administrators-4.jpg)
+![Cantwheel report retrospective on 1947 experimental activity](images/1947-forrestal-administrators-5.jpg)
+
+\
 [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting) 
 
 **Photos:**
