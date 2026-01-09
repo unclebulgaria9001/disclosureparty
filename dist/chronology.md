@@ -35,7 +35,7 @@ For content suggestions, email uncle.bulgari9001@gmail.com
 
 ## 
 
-## 2026, January 1 - Request Direct NHI Communication #Outbound #NonHumanIntelligence #PublicStatement
+## 2026, January 1 - Request Direct NHI Communication #Outbound #NonHumanIntelligence #PublicStatement #International
 
 Public message requesting direct, transparent communication with Non-Human Intelligence (NHI), bypassing government intermediaries. This message was distributed globally via multiple platforms and languages, requesting a response within 7 days after achieving 100M+ awareness.
 
@@ -46,7 +46,7 @@ Public message requesting direct, transparent communication with Non-Human Intel
 
 \
 
-## 2025, September 9 - House holds hearing on UFO transparency and whistleblower protection #CongressionalHearings #UAPHearing #HouseOversight #PublicTestimony #WhistleblowerDisclosures #UAPTransparency #UAPWhistleblower
+## 2025, September 9 - House holds hearing on UFO transparency and whistleblower protection #CongressionalHearings #UAPHearing #HouseOversight #PublicTestimony #WhistleblowerDisclosures #UAPTransparency #UAPWhistleblower #USA
 
 **Links:**
 
@@ -56,7 +56,7 @@ Public message requesting direct, transparent communication with Non-Human Intel
 
 \
 
-## 2025, August 4 - UAPDA Round two #LegislationPolicy #UAPLegislation #UAPDisclosureAct #Senate #NDAA #UAPRecordsCollection
+## 2025, August 4 - UAPDA Round two #LegislationPolicy #UAPLegislation #UAPDisclosureAct #Senate #NDAA #UAPRecordsCollection #USA
 
 Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan effort to unveil information on unidentified aerial phenomena. This coalition includes Senate Minority Leader Chuck Schumer (D-NY) and co-sponsors Mike Rounds (R-SD) and Kirsten Gillibrand (D-NY).
 
@@ -66,7 +66,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
-## 2025, April 9 - Classification of UAPs by Skywatcher #CivilianSightings #PhotoEvidence #Classification #OpenSource #Reddit #CivilianSighting
+## 2025, April 9 - Classification of UAPs by Skywatcher #CivilianSightings #PhotoEvidence #Classification #OpenSource #Reddit #CivilianSighting #International
 
 **Links:**
 
@@ -78,7 +78,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
-## 2025, February 11 - Chairman Comer Taps Luna to Lead Task Force on Declassification and Transparency #LegislationPolicy #Declassified #UAPRecordsCollection #HouseOversight #UAPTransparency #UAPLegislation
+## 2025, February 11 - Chairman Comer Taps Luna to Lead Task Force on Declassification and Transparency #LegislationPolicy #Declassified #UAPRecordsCollection #HouseOversight #UAPTransparency #UAPLegislation #USA
 
 **Links:**
 
@@ -86,7 +86,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
-## 2025, January 21 - 4chan egg leak/larper shared egg video and pictures #LeaksDeclass #Leak #ImageLeak #Reddit #PhotoEvidence #LARPing #CivilianSighting
+## 2025, January 21 - 4chan egg leak/larper shared egg video and pictures #LeaksDeclass #Leak #ImageLeak #Reddit #PhotoEvidence #LARPing #CivilianSighting #International
 
 **Links:**
 
@@ -102,7 +102,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
-## 2025, January 18 - Jake Barber and the egg NHI #WhistleblowerDisclosures #Whistleblower #CrashRetrievals #UAPRetrieval #NonHumanArtifacts #HelicopterRetrieval #MilitaryEncounters
+## 2025, January 18 - Jake Barber and the egg NHI #WhistleblowerDisclosures #Whistleblower #CrashRetrievals #UAPRetrieval #NonHumanArtifacts #HelicopterRetrieval #MilitaryEncounters #USA
 
 Jake Barber’s UAP Testimony. Who is Jake Barber, and why is his background so important?
 
@@ -144,7 +144,7 @@ After leaving active duty, he states that he contracted with the Department of D
 
 \
 
-## 2024, November 13 - Joint Hearing: “Unidentified Anomalous Phenomena: Exposing the Truth” #CongressionalHearings #UAPHearing #HouseOversight #PublicTestimony #WhistleblowerDisclosures #UAPLegislation #AARO
+## 2024, November 13 - Joint Hearing: "Unidentified Anomalous Phenomena: Exposing the Truth" #CongressionalHearings #UAPHearing #HouseOversight #PublicTestimony #WhistleblowerDisclosures #UAPLegislation #AARO #USA
 
 Witnesses: Mr. Luis Elizondo. Author, Former Department of Defense Official. Witness Statement \\]
 
@@ -209,7 +209,7 @@ Key Takeaways from November 13 2024 Hearings:
 
 \
 
-## 2024, October 16 - Sara Gamm National  Geospatial Intelligence Agency Analyst - We are not alone #ScientificStudies #IntelligenceStatement #NGA #MilitaryUAP #PublicStatement #UAPResearch
+## 2024, October 16 - Sara Gamm National  Geospatial Intelligence Agency Analyst - We are not alone #ScientificStudies #IntelligenceStatement #NGA #MilitaryUAP #PublicStatement #UAPResearch #USA
 
 ##
 
@@ -231,7 +231,7 @@ Key Takeaways from November 13 2024 Hearings:
 
 \
 
-## 2024, September 9 - General H. R. McMaster to Bill Maher about UAPs 9/6/2024 - “There are things that cannot be explained.” “There are phenomena that have been witnessed by multiple people that are just inexplicable by the science available to us.” #MilitaryEncounters #PublicStatement #MilitaryUAP #Quote #CivilianSighting
+## 2024, September 9 - General H. R. McMaster to Bill Maher about UAPs 9/6/2024 - "There are things that cannot be explained." "There are phenomena that have been witnessed by multiple people that are just inexplicable by the science available to us." #MilitaryEncounters #PublicStatement #MilitaryUAP #Quote #CivilianSighting #USA
 
 **Details:**
 
@@ -239,7 +239,7 @@ Key Takeaways from November 13 2024 Hearings:
 
 \
 
-## 2024, August 20 - Defense Intelligence Agency, former employer of Lue Elizondo when he was part of AAWSAP and AATIP, dropped a treasure trove of hard-science documents today. #LeaksDeclass #FOIARelease #DIA #Declassified #ScientificStudies #UAPResearch #DocumentsRelease
+## 2024, August 20 - Defense Intelligence Agency, former employer of Lue Elizondo when he was part of AAWSAP and AATIP, dropped a treasure trove of hard-science documents today. #LeaksDeclass #FOIARelease #DIA #Declassified #ScientificStudies #UAPResearch #DocumentsRelease #USA
 
 **Links:**
 
@@ -252,7 +252,7 @@ Key Takeaways from November 13 2024 Hearings:
 
 \
 
-## 2024, July 14 - UAP 2.0 text is released. Eminent domain and review board are back. Amendment Text: S.Amdt.2610 — 118th Congress (2023-2024) #LegislationPolicy #UAPLegislation #UAPDisclosureAct #EminentDomain #ReviewBoard #UAPRecordsCollection #NDAA
+## 2024, July 14 - UAP 2.0 text is released. Eminent domain and review board are back. Amendment Text: S.Amdt.2610 — 118th Congress (2023-2024) #LegislationPolicy #UAPLegislation #UAPDisclosureAct #EminentDomain #ReviewBoard #UAPRecordsCollection #NDAA #USA
 
 The Unidentified Anomalous Phenomena Disclosure Act of 2024, or UAP Disclosure Act of 2024, aims to manage and disclose records related to unidentified anomalous phenomena (UAP). The Act emphasizes the preservation and centralized disclosure of all Federal Government records on UAPs, highlighting...
 
@@ -284,7 +284,7 @@ A black swan event is unpredictable and has wide-ranging consequences, but in hi
 
 \
 
-## 2024, May 30 - Senate ad House UAP DA 2.0 #LegislationPolicy #UAPLegislation #NDAA #UAPRecordsCollection #UAPDisclosureAct
+## 2024, May 30 - Senate ad House UAP DA 2.0 #LegislationPolicy #UAPLegislation #NDAA #UAPRecordsCollection #UAPDisclosureAct #USA
 
 Multiple amendments are proposed for the 2025 NDAA
 
@@ -323,7 +323,7 @@ Today, at a U.S. House Committee on Oversight and Accountability hearing, Repres
 
 \
 
-## 2024, May 21 - "Non-human intelligence exists. Non-human intelligence has been interacting with humanity. This interaction is not new and has been ongoing." - Karl Nell, retired Army Colonel. #WhistleblowerDisclosures #PublicTalk #NonHumanIntelligence #UAPDisclosure #UAPCaucus #MilitaryEncounters
+## 2024, May 21 - "Non-human intelligence exists. Non-human intelligence has been interacting with humanity. This interaction is not new and has been ongoing." - Karl Nell, retired Army Colonel. #WhistleblowerDisclosures #PublicTalk #NonHumanIntelligence #UAPDisclosure #UAPCaucus #MilitaryEncounters #USA
 
 Alex Klokus interviewed Colonel Karl Nell at SALT iConnections New York, where Knell discussed evidence of non-human intelligence on earth. He detailed the U.S. government's level of knowledge and its disclosure process. Knell says there's zero doubt non-human intelligent life has visited Earth a...
 
@@ -348,7 +348,7 @@ Alex Klokus interviewed Colonel Karl Nell at SALT iConnections New York, where K
 
 \
 
-## 2024, May 19 - the Vatican releases new norms on alleged supernatural phenomena #ReligiousCultural #Vatican #ReligiousContext #SupernaturalNorms #CulturalContext
+## 2024, May 19 - the Vatican releases new norms on alleged supernatural phenomena #ReligiousCultural #Vatican #ReligiousContext #SupernaturalNorms #CulturalContext #Europe
 
 The Dicastery for the Doctrine of the Faith released a document detailing new norms regarding reported supernatural phenomena. Neither the local bishop nor the Holy See declares that these phenomena are of supernatural origin; instead, they authorize and promote devotion and pilgrimages.
 
@@ -358,7 +358,7 @@ The Dicastery for the Doctrine of the Faith released a document detailing new no
 
 \
 
-## 2024, April 24 - Christopher K Mellon #LeaksDeclass #Redaction #LeakAnalysis #Whistleblower #SocialMedia #Declassification
+## 2024, April 24 - Christopher K Mellon #LeaksDeclass #Redaction #LeakAnalysis #Whistleblower #SocialMedia #Declassification #USA
 
 Mellon's Signal conversation contains very specific redactions: Who redacted what exactly, and why did he leave "45' vs." in?
 
@@ -394,7 +394,7 @@ Released by the newly-convened Sol Foundation, a think tank dedicated to studyin
 
 \
 
-## 2024, March 7 - AARO Historical Record Report Volume 1 #ScientificStudies #AARO #OfficialReport #UAPResearch #CongressionalOversight #HistoricalRecord
+## 2024, March 7 - AARO Historical Record Report Volume 1 #ScientificStudies #AARO #OfficialReport #UAPResearch #CongressionalOversight #HistoricalRecord #USA
 
 - Extraterrestrial - originating, existing, or occurring outside the Earth or its atmosphere - AARO found no evidence that any USG investigation, academic-sponsored research, or official review panel has confirmed that any sighting of a UAP represented extraterrestrial technology - Correct, there...
 
@@ -424,7 +424,7 @@ Released by the newly-convened Sol Foundation, a think tank dedicated to studyin
 
 \
 
-## 2024, January 12 - Congress interviews the DoD ICIG in a SCIF #CongressionalHearings #SCIFBriefing #ClassifiedBriefing #WhistleblowerDisclosures #Oversight
+## 2024, January 12 - Congress interviews the DoD ICIG in a SCIF #CongressionalHearings #SCIFBriefing #ClassifiedBriefing #WhistleblowerDisclosures #Oversight #USA
 
 - Rep. Mace: “Grusch \[was\] determined to be credible in some of the things that we discussed today. Private contractors should be on that witness list. I won’t name names, but we have a better sense of who that might be. This is not going away."
 
@@ -452,7 +452,7 @@ Released by the newly-convened Sol Foundation, a think tank dedicated to studyin
 
 \
 
-## 2024, January 12 - DoD Inspector General Releases Details of Interview With UFO Whistleblower David Grusch #LeaksDeclass #FOIARelease #DODIG #WhistleblowerDisclosures #Grusch #InspectorGeneral
+## 2024, January 12 - DoD Inspector General Releases Details of Interview With UFO Whistleblower David Grusch #LeaksDeclass #FOIARelease #DODIG #WhistleblowerDisclosures #Grusch #InspectorGeneral #USA
 
 Recently released documents to The Black Vault via the Freedom of Information Act (FOIA) offer a rare glimpse into the Department of Defense Inspector General’s evaluation of the DoD’s response to Unidentified Anomalous Phenomena (UAP). The documents focus on a June 12, 2021, interview with “UFO ...
 
