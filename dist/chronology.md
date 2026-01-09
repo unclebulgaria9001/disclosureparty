@@ -544,7 +544,7 @@ See threads and discussions for links to source materials.
 
 \
 
-## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #law #usadc
+## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #law #usadc #USA
 
 If the Senate passes the yearly NDAA bill and Congress creates and passes a different version of the bill. how do the two get reconciled? This is the National Defence bill
 
@@ -568,7 +568,7 @@ AMENDMENT TO RULES COMMITTEE PRINT 118- 10 OFFERED BY MR. BURCHETT OF TENNESSEE 
 
 \
 
-## 2023, November 10 - CIA has 'secret office that has retrieved UFOs from 9 crash sites around world' #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #Europe
+## 2023, November 10 - CIA has 'secret office that has retrieved UFOs from 9 crash sites around world' #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
 
 In a shocking revelation, it has emerged that the CIA has a secretive office which has been retrieving aircraft from UFO crash sites for decades. Now, politicians are calling for more transparency. At least nine “ non-human craft” have been collected by the US government in top secret operations ...
 
@@ -578,7 +578,7 @@ In a shocking revelation, it has emerged that the CIA has a secretive office whi
 
 \
 
-## 2023, October - David Grusch said that Dick Cheney holds the highest authority in the UFO coverup. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used)
+## 2023, October - David Grusch said that Dick Cheney holds the highest authority in the UFO coverup. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
 
 The following submission statement was provided by /u/aryelbcn: \--- Walter Kirn, the journalist who interviewed David Grusch last year for **The County Highway** newspaper, says he asked Grusch who sits at the top of the UFO pyramid, and Grusch responded, 'Dick Cheney.' David Grusch's interview ...
 
@@ -596,7 +596,7 @@ One of \\\[the Legacy UAP program gatekeepers\\\] sat on the National Security C
 
 \
 
-## 2023, October 19 - SCIF booked #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used)
+## 2023, October 19 - SCIF booked #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
 
 A SCIF has been booked for members of Congress to meet with the Inspectors General of the Department of Defense and the Intelligence Community to discuss UAPs in a classified setting. Dates for the meetings: DOD IG - October 26 IC IG - November 16 ##
 
@@ -611,7 +611,7 @@ IC IG - November 16
 
 \
 
-## 2023, September 15 - The IC IG states that it has not conducted any audit, inspection, evaluation, or review of alleged UAP programs. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used)
+## 2023, September 15 - The IC IG states that it has not conducted any audit, inspection, evaluation, or review of alleged UAP programs. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
 
 **Links:**
 
@@ -623,7 +623,7 @@ IC IG - November 16
 
 \
 
-## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #quote #law
+## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #quote #law #USA
 
 **Links:**
 
@@ -631,7 +631,7 @@ IC IG - November 16
 
 \
 
-## 2023, September 14 - NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena (UAP) within a broader government framework. The agency's expertise in data analysis, collection, curation, and distribution makes it a key player. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used)
+## 2023, September 14 - NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena (UAP) within a broader government framework. The agency's expertise in data analysis, collection, curation, and distribution makes it a key player. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
 
 NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena (UAP) within a broader government framework. The agency's expertise in data analysis, collection, curation, and distribution makes it a key player. Engaging the public through crowdsourcing techniques, such as smartph...
 
@@ -663,7 +663,7 @@ This post discusses the discovery of two previously unknown species with unique 
 
 \
 
-## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #USA
+## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #LatinAmerica
 
 The Mexican Chamber of Deputies is set to conduct a public hearing similar to those held in the United States Congress, focusing on unidentified flying objects (UFOs). Morenista representative Sergio Gutiérez Luna announced this, with renowned UFO specialist Jaime Maussan participating in the eve...
 
@@ -675,7 +675,7 @@ The Mexican Chamber of Deputies is set to conduct a public hearing similar to th
 
 \
 
-## 2023, September 12 - NASA's James Webb Space Telescope may have detected a molecule called dimethyl sulphide (DMS). On Earth, at least, this is only produced by life. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used)
+## 2023, September 12 - NASA's James Webb Space Telescope may have detected a molecule called dimethyl sulphide (DMS). On Earth, at least, this is only produced by life. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #International
 
 NASA's James Webb Space Telescope has potentially discovered a molecule called dimethyl sulphide (DMS) on a distant planet, K2-18b, which could indicate life, as living organisms on Earth typically produce DMS. However, researchers emphasize that this finding is not yet confirmed, and more data i...
 
@@ -685,7 +685,7 @@ NASA's James Webb Space Telescope has potentially discovered a molecule called d
 
 \
 
-## 2023, September 12 - New David Grusch interview #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used)
+## 2023, September 12 - New David Grusch interview #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
 
 Starting around the 20:40 mark, the discussion delves into the creation of laws related to obfuscation and secrecy by the officials involved in the Manhattan Project. It's highlighted that UAP materials emitting radiation are intentionally classified under the Atomic Energy Act. Moving to the 23:...
 
@@ -696,7 +696,7 @@ Starting around the 20:40 mark, the discussion delves into the creation of laws 
 
 \
 
-## 2023, August 31 - A new AARO website states that AARO will be accepting reports from current or former U.S. Government employees, service members, or contractors with direct knowledge of U.S. Government programs or activities related to UAP dating back to 1945 and Deputy Defense Secretary Kathleen Hicks recently moved to personally oversee the Pentagon’s unidentified anomalous phenomena (UAP) #usadc
+## 2023, August 31 - A new AARO website states that AARO will be accepting reports from current or former U.S. Government employees, service members, or contractors with direct knowledge of U.S. Government programs or activities related to UAP dating back to 1945 and Deputy Defense Secretary Kathleen Hicks recently moved to personally oversee the Pentagon's unidentified anomalous phenomena (UAP) #usadc #USA
 
 The Department of Defense is reshuffling leadership at the All-Domain Anomaly Resolution Office, the agency within the Pentagon that’s responsible for investigating reports of unidentified aerial phenomena or, as they’re better known, unidentified flying objects. Deputy Secretary Of Defense Kathl...
 
@@ -715,7 +715,7 @@ The Department of Defense is reshuffling leadership at the All-Domain Anomaly Re
 
 \
 
-## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #usadc
+## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #usadc #USA
 
 Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander David Fravor (Ret.), a Former Commanding Officer of the United States Navy David Grusch (Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense)
 
@@ -726,7 +726,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander D
 
 \
 
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #law#USA
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #law #USA
 
 #usadc
 
@@ -736,7 +736,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander D
 
 \
 
-## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #law #usadc
+## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #law #usadc #USA
 
 **Links:**
 
