@@ -802,7 +802,7 @@ In a letter to Inspector General Thomas A. Monheim, dated \[Date\], the House Ov
 
 \
 
-## 2023, August - Senator Kirsten Gillibrand #quote #usadc
+## 2023, August - Senator Kirsten Gillibrand #quote #usadc #USA
 
 David Grusch's testimony received the most attention with his statement: "I have no ability to verify that testimony because we’ve not been told of any such programs. We’ve asked for all information related to all programs and have not been given that detail." As someone who helped secure full fu...
 
@@ -812,7 +812,7 @@ David Grusch's testimony received the most attention with his statement: "I have
 
 \
 
-## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #law #usadc
+## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #law #usadc #USA
 
 Testimonies under oath from whistleblowers on the subject of UAP. Ryan Graves, the Executive Director Americans for Safe Aerospace, Commander David Fravor (Ret.) a Former Commanding Officer of the United States Navy
 
@@ -831,7 +831,7 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 \
 
-## 2023, July - Congress debrief - Leaked debrief used by Congress to prepare for the hearing #law #usadc
+## 2023, July - Congress debrief - Leaked debrief used by Congress to prepare for the hearing #law #usadc #USA
 
 The 177-page debrief has been parsed into chunks for easier consumption. 1947 - 1960 -
 
@@ -850,7 +850,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, emphasizes 
 
 \
 
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024 #law #usadc
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024 #law #usadc #USA
 
 The legislation, outlined in multiple sections, aims to establish a comprehensive framework for handling and disclosing records related to Unidentified Anomalous Phenomena (UAPs) within the United States government. It mandates the creation of the "Unidentified Anomalous Phenomena Records Collect...
 
@@ -860,13 +860,13 @@ The legislation, outlined in multiple sections, aims to establish a comprehensiv
 
 \
 
-## 2023, July - S.2103 — 118th Congress (2023-2024) #law #usadc
+## 2023, July - S.2103 — 118th Congress (2023-2024) #law #usadc #USA
 
 The Intelligence Authorization Act for Fiscal Year 2024, detailed across pages 209 and 110, introduces amendments concerning Unidentified Anomalous Phenomena (UAPs). The act defines key terms such as "Director" and "Unidentified Anomalous Phenomena" and expresses concern about potential technolog...
 
 \
 
-## 2023, July - Tim Burchett (R-TN) I have seen better-quality videos; they need to release them #quote
+## 2023, July - Tim Burchett (R-TN) I have seen better-quality videos; they need to release them #quote #USA
 
 **Links:**
 
@@ -874,7 +874,7 @@ The Intelligence Authorization Act for Fiscal Year 2024, detailed across pages 2
 
 \
 
-## 2023, June - Karl E. Nell is a possible first-hand witness. “His assertion concerning the existence of a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence,” said Karl Nell, the retired Army Colonel who worked with Grusch on the UAP Task Force. #usadc
+## 2023, June - Karl E. Nell is a possible first-hand witness. “His assertion concerning the existence of a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence,” said Karl Nell, the retired Army Colonel who worked with Grusch on the UAP Task Force. #usadc #USA
 
 Karl E. Nell, a recently retired Army Colonel and current aerospace executive who was the Army’s liaison for the UAP Task Force from 2021 to 2022 and worked with Grusch there, characterizes Grusch as “beyond reproach.""
 
@@ -885,7 +885,7 @@ Karl E. Nell, a recently retired Army Colonel and current aerospace executive wh
 
 \
 
-## 2023, June - UFO Whistleblower David Grusch - Full Interview 06/11/2023 #news #usava
+## 2023, June - UFO Whistleblower David Grusch - Full Interview 06/11/2023 #news #usava #USA
 
 In June 2023, David Grusch, a former USAF officer and intelligence official, publicly asserted that the U.S. government operates a covert UFO recovery program, possessing non-human spacecraft and deceased pilots. Grusch lodged whistleblower complaints in 2022 and 2021 to disclose classified UFO i...
 
@@ -895,7 +895,7 @@ In June 2023, David Grusch, a former USAF officer and intelligence official, pub
 
 \
 
-## 2023, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc
+## 2023, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
 
 The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
@@ -931,7 +931,7 @@ A reader from Poland, who was vacationing in Turkey, wrote to a Reddit user. Whi
 
 \
 
-## 2023, June - Gillibrand Secures Full Funding For UAP Office In Senate Defense Bill Markup. Jun 23, 2023 #law #usadc
+## 2023, June - Gillibrand Secures Full Funding For UAP Office In Senate Defense Bill Markup. Jun 23, 2023 #law #usadc #USA
 
 U.S. Senator Kirsten Gillibrand announced that she had secured full funding for the All-domain Anomaly Resolution Office (AARO) in the Senate Armed Services Committee’s FY24 National Defense Authorization Act markup. Earlier this year, Gillibrand and Senator Marco Rubio (R-FL) led a bipartisan pu...
 
