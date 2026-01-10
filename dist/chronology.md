@@ -1017,7 +1017,7 @@ The Department of Defense (DoD) has officially confirmed to Liberation Times tha
 
 \
 
-## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIA #video #sensors #southasia
+## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIA #video #sensors #Asia
 
 During an open hearing before the Senate Armed Services Committee on April 19, the Department of Defense (DoD) provided insights into Unidentified Anomalous Phenomena. Dr. Sean Kirkpatrick, the director of the All-domain Anomaly Resolution Office (AARO), displayed videos portraying an unidentifie...
 
@@ -1130,7 +1130,7 @@ In 2021, the National Reconnaissance Office (NRO) utilized its classified analys
 
 **Links:**
 
-[https://www.reddit.com/r/UFOs/comments/11dgynu/highlyclassifiednrosystemcapturespossible/](https://www.reddit.com/r/UFOs/comments/11dgynu/highly_classified_nro_system_captures_possible/) 
+[https://www.reddit.com/r/UFOs/comments/11dgynu/highly_classified_nro_system_captures_possible/](https://www.reddit.com/r/UFOs/comments/11dgynu/highly_classified_nro_system_captures_possible/) 
 [https://drive.google.com/file/d/1gF3Wj1WID5_gqNW5VLCF8H1M36mZDQIb/view?usp=drive_link](https://drive.google.com/file/d/1gF3Wj1WID5_gqNW5VLCF8H1M36mZDQIb/view?usp=drive_link) 
 [https://drive.google.com/file/d/1gHg3lFUW1QQ0w-rDQk94vtLU0Bev54tr/view?usp=drive_link](https://drive.google.com/file/d/1gHg3lFUW1QQ0w-rDQk94vtLU0Bev54tr/view?usp=drive_link) 
 
@@ -1227,23 +1227,13 @@ May 2023:
 
 \
 
-## 2020, July - John Lear's statement on the UAPTF #WhistleblowerDisclosures? #Conspiracy #LegacyClaims #UAPTForensic (use with caution) #HistoricalPreModern (contextual) #USA
+## 2020, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
 
-1\. The U.S. government has allegedly been conducting a top-secret investigation into UFOs for over 70 years, with the level of secrecy surpassing even that of the development of the nuclear bomb.
+The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
 **Links:**
 
-[https://www.reddit.com/r/UFOs/comments/15lulzk/john_lear_comments_from_2020_about_uaptf_suddenly/](https://www.reddit.com/r/UFOs/comments/15lulzk/john_lear_comments_from_2020_about_uaptf_suddenly/) 
-
-**Details:**
-
-4\. Recovered crafts were transported and hidden in complete secrecy, with some taken to Area 51 and other secret facilities in Nevada. 
-5\. Area 51 was initially prepared by Seabee crews who dug several layers underground and was kept secret until the early 90s.
-6\. More underground hangars were built under the Tonopah Test Range in the late 70s, which connected with huge tunnels and connected with the Groom Lake and Papoose Dry Lake underground hangars.
-7\. In the early 80s, another massive underground facility was built under the Paiute Mesa, with a dual runway and hangar under Gold Flat.
-8\. By the early 2000s, all facilities, including TTR, Groom Lake, Papoose, and Paiute Mesa, were connected with enormous underground tunnels and hangars.
-9\. To staff these facilities and maintain secrecy, a maglev high-speed subway was allegedly built from under the Luxor in Las Vegas.
-10\. The Unidentified Aerial Phenomenon Task Force (UAPTF) is seen by the Pentagon as a brilliant scam to hide its deep involvement in UFOs. It provides the public with a few 'tic tacs,' rolling bb's, and non-identifiable radar scans while allegedly hiding a vast collection of ET artifacts.
+[https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/17/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-18/](https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/17/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-18/) 
 
 \
 
@@ -1403,7 +1393,7 @@ Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
 \
 
-## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. #rumor #contentdeleted #usa
+## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
 
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are m...
 
@@ -1638,8 +1628,7 @@ Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hoveri
 
 **Photos:**
 
-![Diamond-shaped object hovering in sky with military jet for scale - Calvine UFO photograph released via FOIA 2021](images/1990-calvine-ufo-incident-1.jpg)
-![Enhanced black and white version of Calvine UFO showing diamond-shaped craft with crowds of witnesses below](images/1990-calvine-ufo-incident-2.jpg)
+*Images pending - children's drawings and newspaper coverage available in historical archives*
 
 \
 
@@ -1724,7 +1713,7 @@ Strong 72-second narrowband radio signal detected by Ohio State University's Big
 
 ## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Inbound #HistoricalPreModern #Europe #UnitedKingdom #Wales #Pembrokeshire #BroadHaven
 
-On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the most concentrated UFO flaps in UK history.
+On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the UK's most concentrated UFO flaps in UK history.
 
 **Links:**
 
@@ -2030,7 +2019,7 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 \
 
-## 1954 - Atomic Energy Act of 1954 - Establishes Government-wide policies for classifying, safeguarding, and declassifying Restricted Data information. #LegislationPolicy #AtomicEnergyAct #Classification #RecordsPolicy #NationalSecurity
+## 1954 - Atomic Energy Act of 1954 - Establishes Government-wide policies for classifying, safeguarding, and declassifying Restricted Data information. #LegislationPolicy #AtomicEnergyAct #Classification #RecordsPolicy #NationalSecurity #USA
 
 (aa) The term "special nuclear material" means (1) plutonium, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the Commission, pursuant to the provisions of section 2071 of this title, determines to be special nuclear material, but does not include source ma...
 
@@ -2249,7 +2238,7 @@ On December 13th, at Supreme Headquarters, Allied Expeditionary Force, a startli
 
 \
 
-## 1939 - Found hint at Coultharts giant UFO "too big to move" in the congress briefing files - John Lear mentioned this
+## 1939 - Found hint at Coultharts giant UFO "too big to move" in the congress briefing files - John Lear mentioned this #HistoricalPreModern #USA
 
 John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive government cover-ups and contact with extraterrestrial beings. Lear, a pilot with a CIA and government background, asserts that the truth about alien interaction has been suppressed for about two decades, causing uphea...
 
