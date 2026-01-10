@@ -976,12 +976,6 @@ May 2023:
 
 **Links:**
 
-[https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/](https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
-
-\
-
-## 2020, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
-
 The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
 **Links:**
@@ -990,7 +984,7 @@ The Pentagon has established an organization to compile and coordinate reports o
 
 \
 
-## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #quote #usa #USA
+## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #WhistleblowerDisclosures #quote #usa #USA #LeaksDeclass
 
 Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve to be informed" about UFO information following the Pentagon's official release of three Navy videos showing "unidentified aerial phenomena."
 
@@ -1000,7 +994,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #social #news #rumor #usa #USA
+## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #LeaksDeclass #social #news #rumor #usa #USA #PrivateSector
 
 **Links:**
 
@@ -1008,7 +1002,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #usacalifornia #USA
+## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #MilitaryEncounters #usacalifornia #USA #Navy
 
 [https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights](<https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights >)
 
@@ -1018,7 +1012,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, July 12 - Tom DeLonge states in July 2019 that TTSA spent the last year and a half briefing the Senate, multiple Committees and helping “glue” the DOD, IC and Congress together. #quote #usa
+## 2019, July 12 - Tom DeLonge states in July 2019 that TTSA spent the last year and a half briefing the Senate, multiple Committees and helping “glue” the DOD, IC and Congress together. #WhistleblowerDisclosures #quote #usa #USA #PrivateSector
 
 **Links:**
 
@@ -1026,67 +1020,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, April 30 - DOE documents report round silver object flying around nuclear processing facility " #NuclearSite #DOE #UAPIncursion #SecurityIncident #UAPRecordsCollection #CivilianSighting #USA
-
-Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Alarm Station (CAS) that they heard over the escort channel about a possible drone sighting. The CAS Operator reported hearing escorts at building 815 in the Process Area discussing a drone sighting at around 10:27 hours...
-
-**Links:**
-
-[https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf](https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf) 
-[https://reddit.com/r/UFOs/s/9PSLtKNN7O](https://reddit.com/r/UFOs/s/9PSLtKNN7O)
-[https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents) 
-[https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf) 
-
-**Photos:**
-
-![Doe Documents Report Round Silver Object Flying Ar 1](images/2019-doe-documents-report-round-silver-object-flying-ar-1.png)
-
-\
-
-## 2019 - Leaked 2019 video of UAP flying near a stealth ship. UAP goes in and out of the water. #leak #alien #usasandiago #USA
-
-What appears to be a UFO flies around a Navy ship off the coast of San Diego before suddenly disappearing after flying into the water. NBC’s Gadi Schwartz reports.
-
-**Links:**
-
-[https://www.youtube.com/watch?v=TVL6jv-h1W0](https://www.youtube.com/watch?v=TVL6jv-h1W0) 
-
-**Photos:**
-
-![Leaked 2019 Video Of Uap Flying Near A Stealth Shi 1](images/2019-leaked-2019-video-of-uap-flying-near-a-stealth-shi-1.png)
-
-\
-
-## 2019 - Pentagon UFO videos #FOIA #alien #USA
-
-The Pentagon UFO videos consist of visual recordings captured by US Navy fighter jets in 2004, 2014, 2015, and 2019, depicting encounters with unidentified aerial phenomena (UAP). After gaining significant media attention and speculation, the Pentagon officially declassified and released these vi...
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/PentagonUFOvideos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos) 
-
-**Photos:**
-
-![Pentagon Ufo Videos Foia Alien 1](images/2019-pentagon-ufo-videos-foia-alien-1.png)
-
-\
-
-## 2018, October - Iraq Jellyfish UAP #LeaksDeclass #VideoEvidence #MilitaryUAP #Transmedium #NavalEncounter #InvestigativeJournalism #USA
-
-I nvestigative journalists Jeremy Corbell and George Knapp obtained and are revealing for the first time - footage of a military filmed UAP incursion within a United States joint operations base. This UAP of unknown origin displayed transmedium capability - and has been officially designated by t...
-
-**Links:**
-
-[https://www.youtube.com/watch?v=oaO6sUq0HsQ](https://www.youtube.com/watch?v=oaO6sUq0HsQ) 
-[https://www.youtube.com/watch?v=7bns_WhNAQM&t=0s](https://www.youtube.com/watch?v=7bns_WhNAQM&t=0s) 
-
-**Photos:**
-
-![Iraq Jellyfish Uap 1](images/2018-iraq-jellyfish-uap-1.png)
-
-\
-
-## 2018, March - Harry Reid on What the Government Knows About UFOs #quote #news #new (2023-08-10) #usa
+## 2018, March - Harry Reid on What the Government Knows About UFOs #WhistleblowerDisclosures #quote #news #new (2023-08-10) #usa #USA #LeaksDeclass
 
 Former Senate majority leader Harry Reid mentioned that he had talked with President Bill Clinton about aerial phenomena and UFOs during his presidency. Reid noted that Clinton's curiosity extended to a wide range of topics, and while the conversation was passing, Clinton was interested in the su...
 
@@ -1096,7 +1030,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017,  March 27 - Anonymous website partially encoded publishes an article on “turning the vehicle into a pilot’s prosthetic extension.” In the article are vague examples of how to replicate the piloting features of a UAP: “there must be no difference between the aircraft and the crew…you cannot just take a human being and fit him with all this array of sensors; you first need to tweak the human somehow to better exploit the capabilities of this technology…we need to go a step further from the current paradigm of manned aircrafts and shift toward a paradigm of aircrafts that behave like a human.” Elsewhere on the site, allegedly non-public reports from Raytheon and Lockheed are cited. #news #rumor #usa
+## 2017,  March 27 - Anonymous website partially encoded publishes an article on “turning the vehicle into a pilot’s prosthetic extension.” In the article are vague examples of how to replicate the piloting features of a UAP: “there must be no difference between the aircraft and the crew…you cannot just take a human being and fit him with all this array of sensors; you first need to tweak the human somehow to better exploit the capabilities of this technology…we need to go a step further from the current paradigm of manned aircrafts and shift toward a paradigm of aircrafts that behave like a human.” Elsewhere on the site, allegedly non-public reports from Raytheon and Lockheed are cited. #LeaksDeclass #news #rumor #usa #USA #PrivateSector
 
 “MilOrbs” and they perform covert test unbeknownst to USG knowledge to see how crew react to them. Another article from 20 December 2017 writes that USAF pilots are trained to be aware of UAP, shares a seemingly non-public FLIR image dated 11 November 2014 and states: “we want our enemies to beli...
 
