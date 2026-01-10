@@ -726,7 +726,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander D
 
 \
 
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #law #USA
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #LegislationPolicy #law #USA
 
 #usadc
 
@@ -736,7 +736,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander D
 
 \
 
-## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #law #usadc #USA
+## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #LegislationPolicy #law #usadc #USA
 
 **Links:**
 
@@ -777,7 +777,7 @@ there is a large glowing disc that enters at the top right and passes to the lef
 
 \
 
-## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #new (2023-09-04) #map #USA #Asia #Japan
+## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #FOIARelease #new (2023-09-04) #map #USA #Asia #Japan
 
 **Links:**
 
@@ -792,7 +792,7 @@ there is a large glowing disc that enters at the top right and passes to the lef
 
 \
 
-## 2023, August - Senator Kirsten Gillibrand #quote #usadc #USA
+## 2023, August - Senator Kirsten Gillibrand #CongressionalHearings #quote #usadc #USA
 
 David Grusch's testimony received the most attention with his statement: "I have no ability to verify that testimony because we’ve not been told of any such programs. We’ve asked for all information related to all programs and have not been given that detail." As someone who helped secure full fu...
 
@@ -802,7 +802,7 @@ David Grusch's testimony received the most attention with his statement: "I have
 
 \
 
-## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #law #usadc #USA
+## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #CongressionalHearings #law #usadc #USA
 
 Testimonies under oath from whistleblowers on the subject of UAP. Ryan Graves, the Executive Director Americans for Safe Aerospace, Commander David Fravor (Ret.) a Former Commanding Officer of the United States Navy
 
