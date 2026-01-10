@@ -1237,17 +1237,16 @@ The Pentagon has established an organization to compile and coordinate reports o
 
 \
 
-## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #quote #usa #USA
+## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #WhistleblowerDisclosures #quote #usa #USA
 
 Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve to be informed" about UFO information following the Pentagon's official release of three Navy videos showing "unidentified aerial phenomena."
 
 **Links:**
-
 [https://www.axios.com/2020/04/27/harry-reid-ufos-navy-videos](https://www.axios.com/2020/04/27/harry-reid-ufos-navy-videos) 
 
 \
 
-## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #social #news #rumor #usa #USA
+## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a "technical collaboration" with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA's public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA's Aerospace Division #LeaksDeclass #social #news #rumor #usa #USA
 
 **Links:**
 
