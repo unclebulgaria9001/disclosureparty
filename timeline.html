@@ -2252,8 +2252,9 @@
             
             updateFilterCounts(); // Update counts after filtering
             
-            // Update map markers if map is visible
-            if (map && document.getElementById('mapView').style.display !== 'none') {
+            // Update map markers if map is initialized (even if not currently visible)
+            if (map && markerClusterGroup) {
+                console.log('Updating map markers after filter change');
                 updateMapMarkers();
             }
         }
