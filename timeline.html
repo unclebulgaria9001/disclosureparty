@@ -218,6 +218,96 @@
             display: none;
         }
         
+        #chronologyView {
+            width: 100%;
+            background: #0d1117;
+        }
+        
+        .chronology-entry {
+            margin-bottom: 24px;
+            padding: 20px;
+            background: #161b22;
+            border-left: 3px solid #1f6feb;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+        
+        .chronology-entry:hover {
+            background: #1c2128;
+            border-left-color: #58a6ff;
+        }
+        
+        .chronology-date {
+            color: #58a6ff;
+            font-weight: 600;
+            font-size: 1em;
+            margin-bottom: 8px;
+        }
+        
+        .chronology-title {
+            color: #c9d1d9;
+            margin-bottom: 10px;
+            font-weight: 500;
+            font-size: 1.05em;
+        }
+        
+        .chronology-content {
+            color: #8b949e;
+            margin-bottom: 12px;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+        
+        .chronology-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 10px;
+        }
+        
+        .chronology-tag {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #1f6feb;
+            border: 1px solid #1f6feb;
+            border-radius: 12px;
+            font-size: 0.75em;
+            color: #ffffff;
+        }
+        
+        .chronology-links {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .chronology-links a {
+            color: #58a6ff;
+            font-size: 0.85em;
+            word-break: break-all;
+            text-decoration: none;
+        }
+        
+        .chronology-links a:hover {
+            text-decoration: underline;
+        }
+        
+        .chronology-images {
+            margin: 15px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .chronology-images img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            max-height: 400px;
+            object-fit: contain;
+        }
+        
         .view-toggle {
             display: flex;
             justify-content: center;
@@ -636,7 +726,7 @@
         
         <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
             <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="index">INDEX</div>
-            <div class="tab" onclick="window.location.href='viewer.html#chronology'" data-i18n="chronology">CHRONOLOGY</div>
+            <div class="tab" onclick="showChronologyView()" data-i18n="chronology">📋 CHRONOLOGY</div>
             <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">REQUEST NHI CONTACT</div>
             <div class="tab active" onclick="showTimelineView()" data-i18n="timelineViz">TIMELINE VIZ</div>
             <div class="tab" onclick="showMapView()" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
@@ -1141,6 +1231,7 @@
                 </div>
                 <div id="timeline" role="application" aria-label="Interactive timeline of UAP and communication events"></div>
                 <div id="mapView" role="application" aria-label="Interactive map of UAP and communication events"></div>
+                <div id="chronologyView" role="region" aria-label="Chronology list of UAP and communication events" style="display: none; padding: 20px; max-width: 1200px; margin: 0 auto;"></div>
             </div>
         </div>
     </div>
@@ -2209,6 +2300,16 @@
                     .duration(500)
                     .attr('y', d => window.yScale(d.date));
             }
+            
+            // Update chronology list view if active
+            if (document.getElementById('chronologyView').style.display !== 'none') {
+                renderChronologyList();
+            }
+            
+            // Update map view if active
+            if (document.getElementById('mapView').style.display !== 'none') {
+                updateMapMarkers();
+            }
         }
         
         function selectAllPeriods() {
@@ -2361,6 +2462,11 @@
             });
             
             updateFilterCounts(); // Update counts after filtering
+            
+            // Update chronology list view if active
+            if (document.getElementById('chronologyView').style.display !== 'none') {
+                renderChronologyList();
+            }
             
             // Update map markers if map is initialized (even if not currently visible)
             if (map && markerClusterGroup) {
@@ -2844,6 +2950,7 @@
         function showTimelineView() {
             document.getElementById('timeline').style.display = 'block';
             document.getElementById('mapView').style.display = 'none';
+            document.getElementById('chronologyView').style.display = 'none';
             
             // Update top menu tabs
             document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
@@ -2853,6 +2960,7 @@
         function showMapView() {
             document.getElementById('timeline').style.display = 'none';
             document.getElementById('mapView').style.display = 'block';
+            document.getElementById('chronologyView').style.display = 'none';
             
             // Update top menu tabs
             document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
@@ -2861,6 +2969,60 @@
             if (!map) {
                 initializeMap();
             }
+        }
+        
+        function showChronologyView() {
+            document.getElementById('timeline').style.display = 'none';
+            document.getElementById('mapView').style.display = 'none';
+            document.getElementById('chronologyView').style.display = 'block';
+            
+            // Update top menu tabs
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tab[data-i18n="chronology"]').forEach(tab => tab.classList.add('active'));
+            
+            renderChronologyList();
+        }
+        
+        function renderChronologyList() {
+            const chronologyView = document.getElementById('chronologyView');
+            const filteredEvents = getFilteredEvents().filter(e => e.type === 'chronology');
+            
+            if (filteredEvents.length === 0) {
+                chronologyView.innerHTML = '<div style="text-align: center; padding: 40px; color: #8b949e;">No events found matching your filters.</div>';
+                return;
+            }
+            
+            chronologyView.innerHTML = filteredEvents.map(event => {
+                const tagsHtml = event.tags && event.tags.length > 0 
+                    ? `<div class="chronology-tags">${event.tags.map(tag => `<span class="chronology-tag">${escapeHtml(tag)}</span>`).join('')}</div>`
+                    : '';
+                
+                const linksHtml = event.links && event.links.length > 0
+                    ? `<div class="chronology-links">${event.links.map(link => `<a href="${escapeHtml(link)}" target="_blank">${escapeHtml(link)}</a>`).join('')}</div>`
+                    : '';
+                
+                const imagesHtml = event.images && event.images.length > 0
+                    ? `<div class="chronology-images">${event.images.map(img => `<img src="${escapeHtml(img)}" alt="Event image" loading="lazy">`).join('')}</div>`
+                    : '';
+                
+                return `
+                    <div class="chronology-entry">
+                        <div class="chronology-date">${escapeHtml(event.originalDateStr || event.date.getFullYear())}</div>
+                        <div class="chronology-title">${escapeHtml(event.title)}</div>
+                        ${event.description ? `<div class="chronology-content">${escapeHtml(event.description)}</div>` : ''}
+                        ${tagsHtml}
+                        ${imagesHtml}
+                        ${linksHtml}
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
         }
         
         function getFilteredEvents() {
