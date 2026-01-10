@@ -3077,28 +3077,61 @@
         }
         
         function getFilteredEvents() {
-            // Get selected tags
-            const selectedTags = Array.from(document.querySelectorAll('.tag-filter:checked'))
+            // Get selected periods
+            const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked'))
                 .map(cb => cb.value);
             
-            // Get total number of tag filters
-            const totalTags = document.querySelectorAll('.tag-filter').length;
+            // Get selected category tags
+            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked'))
+                .map(cb => cb.value);
             
-            // If all tags selected or no tags selected, return all events
-            const showAll = selectedTags.length === totalTags || selectedTags.length === 0;
+            // Get selected geo tags
+            const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked'))
+                .map(cb => cb.value);
             
-            if (showAll) {
-                return allEvents;
+            // Get totals
+            const totalCategoryTags = document.querySelectorAll('.tag-filter').length;
+            const totalGeoTags = document.querySelectorAll('.geo-filter').length;
+            
+            // Check if all filters are selected
+            const allCategorySelected = selectedCategoryTags.length === totalCategoryTags;
+            const allGeoSelected = selectedGeoTags.length === totalGeoTags;
+            const allPeriodsSelected = selectedPeriods.length === document.querySelectorAll('.period-filter').length;
+            
+            // If no category or geo tags selected, return empty
+            if (selectedCategoryTags.length === 0 || selectedGeoTags.length === 0) {
+                return [];
             }
             
-            // Filter events by selected tags
+            // Filter events by all criteria
             return allEvents.filter(event => {
-                const eventTags = event.tags || [];
-                return selectedTags.some(tag => 
-                    eventTags.some(eventTag => 
-                        eventTag.toLowerCase() === tag.toLowerCase()
-                    )
+                // Period filter
+                if (selectedPeriods.length > 0) {
+                    const eventYear = event.date.getFullYear();
+                    const matchesPeriod = selectedPeriods.some(p => matchesPeriodFilter(eventYear, p));
+                    if (!matchesPeriod) return false;
+                }
+                
+                // Tag filters - must match at least one category AND one geo tag
+                const eventTags = (event.tags || []).map(t => t.toLowerCase().replace('#', ''));
+                
+                // If all filters selected, include everything
+                if (allCategorySelected && allGeoSelected && allPeriodsSelected) {
+                    return true;
+                }
+                
+                // Check category tags
+                const hasMatchingCategoryTag = selectedCategoryTags.some(tag => 
+                    eventTags.includes(tag.toLowerCase())
                 );
+                
+                // Check geo tags
+                const hasMatchingGeoTag = selectedGeoTags.some(tag => 
+                    eventTags.includes(tag.toLowerCase())
+                );
+                
+                // Must have both category and geo tag match
+                return hasMatchingCategoryTag && hasMatchingGeoTag;
             });
         }
         
