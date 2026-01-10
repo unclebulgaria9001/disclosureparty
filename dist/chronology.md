@@ -707,7 +707,7 @@ The Department of Defense is reshuffling leadership at the All-Domain Anomaly Re
 
 \
 
-## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #letter #law #usadc
+## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #letter #law #usadc #USA
 
 **Links:**
 
@@ -967,7 +967,7 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 \
 
-## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection
+## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
 
 **Links:**
 
@@ -1087,7 +1087,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 \
 
-## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO
+## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #International
 
 **Links:**
 
@@ -1095,7 +1095,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 \
 
-## 2022 - DoD Releases New UFO/UAP Video From An Undisclosed Location. Known as the Mosul Orb – July 12, 2022, #FOIA #alien #video #sensors #iraq
+## 2022 - DoD Releases New UFO/UAP Video From An Undisclosed Location. Known as the Mosul Orb – July 12, 2022, #FOIA #alien #video #sensors #iraq #MiddleEast
 
 During an open hearing regarding Unidentified Anomalous Phenomena at the Senate Armed Services Committee, Dr. Sean Kirkpatrick from the All-domain Anomaly Resolution Office (AARO) showcased a video depicting a silver, orb-like object in motion across a sensor's field of view. The video, captured ...
 
@@ -1109,7 +1109,7 @@ During an open hearing regarding Unidentified Anomalous Phenomena at the Senate 
 
 \
 
-## 2022 - United States Congress hearings on UFOs #law #usa
+## 2022 - United States Congress hearings on UFOs #law #usa #USA
 
 On May 17, 2022, the United States House Intelligence Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation convened public congressional hearings to address military reports of unexplained aerial phenomena (UAPs). Marking the first such hearings in over 50 years, the ev...
 
@@ -1124,7 +1124,7 @@ On May 17, 2022, the United States House Intelligence Subcommittee on Counterter
 
 \
 
-## 2021, June - UFO Report (U.S. Intelligence) #report
+## 2021, June - UFO Report (U.S. Intelligence) #report #USA
 
 Issued on June 25, 2021, by the Office of the Director of National Intelligence, the Preliminary Assessment: Unidentified Aerial Phenomena (UAP) Report offers a comprehensive overview of UAPs, compiling 144 observations by the U.S. Armed Forces from 2004 to 2021. The report highlights that the UA...
 
@@ -1134,7 +1134,7 @@ Issued on June 25, 2021, by the Office of the Director of National Intelligence,
 
 \
 
-## 2021 - Highly Classified NRO System Captures Possible "Tic-Tac" Object. Satellite image #FOIA #new (2023-08-08) #new (2023-08-08) #image #sensors #usavirginiabeach
+## 2021 - Highly Classified NRO System Captures Possible "Tic-Tac" Object. Satellite image #FOIA #new (2023-08-08) #new (2023-08-08) #image #sensors #usavirginiabeach #USA
 
 In 2021, the National Reconnaissance Office (NRO) utilized its classified analysis system called "Sentient" to detect an unconventional "tic tac" shaped object. Sentient, an advanced tool with classified details, was designed to process diverse data, anticipate future events, and direct satellite...
 
@@ -1150,13 +1150,13 @@ In 2021, the National Reconnaissance Office (NRO) utilized its classified analys
 
 \
 
-## 2021, July - David Grusch becomes a direct daily staffer to President Biden on UAP. Here's his resume, which was submitted to Congress on the same day as his hearing. #MilitaryEncounters #Navy #FOIARelease #UAPIncident #VideoEvidence
+## 2021, July - David Grusch becomes a direct daily staffer to President Biden on UAP. Here's his resume, which was submitted to Congress on the same day as his hearing. #MilitaryEncounters #Navy #FOIARelease #UAPIncident #VideoEvidence #USA
 
 SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) and Trans-Medium Anomaly issues. Executed new program of record responsive to direct tasking by the Congressional Intelligence Committees. Lead advisor for Space Control and Non-Kinetic investment R&D solutions for OSD ...
 
 \
 
-## 2021, June 25 - ODNI releases its official report on UAP. #MilitaryEncounters #Navy #FOIARelease #UAPIncident #VideoEvidence #Europe
+## 2021, June 25 - ODNI releases its official report on UAP. #MilitaryEncounters #Navy #FOIARelease #UAPIncident #VideoEvidence #Europe #USA
 
 **Links:**
 
@@ -1164,7 +1164,7 @@ SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) an
 
 \
 
-## 2021 - UAP seen over the USS Kearsarge in the Fall of 2021. #FOIA
+## 2021 - UAP seen over the USS Kearsarge in the Fall of 2021. #FOIA #USA
 
 In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP) sightings above the USS Kearsarge in the Fall of 2021. He documented the detailed account of these sightings, which can be accessed through his write-up. Despite his efforts, Dave's Freedom of Information Act #FOIA r...
 
@@ -1179,7 +1179,7 @@ In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP)
 
 \
 
-## 2021, May - Obama on UFO videos 'We don't know exactly what they are' #quote #usa
+## 2021, May - Obama on UFO videos 'We don't know exactly what they are' #quote #usa #USA
 
 Former President Barack Obama has acknowledged the presence of footage and records depicting unidentified aerial phenomena in the skies, highlighting that the movements and trajectories of these objects defy easy explanation, presenting a true enigma. The U.S. Navy has verified the authenticity o...
 
@@ -1189,13 +1189,13 @@ Former President Barack Obama has acknowledged the presence of footage and recor
 
 \
 
-## 2021 - Former Nevada Sen. Harry Reid believes US defense contractor Lockheed Martin may have once had fragments of a crashed UFO in its possession, it was revealed Friday. #quote #new (2023-09-10) #usa
+## 2021 - Former Nevada Sen. Harry Reid believes US defense contractor Lockheed Martin may have once had fragments of a crashed UFO in its possession, it was revealed Friday. #quote #new (2023-09-10) #usa #USA
 
 Former Nevada Sen. Harry Reid has suggested that defense contractor Lockheed Martin might have possessed fragments of a crashed UFO, though he never saw any proof and was denied Pentagon approval to investigate. Reid, a Democrat, claimed that he tried to gain classified approval to examine the al...
 
 \
 
-## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa
+## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa #USA
 
 Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, following his role as Assistant Deputy Director for Intelligence, Surveillance, and Reconnaissance Operations at the Joint Chiefs of Staff. Several Freedom of Information Act #FOIA requests have been initiated to retri...
 
@@ -1207,7 +1207,7 @@ Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, f
 
 \
 
-## 2021 - Harry Reid reflects on his interest in UFOs #quote #usa
+## 2021 - Harry Reid reflects on his interest in UFOs #quote #usa #USA
 
 Harry Reid reflects on his enduring interest in UFOs, tracing it back to his attendance at a conference on unidentified aerial phenomena. In 2007, he collaborated with fellow senators to secure funding for the Advanced Aerospace Threat Identification Program, which investigated UFO reports involv...
 
@@ -1227,7 +1227,7 @@ Former Israeli space security chief Haim Eshed claimed that humanity has been en
 
 \
 
-## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO
+## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
 
 May 2023:
 
@@ -1237,7 +1237,7 @@ May 2023:
 
 \
 
-## 2020, July - John Lear's statement on the UAPTF #WhistleblowerDisclosures? #Conspiracy #LegacyClaims #UAPTForensic (use with caution) #HistoricalPreModern (contextual)
+## 2020, July - John Lear's statement on the UAPTF #WhistleblowerDisclosures? #Conspiracy #LegacyClaims #UAPTForensic (use with caution) #HistoricalPreModern (contextual) #USA
 
 1\. The U.S. government has allegedly been conducting a top-secret investigation into UFOs for over 70 years, with the level of secrecy surpassing even that of the development of the nuclear bomb.
 
@@ -1257,7 +1257,7 @@ May 2023:
 
 \
 
-## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #quote #usa
+## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #quote #usa #USA
 
 Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve to be informed" about UFO information following the Pentagon's official release of three Navy videos showing "unidentified aerial phenomena."
 
@@ -1267,7 +1267,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #social #news #rumor #usa
+## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #social #news #rumor #usa #USA
 
 **Links:**
 
@@ -1275,7 +1275,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #usacalifornia
+## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #usacalifornia #USA
 
 [https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights](<https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights >)
 
@@ -1293,7 +1293,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, April 30 - DOE documents report round silver object flying around nuclear processing facility " #NuclearSite #DOE #UAPIncursion #SecurityIncident #UAPRecordsCollection #CivilianSighting
+## 2019, April 30 - DOE documents report round silver object flying around nuclear processing facility " #NuclearSite #DOE #UAPIncursion #SecurityIncident #UAPRecordsCollection #CivilianSighting #USA
 
 Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Alarm Station (CAS) that they heard over the escort channel about a possible drone sighting. The CAS Operator reported hearing escorts at building 815 in the Process Area discussing a drone sighting at around 10:27 hours...
 
@@ -1310,7 +1310,7 @@ Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Ala
 
 \
 
-## 2019 - Leaked 2019 video of UAP flying near a stealth ship. UAP goes in and out of the water. #leak #alien #usasandiago
+## 2019 - Leaked 2019 video of UAP flying near a stealth ship. UAP goes in and out of the water. #leak #alien #usasandiago #USA
 
 What appears to be a UFO flies around a Navy ship off the coast of San Diego before suddenly disappearing after flying into the water. NBC’s Gadi Schwartz reports.
 
@@ -1408,12 +1408,9 @@ Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention
 
 \
 
-## 2016, April - Tom DeLonge states he was told by unnamed “advisors” that there were multiple UAP crashes and recoveries. The USG and its contractors hid it, created a “pickup game” of counterintelligence, DeLonge claims, and adds that it was at one time bigger than the Manhattan Project. He states it is currently held by a private corporation where “certain laws” protect their own breakthroughs and proprietary assets; DeLonge adds that he asked the advisors if the crash recovery program(s) were legal or if they were illegal. He claims the advisors showed him an “exact law,” with an exact paragraph and number on a “government website” to justify what they were doing as legal. #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image
+## 2016, April - Tom DeLonge states he was told by unnamed "advisors" that there were multiple UAP crashes and recoveries #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image #USA
 
-**Links:**
-
-[https://silvarecord.com/2019/11/15/these-people-claim-ufo-artifacts-are-held-by-the-governmentand-or-contractors/](https://silvarecord.com/2019/11/15/these-people-claim-ufo-artifacts-are-held-by-the-governmentand-or-contractors/) 
-
+DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
 \
 
 ## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. #rumor #contentdeleted #usa
@@ -1426,7 +1423,7 @@ DeLonge states he has been told how public perception on UAP has been shaped by 
 
 \
 
-## 2016 - New UFO image declassified by Department of Defense. #FOIA #iraq
+## 2016 - New UFO image declassified by Department of Defense. #FOIA #iraq #MiddleEast
 
 The Department of Defense has declassified a new UFO image showing a metallic-looking orb flying over Mosul, Iraq. The image was taken by a US spy plane in April 2016 and was part of a classified briefing video on UFOs presented to various US government agencies.
 
@@ -1468,7 +1465,7 @@ Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed seve
 
 \
 
-## 2015 - Gimbal is one of three US military videos of unidentified aerial phenomenon (UAP) #video #sensors
+## 2015 - Gimbal is one of three US military videos of unidentified aerial phenomenon (UAP) #video #sensors #USA
 
 2015-Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.480p
 
@@ -1484,7 +1481,7 @@ Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed seve
 
 \
 
-## 2015 - Go Fast Official USG Footage of UAP for Public Release #video #sensors
+## 2015 - Go Fast Official USG Footage of UAP for Public Release #video #sensors #USA
 
 2015-Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm.480p
 
@@ -1533,7 +1530,7 @@ Area 51, also known as Homey Airport or Groom Lake, is a secretive facility with
 
 \
 
-## 2013 - Aguadilla, Puerto Rico #FOIARelease #VideoEvidence #DHS #Infrared #MilitaryUAP #Sensors
+## 2013 - Aguadilla, Puerto Rico #FOIARelease #VideoEvidence #DHS #Infrared #MilitaryUAP #Sensors #USA
 
 – Infrared footage from U.S. Customs patrol aircraft shows a torpedo-shaped object skimming just above the water then diving in at high speed.
 
@@ -1749,7 +1746,7 @@ On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a
 
 \
 
-## 1975, November 5 - Travis Walton Abduction #MilitaryEncounters #NuclearSite #SecurityIncident #RadarContact #HistoricalPreModern
+## 1975, November 5 - Travis Walton Abduction #MilitaryEncounters #NuclearSite #SecurityIncident #RadarContact #HistoricalPreModern #USA
 
 In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparen...
 
@@ -1820,7 +1817,7 @@ The collection comprises numerous files dating back to the 1970s, containing let
 
 \
 
-## 1970 - DOE UAP letters #FOIARelease #DOE #HistoricalPreModern #Letters #Records
+## 1970 - DOE UAP letters #FOIARelease #DOE #HistoricalPreModern #Letters #Records #NewZealand #Oceania
 
 The letter is from someone named O.P. Elliot, reporting sightings of green lights in the years 1948 through 1951 at Les Alamos. They mention that these sightings typically occurred at night in the Jemez Mountains. There's also a mention of objects flying over Les Alamos in formation during the af...
 
@@ -1870,7 +1867,7 @@ A pair of MiG-21 jet fighters were scrambled to inspect the enigmatic invader, w
 
 \
 
-## 1967 - Unidentified Spherical Object #CivilianSightings #RadarContact #HistoricalPreModern
+## 1967 - Unidentified Spherical Object #CivilianSightings #RadarContact #HistoricalPreModern #USA
 
 **Photos:**
 
@@ -1900,7 +1897,7 @@ The Westall UFO was a reported UFO sighting in Australia that occurred on 6 Apri
 
 \
 
-## 1964, April 24 - Lonnie Zamora incident #CivilianSightings #GroundTrace #PoliceWitness #HistoricalPreModern #PhysicalEvidence
+## 1964, April 24 - Lonnie Zamora incident #CivilianSightings #GroundTrace #PoliceWitness #HistoricalPreModern #PhysicalEvidence #USA #NewMexico
 
 On April 24, 1964, at approximately 5:45 p.m., Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident. Zamora advised Lopez that he would be "checking the car down in the arroyo".  Shortly after, Lopez received anoth...
 
@@ -1968,7 +1965,7 @@ During the Cold War, recently revealed secret files indicate that two U.S. fight
 
 \
 
-## 1957 - Levelland
+## 1957 - Levelland #HistoricalPreModern #USA
 
 In the film Close Encounters of the Third Kind, there’s a famous scene where a UFO makes the electronics in a car go haywire. The real-life inspiration for that scene came from an incident in 1957, when dozens of citizens of Levelland, Texas, individually reported seeing a rocket or strange light...
 
@@ -1990,7 +1987,7 @@ NICAP was a non-profit organization and faced financial collapse many times in i
 
 \
 
-## 1956, May 30 - Project 1794 Final Development Summary Report #CivilianOrganizations #HistoricalPreModern #UFOResearch #Advocacy
+## 1956, May 30 - Project 1794 Final Development Summary Report #CivilianOrganizations #HistoricalPreModern #UFOResearch #Advocacy #USA
 
 **Links:**
 
@@ -2011,7 +2008,7 @@ A recently further declassified 1955 CIA memo highlights a remarkable event duri
 
 \
 
-## 1955 - JFK files have a loose link to UFO #FOIA #new #limited (2023-08-07)
+## 1955 - JFK files have a loose link to UFO #FOIA #new #limited (2023-08-07) #USA
 
 President Joe Biden has approved the release of certain files linked to John F. Kennedy's assassination, but approximately 4,684 documents remain classified. The National Archives has already made public several confidential documents related to the 1963 assassination, drawing from various agenci...
 
@@ -2085,7 +2082,7 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 \
 
-## 1952 - Brasil
+## 1952 - Brasil #HistoricalPreModern #LatinAmerica #Brazil
 
 **Photos:**
 
@@ -2101,7 +2098,7 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 \
 
-## 1951, August 25 - US National Archive Case File 978 August 25,1951. Lubbock Texas
+## 1951, August 25 - US National Archive Case File 978 August 25,1951. Lubbock Texas #HistoricalPreModern #USA
 
 **Links:**
 
@@ -2126,7 +2123,7 @@ On June 21, 1947, in Maury Island, Washington, Harold Dahl and his son Al report
 
 \
 
-## 1951, August 25 - Lubbock Lights
+## 1951, August 25 - Lubbock Lights #HistoricalPreModern #USA
 
 On the evening of August 25, 1951, three science professors from Texas Tech were enjoying an evening outdoors in Lubbock, when they looked up and saw a semicircle of lights flying above them at a high speed. Over the next few days, dozens of reports flooded in from across town—Texas Tech freshman...
 
@@ -2183,7 +2180,7 @@ The Battle of Los Angeles occurred on February 24-25, 1942, in Los Angeles, Cali
 
 \
 
-## 1947, September 23 - General Twinning Memo
+## 1947, September 23 - General Twinning Memo #HistoricalPreModern #USA
 
 In a document dated September 23, 1947, the Air Materiel Command (AMC) presented its considered opinion on the phenomenon of "Flying Discs," or UFO sightings, which were a subject of intense interest at the time. The document outlined several key points, including the acknowledgment that these si...
 
@@ -2208,7 +2205,7 @@ The Act charged CIA with coordinating the Nation’s intelligence activities and
 
 \
 
-## 1947, July 26 - The National Security Act of 1947 (Pub.L. 80-253, 61 Stat. 495, enacted July 26, 1947. The act took effect on September 18, 1947
+## 1947, July 26 - The National Security Act of 1947 (Pub.L. 80-253, 61 Stat. 495, enacted July 26, 1947. The act took effect on September 18, 1947 #LegislationPolicy #USA
 
 - Passed in the Senate on July 9 - Enacted July 26, 1947 - Took effect September 18, 1947
 
@@ -2308,7 +2305,7 @@ John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive g
 
 \
 
-## 1897,  April 19 - Aurora, Texas, UFO incident
+## 1897,  April 19 - Aurora, Texas, UFO incident #HistoricalPreModern #USA
 
 **Photos:**
 
@@ -2316,7 +2313,7 @@ John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive g
 
 \
 
-## 1665, April - A UFO in 1665. The Air Battle of Stralsund
+## 1665, April - A UFO in 1665. The Air Battle of Stralsund #HistoricalPreModern #Europe #Germany
 
 ##
 
@@ -2326,7 +2323,7 @@ John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive g
 
 \
 
-## 1561, April 14 - Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg, the residents saw what they described as some aerial battle take place in its glare
+## 1561, April 14 - Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg #HistoricalPreModern #Europe #Germany #Nuremberg, the residents saw what they described as some aerial battle take place in its glare
 
 **Links:**
 
@@ -2418,7 +2415,7 @@ Ming Dynasty records in China mention a glowing object moving slowly across the 
 
 \
 
-## 1347 CE - Europe: Black Death Sky Lights #HistoricalPreModern #Medieval
+## 1347 CE - Europe: Black Death Sky Lights #HistoricalPreModern #Medieval #Europe
 
 Various accounts reported strange lights in the sky at the onset of the Black Death. These lights were often associated with the onset of the plague, but no further details were provided.
 
@@ -2678,7 +2675,7 @@ Julius Obsequens in Rome reported a "spark" fell from a star and grew as it desc
 
 \
 
-## 1440 BCE - Circle Of Fire In The Sky #HistoricalPreModern #Ancient
+## 1440 BCE - Circle Of Fire In The Sky #HistoricalPreModern #Ancient #Africa #Egypt
 
 During the reign of Thutmose III in Egypt, a "circle of fire" brighter than the sun hovered in the sky, emitting a foul odour. It appeared for several days before vanishing. This event is recorded in the Tulli Papyrus.
 
