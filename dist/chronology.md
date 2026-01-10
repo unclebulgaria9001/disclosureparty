@@ -777,7 +777,7 @@ there is a large glowing disc that enters at the top right and passes to the lef
 
 \
 
-## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #new (2023-09-04) #map#USA
+## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #new (2023-09-04) #map #USA #Asia #Japan
 
 **Links:**
 
@@ -915,7 +915,7 @@ I've been told that we have recovered technology that did not originate on this 
 
 \
 
-## 2023, June 20 - Turkey UFO #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #MiddleEast
+## 2023, June 20 - Turkey UFO #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO #MiddleEast #Turkey
 
 A reader from Poland, who was vacationing in Turkey, wrote to a Reddit user. While relaxing on the beach, she decided to use a feature of her iPhone 13 Pro Max that allows taking a series of quick photos. The phone took six nearly identical pictures, but something unusual appeared in one of them,...
 
@@ -941,7 +941,7 @@ U.S. Senator Kirsten Gillibrand announced that she had secured full funding for 
 
 \
 
-## 2023, May - Australian Air Force UAP FOIA #FOIA #australia #USA
+## 2023, May - Australian Air Force UAP FOIA #FOIA #Oceania #Australia
 
 t is outlined that there have been recent developments regarding Unidentified Aerial Phenomena (UAP) or Unidentified Flying Objects (UFOs). The United States Department of Defense has released information about these phenomena, emphasizing their potential impact on military operations and the nee...
 
@@ -1217,7 +1217,7 @@ Harry Reid reflects on his enduring interest in UFOs, tracing it back to his att
 
 \
 
-## 2020 - December 2020, Retired general, Eshed #quote #israel
+## 2020 - December 2020, Retired general, Eshed #quote #MiddleEast #Israel
 
 Former Israeli space security chief Haim Eshed claimed that humanity has been engaged with extraterrestrials from a "galactic federation." According to Eshed, these extraterrestrial beings have requested their presence to remain undisclosed due to humanity's lack of readiness to comprehend it ful...
 
@@ -1539,7 +1539,7 @@ Area 51, also known as Homey Airport or Groom Lake, is a secretive facility with
 
 \
 
-## 2013 - UFO Crash in Peru - Jonathan Weygandt, Lance Corporal / Disclosure Project Witness #leak LARPing #LatinAmerica
+## 2013 - UFO Crash in Peru - Jonathan Weygandt, Lance Corporal / Disclosure Project Witness #leak LARPing #LatinAmerica #Peru
 
 The account details a UFO crash witnessed in the jungle, with encounters with alien beings. The egg-shaped UFO emitted a purplish-green substance, had hatched, and seemed organic. The beings communicated telepathically, projecting non-harm intentions. Mysterious men in black took the witness into...
 
@@ -1662,7 +1662,7 @@ Dozens of children witnessed large glowing oval craft silently hover over school
 
 \
 
-## 1996 - Varginha, Brazil #ContactAttempt #LatinAmerica
+## 1996 - Varginha, Brazil #ContactAttempt #LatinAmerica #Brazil #Varginha
 
 Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America's highest-profile mass-contact claims with physical evidence reports. Military allegedly captured beings. Known as "Brazil's Roswell."
 
@@ -1809,7 +1809,7 @@ The incident involves multiple photos of a large cylindrical UFO emerging from t
 
 \
 
-## 1970 - Archived New Zealand letters to diplomats. Not from the government. #leak#Oceania
+## 1970 - Archived New Zealand letters to diplomats. Not from the government. #leak #Oceania #NewZealand
 
 The collection comprises numerous files dating back to the 1970s, containing letters addressed to the US government regarding Unidentified Aerial Phenomena (UAP) from New Zealand.
 
@@ -1878,7 +1878,7 @@ A pair of MiG-21 jet fighters were scrambled to inspect the enigmatic invader, w
 
 \
 
-## 1967, March 12 - A New Mexico State University student took this photo of what he said was a UFO, while photographing land formations for a geology class on Mar. 12, 1967 #CivilianSightings #RadarContact #HistoricalPreModern #LatinAmerica
+## 1967, March 12 - A New Mexico State University student took this photo of what he said was a UFO, while photographing land formations for a geology class on Mar. 12, 1967 #CivilianSightings #RadarContact #HistoricalPreModern #USA #NewMexico
 
 **Links:**
 
@@ -1939,7 +1939,7 @@ The National Investigations Committee On Aerial Phenomena was formed in 1956, wi
 
 \
 
-## 1957, October 16 - This light was photographed on Oct. 16, 1957, when it hovered for 15 minutes near Holloman Air Development Center in New Mexico #CivilianSightings #PhotoEvidence #HistoricalPreModern #LatinAmerica
+## 1957, October 16 - This light was photographed on Oct. 16, 1957, when it hovered for 15 minutes near Holloman Air Development Center in New Mexico #CivilianSightings #PhotoEvidence #HistoricalPreModern #USA #NewMexico #HollomanAFB
 
 **Links:**
 
@@ -2349,19 +2349,19 @@ John Winthrop, a colonial governor in Massachusetts, USA, recorded a strange lig
 
 \
 
-## 1619 CE - Hovering Bright Object #Europe
+## 1619 CE - Large Bright Object Over Geneva #Europe #Switzerland #Geneva
 
 Local observers in Geneva, Switzerland, recorded a large, bright object hovering in the sky for several hours. In 1619 CE, a significant event took place in Geneva, Switzerland. Local observers reported seeing a large, bright object in the sky. This object was not just a fleeting sight - it staye...
 
 \
 
-## 1566 CE - Aerial Battle With Strange Objects #Europe
+## 1566 CE - Aerial Battle With Strange Objects #Europe #Switzerland #Basel
 
 In 1566 CE, there was a peculiar event recorded in Basel, Switzerland that described an aerial battle involving strange objects in the sky. The event was documented in contemporary records, meaning that it was written down and reported during the time it happened. The descriptions indicate that t...
 
 \
 
-## 1561, April 14 - Germany Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg, the residents saw what they described as some aerial battle take place in its glare #Europe
+## 1561, April 14 - Germany Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg, the residents saw what they described as some aerial battle take place in its glare #Europe #Germany #Nuremberg
 
 **Links:**
 
@@ -2484,7 +2484,7 @@ Matthew Paris, a chronicler in England, described a bright object seen in the sk
 
 \
 
-## 1235 CE - Japan: Tale of the Heike's Mysterious Object #HistoricalPreModern #Medieval #Asia
+## 1235 CE - Japan: Tale of the Heike's Mysterious Object #HistoricalPreModern #Medieval #Asia #Japan
 
 In the Tale of the Heike, a medieval Japanese epic, a mysterious object, described as a glowing sphere, was seen in the sky at night. No further details about this object were provided.
 
@@ -2532,7 +2532,7 @@ The Anglo-Saxon Chronicle in England interpreted strange lights seen in the sky 
 
 \
 
-## 1133 CE - Japan: Hyaku Monogatari's Flying Dragon #HistoricalPreModern #Medieval #Asia
+## 1133 CE - Japan: Hyaku Monogatari's Flying Dragon #HistoricalPreModern #Medieval #Asia #Japan
 
 The Hyaku Monogatari, a collection of Japanese ghost stories, reported an object resembling a flying dragon that was seen in the sky and interpreted as a mythical creature. No further details about this object were provided.
 
@@ -2568,7 +2568,7 @@ Song Dynasty records in China note a bright object moving across the sky, causin
 
 \
 
-## 1015 CE - Japan: Tale of Genji's Bright Object #HistoricalPreModern #Medieval #Asia
+## 1015 CE - Japan: Tale of Genji's Bright Object #HistoricalPreModern #Medieval #Asia #Japan
 
 In the Tale of Genji, a classic work of Japanese literature, a bright object was seen in the sky and was described as a harbinger of significant events. The nature of this object remains unknown.
 
@@ -2586,21 +2586,21 @@ The Song Shi in China interpreted a fiery object seen in the sky as a bad omen.
 The Shoku Nihongi in Japan recorded a glowing object seen in the sky during the reign of Emperor Reizei.
 ## 950 CE - Erratically Moving Bright Object
 Song Dynasty records in China note a bright object seen moving erratically in the sky.
-## 927 CE - Spain: Chronicle of Alfonso III's Sky Lights
+## 927 CE - Spain: Chronicle of Alfonso III's Sky Lights #HistoricalPreModern #Medieval #Europe #Spain
 During the reign of Alfonso III, strange lights were seen in the sky, causing widespread fear. These were documented in the Chronicle of Alfonso III, but no additional details were provided.
-## 919 CE - Hungary: Annales Fuldenses's Fiery Omen
+## 919 CE - Hungary: Annales Fuldenses's Fiery Omen #HistoricalPreModern #Medieval #Europe #Hungary
 The Annales Fuldenses, a series of Frankish annals, reported a fiery object was seen in the sky, which was interpreted as an omen of war. No further details about this object were given.
-## 900 CE - Fear-Inducing Fiery Object
+## 900 CE - Fear-Inducing Fiery Object #HistoricalPreModern #Medieval #Europe #Spain
 The Chronicle of Alfonso III in Spain reported a fiery object seen moving across the sky, causing fear among the people.
 ## 850 CE - Fiery Lights As Omens
 The Anglo-Saxon Chronicle in England interpreted fiery lights seen in the sky as omens.
-## 842 CE - China: Emperor Wuzong's Star
+## 842 CE - China: Emperor Wuzong's Star #HistoricalPreModern #Medieval #Asia #China
 Emperor Wuzong of Tang reported a strange object resembling a star appeared, moving erratically and terrifying the populace. No further details about this object were provided.
-## 840 CE - France: Agobard of Lyons' Sky Lights
+## 840 CE - France: Agobard of Lyons' Sky Lights #HistoricalPreModern #Medieval #Europe #France
 Agobard of Lyons, an archbishop and prolific writer, reported strange lights in the sky, which were interpreted as supernatural omens. Further details about these lights were not provided.
-## 820 CE - Dragon-Like Sky Object
+## 820 CE - Dragon-Like Sky Object #HistoricalPreModern #Medieval #Asia #China
 Tang Dynasty Records in China described a strange object resembling a dragon appearing in the sky.
-## 810 CE, France: St. Gregory of Tours' Glowing Object
+## 810 CE, France: St. Gregory of Tours' Glowing Object #HistoricalPreModern #Medieval #Europe #France
 St. Gregory of Tours, a historian of the Franks, reported seeing a glowing object moving across the sky, which he interpreted as a sign from God. No additional details about this object were provided.
 ## 810 CE - Slow-Moving Glowing Sphere
 The Nihon Koki in Japan recorded a glowing sphere appearing in the sky, moving slowly.
@@ -2608,9 +2608,9 @@ The Nihon Koki in Japan recorded a glowing sphere appearing in the sky, moving s
 The Shoku Nihongi in Japan recorded a bright object seen in the sky during the reign of Emperor Kammu.
 ## 793 CE - England: Anglo-Saxon Chronicle's Fiery Dragons #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 The Anglo-Saxon Chronicle, a collection of Old English annals, reported strange fiery dragons flying in the sky, heralding disaster. The exact nature of these 'dragons' remains a mystery.
-## 776 CE - France: Siege of Sigiburg UFOs
+## 776 CE - France: Siege of Sigiburg UFOs #HistoricalPreModern #Medieval #Europe #France
 During the Siege of Sigiburg, two large glowing objects hovered over a church, causing the Saxon besiegers to flee in panic. The nature and origin of these objects remain unknown.
-## 746 CE - Rapidly Moving Fiery Object
+## 746 CE - Rapidly Moving Fiery Object #HistoricalPreModern #Medieval #Asia #China
 Tang Dynasty Records in China note a fiery object appearing in the sky, moving rapidly.
 ## 721 CE - Bright Sky Object During Emperor Genshō's Reign
 The Nihon Shoki in Japan recorded a bright object seen in the sky during the reign of Emperor Genshō.
