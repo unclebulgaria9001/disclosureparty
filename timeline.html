@@ -2983,7 +2983,7 @@
             renderChronologyList();
         }
         
-        function renderChronologyList() {
+        async function renderChronologyList() {
             const chronologyView = document.getElementById('chronologyView');
             const filteredEvents = getFilteredEvents().filter(e => e.type === 'chronology');
             
@@ -2992,24 +2992,75 @@
                 return;
             }
             
+            // Load full chronology data with parsed markdown
+            const chronologyData = await loadChronologyData();
+            
+            if (!chronologyData) {
+                chronologyView.innerHTML = '<div style="text-align: center; padding: 40px; color: #ff6b6b;">Error loading chronology data.</div>';
+                return;
+            }
+            
             chronologyView.innerHTML = filteredEvents.map(event => {
-                const tagsHtml = event.tags && event.tags.length > 0 
-                    ? `<div class="chronology-tags">${event.tags.map(tag => `<span class="chronology-tag">${escapeHtml(tag)}</span>`).join('')}</div>`
+                // Find the full entry data with parsed markdown
+                const fullEntry = chronologyData.find(e => e.title.trim() === event.title.trim());
+                
+                if (!fullEntry) {
+                    // Fallback to basic event data
+                    return `
+                        <div class="chronology-entry">
+                            <div class="chronology-date">${escapeHtml(event.originalDateStr || event.date.getFullYear())}</div>
+                            <div class="chronology-title">${escapeHtml(event.title)}</div>
+                            ${event.description ? `<div class="chronology-content">${escapeHtml(event.description)}</div>` : ''}
+                        </div>
+                    `;
+                }
+                
+                // Render with full parsed data
+                const tagsHtml = fullEntry.tags && fullEntry.tags.length > 0 
+                    ? `<div class="chronology-tags">${fullEntry.tags.map(tag => `<span class="chronology-tag">${escapeHtml(tag)}</span>`).join('')}</div>`
                     : '';
                 
-                const linksHtml = event.links && event.links.length > 0
-                    ? `<div class="chronology-links">${event.links.map(link => `<a href="${escapeHtml(link)}" target="_blank">${escapeHtml(link)}</a>`).join('')}</div>`
+                // Render content with markdown links converted to HTML
+                let contentHtml = '';
+                if (fullEntry.content) {
+                    let content = fullEntry.content;
+                    // Convert markdown links to HTML
+                    content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" style="color: #58a6ff; text-decoration: none;">$1</a>');
+                    // Convert newlines to breaks
+                    content = content.replace(/\n/g, '<br>');
+                    contentHtml = `<div class="chronology-content">${content}</div>`;
+                }
+                
+                // Render details with markdown links converted to HTML
+                let detailsHtml = '';
+                if (fullEntry.details) {
+                    let details = fullEntry.details;
+                    details = details.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" style="color: #58a6ff; text-decoration: none;">$1</a>');
+                    details = details.replace(/\n/g, '<br>');
+                    detailsHtml = `<div class="chronology-content" style="margin-top: 10px;"><strong style="color: #58a6ff;">Details:</strong><br>${details}</div>`;
+                }
+                
+                // Render images
+                const imagesHtml = fullEntry.images && fullEntry.images.length > 0
+                    ? `<div class="chronology-images">${fullEntry.images.map(img => {
+                        const imgSrc = img.src.startsWith('dist/') ? img.src : `dist/${img.src}`;
+                        return `<img src="${escapeHtml(imgSrc)}" alt="${escapeHtml(img.alt || 'Event image')}" loading="lazy">`;
+                    }).join('')}</div>`
                     : '';
                 
-                const imagesHtml = event.images && event.images.length > 0
-                    ? `<div class="chronology-images">${event.images.map(img => `<img src="${escapeHtml(img)}" alt="Event image" loading="lazy">`).join('')}</div>`
+                // Render links
+                const linksHtml = fullEntry.links && fullEntry.links.length > 0
+                    ? `<div class="chronology-links">${fullEntry.links.map(link => 
+                        `<a href="${escapeHtml(link.url)}" target="_blank">${escapeHtml(link.text)}</a>`
+                    ).join('')}</div>`
                     : '';
                 
                 return `
                     <div class="chronology-entry">
-                        <div class="chronology-date">${escapeHtml(event.originalDateStr || event.date.getFullYear())}</div>
-                        <div class="chronology-title">${escapeHtml(event.title)}</div>
-                        ${event.description ? `<div class="chronology-content">${escapeHtml(event.description)}</div>` : ''}
+                        <div class="chronology-date">${escapeHtml(fullEntry.date)}</div>
+                        <div class="chronology-title">${escapeHtml(fullEntry.title)}</div>
+                        ${contentHtml}
+                        ${detailsHtml}
                         ${tagsHtml}
                         ${imagesHtml}
                         ${linksHtml}
