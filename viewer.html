@@ -1244,61 +1244,112 @@
         function showChronologyControls() {
             const controlsContainer = document.getElementById('controlsContainer');
             controlsContainer.innerHTML = `
-                <div class="controls">
+                <div class="controls" style="display: flex; flex-direction: column; gap: 16px;">
                     <input type="text" class="search-box" id="searchBox" placeholder="SEARCH CHRONOLOGY...">
-                    <button class="filter-btn active" data-filter="all">ALL</button>
-                    <button class="filter-btn" data-filter="communications">INBOUND & OUTBOUND</button>
-                    <button class="filter-btn" data-filter="outbound">OUTBOUND</button>
-                    <button class="filter-btn" data-filter="inbound">INBOUND</button>
-                    <button class="filter-btn" data-filter="2025">2025</button>
-                    <button class="filter-btn" data-filter="2024">2024</button>
-                    <button class="filter-btn" data-filter="2023">2023</button>
-                    <button class="filter-btn" data-filter="2022">2022</button>
-                    <button class="filter-btn" data-filter="2021">2021</button>
-                    <button class="filter-btn" data-filter="2020">2020</button>
-                    <button class="filter-btn" data-filter="2019">2019</button>
-                    <button class="filter-btn" data-filter="2018">2018</button>
-                    <button class="filter-btn" data-filter="2017">2017</button>
-                    <button class="filter-btn" data-filter="2016">2016</button>
-                    <button class="filter-btn" data-filter="2015">2015</button>
-                    <button class="filter-btn" data-filter="2014">2014</button>
-                    <button class="filter-btn" data-filter="2013">2013</button>
-                    <button class="filter-btn" data-filter="2012">2012</button>
-                    <button class="filter-btn" data-filter="2011">2011</button>
-                    <button class="filter-btn" data-filter="2010">2010</button>
-                    <button class="filter-btn" data-filter="200">2000s</button>
-                    <button class="filter-btn" data-filter="199">1990s</button>
-                    <button class="filter-btn" data-filter="198">1980s</button>
-                    <button class="filter-btn" data-filter="197">1970s</button>
-                    <button class="filter-btn" data-filter="196">1960s</button>
-                    <button class="filter-btn" data-filter="195">1950s</button>
-                    <button class="filter-btn" data-filter="194">1940s</button>
-                    <button class="filter-btn" data-filter="18">1800s</button>
-                    <button class="filter-btn" data-filter="17">1700s</button>
-                    <button class="filter-btn" data-filter="16">1600s</button>
-                    <button class="filter-btn" data-filter="15">1500s</button>
-                    <button class="filter-btn" data-filter="14">1400s</button>
-                    <button class="filter-btn" data-filter="13">1300s</button>
-                    <button class="filter-btn" data-filter="12">1200s</button>
-                    <button class="filter-btn" data-filter="11">1100s</button>
-                    <button class="filter-btn" data-filter="10">1000s</button>
-                    <button class="filter-btn" data-filter="bce">ANCIENT</button>
-                    <button class="filter-btn" data-filter="hearing">HEARINGS</button>
-                    <button class="filter-btn" data-filter="foia">#FOIA</button>
+                    
+                    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+                        <strong style="width: 100%; color: #8b949e; font-size: 0.9em;">CATEGORY TAGS:</strong>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="Outbound" checked> Outbound
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="Inbound" checked> Inbound
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="ContactAttempt" checked> Contact Attempt
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="LegislationPolicy" checked> Legislation
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="CongressionalHearings" checked> Hearings
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="LeaksDeclass" checked> Leaks/FOIA
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="WhistleblowerDisclosures" checked> Whistleblower
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="MilitaryEncounters" checked> Military
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="CivilianSightings" checked> Civilian
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="tag-filter" value="HistoricalPreModern" checked> Historical
+                        </label>
+                        <button onclick="selectAllCategoryTags()" style="padding: 4px 8px; background: #21262d; color: #58a6ff; border: 1px solid #30363d; border-radius: 4px; cursor: pointer; font-size: 0.75em;">ALL</button>
+                        <button onclick="selectNoneCategoryTags()" style="padding: 4px 8px; background: #21262d; color: #58a6ff; border: 1px solid #30363d; border-radius: 4px; cursor: pointer; font-size: 0.75em;">NONE</button>
+                    </div>
+                    
+                    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+                        <strong style="width: 100%; color: #8b949e; font-size: 0.9em;">GEOGRAPHIC REGIONS:</strong>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="USA" checked> USA
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="Canada" checked> Canada
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="Mexico" checked> Mexico
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="Europe" checked> Europe
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="UnitedKingdom" checked> UK
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="LatinAmerica" checked> Latin America
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="Asia" checked> Asia
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="MiddleEast" checked> Middle East
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="Africa" checked> Africa
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="Oceania" checked> Oceania
+                        </label>
+                        <label style="display: flex; align-items: center; gap: 4px; font-size: 0.85em;">
+                            <input type="checkbox" class="geo-filter" value="International" checked> International
+                        </label>
+                        <button onclick="selectAllGeoTags()" style="padding: 4px 8px; background: #21262d; color: #58a6ff; border: 1px solid #30363d; border-radius: 4px; cursor: pointer; font-size: 0.75em;">ALL</button>
+                        <button onclick="selectNoneGeoTags()" style="padding: 4px 8px; background: #21262d; color: #58a6ff; border: 1px solid #30363d; border-radius: 4px; cursor: pointer; font-size: 0.75em;">NONE</button>
+                    </div>
                 </div>
                 <div class="stats" id="stats"></div>
             `;
             
             // Attach event listeners
             document.getElementById('searchBox').addEventListener('input', filterEntries);
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.addEventListener('click', function() {
-                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                    this.classList.add('active');
-                    document.getElementById('searchBox').value = this.dataset.filter === 'all' ? '' : this.dataset.filter;
-                    filterEntries();
-                });
+            document.querySelectorAll('.tag-filter, .geo-filter').forEach(cb => {
+                cb.addEventListener('change', filterEntries);
             });
+        }
+        
+        function selectAllCategoryTags() {
+            document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = true);
+            filterEntries();
+        }
+        
+        function selectNoneCategoryTags() {
+            document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = false);
+            filterEntries();
+        }
+        
+        function selectAllGeoTags() {
+            document.querySelectorAll('.geo-filter').forEach(cb => cb.checked = true);
+            filterEntries();
+        }
+        
+        function selectNoneGeoTags() {
+            document.querySelectorAll('.geo-filter').forEach(cb => cb.checked = false);
+            filterEntries();
         }
         
         function parseChronology(text) {
@@ -1446,125 +1497,37 @@
         function filterEntries() {
             const searchTerm = document.getElementById('searchBox').value.toLowerCase();
             
-            if (searchTerm === '' || searchTerm === 'all') {
-                filteredEntries = [...allEntries];
-            } else {
-                filteredEntries = allEntries.filter(entry => {
+            // Get selected category tags and geographic filters
+            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked')).map(cb => cb.value.toLowerCase());
+            const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked')).map(cb => cb.value.toLowerCase());
+            
+            filteredEntries = allEntries.filter(entry => {
+                const entryTags = entry.tags.map(t => t.toLowerCase().replace('#', ''));
+                
+                // Apply tag filters - entry must match at least one selected category tag AND one selected geo tag
+                const hasMatchingCategoryTag = selectedCategoryTags.length === 0 || 
+                    selectedCategoryTags.some(tag => entryTags.includes(tag));
+                const hasMatchingGeoTag = selectedGeoTags.length === 0 || 
+                    selectedGeoTags.some(tag => entryTags.includes(tag));
+                
+                if (!hasMatchingCategoryTag || !hasMatchingGeoTag) {
+                    return false;
+                }
+                
+                // Apply search term filter
+                if (searchTerm && searchTerm !== '') {
                     const entryDate = entry.date.toLowerCase();
                     const entryTitle = entry.title.toLowerCase();
                     const entryContent = entry.content.toLowerCase();
-                    const entryTags = entry.tags.map(t => t.toLowerCase());
                     
-                    // Check if it's a date/year filter (numbers or bce/ancient)
-                    if (/^\d+$/.test(searchTerm) || searchTerm === 'bce') {
-                        if (searchTerm === 'bce') {
-                            // ANCIENT filter: Match all entries before 1800
-                            // Includes BCE/CE entries and any year starting with 1-17 or 0-9 (pre-1800)
-                            const yearMatch = entryDate.match(/^(\d{1,4})\s*(bce|ce)?/i);
-                            if (!yearMatch) return false;
-                            
-                            const year = parseInt(yearMatch[1]);
-                            const era = yearMatch[2]?.toLowerCase();
-                            
-                            // Include all BCE/CE entries
-                            if (era === 'bce' || era === 'ce') return true;
-                            
-                            // Include all years before 1800
-                            if (year < 1800) return true;
-                            
-                            return false;
-                        }
-                        
-                        // Extract the first year from the date (handles both "2025" and "80 CE" formats)
-                        const yearMatch = entryDate.match(/^(\d{1,4})\s*(bce|ce|,)?/);
-                        if (!yearMatch) return false;
-                        
-                        const year = yearMatch[1];
-                        const era = yearMatch[2];
-                        
-                        // Skip BCE/CE entries for modern year filters
-                        if ((era === 'bce' || era === 'ce') && searchTerm.length >= 3) {
-                            return false;
-                        }
-                        
-                        // For 2-digit century filters (10-18), match start of year (only for non-BCE/CE)
-                        if (searchTerm.length === 2 && !era) {
-                            return year.startsWith(searchTerm);
-                        }
-                        
-                        // For 3-digit decade filters (194-200), match start of year (only for non-BCE/CE)
-                        if (searchTerm.length === 3 && !era) {
-                            return year.startsWith(searchTerm);
-                        }
-                        
-                        // For 4-digit year filters, exact match (only for non-BCE/CE)
-                        if (searchTerm.length === 4 && !era) {
-                            return year === searchTerm;
-                        }
-                        
-                        // For 1-2 digit searches on BCE/CE entries, match the year
-                        if (era && searchTerm.length <= 3) {
-                            return year.startsWith(searchTerm) || year === searchTerm;
-                        }
-                        
-                        // Fallback
-                        return year.startsWith(searchTerm);
-                    }
-                    
-                    // Special filters for communication types
-                    if (searchTerm === 'communications') {
-                        // Combined inbound and outbound
-                        return entryTitle.includes('pioneer') || 
-                               entryTitle.includes('voyager') || 
-                               entryTitle.includes('arecibo') ||
-                               entryTitle.includes('cosmic call') ||
-                               entryTitle.includes('teen age message') ||
-                               entryTitle.includes('hello from earth') ||
-                               entryTitle.includes('wow') || 
-                               entryTitle.includes('chilbolton') || 
-                               entryTitle.includes('crabwood') ||
-                               entryTitle.includes('ariel school') ||
-                               entryTitle.includes('matanzas') ||
-                               entryTitle.includes('varginha') ||
-                               entryContent.includes('outbound') ||
-                               entryContent.includes('inbound') ||
-                               entryContent.includes('message from earth') ||
-                               entryContent.includes('transmitted to') ||
-                               entryContent.includes('crop formation') ||
-                               entryContent.includes('signal from');
-                    }
-                    
-                    if (searchTerm === 'outbound') {
-                        return entryTitle.includes('pioneer') || 
-                               entryTitle.includes('voyager') || 
-                               entryTitle.includes('arecibo') ||
-                               entryTitle.includes('cosmic call') ||
-                               entryTitle.includes('teen age message') ||
-                               entryTitle.includes('hello from earth') ||
-                               entryContent.includes('outbound') ||
-                               entryContent.includes('message from earth') ||
-                               entryContent.includes('transmitted to');
-                    }
-                    
-                    if (searchTerm === 'inbound') {
-                        return entryTitle.includes('wow') || 
-                               entryTitle.includes('chilbolton') || 
-                               entryTitle.includes('crabwood') ||
-                               entryTitle.includes('ariel school') ||
-                               entryTitle.includes('matanzas') ||
-                               entryTitle.includes('varginha') ||
-                               entryContent.includes('inbound') ||
-                               entryContent.includes('crop formation') ||
-                               entryContent.includes('signal from');
-                    }
-                    
-                    // For other filters (hearing, foia, etc), search all fields
                     return entryDate.includes(searchTerm) ||
                            entryTitle.includes(searchTerm) ||
                            entryContent.includes(searchTerm) ||
                            entryTags.some(tag => tag.includes(searchTerm));
-                });
-            }
+                }
+                
+                return true;
+            });
             
             renderChronology();
             updateStats();
