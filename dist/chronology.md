@@ -2570,48 +2570,48 @@ The Nihon Shoki in Japan recorded a glowing object appearing in the sky, moving 
 ## 685 CE - Celestial Signs in the Form of Strange Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 The Venerable Bede in England interpreted strange lights seen in the sky as celestial signs.
 ## 619 CE - Erratically Moving Fiery Object #HistoricalPreModern #Medieval #Asia #Japan
-## 312 CE - Cross of Light Leads to Conversion
+## 312 CE - Cross of Light Leads to Conversion #HistoricalPreModern #Ancient #Europe #Italy
 Eusebius, a historian in Rome, recorded Emperor Constantine seeing a cross of light in the sky, leading him to convert to Christianity.
-## 292 CE - Glowing Object As Celestial Displeasure
+## 292 CE - Glowing Object As Celestial Displeasure #HistoricalPreModern #Ancient #Asia #China
 The Jin Shu in China interpreted a glowing object seen in the sky as a sign of celestial displeasure.
-## 194 CE - Bright Northward-Moving Object
+## 194 CE - Bright Northward-Moving Object #HistoricalPreModern #Ancient #Asia #China
 Records of the Han Dynasty in China noted a bright object appearing in the sky, moving northward.
-## 155 CE - Erratically Moving Strange Star
+## 155 CE - Erratically Moving Strange Star #HistoricalPreModern #Ancient #Asia #China
 The Han Shu in China recorded a strange star appearing in the sky, moving erratically and emitting light.
-## 99 CE - Greece: Pliny the Younger's Wine Jar UFO
+## 99 CE - Greece: Pliny the Younger's Wine Jar UFO #HistoricalPreModern #Ancient #Europe #Italy
 Pliny the Younger, a lawyer and author in Ancient Rome, reported an unidentified object resembling a wine jar appeared in the sky and moved erratically. No further details or explanations were provided about this sighting.
-## 80 CE - Rome: Cassius Dio - A horse-like object with legs was seen moving across the sky.
+## 80 CE - Rome: Cassius Dio - A horse-like object with legs was seen moving across the sky. #HistoricalPreModern #Ancient #Europe #Italy
 Details: Cassius Dio, a Roman statesman and historian, reported a strange sight in the sky in 80 CE. He described an object that resembled a horse with legs moving across the sky. The nature and origin of this object remain unknown.
-## 70 CE, Jerusalem: Josephus - During the siege of Jerusalem, chariots and troops of soldiers in their armour were seen running about among the clouds.
+## 70 CE, Jerusalem: Josephus - During the siege of Jerusalem, chariots and troops of soldiers in their armour were seen running about among the clouds. #HistoricalPreModern #Ancient #MiddleEast #Israel
 Details: Josephus, a first-century Romano-Jewish historian, recorded an eerie sight during the siege of Jerusalem in 70 CE. He reported seeing chariots and troops of soldiers in their armour running about among the clouds, which added to the tension and fear during the siege.
-## 65 CE - Sword-Like Star As War Portent
+## 65 CE - Sword-Like Star As War Portent #HistoricalPreModern #Ancient #MiddleEast #Israel
 Josephus, a historian in Jerusalem, interpreted a star resembling a sword hanging over the city as a portent of war.
-## 9 CE - Rome: Pliny the Elder - A burning shield scattering sparks moved across the sky at sunset, similar to earlier reports.
+## 9 CE - Rome: Pliny the Elder - A burning shield scattering sparks moved across the sky at sunset, similar to earlier reports. #HistoricalPreModern #Ancient #Europe #Italy
 Details: Pliny the Elder, a Roman author, reported a sighting of a burning shield that scattered sparks as it moved across the sky at sunset. This sighting was similar to earlier reports, suggesting a possible pattern or recurring phenomenon.
-## 12 BCE - Bright Comet As Sign of Augustus's Rise
-Pliny the Elder, a natural philosopher in Rome, interpreted a bright comet appearing in the sky as a sign of Augustus's rise to power.
-## 42 BCE - Bright Comet As Omen of Julius Caesar's Death
+## 12 BCE - Bright Comet As Sign Of Augustus's Rise #HistoricalPreModern #Ancient #Europe #Italy
+Pliny the Elder, a Roman author, reported a bright comet appeared in the sky, which was interpreted as a sign of Augustus's rise to power.
+## 42 BCE - Bright Comet As Omen Of Julius Caesar's Death #HistoricalPreModern #Ancient #Europe #Italy
 Cassius Dio, a historian in Rome, saw a bright comet appear in the sky, seen as an omen of Julius Caesar's death.
 ## 
-## 134 BCE - Large Bright Object
+## 134 BCE - Large Bright Object #HistoricalPreModern #Ancient #Europe #Italy
 Julius Obsequens, a chronicler in Rome, noted a large, bright object moving across the sky, witnessed by many.
-## 138 BCE - Fiery Torches In The Sky
+## 138 BCE - Fiery Torches In The Sky #HistoricalPreModern #Ancient #Europe #Italy
 Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
-## 154 BCE - Erratically Moving Bright Light
+## 154 BCE - Erratically Moving Bright Light #HistoricalPreModern #Ancient #Europe #Italy
 Julius Obsequens, a chronicler in Rome, recorded a bright light appearing in the sky over Rome, moving erratically.
-## 331 BCE - Spark of Fire During Temple Construction
+## 331 BCE - Spark of Fire During Temple Construction #HistoricalPreModern #Ancient #Europe #Italy
 Pliny the Elder, a natural philosopher in Rome, noted a spark of fire from the sky seen during the construction of the Temple of Jupiter.
-## 214 BCE - Rome: Livy - A round shield-like object appeared in the sky over Arpi, moving slowly.
+## 214 BCE - Rome: Livy - A round shield-like object appeared in the sky over Arpi, moving slowly. #HistoricalPreModern #Ancient #Europe #Italy
 Details: According to the Roman historian Livy, an object that resembled a round shield was observed in the sky over Arpi in 214 BCE. The object moved slowly across the sky, baffling the onlookers.
-## 218 BCE - Phantom Ships Over Rome
+## 218 BCE - Phantom Ships Over Rome #HistoricalPreModern #Ancient #Europe #Italy
 Livy in Rome reported that "phantom ships" were seen gleaming in the sky over various parts of Rome. According to the Roman historian Livy, there were sightings of what were described as "phantom ships" in the sky. These ships were reportedly seen over various parts of Rome and were described as "gleaming," suggesting they may have been illuminated or reflective. This event is one of the earliest recorded instances of unidentified flying objects (UFOs), although it was interpreted in the context of the ancient Roman world. Further specifics, such as the exact date, the event's duration, or public reaction, are not provided in the record.
-## 85 BCE - Eastward-Moving Large Round Object
+## 85 BCE - Eastward-Moving Large Round Object #HistoricalPreModern #Ancient #Europe #Italy
 Julius Obsequens in Rome reported a large, round object moved eastward in the sky, observed by many.
-## 74 BCE - Flame-Like Object Appears During Battle
+## 74 BCE - Flame-Like Object Appears During Battle #HistoricalPreModern #Ancient #Asia #Turkey
 Plutarch in Turkey reported during a battle between Roman and Mithridatic forces, a large, flame-like object resembling a jar or wine bowl appeared in the sky between the two armies.
-## 66 BCE - Burning Shield Scattering Sparks At Sunset
+## 66 BCE - Burning Shield Scattering Sparks At Sunset #HistoricalPreModern #Ancient #Europe #Italy
 Pliny the Elder in Rome reported a burning shield that scattered sparks across the sky at sunset, which many in Rome saw.
-## 76 BCE - Falling Spark Grows Into Light Ball
+## 76 BCE - Falling Spark Grows Into Light Ball #HistoricalPreModern #Ancient #Europe #Italy
 Julius Obsequens in Rome reported a "spark" fell from a star and grew as it descended, appearing as a ball of light and moving towards the earth.
 
 \
