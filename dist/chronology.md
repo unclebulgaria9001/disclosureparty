@@ -544,7 +544,7 @@ See threads and discussions for links to source materials.
 
 \
 
-## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #law #usadc #USA
+## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #LegislationPolicy #law #usadc #USA
 
 If the Senate passes the yearly NDAA bill and Congress creates and passes a different version of the bill. how do the two get reconciled? This is the National Defence bill
 
@@ -623,7 +623,7 @@ IC IG - November 16
 
 \
 
-## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #quote #law #USA
+## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #CongressionalHearings #quote #law #USA
 
 **Links:**
 
@@ -646,7 +646,7 @@ NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena 
 
 \
 
-## 2023, September 12 - Probably assembled from bones - Discovery of two previously unknown species with unique genetic information, backed up in a DNA database accessible to other scientists for verification. #video #image #dns #new #fake #LatinAmerica #Mexico
+## 2023, September 12 - Probably assembled from bones - Discovery of two previously unknown species with unique genetic information, backed up in a DNA database accessible to other scientists for verification. #ScientificStudies #video #image #dns #new #fake #LatinAmerica #Mexico
 
 This post discusses the discovery of two previously unknown species with unique genetic information backed up in a DNA database accessible to other scientists for verification. Tests, including those by metallurgy specialists, radiologists, and geneticists, have authenticated the bodies and their...
 
@@ -696,7 +696,7 @@ Starting around the 20:40 mark, the discussion delves into the creation of laws 
 
 \
 
-## 2023, August 31 - A new AARO website states that AARO will be accepting reports from current or former U.S. Government employees, service members, or contractors with direct knowledge of U.S. Government programs or activities related to UAP dating back to 1945 and Deputy Defense Secretary Kathleen Hicks recently moved to personally oversee the Pentagon's unidentified anomalous phenomena (UAP) #usadc #USA
+## 2023, August 31 - A new AARO website states that AARO will be accepting reports from current or former U.S. Government employees, service members, or contractors with direct knowledge of U.S. Government programs or activities related to UAP dating back to 1945 and Deputy Defense Secretary Kathleen Hicks recently moved to personally oversee the Pentagon's unidentified anomalous phenomena (UAP) #WhistleblowerDisclosures #usadc #USA
 
 The Department of Defense is reshuffling leadership at the All-Domain Anomaly Resolution Office, the agency within the Pentagon that’s responsible for investigating reports of unidentified aerial phenomena or, as they’re better known, unidentified flying objects. Deputy Secretary Of Defense Kathl...
 
@@ -707,7 +707,7 @@ The Department of Defense is reshuffling leadership at the All-Domain Anomaly Re
 
 \
 
-## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #letter #law #usadc #USA
+## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #CongressionalHearings #letter #law #usadc #USA
 
 **Links:**
 
@@ -715,7 +715,7 @@ The Department of Defense is reshuffling leadership at the All-Domain Anomaly Re
 
 \
 
-## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #usadc #USA
+## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #CongressionalHearings #usadc #USA
 
 Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander David Fravor (Ret.), a Former Commanding Officer of the United States Navy David Grusch (Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense)
 
