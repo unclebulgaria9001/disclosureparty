@@ -3,65 +3,239 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="manifest" href="manifest.json?v=20260103">
-    <meta name="theme-color" content="#58a6ff">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="stylesheet" href="i18n/language-switcher.css">
-    <script src="i18n/translations.js"></script>
-    <meta http-equiv="refresh" content="0; url=viewer.html">
-    <title>Request Direct NHI Communication | UAP/UFO Disclosure Database</title>
+    <title>UAP/UFO/NHI Disclosure Database</title>
     
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Urgent public message to Non-Human Intelligence requesting direct, transparent communication. Comprehensive UAP/UFO disclosure timeline and evidence. Available in 5 languages.">
-    <meta name="keywords" content="NHI, Non-Human Intelligence, UAP, UFO, alien contact, extraterrestrial communication, disclosure, FOIA, 非人类智能, 外星人接触, inteligencia no humana, contacto extraterrestre, ذكاء غير بشري, اتصال خارج كوكب الأرض, inteligência não humana, contato extraterrestre">
+    <meta name="description" content="Interactive timeline and comprehensive documentation of UAP/UFO sightings, NHI encounters, and government disclosures. 1000+ events with advanced filtering.">
+    <meta name="keywords" content="UAP timeline, UFO database, NHI disclosure, interactive timeline, geotimeline, chronology viewer">
     <meta name="robots" content="index, follow">
     
-    <!-- Multilingual hreflang tags -->
-    <link rel="alternate" hreflang="en" href="https://unclebulgaria9001.github.io/disclosureparty/">
-    <link rel="alternate" hreflang="zh" href="https://unclebulgaria9001.github.io/disclosureparty/">
-    <link rel="alternate" hreflang="es" href="https://unclebulgaria9001.github.io/disclosureparty/">
-    <link rel="alternate" hreflang="ar" href="https://unclebulgaria9001.github.io/disclosureparty/">
-    <link rel="alternate" hreflang="pt" href="https://unclebulgaria9001.github.io/disclosureparty/">
-    <link rel="alternate" hreflang="x-default" href="https://unclebulgaria9001.github.io/disclosureparty/">
+    <link rel="manifest" href="manifest.json?v=20260103">
+    <meta name="theme-color" content="#58a6ff">
+    <link rel="stylesheet" href="i18n/language-switcher.css">
+    <script src="i18n/translations.js"></script>
     
-    <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://unclebulgaria9001.github.io/disclosureparty/">
-    <meta property="og:title" content="Request Direct NHI Communication | UAP/UFO Disclosure">
-    <meta property="og:description" content="Urgent message to Non-Human Intelligence requesting direct contact. Comprehensive UAP/UFO disclosure timeline and evidence.">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
         
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
         body {
             font-family: 'Share Tech Mono', 'Courier New', monospace;
-            background: #0a0a0a;
-            color: #00ff00;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
+            background: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            color: #58a6ff;
+            font-size: 2em;
+            margin-bottom: 10px;
             text-align: center;
         }
         
-        .loading {
-            font-size: 1.5em;
-            animation: pulse 1.5s infinite;
+        .subtitle {
+            color: #8b949e;
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 0.95em;
         }
         
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        h2 {
+            color: #58a6ff;
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 5px;
+        }
+        
+        .links {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .link-item {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 15px;
+            text-decoration: none;
+            color: #c9d1d9;
+            transition: all 0.2s;
+            display: block;
+        }
+        
+        .link-item:hover {
+            border-color: #58a6ff;
+            background: #1c2128;
+            transform: translateX(5px);
+        }
+        
+        .link-title {
+            color: #58a6ff;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+        
+        .link-desc {
+            color: #8b949e;
+            font-size: 0.85em;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 30px 0;
+            padding: 20px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            color: #58a6ff;
+            font-size: 1.8em;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            color: #8b949e;
+            font-size: 0.75em;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #30363d;
+            color: #8b949e;
+            font-size: 0.85em;
+        }
+        
+        footer a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.5em;
+            }
+            
+            .stat-number {
+                font-size: 1.4em;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="loading">
-        INITIALIZING TERMINAL...<br>
-        <br>
-        LOADING UAP/UFO/NHI DISCLOSURE DATABASE...<br>
-        <br>
-        If not redirected, <a href="viewer.html" style="color: #00ff00;">click here</a>
+    <div class="container">
+        <h1>🛸 UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+        <div class="subtitle">Interactive Timeline & Comprehensive Documentation</div>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">1000+</div>
+                <div class="stat-label">Events</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">3</div>
+                <div class="stat-label">Views</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">16</div>
+                <div class="stat-label">Categories</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">15+</div>
+                <div class="stat-label">Languages</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>📊 Explore the Database</h2>
+            <div class="links">
+                <a href="timeline.html" class="link-item">
+                    <div class="link-title">Timeline Visualization</div>
+                    <div class="link-desc">D3.js interactive timeline with zoom, pan, and filtering</div>
+                </a>
+                
+                <a href="timeline.html" class="link-item" onclick="event.preventDefault(); window.location.href='timeline.html'; setTimeout(() => document.querySelector('[data-i18n=geoTimeline]').click(), 100)">
+                    <div class="link-title">🗺️ GeoTimeline Map</div>
+                    <div class="link-desc">Interactive world map with clustered event markers</div>
+                </a>
+                
+                <a href="timeline.html" class="link-item" onclick="event.preventDefault(); window.location.href='timeline.html'; setTimeout(() => document.querySelector('[data-i18n=chronology]').click(), 100)">
+                    <div class="link-title">📋 Chronology List</div>
+                    <div class="link-desc">Detailed list view with full descriptions, images, and sources</div>
+                </a>
+                
+                <a href="viewer.html#contact" class="link-item">
+                    <div class="link-title">📡 NHI Contact Message</div>
+                    <div class="link-desc">Public message to Non-Human Intelligence (15+ languages)</div>
+                </a>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🔍 Features</h2>
+            <div class="links">
+                <div class="link-item" style="cursor: default;">
+                    <div class="link-title">Advanced Filtering</div>
+                    <div class="link-desc">Filter by time periods, 16 category tags, and 12 geographic regions</div>
+                </div>
+                
+                <div class="link-item" style="cursor: default;">
+                    <div class="link-title">Comprehensive Content</div>
+                    <div class="link-desc">Government hearings, FOIA releases, military encounters, whistleblower testimony, and more</div>
+                </div>
+                
+                <div class="link-item" style="cursor: default;">
+                    <div class="link-title">Multilingual & Offline</div>
+                    <div class="link-desc">Available in 15+ languages with PWA offline support</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🤝 Contribute</h2>
+            <div class="links">
+                <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=new-event.md" class="link-item">
+                    <div class="link-title">Submit New Event</div>
+                    <div class="link-desc">Help document UAP/UFO/NHI disclosure history</div>
+                </a>
+                
+                <a href="https://github.com/unclebulgaria9001/disclosureparty" class="link-item">
+                    <div class="link-title">GitHub Repository</div>
+                    <div class="link-desc">View source code and contribution guidelines</div>
+                </a>
+            </div>
+        </div>
+        
+        <footer>
+            <p>Open Source • Public Domain (CC0 1.0)</p>
+            <p><a href="https://github.com/unclebulgaria9001/disclosureparty">GitHub</a> • <a href="landing.html">Full Documentation</a></p>
+        </footer>
     </div>
 </body>
 </html>
