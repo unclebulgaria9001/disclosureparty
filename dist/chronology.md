@@ -1040,7 +1040,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017, December - Chris Mellon has spent nearly 20 years in the federal government serving in various national security positions. For the first time, he has agreed to speak publicly about his experiences within government as they relate to UFOs. #quote #usa
+## 2017, December - Chris Mellon has spent nearly 20 years in the federal government serving in various national security positions. For the first time, he has agreed to speak publicly about his experiences within government as they relate to UFOs. #WhistleblowerDisclosures #quote #usa
 
 **Links:**
 
@@ -1048,7 +1048,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017, December - Harry Reid played a key role in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs) #new #news (2023-08-10) #usa
+## 2017, December - Harry Reid played a key role in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs) #HistoricalPreModern #WhistleblowerDisclosures #new #news (2023-08-10) #usa
 
 Former Senate majority leader Harry Reid was key in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs). The program was active from late 2008 through 2011 and cost taxpayers $22 million...
 
@@ -1057,9 +1057,7 @@ Former Senate majority leader Harry Reid was key in initiating the Advanced Aero
 [https://www.usatoday.com/story/news/politics/onpolitics/2017/12/16/pentagon-tracking-ufos-thanks-part-former-sen-harry-reid/958187001/](https://www.usatoday.com/story/news/politics/onpolitics/2017/12/16/pentagon-tracking-ufos-thanks-part-former-sen-harry-reid/958187001/) 
 [https://www.cnn.com/2017/12/16/politics/pentagon-ufo-project/index.html](https://www.cnn.com/2017/12/16/politics/pentagon-ufo-project/index.html) 
 
-\
-
-## 2017, October 19 - The first known interstellar object to visit our solar system, 1I/2017 U1 Oumuamua, was discovered on October 19, 2017, by the University of Hawaii’s Pan-STARRS1 telescope, funded by NASA’s Near-Earth Object Observations (NEOO) Program, which finds and tracks asteroids and comets in Earth’s neighborhood. #theory #limited #space #USA
+## 2017, October 19 - The first known interstellar object to visit our solar system, 1I/2017 U1 Oumuamua, was discovered on October 19, 2017, by the University of Hawaii’s Pan-STARRS1 telescope, funded by NASA’s Near-Earth Object Observations (NEOO) Program, which finds and tracks asteroids and comets in Earth’s neighborhood. #theory #limited #space #USA #Pre2017
 
 Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention for his groundbreaking research in astrophysics, particularly on topics such as black holes and the early universe. However, he has also stirred controversy by delving into the subject of space aliens and their poten...
 
@@ -1067,20 +1065,17 @@ Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention
 
 [https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/) 
 [https://www.scientificamerican.com/article/astronomer-avi-loeb-says-aliens-have-visited-and-hes-not-kidding1/](https://www.scientificamerican.com/article/astronomer-avi-loeb-says-aliens-have-visited-and-hes-not-kidding1/) 
-[https://lweb.cfa.harvard.edu/\~loeb/LK1.pdf](https://lweb.cfa.harvard.edu/\~loeb/LK1.pdf) 
+[https://lweb.cfa.harvard.edu/~loeb/LK1.pdf](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf) 
 
 **Photos:**
 
 ![The First Known Interstellar Object To Visit Our S 1](images/2017-the-first-known-interstellar-object-to-visit-our-s-1.png)
 
-\
-
-## 2016, April - Tom DeLonge states he was told by unnamed "advisors" that there were multiple UAP crashes and recoveries #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image #USA
+## 2016, April - Tom DeLonge states he was told by unnamed "advisors" that there were multiple UAP crashes and recoveries #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image #USA #Pre2017
 
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
-\
 
-## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
+## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa #Pre2017
 
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are m...
 
@@ -1088,23 +1083,7 @@ DeLonge states he has been told how public perception on UAP has been shaped by 
 
 [https://www.coasttocoastam.com/show/2016-03-27-show/](https://www.coasttocoastam.com/show/2016-03-27-show/) 
 
-\
-
-## 2016 - New UFO image declassified by Department of Defense. #FOIA #iraq #MiddleEast
-
-The Department of Defense has declassified a new UFO image showing a metallic-looking orb flying over Mosul, Iraq. The image was taken by a US spy plane in April 2016 and was part of a classified briefing video on UFOs presented to various US government agencies.
-
-**Links:**
-
-[https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/newufoimagedeclassifiedbydepartmentof/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=2](https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2)[https://drive.google.com/file/d/1hqgZDTS28Uah9Ay-0IlzFeRy24QpA7ch/view?usp=drivelink](https://drive.google.com/file/d/1hqgZDTS28Uah9Ay-0IlzFeRy24QpA7ch/view?usp=drive_link) 
-
-**Photos:**
-
-![New Ufo Image Declassified By Department Of Defens 1](images/2016-new-ufo-image-declassified-by-department-of-defens-1.png)
-
-\
-
-## 2015, November 5 - The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before. #FOIA #usa
+## 2015, November 5 - The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before. #FOIA #usa #Pre2017
 
 Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed several officers from the NRO Mission Integration Directorate (MID) connected to the IG’s evaluation of DOD handling/response to the UAP subject.
 
@@ -1112,17 +1091,13 @@ Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed seve
 
 [https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf ](https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf) 
 
-\
-
-## 2015, March 13 - Kit Green states the records of Ret. USAF John Burroughs, Rendlesham Forest incident witness, were legally classified by the DOD. Green states only a handful of medical records were classified and the reasons were because inside the doctors notes, nursing, etc. are a “myriad of references to Special Access Projects” and the names of other adjacent and ancillary programs and projects that can not be disentangled and could uncover active/recent projects related to Rendlesham. Green states broadband non-ionizing electromagnetic radiation caused the injuries, the data is sparse and it is not well understood or peer reviewed. #HistoricalPreModern? #FOIA #ClassifiedRecords #Rendlesham #UAPRecordsCollection #USA
+## 2015, March 13 - Kit Green states the records of Ret. USAF John Burroughs, Rendlesham Forest incident witness, were legally classified by the DOD. Green states only a handful of medical records were classified and the reasons were because inside the doctors notes, nursing, etc. are a “myriad of references to Special Access Projects” and the names of other adjacent and ancillary programs and projects that can not be disentangled and could uncover active/recent projects related to Rendlesham. Green states broadband non-ionizing electromagnetic radiation caused the injuries, the data is sparse and it is not well understood or peer reviewed. #HistoricalPreModern? #FOIA #ClassifiedRecords #Rendlesham #UAPRecordsCollection #USA #Pre2017
 
 **Links:**
 
 [https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927](https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927) 
 
-\
-
-## 2015, March 6 - Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that in a TS/SCI organization in El Segundo, CA, he had lunch with a senior USAF NCO who worked for Project Blue Book in the 1970s after it had publicly disbanded. He was an ELINT technician who flew in RC-135s from MacDill AFB in Florida. He allegedly told Fish they were sometimes diverted to track UAP off the east coast of Florida; the UAP allegedly came from a hotspot east of Miami, north of Bermuda. A specific frequency emanated from them, and UAP evidence was sent to a “dedicated” USAF intelligence officer. #rumor #wiki #ysacalifornia #USA
+## 2015, March 6 - Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that in a TS/SCI organization in El Segundo, CA, he had lunch with a senior USAF NCO who worked for Project Blue Book in the 1970s after it had publicly disbanded. He was an ELINT technician who flew in RC-135s from MacDill AFB in Florida. He allegedly told Fish they were sometimes diverted to track UAP off the east coast of Florida; the UAP allegedly came from a hotspot east of Miami, north of Bermuda. A specific frequency emanated from them, and UAP evidence was sent to a “dedicated” USAF intelligence officer. #LeaksDeclass #rumor #wiki #ysacalifornia #USA #Pre2017
 
 ##
 
@@ -1130,40 +1105,7 @@ Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed seve
 
 [https://wikileaks.org/podesta-emails/emailid/31721](https://wikileaks.org/podesta-emails/emailid/31721) 
 
-\
-
-## 2015 - Gimbal is one of three US military videos of unidentified aerial phenomenon (UAP) #video #sensors #USA
-
-2015-Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.480p
-
-**Links:**
-
-[https://drive.google.com/file/d/1EqgogcCDBxZtYnjizgJzywZH_JOLRVg3/view?usp=drive_link](https://drive.google.com/file/d/1EqgogcCDBxZtYnjizgJzywZH_JOLRVg3/view?usp=drive_link) 
-[https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm) 
-[https://commons.m.wikimedia.org/wiki/File:Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm](https://commons.m.wikimedia.org/wiki/File:Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm) 
-
-**Photos:**
-
-![Gimbal Is One Of Three Us Military Videos Of Unide 1](images/2015-gimbal-is-one-of-three-us-military-videos-of-unide-1.png)
-
-\
-
-## 2015 - Go Fast Official USG Footage of UAP for Public Release #video #sensors #USA
-
-2015-Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm.480p
-
-**Links:**
-
-[https://drive.google.com/file/d/1Er7Ejv3CoWksUIuzo8OC4lxwaEIrmKc4/view?usp=drive_link](https://drive.google.com/file/d/1Er7Ejv3CoWksUIuzo8OC4lxwaEIrmKc4/view?usp=drive_link) 
-[https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm) 
-
-**Photos:**
-
-![Go Fast Official Usg Footage Of Uap For Public Rel 1](images/2015-go-fast-official-usg-footage-of-uap-for-public-rel-1.png)
-
-\
-
-## 2014 - Pope Francis says he would baptize aliens: 'Who are we to close doors #quote#Europe
+## 2014 - Pope Francis says he would baptize aliens: 'Who are we to close doors #ReligiousCultural #quote #Europe #Pre2017
 
 Pope Francis expressed his openness to baptizing aliens during a homily on acceptance and inclusion within the Catholic Church. He referred to a Bible story about pagans' conversion to Christianity and emphasized accepting the Holy Spirit, even if it comes in unimaginable forms. The Pope humorous...
 
@@ -1171,9 +1113,7 @@ Pope Francis expressed his openness to baptizing aliens during a homily on accep
 
 [https://www.independent.co.uk/news/world/europe/pope-francis-says-he-would-baptise-aliens-9360632.html](https://www.independent.co.uk/news/world/europe/pope-francis-says-he-would-baptise-aliens-9360632.html) 
 
-\
-
-## 2014 - Testimony under oath. Ryan “FOBS” Graves, a former F-18 pilot in the U.S. Navy with over a decade of service UAP (Unidentified Aerial Phenomena) events that he witnessed during my service. #new #alien (2023-08-10) #USA
+## 2014 - Testimony under oath. Ryan “FOBS” Graves, a former F-18 pilot in the U.S. Navy with over a decade of service UAP (Unidentified Aerial Phenomena) events that he witnessed during my service. #new #alien (2023-08-10) #USA #Pre2017
 
 Beginning in 2014, I was stationed near Virginia Beach, and my squadron, VFA-11, was equipped with upgraded radar systems. It was then that we began detecting unexplained UAP in our airspace. Initially considered software glitches, we confirmed their physical presence through infrared sensors. Ov...
 
