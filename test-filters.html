@@ -129,12 +129,17 @@
                 
                 if (headerMatch) {
                     if (currentEntry) allEvents.push(currentEntry);
+                    
+                    const titleAndTags = headerMatch[2];
+                    const tags = titleAndTags.match(/#[A-Za-z0-9_]+/g) || [];
+                    
                     currentEntry = {
                         date: headerMatch[1],
-                        title: headerMatch[2],
-                        tags: []
+                        title: titleAndTags,
+                        tags: tags
                     };
                 } else if (currentEntry) {
+                    // Also check for tags on subsequent lines
                     const tags = line.match(/#[A-Za-z0-9_]+/g);
                     if (tags) currentEntry.tags.push(...tags);
                 }
