@@ -1179,13 +1179,13 @@ Former President Barack Obama has acknowledged the presence of footage and recor
 
 \
 
-## 2021 - Former Nevada Sen. Harry Reid believes US defense contractor Lockheed Martin may have once had fragments of a crashed UFO in its possession, it was revealed Friday. #quote #new (2023-09-10) #usa #USA
+## 2021 - Former Nevada Sen. Harry Reid believes US defense contractor Lockheed Martin may have once had fragments of a crashed UFO in its possession, it was revealed Friday. #WhistleblowerDisclosures #quote #new (2023-09-10) #usa #USA
 
 Former Nevada Sen. Harry Reid has suggested that defense contractor Lockheed Martin might have possessed fragments of a crashed UFO, though he never saw any proof and was denied Pentagon approval to investigate. Reid, a Democrat, claimed that he tried to gain classified approval to examine the al...
 
 \
 
-## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa #USA
+## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIARelease #FOIA++ #usa #USA
 
 Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, following his role as Assistant Deputy Director for Intelligence, Surveillance, and Reconnaissance Operations at the Joint Chiefs of Staff. Several Freedom of Information Act #FOIA requests have been initiated to retri...
 
@@ -1197,7 +1197,7 @@ Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, f
 
 \
 
-## 2021 - Harry Reid reflects on his interest in UFOs #quote #usa #USA
+## 2021 - Harry Reid reflects on his interest in UFOs #WhistleblowerDisclosures #quote #usa #USA
 
 Harry Reid reflects on his enduring interest in UFOs, tracing it back to his attendance at a conference on unidentified aerial phenomena. In 2007, he collaborated with fellow senators to secure funding for the Advanced Aerospace Threat Identification Program, which investigated UFO reports involv...
 
@@ -1207,7 +1207,7 @@ Harry Reid reflects on his enduring interest in UFOs, tracing it back to his att
 
 \
 
-## 2020 - December 2020, Retired general, Eshed #quote #MiddleEast #Israel
+## 2020 - December 2020, Retired general, Eshed #WhistleblowerDisclosures #quote #MiddleEast #Israel
 
 Former Israeli space security chief Haim Eshed claimed that humanity has been engaged with extraterrestrials from a "galactic federation." According to Eshed, these extraterrestrial beings have requested their presence to remain undisclosed due to humanity's lack of readiness to comprehend it ful...
 
@@ -1217,7 +1217,7 @@ Former Israeli space security chief Haim Eshed claimed that humanity has been en
 
 \
 
-## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
+## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #LegislationPolicy #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
 
 May 2023:
 
