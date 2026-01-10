@@ -642,12 +642,6 @@ NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena 
 
 **Photos:**
 
-![Nasa Is Well Positioned To Contribute To Studying 1](images/2023-nasa-is-well-positioned-to-contribute-to-studying-1.png)
-
-\
-
-## 2023, September 12 - Probably assembled from bones - Discovery of two previously unknown species with unique genetic information, backed up in a DNA database accessible to other scientists for verification. #video #image #dns #new #fake #LatinAmerica #Mexico
-
 This post discusses the discovery of two previously unknown species with unique genetic information backed up in a DNA database accessible to other scientists for verification. Tests, including those by metallurgy specialists, radiologists, and geneticists, have authenticated the bodies and their...
 
 **Links:**
@@ -661,144 +655,9 @@ This post discusses the discovery of two previously unknown species with unique 
 [https://www.ncbi.nlm.nih.gov/sra/PRJNA869134](https://www.ncbi.nlm.nih.gov/sra/PRJNA869134) 
 [https://www.ncbi.nlm.nih.gov/sra/PRJNA865375](https://www.ncbi.nlm.nih.gov/sra/PRJNA865375) 
 
-\
-
-## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #LatinAmerica #Mexico
-
-The Mexican Chamber of Deputies is set to conduct a public hearing similar to those held in the United States Congress, focusing on unidentified flying objects (UFOs). Morenista representative Sergio Gutiérez Luna announced this, with renowned UFO specialist Jaime Maussan participating in the eve...
-
-**Links:**
-
-[https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/](https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/) 
-[https://reddit.com/r/UFOs/s/TwS6ldXrDw](https://reddit.com/r/UFOs/s/TwS6ldXrDw) 
-[https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/?](https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/?share_id=vA4tY2tTcMa88vfLHHL9i&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1) 
-
-\
-
-## 2023, September 12 - NASA's James Webb Space Telescope may have detected a molecule called dimethyl sulphide (DMS). On Earth, at least, this is only produced by life. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #International
-
-NASA's James Webb Space Telescope has potentially discovered a molecule called dimethyl sulphide (DMS) on a distant planet, K2-18b, which could indicate life, as living organisms on Earth typically produce DMS. However, researchers emphasize that this finding is not yet confirmed, and more data i...
-
-**Links:**
-
-[https://www.bbc.com/news/science-environment-66786611](https://www.bbc.com/news/science-environment-66786611) 
-
-\
-
-## 2023, September 12 - New David Grusch interview #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
-
-Starting around the 20:40 mark, the discussion delves into the creation of laws related to obfuscation and secrecy by the officials involved in the Manhattan Project. It's highlighted that UAP materials emitting radiation are intentionally classified under the Atomic Energy Act. Moving to the 23:...
-
-**Links:**
-
-[https://reddit.com/r/UFOs/s/wLeZWgUZN5](https://reddit.com/r/UFOs/s/wLeZWgUZN5) 
-[https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf) 
-
-\
-
-## 2023, August 31 - A new AARO website states that AARO will be accepting reports from current or former U.S. Government employees, service members, or contractors with direct knowledge of U.S. Government programs or activities related to UAP dating back to 1945 and Deputy Defense Secretary Kathleen Hicks recently moved to personally oversee the Pentagon's unidentified anomalous phenomena (UAP) #usadc #USA
-
-The Department of Defense is reshuffling leadership at the All-Domain Anomaly Resolution Office, the agency within the Pentagon that’s responsible for investigating reports of unidentified aerial phenomena or, as they’re better known, unidentified flying objects. Deputy Secretary Of Defense Kathl...
-
-**Links:**
-
-[https://www.aaro.mil/](https://www.aaro.mil/) 
-[https://www.reddit.com/r/UFOs/comments/166hyc9/aaro_mission_brief_interesting_sections/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1](https://www.reddit.com/r/UFOs/comments/166hyc9/aaro_mission_brief_interesting_sections/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) 
-
-\
-
-## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #LegislationPolicy #letter #law #usadc #USA
-
-**Links:**
-
-[https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector](https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector)[https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf](https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf) 
-
-\
-
-## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #CongressionalHearings #WhistleblowerDisclosures #usadc #USA
-
-Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander David Fravor (Ret.), a Former Commanding Officer of the United States Navy David Grusch (Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense)
-
-**Links:**
-
-[https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/) 
-[https://oversight.house.gov/hearing/?f-post-month=07&f-post-year=2023](https://oversight.house.gov/hearing/?f-post-month=07&f-post-year=2023) 
-
-\
-
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #LegislationPolicy #law #USA
-
-#usadc
-
-**Links:**
-
-[https://www.congress.gov/bill/118th-congress/senate-bill/2226](https://www.congress.gov/bill/118th-congress/senate-bill/2226)
-
-\
-
-## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #LegislationPolicy #law #usadc #USA
-
-**Links:**
-
-[https://www.congress.gov/bill/118th-congress/senate-bill/2103](https://www.congress.gov/bill/118th-congress/senate-bill/2103) 
-
-\
-
-## 2023, September 22 - Unidentified Aerial Phenomena (UAP), a batch of documents and videos, has emerged from the United States Customs and Border Protection (CBP). #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
-
-there is a large glowing disc that enters at the top right and passes to the left, distorting the recording. -  minute mark one starts
-
-**Links:**
-
-[https://www.theblackvault.com/documentarchive/uap-documents-and-videos-surface-from-u-s-customs-and-border-protection/](https://www.theblackvault.com/documentarchive/uap-documents-and-videos-surface-from-u-s-customs-and-border-protection/) 
-[https://documents3.theblackvault.com/documents/cbp/CBP-UAP.zip](https://documents3.theblackvault.com/documents/cbp/CBP-UAP.zip) 
-[https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%201.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%201.mp4) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.1%20.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.1%20.mp4) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.2.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.2.mp4) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%203.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%203.mp4) 
-[https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-5.wmv](https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-5.wmv) 
-[https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-6.wmv](https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-6.wmv) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%207.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%207.mp4) 
-[https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-8.wmv](https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-8.wmv) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%209.avi](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%209.avi) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.avi](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.avi) 
-[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.mp4) 
-
 **Photos:**
 
-![Unidentified Aerial Phenomena Uap A Batch Of Docum 2](images/2023-unidentified-aerial-phenomena-uap-a-batch-of-docum-2.png)
-![Unidentified Aerial Phenomena Uap A Batch Of Docum 1](images/2023-unidentified-aerial-phenomena-uap-a-batch-of-docum-1.png)
-
-**Details:**
-
-[Video at 5:48](https://www.youtube.com/watch?v=On8ikZfxFO4&t=348s)
- The origins of this release remain a mystery. There are two main possibilities: either CBP took the initiative to proactively disclose these materials to the public, or they were released as a result of a Freedom of Information Act (FOIA) request. The Black Vault currently has multiple FOIA cases with CBP. Some of these requests were transferred to other agencies, while others remain open with CBP.
-
-\
-
-## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO #FOIARelease #new #map #USA #Asia #Japan
-
-**Links:**
-
-[https://www.reddit.com/r/UFOs/comments/16a3fcq/pentagon_releases_new_map_of_ufo_hotspots_japan/?utm_source=share&utm_medium=web2x&context=3](https://www.reddit.com/r/UFOs/comments/16a3fcq/pentagon_releases_new_map_of_ufo_hotspots_japan/?utm_source=share&utm_medium=web2x&context=3) 
-[https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/](https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/) 
-[https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/](https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/) 
-
-**Photos:**
-
-![Pentagon Releases New Map Of Ufo Hotspots Japan Tu 2](images/2023-pentagon-releases-new-map-of-ufo-hotspots-japan-tu-2.png)
-![Pentagon Releases New Map Of Ufo Hotspots Japan Tu 1](images/2023-pentagon-releases-new-map-of-ufo-hotspots-japan-tu-1.jpg)
-
-\
-
-## 2023, August - Senator Kirsten Gillibrand #WhistleblowerDisclosures #LegislationPolicy #quote #usadc #USA
-
-David Grusch's testimony received the most attention with his statement: "I have no ability to verify that testimony because we’ve not been told of any such programs. We’ve asked for all information related to all programs and have not been given that detail." As someone who helped secure full fu...
-
-**Links:**
-
-[https://www.cityandstateny.com/personality/2023/08/kirsten-gillibrand-wants-know-truth-about-aliens/389198/](https://www.cityandstateny.com/personality/2023/08/kirsten-gillibrand-wants-know-truth-about-aliens/389198/) 
+![Nasa Is Well Positioned To Contribute To Studying 1](images/2023-nasa-is-well-positioned-to-contribute-to-studying-1.png)
 
 \
 
@@ -821,42 +680,7 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 \
 
-## 2023, July - Congress debrief - Leaked debrief used by Congress to prepare for the hearing #LeaksDeclass #law #usadc #USA
-
-The 177-page debrief has been parsed into chunks for easier consumption. 1947 - 1960 -
-
-**Links:**
-
-[https://public.amplenote.com/9uoxxbKEUZhqf4zWY6Yr7nnh](https://public.amplenote.com/9uoxxbKEUZhqf4zWY6Yr7nnh)
-[https://www.reddit.com/r/UFOs/comments/15ar22l/177pagedebriefgiventocongresspostedby/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=1](https://www.reddit.com/r/UFOs/comments/15ar22l/177_page_debrief_given_to_congress_posted_by/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) 
-[https://public.amplenote.com/B1Wedit627kCRFjHLbSpup32](https://public.amplenote.com/B1Wedit627kCRFjHLbSpup32) 
-
-**Details:**
-
-1981 - 2000 - [https://public.amplenote.com/rMyRZEDyPky8Nki4NruXfkxL](https://public.amplenote.com/rMyRZEDyPky8Nki4NruXfkxL) 
-2001 - 2019 - [https://public.amplenote.com/mnWPDofM97cAKfeEebLacBX2](https://public.amplenote.com/mnWPDofM97cAKfeEebLacBX2) 
-2020 - 2023 - [https://public.amplenote.com/KVrMUCFLYRr6K4FXmrLHec1a](https://public.amplenote.com/KVrMUCFLYRr6K4FXmrLHec1a) 
-Ryan Graves, the Executive Director of Americans for Safe Aerospace, emphasizes the regularity and seriousness of UFO sightings in restricted airspace off the Atlantic Coast. He stresses the need for serious investigation and acknowledgement of potential threats posed by these unidentified objects. Commander David Fravor, a former U.S. Navy pilot, recounts a UFO encounter in 2004 involving a white Tic Tac-shaped object exhibiting unconventional behaviour. Fravor believes it should be studied more closely for technological insights. David Grusch, a former USAF officer and intelligence official, claims the U.S. government possesses non-human spacecraft and deceased pilots through a secretive UFO recovery program. He alleges government involvement with the Vatican and the Five Eyes. A congressional hearing on UFOs revealed that around 95% of sightings go unreported due to stigma, and suggestions were made to use existing NASA databases to track sightings with actual sensor footage. The hearing emphasized the serious nature of the issue, acknowledging the presence of career officers with decades of experience and the commitment to transparency and pressure on the matter.
-
-\
-
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024 #LegislationPolicy #law #usadc #USA
-
-The legislation, outlined in multiple sections, aims to establish a comprehensive framework for handling and disclosing records related to Unidentified Anomalous Phenomena (UAPs) within the United States government. It mandates the creation of the "Unidentified Anomalous Phenomena Records Collect...
-
-**Links:**
-
-[https://www.congress.gov/bill/118th-congress/senate-bill/2226](https://www.congress.gov/bill/118th-congress/senate-bill/2226)[https://www.congress.gov/amendment/118th-congress/senate-amendment/935/text](https://www.congress.gov/amendment/118th-congress/senate-amendment/935/text) 
-
-\
-
-## 2023, July - S.2103 — 118th Congress (2023-2024) #LegislationPolicy #law #usadc #USA
-
-The Intelligence Authorization Act for Fiscal Year 2024, detailed across pages 209 and 110, introduces amendments concerning Unidentified Anomalous Phenomena (UAPs). The act defines key terms such as "Director" and "Unidentified Anomalous Phenomena" and expresses concern about potential technolog...
-
-\
-
-## 2023, July - Tim Burchett (R-TN) I have seen better-quality videos; they need to release them #quote #USA
+## 2023, July - Tim Burchett (R-TN) I have seen better-quality videos; they need to release them #WhistleblowerDisclosures #quote #USA
 
 **Links:**
 
@@ -864,7 +688,7 @@ The Intelligence Authorization Act for Fiscal Year 2024, detailed across pages 2
 
 \
 
-## 2023, June - Karl E. Nell is a possible first-hand witness. “His assertion concerning the existence of a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence,” said Karl Nell, the retired Army Colonel who worked with Grusch on the UAP Task Force. #usadc #USA
+## 2023, June - Karl E. Nell is a possible first-hand witness. "His assertion concerning the existence of a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence," said Karl Nell, the retired Army Colonel who worked with Grusch on the UAP Task Force. #WhistleblowerDisclosures #MilitaryEncounters #usadc #USA
 
 Karl E. Nell, a recently retired Army Colonel and current aerospace executive who was the Army’s liaison for the UAP Task Force from 2021 to 2022 and worked with Grusch there, characterizes Grusch as “beyond reproach.""
 
@@ -875,17 +699,7 @@ Karl E. Nell, a recently retired Army Colonel and current aerospace executive wh
 
 \
 
-## 2023, June - UFO Whistleblower David Grusch - Full Interview 06/11/2023 #news #usava #USA
-
-In June 2023, David Grusch, a former USAF officer and intelligence official, publicly asserted that the U.S. government operates a covert UFO recovery program, possessing non-human spacecraft and deceased pilots. Grusch lodged whistleblower complaints in 2022 and 2021 to disclose classified UFO i...
-
-**Links:**
-
-[https://www.youtube.com/watch?v=GV4SRQRfDQs](https://www.youtube.com/watch?v=GV4SRQRfDQs) 
-
-\
-
-## 2023, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
+## 2023, July - John Kirby Now, we're not saying what they are or are not.  We're saying that there's something our pilots are seeing. #WhistleblowerDisclosures #quote #usadc #USA
 
 The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
@@ -895,65 +709,13 @@ The Pentagon has established an organization to compile and coordinate reports o
 
 \
 
-## 2023, July - Former intelligence chief Christopher Mellon has said he believes the US has recovered technology that 'did not originate on this earth'. #quote #usa
+## 2023, July - Former intelligence chief Christopher Mellon has said he believes the US has recovered technology that 'did not originate on this earth' #WhistleblowerDisclosures #quote #usa
 
 I've been told that we have recovered technology that did not originate on this Earth, by officials in the Department of Defense and by former intelligence officials
 
 **Links:**
 
 [https://www.dailymail.co.uk/news/article-12335257/Former-defense-official-says-recovered-technology-did-not-originate-earth.html](https://www.dailymail.co.uk/news/article-12335257/Former-defense-official-says-recovered-technology-did-not-originate-earth.html) 
-
-\
-
-## 2023, June 20 - Turkey UFO #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO #MiddleEast #Turkey
-
-A reader from Poland, who was vacationing in Turkey, wrote to a Reddit user. While relaxing on the beach, she decided to use a feature of her iPhone 13 Pro Max that allows taking a series of quick photos. The phone took six nearly identical pictures, but something unusual appeared in one of them,...
-
-**Links:**
-
-[https://www.reddit.com/r/UFOs/comments/16a5ujh/uap_best_sighting_ever_turkey/](https://www.reddit.com/r/UFOs/comments/16a5ujh/uap_best_sighting_ever_turkey/) 
-[https://youtu.be/XAoiWByrJQI](https://youtu.be/XAoiWByrJQI) 
-[https://easyupload.io/m/vu3tze](https://easyupload.io/m/vu3tze) 
-
-**Photos:**
-
-![Turkey Ufo 1](images/2023-turkey-ufo-1.png)
-
-\
-
-## 2023, June - Gillibrand Secures Full Funding For UAP Office In Senate Defense Bill Markup. Jun 23, 2023 #LegislationPolicy #law #usadc #USA
-
-U.S. Senator Kirsten Gillibrand announced that she had secured full funding for the All-domain Anomaly Resolution Office (AARO) in the Senate Armed Services Committee’s FY24 National Defense Authorization Act markup. Earlier this year, Gillibrand and Senator Marco Rubio (R-FL) led a bipartisan pu...
-
-**Links:**
-
-[https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/](https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/) 
-
-\
-
-## 2023, May - Australian Air Force UAP FOIA #FOIA #Oceania #Australia
-
-t is outlined that there have been recent developments regarding Unidentified Aerial Phenomena (UAP) or Unidentified Flying Objects (UFOs). The United States Department of Defense has released information about these phenomena, emphasizing their potential impact on military operations and the nee...
-
-**Links:**
-
-[https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf](https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf) 
-[https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/](https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/) 
-
-\
-
-## 2023, May 31 - Western U.S. Objects  #new (2023-09-04) #usa
-
-2023, May 24 - FVEY Inaugural UAP Caucus Working Group FVEY Inaugural UAP Caucus Working Group” meeting. FVEY, which stands for “Five Eyes,” is an intelligence alliance that includes Australia, Canada, New Zealand, the United Kingdom, and the United States. It encourages collaboration and intelli...
-
-**Links:**
-
-[https://www.dvidshub.net/video/885193/western-us-objects](https://www.dvidshub.net/video/885193/western-us-objects) 
-[https://www.theblackvault.com/documentarchive/wp-content/uploads/2024/06/23-F-1049-1.pdf](https://www.theblackvault.com/documentarchive/wp-content/uploads/2024/06/23-F-1049-1.pdf) 
-
-**Photos:**
-
-![Western Us Objects New 2023 09 04 Usa 1](images/2023-western-us-objects-new-2023-09-04-usa-1.png)
 
 \
 
@@ -965,7 +727,7 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 \
 
-## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the Canadian government was responding to the Feb. 11 Yukon incident. In addition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #20 #new  (2023-09-10) #canada #usa
+## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the government planned to study the wreckage of an unidentified object shot down over Yukon in February 2023 #FOIARelease #MilitaryEncounters #20 #new #canada #usaddition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #20 #new  (2023-09-10) #canada #usa
 
 The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed concern that the indigenous hunters might accidentally find the object during their caribou hunt. It also explained that while CAF CF-18s Hornets had been scrambled to intercept the object, “F-22s were better located...
 
