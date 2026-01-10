@@ -882,46 +882,146 @@
                     
                     <div class="filter-section">
                         <div class="filter-section-title">GEOGRAPHIC REGIONS</div>
+                        <div style="display: flex; gap: 4px; margin-bottom: 8px;">
+                            <button onclick="selectAllGeoFilters()" style="flex: 1; padding: 4px 8px; background: #21262d; color: #58a6ff; border: 1px solid #30363d; border-radius: 4px; cursor: pointer; font-size: 0.75em;">ALL</button>
+                            <button onclick="selectNoneGeoFilters()" style="flex: 1; padding: 4px 8px; background: #21262d; color: #58a6ff; border: 1px solid #30363d; border-radius: 4px; cursor: pointer; font-size: 0.75em;">NONE</button>
+                        </div>
                         <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
                             <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="USA" checked onchange="applyTagFilters()">
+                                <input type="checkbox" class="tag-filter geo-filter" value="USA" checked onchange="applyTagFilters()">
                                 <span>USA <span class="tag-count" data-tag="USA"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Europe" checked onchange="applyTagFilters()">
-                                <span>Europe <span class="tag-count" data-tag="Europe"></span></span>
+                                <input type="checkbox" class="tag-filter geo-filter" value="UnitedStates" checked onchange="applyTagFilters()">
+                                <span>United States <span class="tag-count" data-tag="UnitedStates"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="LatinAmerica" checked onchange="applyTagFilters()">
-                                <span>Latin America <span class="tag-count" data-tag="LatinAmerica"></span></span>
-                            </label>
-                            <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Asia" checked onchange="applyTagFilters()">
-                                <span>Asia <span class="tag-count" data-tag="Asia"></span></span>
-                            </label>
-                            <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="MiddleEast" checked onchange="applyTagFilters()">
-                                <span>Middle East <span class="tag-count" data-tag="MiddleEast"></span></span>
-                            </label>
-                            <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Africa" checked onchange="applyTagFilters()">
-                                <span>Africa <span class="tag-count" data-tag="Africa"></span></span>
-                            </label>
-                            <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Oceania" checked onchange="applyTagFilters()">
-                                <span>Oceania <span class="tag-count" data-tag="Oceania"></span></span>
-                            </label>
-                            <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Canada" checked onchange="applyTagFilters()">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Canada" checked onchange="applyTagFilters()">
                                 <span>Canada <span class="tag-count" data-tag="Canada"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Russia" checked onchange="applyTagFilters()">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Mexico" checked onchange="applyTagFilters()">
+                                <span>Mexico <span class="tag-count" data-tag="Mexico"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Europe" checked onchange="applyTagFilters()">
+                                <span>Europe <span class="tag-count" data-tag="Europe"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="UnitedKingdom" checked onchange="applyTagFilters()">
+                                <span>United Kingdom <span class="tag-count" data-tag="UnitedKingdom"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="France" checked onchange="applyTagFilters()">
+                                <span>France <span class="tag-count" data-tag="France"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Germany" checked onchange="applyTagFilters()">
+                                <span>Germany <span class="tag-count" data-tag="Germany"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Italy" checked onchange="applyTagFilters()">
+                                <span>Italy <span class="tag-count" data-tag="Italy"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Spain" checked onchange="applyTagFilters()">
+                                <span>Spain <span class="tag-count" data-tag="Spain"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Russia" checked onchange="applyTagFilters()">
                                 <span>Russia <span class="tag-count" data-tag="Russia"></span></span>
                             </label>
                             <label class="period-label" style="font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="International" checked onchange="applyTagFilters()">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Ukraine" checked onchange="applyTagFilters()">
+                                <span>Ukraine <span class="tag-count" data-tag="Ukraine"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="LatinAmerica" checked onchange="applyTagFilters()">
+                                <span>Latin America <span class="tag-count" data-tag="LatinAmerica"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Brazil" checked onchange="applyTagFilters()">
+                                <span>Brazil <span class="tag-count" data-tag="Brazil"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Argentina" checked onchange="applyTagFilters()">
+                                <span>Argentina <span class="tag-count" data-tag="Argentina"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Chile" checked onchange="applyTagFilters()">
+                                <span>Chile <span class="tag-count" data-tag="Chile"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Peru" checked onchange="applyTagFilters()">
+                                <span>Peru <span class="tag-count" data-tag="Peru"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Cuba" checked onchange="applyTagFilters()">
+                                <span>Cuba <span class="tag-count" data-tag="Cuba"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Asia" checked onchange="applyTagFilters()">
+                                <span>Asia <span class="tag-count" data-tag="Asia"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="China" checked onchange="applyTagFilters()">
+                                <span>China <span class="tag-count" data-tag="China"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Japan" checked onchange="applyTagFilters()">
+                                <span>Japan <span class="tag-count" data-tag="Japan"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="India" checked onchange="applyTagFilters()">
+                                <span>India <span class="tag-count" data-tag="India"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="MiddleEast" checked onchange="applyTagFilters()">
+                                <span>Middle East <span class="tag-count" data-tag="MiddleEast"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Israel" checked onchange="applyTagFilters()">
+                                <span>Israel <span class="tag-count" data-tag="Israel"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Iran" checked onchange="applyTagFilters()">
+                                <span>Iran <span class="tag-count" data-tag="Iran"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Turkey" checked onchange="applyTagFilters()">
+                                <span>Turkey <span class="tag-count" data-tag="Turkey"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Africa" checked onchange="applyTagFilters()">
+                                <span>Africa <span class="tag-count" data-tag="Africa"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Egypt" checked onchange="applyTagFilters()">
+                                <span>Egypt <span class="tag-count" data-tag="Egypt"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Zimbabwe" checked onchange="applyTagFilters()">
+                                <span>Zimbabwe <span class="tag-count" data-tag="Zimbabwe"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Oceania" checked onchange="applyTagFilters()">
+                                <span>Oceania <span class="tag-count" data-tag="Oceania"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="Australia" checked onchange="applyTagFilters()">
+                                <span>Australia <span class="tag-count" data-tag="Australia"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="NewZealand" checked onchange="applyTagFilters()">
+                                <span>New Zealand <span class="tag-count" data-tag="NewZealand"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="International" checked onchange="applyTagFilters()">
                                 <span>International <span class="tag-count" data-tag="International"></span></span>
+                            </label>
+                            <label class="period-label" style="font-size: 0.85em;">
+                                <input type="checkbox" class="tag-filter geo-filter" value="MultiCountry" checked onchange="applyTagFilters()">
+                                <span>Multi-Country <span class="tag-count" data-tag="MultiCountry"></span></span>
                             </label>
                         </div>
                     </div>
@@ -2129,6 +2229,16 @@
         
         function deselectAllTags() {
             document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = false);
+            applyTagFilters();
+        }
+        
+        function selectAllGeoFilters() {
+            document.querySelectorAll('.geo-filter').forEach(cb => cb.checked = true);
+            applyTagFilters();
+        }
+        
+        function selectNoneGeoFilters() {
+            document.querySelectorAll('.geo-filter').forEach(cb => cb.checked = false);
             applyTagFilters();
         }
         
