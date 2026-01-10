@@ -1017,7 +1017,7 @@ The Department of Defense (DoD) has officially confirmed to Liberation Times tha
 
 \
 
-## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIA #video #sensors #Asia
+## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIARelease #FOIA #video #sensors #Asia
 
 During an open hearing before the Senate Armed Services Committee on April 19, the Department of Defense (DoD) provided insights into Unidentified Anomalous Phenomena. Dr. Sean Kirkpatrick, the director of the All-domain Anomaly Resolution Office (AARO), displayed videos portraying an unidentifie...
 
@@ -1033,7 +1033,7 @@ During an open hearing before the Senate Armed Services Committee on April 19, t
 
 \
 
-## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #leak #LARPing #conspiracy #atlanticocean #International
+## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #LeaksDeclass #leak #LARPing #conspiracy #atlanticocean #International
 
 The shared DNA system's resemblance implies a common origin, likely stemming from a similar physicochemical process and initial conditions. Non-coding sequences, once dubbed "junk DNA," are vital for gene expression regulation through epigenetics. The 64bp gene address mentioned may solely functi...
 
@@ -1043,7 +1043,7 @@ The shared DNA system's resemblance implies a common origin, likely stemming fro
 
 \
 
-## 2023 - Giant burger-shaped factory ship in the Atlantic #leak #LARPing #conspiracy #atlanticocean #International
+## 2023 - Giant burger-shaped factory ship in the Atlantic #LeaksDeclass #leak #LARPing #conspiracy #atlanticocean #International
 
 This compilation of information and discussions covers various UFO sightings and encounters. There are mentions of a mobile construction facility resembling a "burger" shape located in the Atlantic Ocean that deploys UFOs, primarily unmanned drones created for specific purposes. The discussion de...
 
@@ -1053,7 +1053,7 @@ This compilation of information and discussions covers various UFO sightings and
 
 \
 
-## 2022, May 17 - Navy 2021 Flyby video #new (2023-09-04) #video #offical #unknownlocation #USA
+## 2022, May 17 - Navy 2021 Flyby video #MilitaryEncounters #new (2023-09-04) #video #offical #unknownlocation #USA
 
 Navy 2021 Flyby video
 
