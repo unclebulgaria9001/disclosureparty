@@ -1043,7 +1043,7 @@ During an open hearing before the Senate Armed Services Committee on April 19, t
 
 \
 
-## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #leak #LARPing #conspiracy #atlanticocean
+## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #leak #LARPing #conspiracy #atlanticocean #International
 
 The shared DNA system's resemblance implies a common origin, likely stemming from a similar physicochemical process and initial conditions. Non-coding sequences, once dubbed "junk DNA," are vital for gene expression regulation through epigenetics. The 64bp gene address mentioned may solely functi...
 
@@ -1053,7 +1053,7 @@ The shared DNA system's resemblance implies a common origin, likely stemming fro
 
 \
 
-## 2023 - Giant burger-shaped factory ship in the Atlantic #leak #LARPing #conspiracy #atlanticocean
+## 2023 - Giant burger-shaped factory ship in the Atlantic #leak #LARPing #conspiracy #atlanticocean #International
 
 This compilation of information and discussions covers various UFO sightings and encounters. There are mentions of a mobile construction facility resembling a "burger" shape located in the Atlantic Ocean that deploys UFOs, primarily unmanned drones created for specific purposes. The discussion de...
 
@@ -2577,11 +2577,11 @@ The Konjaku Monogatari in Japan recorded a strange object seen in the sky during
 
 **Details:**
 
-## 987 CE - Fiery Object As Bad Omen
+## 987 CE - Fiery Object As Bad Omen #HistoricalPreModern #Medieval #Asia #China
 The Song Shi in China interpreted a fiery object seen in the sky as a bad omen.
-## 970 CE - Glowing Sky Object During Emperor Reizei's Reign
+## 970 CE - Glowing Sky Object During Emperor Reizei's Reign #HistoricalPreModern #Medieval #Asia #Japan
 The Shoku Nihongi in Japan recorded a glowing object seen in the sky during the reign of Emperor Reizei.
-## 950 CE - Erratically Moving Bright Object
+## 950 CE - Erratically Moving Bright Object #HistoricalPreModern #Medieval #Asia #China
 Song Dynasty records in China note a bright object seen moving erratically in the sky.
 ## 927 CE - Spain: Chronicle of Alfonso III's Sky Lights #HistoricalPreModern #Medieval #Europe #Spain
 During the reign of Alfonso III, strange lights were seen in the sky, causing widespread fear. These were documented in the Chronicle of Alfonso III, but no additional details were provided.
@@ -2589,7 +2589,7 @@ During the reign of Alfonso III, strange lights were seen in the sky, causing wi
 The Annales Fuldenses, a series of Frankish annals, reported a fiery object was seen in the sky, which was interpreted as an omen of war. No further details about this object were given.
 ## 900 CE - Fear-Inducing Fiery Object #HistoricalPreModern #Medieval #Europe #Spain
 The Chronicle of Alfonso III in Spain reported a fiery object seen moving across the sky, causing fear among the people.
-## 850 CE - Fiery Lights As Omens
+## 850 CE - Fiery Lights As Omens #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 The Anglo-Saxon Chronicle in England interpreted fiery lights seen in the sky as omens.
 ## 842 CE - China: Emperor Wuzong's Star #HistoricalPreModern #Medieval #Asia #China
 Emperor Wuzong of Tang reported a strange object resembling a star appeared, moving erratically and terrifying the populace. No further details about this object were provided.
@@ -2599,9 +2599,9 @@ Agobard of Lyons, an archbishop and prolific writer, reported strange lights in 
 Tang Dynasty Records in China described a strange object resembling a dragon appearing in the sky.
 ## 810 CE, France: St. Gregory of Tours' Glowing Object #HistoricalPreModern #Medieval #Europe #France
 St. Gregory of Tours, a historian of the Franks, reported seeing a glowing object moving across the sky, which he interpreted as a sign from God. No additional details about this object were provided.
-## 810 CE - Slow-Moving Glowing Sphere
+## 810 CE - Slow-Moving Glowing Sphere #HistoricalPreModern #Medieval #Asia #Japan
 The Nihon Koki in Japan recorded a glowing sphere appearing in the sky, moving slowly.
-## 800 CE - Bright Sky Object During Emperor Kammu's Reign
+## 800 CE - Bright Sky Object During Emperor Kammu's Reign #HistoricalPreModern #Medieval #Asia #Japan
 The Shoku Nihongi in Japan recorded a bright object seen in the sky during the reign of Emperor Kammu.
 ## 793 CE - England: Anglo-Saxon Chronicle's Fiery Dragons #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 The Anglo-Saxon Chronicle, a collection of Old English annals, reported strange fiery dragons flying in the sky, heralding disaster. The exact nature of these 'dragons' remains a mystery.
@@ -2609,26 +2609,13 @@ The Anglo-Saxon Chronicle, a collection of Old English annals, reported strange 
 During the Siege of Sigiburg, two large glowing objects hovered over a church, causing the Saxon besiegers to flee in panic. The nature and origin of these objects remain unknown.
 ## 746 CE - Rapidly Moving Fiery Object #HistoricalPreModern #Medieval #Asia #China
 Tang Dynasty Records in China note a fiery object appearing in the sky, moving rapidly.
-## 721 CE - Bright Sky Object During Emperor Genshō's Reign
+## 721 CE - Bright Sky Object During Emperor Genshō's Reign #HistoricalPreModern #Medieval #Asia #Japan
 The Nihon Shoki in Japan recorded a bright object seen in the sky during the reign of Emperor Genshō.
-## 700 CE - Slow-Moving Glowing Object
+## 700 CE - Slow-Moving Glowing Object #HistoricalPreModern #Medieval #Asia #Japan
 The Nihon Shoki in Japan recorded a glowing object appearing in the sky, moving slowly.
-## 685 CE - Celestial Signs in the Form of Strange Lights
+## 685 CE - Celestial Signs in the Form of Strange Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 The Venerable Bede in England interpreted strange lights seen in the sky as celestial signs.
-## 619 CE - Erratically Moving Fiery Object
-The Nihon Shoki in Japan recorded a strange object seen in the sky during the reign of Emperor Jomei.
-## 591 CE - Erratically Moving Fiery Object
-The Sui Shu in China recorded a fiery object appearing in the sky, moving erratically.
-## 584 CE - Bright Sky Object During Emperor Bidatsu's Reign
-The Nihon Shoki in Japan recorded a bright object seen in the sky during the reign of Emperor Bidatsu.
-## 457 CE - Fear-Inducing Glowing Sphere
-Gregory of Tours in France reported a glowing sphere appearing in the sky, causing fear among the populace.
-## 400 CE - Flying Chariots in the Ramayana
-The Ramayana, an ancient Indian epic, describes flying chariots called "Pushpaka Vimana" used by gods and heroes.
-## 393 CE - Constantinople: Procopius's Hovering Body
-A luminous body resembling a comet hovered in the sky for several days. This was documented by Procopius, a prominent Byzantine scholar, but no additional information was provided.
-## 334 CE - Vimana Sightings During a Battle
-The Mahabharata, another ancient Indian epic, describes a flying object called a "Vimana" seen in the sky during a battle.
+## 619 CE - Erratically Moving Fiery Object #HistoricalPreModern #Medieval #Asia #Japan
 ## 312 CE - Cross of Light Leads to Conversion
 Eusebius, a historian in Rome, recorded Emperor Constantine seeing a cross of light in the sky, leading him to convert to Christianity.
 ## 292 CE - Glowing Object As Celestial Displeasure
