@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAP/UFO/NHI Disclosure Database - Interactive Timeline & Documentation</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Comprehensive UAP/UFO/NHI disclosure database with interactive timeline visualization, geotimeline map, and chronology viewer. Filter by years, categories, and regions. Includes NHI contact message and historical documentation.">
+    <meta name="keywords" content="UAP timeline, UFO database, NHI disclosure, interactive timeline, geotimeline, chronology viewer, FOIA releases, congressional hearings, military encounters, whistleblower disclosures">
+    <meta name="robots" content="index, follow">
+    
+    <link rel="manifest" href="manifest.json?v=20260103">
+    <meta name="theme-color" content="#58a6ff">
+    <link rel="stylesheet" href="i18n/language-switcher.css">
+    <script src="i18n/translations.js"></script>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Share Tech Mono', 'Courier New', monospace;
+            background: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+            padding: 40px 20px;
+            background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);
+            border-bottom: 2px solid #30363d;
+        }
+        
+        h1 {
+            color: #58a6ff;
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        
+        .subtitle {
+            color: #8b949e;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+        
+        .btn {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #58a6ff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 1em;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        
+        .btn:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            transform: translateY(-2px);
+        }
+        
+        .btn-primary {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #ffffff;
+        }
+        
+        .btn-primary:hover {
+            background: #58a6ff;
+            border-color: #58a6ff;
+        }
+        
+        .section {
+            margin-bottom: 60px;
+        }
+        
+        h2 {
+            color: #58a6ff;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 10px;
+        }
+        
+        h3 {
+            color: #8b949e;
+            font-size: 1.3em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+        
+        .feature-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 25px;
+            transition: all 0.2s;
+        }
+        
+        .feature-card:hover {
+            border-color: #58a6ff;
+            transform: translateY(-2px);
+        }
+        
+        .feature-icon {
+            font-size: 2em;
+            margin-bottom: 15px;
+        }
+        
+        .feature-title {
+            color: #58a6ff;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        
+        .feature-description {
+            color: #8b949e;
+            font-size: 0.9em;
+        }
+        
+        ul {
+            margin-left: 20px;
+            margin-top: 15px;
+        }
+        
+        li {
+            margin-bottom: 10px;
+            color: #8b949e;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 40px 0;
+            padding: 30px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            color: #58a6ff;
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            color: #8b949e;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        
+        .contribute-box {
+            background: #1f6feb;
+            border: 1px solid #1f6feb;
+            border-radius: 6px;
+            padding: 30px;
+            margin: 40px 0;
+            text-align: center;
+        }
+        
+        .contribute-box h3 {
+            color: #ffffff;
+            margin-top: 0;
+        }
+        
+        .contribute-box p {
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid #30363d;
+            margin-top: 60px;
+            color: #8b949e;
+        }
+        
+        footer a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+            
+            .subtitle {
+                font-size: 1em;
+            }
+            
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🛸 UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+        <div class="subtitle">Interactive Timeline Visualization & Comprehensive Documentation</div>
+        <p style="color: #8b949e; max-width: 800px; margin: 0 auto;">
+            A comprehensive, community-driven database documenting UAP/UFO sightings, NHI encounters, 
+            government disclosures, and Earth's communication attempts with non-human intelligence.
+        </p>
+        <div class="cta-buttons">
+            <a href="timeline.html" class="btn btn-primary">📊 Explore Timeline</a>
+            <a href="viewer.html" class="btn">📋 View Chronology</a>
+            <a href="viewer.html#contact" class="btn">📡 NHI Contact Message</a>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">1000+</div>
+                <div class="stat-label">Documented Events</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">3</div>
+                <div class="stat-label">Visualization Modes</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">16</div>
+                <div class="stat-label">Category Filters</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">15+</div>
+                <div class="stat-label">Languages</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🎯 Core Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <div class="feature-title">Interactive Timeline Visualization</div>
+                    <div class="feature-description">
+                        D3.js-powered vertical timeline showing all events chronologically. 
+                        Zoom, pan, and click events for detailed information. Color-coded by event type.
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🗺️</div>
+                    <div class="feature-title">GeoTimeline Map View</div>
+                    <div class="feature-description">
+                        Interactive Leaflet map with clustered markers showing geotagged events worldwide. 
+                        Click markers for event details and filter by location.
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">📋</div>
+                    <div class="feature-title">Chronology List View</div>
+                    <div class="feature-description">
+                        Detailed list view with full event descriptions, images, links, and tags. 
+                        Perfect for reading and research.
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🔍</div>
+                    <div class="feature-title">Advanced Filtering</div>
+                    <div class="feature-description">
+                        Filter by time periods (2030-ancient), 16 category tags, and 12 geographic regions. 
+                        Real-time event counts and unified filter panel.
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🌐</div>
+                    <div class="feature-title">Multilingual Support</div>
+                    <div class="feature-description">
+                        Available in 15+ languages including English, Chinese, Spanish, Arabic, Portuguese, 
+                        Russian, Japanese, and more.
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">📱</div>
+                    <div class="feature-title">Progressive Web App</div>
+                    <div class="feature-description">
+                        Install as a standalone app on any device. Works offline with service worker caching. 
+                        Responsive design for mobile and desktop.
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>📚 Content Categories</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-title">Government & Policy</div>
+                    <div class="feature-description">
+                        • Congressional Hearings<br>
+                        • Legislation & Policy<br>
+                        • FOIA Releases<br>
+                        • Leaks & Declassifications
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-title">Military & Official</div>
+                    <div class="feature-description">
+                        • Military Encounters<br>
+                        • Naval Encounters<br>
+                        • Underwater USO Events<br>
+                        • Space & Satellite Observations
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-title">Civilian & Scientific</div>
+                    <div class="feature-description">
+                        • Civilian Sightings<br>
+                        • Scientific Studies<br>
+                        • Whistleblower Disclosures<br>
+                        • Crash Retrievals
+                    </div>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-title">Communication Attempts</div>
+                    <div class="feature-description">
+                        • Outbound Messages (Arecibo, Voyager)<br>
+                        • Inbound Signals (Wow!, Chilbolton)<br>
+                        • Contact Attempts<br>
+                        • Religious & Cultural Events
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🛠️ Technical Features</h2>
+            <ul>
+                <li><strong>Markdown-based content:</strong> All events stored in structured markdown for easy editing and version control</li>
+                <li><strong>Automated parsing:</strong> Custom markdown parser extracts dates, titles, tags, links, and images</li>
+                <li><strong>Dynamic filtering:</strong> Real-time filter updates across all three view modes</li>
+                <li><strong>Event counts:</strong> Live statistics showing filtered vs. total events</li>
+                <li><strong>Photo support:</strong> Embedded images with lazy loading and proper attribution</li>
+                <li><strong>Link validation:</strong> All sources linked with proper citations</li>
+                <li><strong>Tag system:</strong> 16 category tags + 12 geographic tags for precise filtering</li>
+                <li><strong>Search functionality:</strong> Full-text search across all event content</li>
+                <li><strong>Responsive design:</strong> Mobile-first approach with collapsible sidebar</li>
+                <li><strong>Service worker:</strong> Offline support and fast loading</li>
+            </ul>
+        </div>
+        
+        <div class="contribute-box">
+            <h3>🤝 Contribute to the Database</h3>
+            <p>Help us document UAP/UFO/NHI disclosure history! Submit new events, corrections, or additional sources.</p>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=new-event.md" class="btn" style="background: #ffffff; color: #1f6feb;">Submit New Event</a>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/blob/main/CONTRIBUTING.md" class="btn" style="background: transparent; border-color: #ffffff; color: #ffffff;">Contribution Guidelines</a>
+        </div>
+        
+        <div class="section">
+            <h2>📖 How to Use</h2>
+            <h3>Timeline Visualization</h3>
+            <ul>
+                <li>Navigate to <a href="timeline.html" style="color: #58a6ff;">timeline.html</a></li>
+                <li>Use the sidebar filters to narrow down events by year, category, or region</li>
+                <li>Click on event nodes to see detailed information</li>
+                <li>Zoom and pan the timeline for better navigation</li>
+            </ul>
+            
+            <h3>GeoTimeline Map</h3>
+            <ul>
+                <li>Click the "🗺️ GEOTIMELINE" tab in timeline.html</li>
+                <li>Explore clustered markers showing event locations worldwide</li>
+                <li>Click markers to view event details in popups</li>
+                <li>Use filters to show specific types of events on the map</li>
+            </ul>
+            
+            <h3>Chronology List</h3>
+            <ul>
+                <li>Click the "📋 CHRONOLOGY" tab in timeline.html</li>
+                <li>Scroll through detailed event entries with full descriptions</li>
+                <li>View embedded images and click source links</li>
+                <li>Use filters to find specific types of events</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>🔗 Quick Links</h2>
+            <div class="cta-buttons" style="justify-content: flex-start;">
+                <a href="timeline.html" class="btn">Timeline Viewer</a>
+                <a href="viewer.html" class="btn">Terminal Viewer</a>
+                <a href="viewer.html#contact" class="btn">NHI Contact Message</a>
+                <a href="dist/chronology.md" class="btn">Raw Markdown</a>
+                <a href="https://github.com/unclebulgaria9001/disclosureparty" class="btn">GitHub Repository</a>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>UAP/UFO/NHI Disclosure Database | Open Source Project</p>
+        <p>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty">GitHub</a> • 
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/issues">Report Issues</a> • 
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/blob/main/CONTRIBUTING.md">Contribute</a>
+        </p>
+        <p style="margin-top: 20px; font-size: 0.85em;">
+            This project is dedicated to transparency and public access to UAP/UFO/NHI information.
+        </p>
+    </footer>
+</body>
+</html>
