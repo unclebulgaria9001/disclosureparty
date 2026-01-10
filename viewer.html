@@ -1501,14 +1501,32 @@
             const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked')).map(cb => cb.value.toLowerCase());
             const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked')).map(cb => cb.value.toLowerCase());
             
+            // Get total counts
+            const totalCategoryTags = document.querySelectorAll('.tag-filter').length;
+            const totalGeoTags = document.querySelectorAll('.geo-filter').length;
+            
+            // If no filters selected, show nothing
+            if (selectedCategoryTags.length === 0 || selectedGeoTags.length === 0) {
+                filteredEntries = [];
+                renderChronology();
+                updateStats();
+                return;
+            }
+            
+            // If all filters selected, show all (unless search term is active)
+            const showAll = selectedCategoryTags.length === totalCategoryTags && selectedGeoTags.length === totalGeoTags;
+            
             filteredEntries = allEntries.filter(entry => {
                 const entryTags = entry.tags.map(t => t.toLowerCase().replace('#', ''));
                 
+                // If showing all and no search term, include everything
+                if (showAll && (!searchTerm || searchTerm === '')) {
+                    return true;
+                }
+                
                 // Apply tag filters - entry must match at least one selected category tag AND one selected geo tag
-                const hasMatchingCategoryTag = selectedCategoryTags.length === 0 || 
-                    selectedCategoryTags.some(tag => entryTags.includes(tag));
-                const hasMatchingGeoTag = selectedGeoTags.length === 0 || 
-                    selectedGeoTags.some(tag => entryTags.includes(tag));
+                const hasMatchingCategoryTag = selectedCategoryTags.some(tag => entryTags.includes(tag));
+                const hasMatchingGeoTag = selectedGeoTags.some(tag => entryTags.includes(tag));
                 
                 if (!hasMatchingCategoryTag || !hasMatchingGeoTag) {
                     return false;
