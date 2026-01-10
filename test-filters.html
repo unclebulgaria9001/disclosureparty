@@ -294,12 +294,14 @@
                 'Filter should be case-insensitive'
             );
             
-            // Test 10: All category + all geo tags
+            // Test 10: All category + all geo tags (must match timeline.html categoryTags)
             const allCategories = ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 
                                   'CongressionalHearings', 'LeaksDeclass', 'WhistleblowerDisclosures',
-                                  'MilitaryEncounters', 'CivilianSightings', 'HistoricalPreModern'];
+                                  'MilitaryEncounters', 'CivilianSightings', 'AbductionCEIII', 
+                                  'CrashRetrievals', 'UnderwaterUSO', 'SpaceSatellite', 
+                                  'ScientificStudies', 'HistoricalPreModern', 'ReligiousCultural'];
             const allGeo = ['USA', 'Canada', 'Mexico', 'Europe', 'UnitedKingdom', 'LatinAmerica', 
-                           'Asia', 'MiddleEast', 'Africa', 'Oceania', 'International'];
+                           'Asia', 'MiddleEast', 'Africa', 'Oceania', 'International', 'Space'];
             const test10 = getFilteredEvents(allEvents, allCategories, allGeo);
             addTestResult(
                 'Test 10: All filters selected',
