@@ -26,6 +26,11 @@
     <meta name="apple-mobile-web-app-title" content="Disclosure DB">
     
     <script src="https://d3js.org/d3.v7.min.js?v=20260103"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
     <link rel="stylesheet" href="i18n/language-switcher.css">
     <script src="i18n/translations.js"></script>
     <style>
@@ -203,6 +208,73 @@
             min-height: 800px;
             background: #0d1117;
             position: relative;
+        }
+        
+        #mapView {
+            width: 100%;
+            height: 800px;
+            background: #0d1117;
+            position: relative;
+            display: none;
+        }
+        
+        .view-toggle {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            padding: 15px 20px;
+            background: #161b22;
+            border-bottom: 1px solid #30363d;
+        }
+        
+        .view-toggle .btn {
+            min-width: 120px;
+        }
+        
+        .leaflet-popup-content-wrapper {
+            background: #161b22;
+            color: #c9d1d9;
+            border: 1px solid #30363d;
+        }
+        
+        .leaflet-popup-content {
+            margin: 12px;
+            font-family: 'Share Tech Mono', monospace;
+        }
+        
+        .leaflet-popup-tip {
+            background: #161b22;
+        }
+        
+        .map-popup-title {
+            color: #58a6ff;
+            font-weight: 600;
+            margin-bottom: 5px;
+            font-size: 0.95em;
+        }
+        
+        .map-popup-date {
+            color: #8b949e;
+            font-size: 0.85em;
+            margin-bottom: 8px;
+        }
+        
+        .map-popup-description {
+            color: #c9d1d9;
+            font-size: 0.85em;
+            line-height: 1.4;
+            margin-bottom: 10px;
+        }
+        
+        .map-popup-link {
+            color: #58a6ff;
+            text-decoration: none;
+            font-size: 0.85em;
+            cursor: pointer;
+        }
+        
+        .map-popup-link:hover {
+            text-decoration: underline;
         }
         
         .timeline-axis {
@@ -566,10 +638,8 @@
             <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="index">INDEX</div>
             <div class="tab" onclick="window.location.href='viewer.html#chronology'" data-i18n="chronology">CHRONOLOGY</div>
             <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">REQUEST NHI CONTACT</div>
-            <div class="tab" onclick="window.location.href='viewer.html#outbound'" data-i18n="outbound">OUTBOUND</div>
-            <div class="tab" onclick="window.location.href='viewer.html#inbound'" data-i18n="inbound">INBOUND</div>
-            <div class="tab" onclick="window.location.href='viewer.html#arecibo'" data-i18n="arecibo">ARECIBO 1974</div>
             <div class="tab active" data-i18n="timelineViz">TIMELINE VIZ</div>
+            <div class="tab" onclick="showMapView()" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
         </div>
         
         <div id="languageSwitcherContainer"></div>
@@ -969,7 +1039,12 @@
                     <h2 style="color: #58a6ff; margin-bottom: 10px;" data-i18n="chronologyTitle">UAP/UFO/NHI CHRONOLOGY TIMELINE</h2>
                     <div style="color: #8b949e; font-size: 0.9em;">Interactive visualization of sightings, encounters, communications, and disclosure events</div>
                 </div>
+                <div class="view-toggle">
+                    <button class="btn active" onclick="showTimelineView()" id="timelineViewBtn">📊 TIMELINE VIEW</button>
+                    <button class="btn" onclick="showMapView()" id="mapViewBtn">🗺️ MAP VIEW</button>
+                </div>
                 <div id="timeline" role="application" aria-label="Interactive timeline of UAP and communication events"></div>
+                <div id="mapView" role="application" aria-label="Interactive map of UAP and communication events"></div>
             </div>
         </div>
     </div>
@@ -1004,63 +1079,81 @@
                 type: 'outbound',
                 title: 'Pioneer 10 Plaque',
                 description: 'First physical message from humanity. Gold-anodized aluminum plaque with human figures and Earth\'s location.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Cape Canaveral, Florida, USA',
+                coordinates: [28.5729, -80.6490]
             },
             {
                 date: new Date(1973, 2, 3),
                 type: 'outbound',
                 title: 'Pioneer 11 Plaque',
                 description: 'Identical plaque to Pioneer 10, continuing humanity\'s first physical messages to space.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Cape Canaveral, Florida, USA',
+                coordinates: [28.5729, -80.6490]
             },
             {
                 date: new Date(1974, 10, 16),
                 type: 'outbound',
                 title: 'Arecibo Message',
                 description: 'First deliberate interstellar radio message. 1,679-bit signal sent to M13 cluster 25,000 light years away.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Arecibo Observatory, Puerto Rico',
+                coordinates: [18.3464, -66.7528]
             },
             {
                 date: new Date(1977, 7, 20),
                 type: 'outbound',
                 title: 'Voyager Golden Records',
                 description: '12-inch gold-plated records with 116 images, greetings in 55 languages, and 90 minutes of music.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Cape Canaveral, Florida, USA',
+                coordinates: [28.5729, -80.6490]
             },
             {
                 date: new Date(1999, 4, 24),
                 type: 'outbound',
                 title: 'Cosmic Call',
                 description: 'Radio message using sophisticated "Lexicon" mathematical language toward nearby stars.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Evpatoria, Crimea',
+                coordinates: [45.1983, 33.3667]
             },
             {
                 date: new Date(2001, 8, 3),
                 type: 'outbound',
                 title: 'Teen Age Message',
                 description: 'First interstellar message composed by teenagers, transmitted to six sun-like stars.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Evpatoria, Crimea',
+                coordinates: [45.1983, 33.3667]
             },
             {
                 date: new Date(2003, 6, 6),
                 type: 'outbound',
                 title: 'Cosmic Call 2',
                 description: 'Second Cosmic Call transmission to five additional stars.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Evpatoria, Crimea',
+                coordinates: [45.1983, 33.3667]
             },
             {
                 date: new Date(2008, 7, 28),
                 type: 'outbound',
                 title: 'Hello from Earth',
                 description: 'First crowdsourced message via Bebo. 501 messages from 195 countries to Gliese 581c.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Canberra, Australia',
+                coordinates: [-35.2809, 149.1300]
             },
             {
                 date: new Date(2026, 0, 1),
                 type: 'outbound',
                 title: 'Request Direct NHI Communication',
                 description: 'Public message requesting direct, transparent communication, bypassing government intermediaries.',
-                tags: ['Outbound']
+                tags: ['Outbound'],
+                location: 'Global / Internet',
+                coordinates: [0, 0]
             },
             
             // Inbound Communications
@@ -1069,28 +1162,36 @@
                 type: 'inbound',
                 title: 'Wow! Signal',
                 description: 'Strong 72-second narrowband radio signal from Sagittarius. Never detected again despite follow-ups.',
-                tags: ['Inbound']
+                tags: ['Inbound'],
+                location: 'Big Ear Radio Observatory, Ohio, USA',
+                coordinates: [40.2500, -83.0500]
             },
             {
                 date: new Date(2001, 7, 14),
                 type: 'inbound',
                 title: 'Chilbolton Face Formation',
                 description: 'Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK.',
-                tags: ['Inbound']
+                tags: ['Inbound'],
+                location: 'Chilbolton, Hampshire, UK',
+                coordinates: [51.1500, -1.4400]
             },
             {
                 date: new Date(2001, 7, 19),
                 type: 'inbound',
                 title: 'Chilbolton Arecibo Reply',
                 description: 'Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population.',
-                tags: ['Inbound']
+                tags: ['Inbound'],
+                location: 'Chilbolton, Hampshire, UK',
+                coordinates: [51.1500, -1.4400]
             },
             {
                 date: new Date(2002, 7, 15),
                 type: 'inbound',
                 title: 'Crabwood Formation',
                 description: 'Crop formation with alien face and binary message: "Beware the bearers of false gifts... Conduit closing."',
-                tags: ['Inbound']
+                tags: ['Inbound'],
+                location: 'Crabwood, Winchester, UK',
+                coordinates: [51.0633, -1.3100]
             },
             
             // Contact Attempts (In-Person)
@@ -1100,7 +1201,9 @@
                 type: 'contact-attempt',
                 title: 'Ariel School, Zimbabwe',
                 description: '62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth. Investigated by Dr. John Mack and Cynthia Hind.',
-                tags: ['ContactAttempt']
+                tags: ['ContactAttempt'],
+                location: 'Ruwa, Zimbabwe',
+                coordinates: [-17.8900, 31.2450]
             },
             {
                 date: new Date(1996, 8, 10),
@@ -1108,7 +1211,9 @@
                 type: 'contact-attempt',
                 title: 'Matanzas Rural School, Cuba',
                 description: 'Dozens of children witnessed large glowing oval craft silently over assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate.',
-                tags: ['ContactAttempt']
+                tags: ['ContactAttempt'],
+                location: 'Matanzas, Cuba',
+                coordinates: [23.0414, -81.5775]
             },
             {
                 date: new Date(1996, 0, 1),
@@ -1116,7 +1221,9 @@
                 type: 'contact-attempt',
                 title: 'Varginha, Brazil',
                 description: 'Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America\'s highest-profile mass-contact claims with physical evidence reports.',
-                tags: ['ContactAttempt']
+                tags: ['ContactAttempt'],
+                location: 'Varginha, Brazil',
+                coordinates: [-21.5519, -45.4328]
             }
         ];
         
@@ -2404,6 +2511,175 @@
             navigator.serviceWorker.register('sw.js?v=20260103')
                 .then(reg => console.log('Service Worker registered'))
                 .catch(err => console.log('Service Worker registration failed'));
+        }
+        
+        // Map view functionality
+        let map = null;
+        let markerClusterGroup = null;
+        
+        function showTimelineView() {
+            document.getElementById('timeline').style.display = 'block';
+            document.getElementById('mapView').style.display = 'none';
+            document.getElementById('timelineViewBtn').classList.add('active');
+            document.getElementById('mapViewBtn').classList.remove('active');
+        }
+        
+        function showMapView() {
+            document.getElementById('timeline').style.display = 'none';
+            document.getElementById('mapView').style.display = 'block';
+            document.getElementById('timelineViewBtn').classList.remove('active');
+            document.getElementById('mapViewBtn').classList.add('active');
+            
+            if (!map) {
+                initializeMap();
+            }
+        }
+        
+        function initializeMap() {
+            // Initialize Leaflet map
+            map = L.map('mapView', {
+                center: [20, 0],
+                zoom: 2,
+                minZoom: 2,
+                maxZoom: 18,
+                worldCopyJump: true
+            });
+            
+            // Add dark tile layer
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 20
+            }).addTo(map);
+            
+            // Initialize marker cluster group
+            markerClusterGroup = L.markerClusterGroup({
+                maxClusterRadius: 50,
+                spiderfyOnMaxZoom: true,
+                showCoverageOnHover: false,
+                zoomToBoundsOnClick: true,
+                iconCreateFunction: function(cluster) {
+                    const count = cluster.getChildCount();
+                    let size = 'small';
+                    if (count > 10) size = 'large';
+                    else if (count > 5) size = 'medium';
+                    
+                    return L.divIcon({
+                        html: '<div><span>' + count + '</span></div>',
+                        className: 'marker-cluster marker-cluster-' + size,
+                        iconSize: L.point(40, 40)
+                    });
+                }
+            });
+            
+            // Add markers for events with coordinates
+            const eventsWithCoords = allEvents.filter(e => e.coordinates && e.coordinates[0] !== 0 && e.coordinates[1] !== 0);
+            
+            eventsWithCoords.forEach(event => {
+                const [lat, lng] = event.coordinates;
+                
+                // Create custom icon based on event type
+                let iconColor = '#8b949e';
+                let iconShape = 'circle';
+                
+                if (event.type === 'outbound') {
+                    iconColor = '#58a6ff';
+                    iconShape = 'square';
+                } else if (event.type === 'inbound') {
+                    iconColor = '#f85149';
+                    iconShape = 'triangle';
+                } else if (event.type === 'contact-attempt') {
+                    iconColor = '#a371f7';
+                    iconShape = 'diamond';
+                }
+                
+                // Create custom marker icon
+                const markerIcon = L.divIcon({
+                    className: 'custom-marker',
+                    html: `<div style="background-color: ${iconColor}; width: 16px; height: 16px; border-radius: ${iconShape === 'circle' ? '50%' : iconShape === 'square' ? '2px' : '0'}; border: 2px solid #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.3); ${iconShape === 'triangle' ? 'transform: rotate(45deg);' : ''} ${iconShape === 'diamond' ? 'transform: rotate(45deg);' : ''}"></div>`,
+                    iconSize: [20, 20],
+                    iconAnchor: [10, 10]
+                });
+                
+                const marker = L.marker([lat, lng], { icon: markerIcon });
+                
+                // Format date for popup
+                let dateStr;
+                if (event.originalDateStr) {
+                    if (event.originalDateStr.match(/BCE|CE/i)) {
+                        dateStr = event.originalDateStr;
+                    } else {
+                        const yearMatch = event.originalDateStr.match(/^(\d{4})/);
+                        if (yearMatch) {
+                            const year = yearMatch[1];
+                            const monthMatch = event.originalDateStr.match(/,\s+([A-Za-z]+)(?:\s+(\d{1,2}))?/);
+                            if (monthMatch) {
+                                const month = monthMatch[1];
+                                const day = monthMatch[2] || '1';
+                                dateStr = `${month} ${day}, ${year}`;
+                            } else {
+                                dateStr = year;
+                            }
+                        } else {
+                            dateStr = event.originalDateStr;
+                        }
+                    }
+                } else {
+                    dateStr = d3.timeFormat('%B %d, %Y')(event.date);
+                }
+                
+                // Create popup content
+                const popupContent = `
+                    <div class="map-popup-title">${event.title}</div>
+                    <div class="map-popup-date">${dateStr}</div>
+                    ${event.location ? `<div style="color: #8b949e; font-size: 0.8em; margin-bottom: 8px;">📍 ${event.location}</div>` : ''}
+                    <div class="map-popup-description">${event.description}</div>
+                    <a class="map-popup-link" onclick="showEventModal(${JSON.stringify(event).replace(/"/g, '&quot;')})">View Details →</a>
+                `;
+                
+                marker.bindPopup(popupContent, {
+                    maxWidth: 300,
+                    className: 'custom-popup'
+                });
+                
+                markerClusterGroup.addLayer(marker);
+            });
+            
+            map.addLayer(markerClusterGroup);
+            
+            // Add legend to map
+            const legend = L.control({ position: 'bottomright' });
+            legend.onAdd = function(map) {
+                const div = L.DomUtil.create('div', 'map-legend');
+                div.style.background = '#161b22';
+                div.style.padding = '10px';
+                div.style.borderRadius = '6px';
+                div.style.border = '1px solid #30363d';
+                div.style.color = '#c9d1d9';
+                div.style.fontFamily = 'Share Tech Mono, monospace';
+                div.style.fontSize = '0.85em';
+                
+                div.innerHTML = `
+                    <div style="font-weight: 600; margin-bottom: 8px; color: #58a6ff;">Event Types</div>
+                    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 5px;">
+                        <div style="width: 12px; height: 12px; background: #58a6ff; border-radius: 2px; border: 2px solid #fff;"></div>
+                        <span>Outbound</span>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 5px;">
+                        <div style="width: 12px; height: 12px; background: #f85149; transform: rotate(45deg); border: 2px solid #fff;"></div>
+                        <span>Inbound</span>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <div style="width: 12px; height: 12px; background: #a371f7; transform: rotate(45deg); border: 2px solid #fff;"></div>
+                        <span>Contact Attempt</span>
+                    </div>
+                `;
+                
+                return div;
+            };
+            legend.addTo(map);
+            
+            console.log(`Map initialized with ${eventsWithCoords.length} geotagged events`);
         }
         
         // Initialize language switcher
