@@ -279,7 +279,6 @@ Available in 15+ languages with binary and Morse code encodings.
 - **Live Site:** https://unclebulgaria9001.github.io/disclosureparty/
 - **GitHub:** https://github.com/unclebulgaria9001/disclosureparty
 - **Issues:** https://github.com/unclebulgaria9001/disclosureparty/issues
-- **Amplenote:** https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi
 
 ---
 

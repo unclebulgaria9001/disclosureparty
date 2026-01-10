@@ -19,8 +19,6 @@ The UAP, UFO, Aliens, and NHI chronology is a quick 30-minute read that will kee
 
 - Welcome to the UAP/UFO/NHI disclosure party. If you are new, welcome. We have been tracking legislation, FOIA, and notable events for some years now. Here are my notes in chronological order.  
 
-- [https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi](https://public.amplenote.com/bhsdRVwHti333KHj9yzBg5zi) 
-
 - [https://unclebulgaria9001.github.io/disclosureparty/](https://unclebulgaria9001.github.io/disclosureparty/) 
 
 - [https://github.com/unclebulgaria9001/disclosureparty/blob/main/Chronology.md](https://github.com/unclebulgaria9001/disclosureparty/blob/main/Chronology.md) 
@@ -827,15 +825,9 @@ The 177-page debrief has been parsed into chunks for easier consumption. 1947 - 
 
 **Links:**
 
-[https://public.amplenote.com/9uoxxbKEUZhqf4zWY6Yr7nnh](https://public.amplenote.com/9uoxxbKEUZhqf4zWY6Yr7nnh)
 [https://www.reddit.com/r/UFOs/comments/15ar22l/177pagedebriefgiventocongresspostedby/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=1](https://www.reddit.com/r/UFOs/comments/15ar22l/177_page_debrief_given_to_congress_posted_by/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) 
-[https://public.amplenote.com/B1Wedit627kCRFjHLbSpup32](https://public.amplenote.com/B1Wedit627kCRFjHLbSpup32) 
 
-**Details:**
-
-1981 - 2000 - [https://public.amplenote.com/rMyRZEDyPky8Nki4NruXfkxL](https://public.amplenote.com/rMyRZEDyPky8Nki4NruXfkxL) 
-2001 - 2019 - [https://public.amplenote.com/mnWPDofM97cAKfeEebLacBX2](https://public.amplenote.com/mnWPDofM97cAKfeEebLacBX2) 
-2020 - 2023 - [https://public.amplenote.com/KVrMUCFLYRr6K4FXmrLHec1a](https://public.amplenote.com/KVrMUCFLYRr6K4FXmrLHec1a) 
+**Details:** 
 Ryan Graves, the Executive Director of Americans for Safe Aerospace, emphasizes the regularity and seriousness of UFO sightings in restricted airspace off the Atlantic Coast. He stresses the need for serious investigation and acknowledgement of potential threats posed by these unidentified objects. Commander David Fravor, a former U.S. Navy pilot, recounts a UFO encounter in 2004 involving a white Tic Tac-shaped object exhibiting unconventional behaviour. Fravor believes it should be studied more closely for technological insights. David Grusch, a former USAF officer and intelligence official, claims the U.S. government possesses non-human spacecraft and deceased pilots through a secretive UFO recovery program. He alleges government involvement with the Vatican and the Five Eyes. A congressional hearing on UFOs revealed that around 95% of sightings go unreported due to stigma, and suggestions were made to use existing NASA databases to track sightings with actual sensor footage. The hearing emphasized the serious nature of the issue, acknowledging the presence of career officers with decades of experience and the commitment to transparency and pressure on the matter.
 
 \
