@@ -719,7 +719,7 @@ I've been told that we have recovered technology that did not originate on this 
 
 \
 
-## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
+## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryEncounters #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
 
 **Links:**
 
@@ -743,7 +743,7 @@ The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed
 
 \
 
-## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #20 # new (2023-09-10) #canada #usa
+## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #MilitaryEncounters #20 # new (2023-09-10) #canada #usa
 
 The object taken down Friday, which officials have not characterized as a balloon, was shot down at 1:45 p.m. EST, according to Pentagon spokesman Brig. Gen. Patrick Ryder said recovery teams are now collecting the debris that is sitting on top of ice in US territorial waters. "No official video ...
 
@@ -755,7 +755,7 @@ The object taken down Friday, which officials have not characterized as a balloo
 
 \
 
-## 2023, January 28 - List of high-altitude object events in 2023 #usa #canada
+## 2023, January 28 - List of high-altitude object events in 2023 #MilitaryEncounters #usa #canada
 
 Multiple airborne objects, sometimes reported in mainstream media as UFOs, were observed and sometimes shot down by military aircraft. Many of the objects were reported as meteorology or espionage balloons
 
@@ -779,7 +779,7 @@ The Department of Defense (DoD) has officially confirmed to Liberation Times tha
 
 \
 
-## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIA #video #sensors #Asia
+## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIARelease #FOIA #video #sensors #Asia
 
 During an open hearing before the Senate Armed Services Committee on April 19, the Department of Defense (DoD) provided insights into Unidentified Anomalous Phenomena. Dr. Sean Kirkpatrick, the director of the All-domain Anomaly Resolution Office (AARO), displayed videos portraying an unidentifie...
 
@@ -795,7 +795,7 @@ During an open hearing before the Senate Armed Services Committee on April 19, t
 
 \
 
-## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #leak #LARPing #conspiracy #atlanticocean #International
+## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #LeaksDeclass #leak #LARPing #conspiracy #atlanticocean #International
 
 The shared DNA system's resemblance implies a common origin, likely stemming from a similar physicochemical process and initial conditions. Non-coding sequences, once dubbed "junk DNA," are vital for gene expression regulation through epigenetics. The 64bp gene address mentioned may solely functi...
 
@@ -805,7 +805,7 @@ The shared DNA system's resemblance implies a common origin, likely stemming fro
 
 \
 
-## 2023 - Giant burger-shaped factory ship in the Atlantic #leak #LARPing #conspiracy #atlanticocean #International
+## 2023 - Giant burger-shaped factory ship in the Atlantic #LeaksDeclass #leak #LARPing #conspiracy #atlanticocean #International
 
 This compilation of information and discussions covers various UFO sightings and encounters. There are mentions of a mobile construction facility resembling a "burger" shape located in the Atlantic Ocean that deploys UFOs, primarily unmanned drones created for specific purposes. The discussion de...
 
@@ -815,7 +815,7 @@ This compilation of information and discussions covers various UFO sightings and
 
 \
 
-## 2022, May 17 - Navy 2021 Flyby video #new (2023-09-04) #video #offical #unknownlocation #USA
+## 2022, May 17 - Navy 2021 Flyby video #MilitaryEncounters #new (2023-09-04) #video #offical #unknownlocation #USA
 
 Navy 2021 Flyby video
 
@@ -829,7 +829,7 @@ Navy 2021 Flyby video
 
 \
 
-## 2022, April 17 - Under Secretary Moultrie and Naval Intel Deputy Director Bray testify under oath to Congress that the US military has detected physical UAPs they can't ID and associated energy signatures. Direct from the United States of America's Congressional Record. #new #law #oath #usa
+## 2022, April 17 - Under Secretary Moultrie and Naval Intel Deputy Director Bray testify under oath to Congress that the US military has detected physical UAPs they can't ID and associated energy signatures. Direct from the United States of America's Congressional Record. #CongressionalHearings #MilitaryEncounters #new #law #oath #usa
 
 Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, and Scott W. Bray, Deputy Director of Naval Intelligence, affirmed the United States' commitment to investigating unidentified aerial phenomena (UAPs) due to their potential security and flight safety risks. During disc...
 
@@ -839,7 +839,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 \
 
-## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #International
+## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth #ScientificStudies #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #International
 
 **Links:**
 
@@ -847,7 +847,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 \
 
-## 2022 - DoD Releases New UFO/UAP Video From An Undisclosed Location. Known as the Mosul Orb – July 12, 2022, #FOIA #alien #video #sensors #iraq #MiddleEast
+## 2022 - DoD Releases New UFO/UAP Video From An Undisclosed Location. Known as the Mosul Orb – July 12, 2022, #FOIARelease #MilitaryEncounters #FOIA #alien #video #sensors #iraq #MiddleEast
 
 During an open hearing regarding Unidentified Anomalous Phenomena at the Senate Armed Services Committee, Dr. Sean Kirkpatrick from the All-domain Anomaly Resolution Office (AARO) showcased a video depicting a silver, orb-like object in motion across a sensor's field of view. The video, captured ...
 
