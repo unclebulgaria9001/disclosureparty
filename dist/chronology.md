@@ -779,7 +779,7 @@ The Department of Defense (DoD) has officially confirmed to Liberation Times tha
 
 \
 
-## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIARelease #FOIA #video #sensors #Asia
+## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIARelease #MilitaryEncounters #FOIA #video #sensors #Asia
 
 During an open hearing before the Senate Armed Services Committee on April 19, the Department of Defense (DoD) provided insights into Unidentified Anomalous Phenomena. Dr. Sean Kirkpatrick, the director of the All-domain Anomaly Resolution Office (AARO), displayed videos portraying an unidentifie...
 
@@ -1071,334 +1071,35 @@ Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention
 
 ![The First Known Interstellar Object To Visit Our S 1](images/2017-the-first-known-interstellar-object-to-visit-our-s-1.png)
 
-## 2016, April - Tom DeLonge states he was told by unnamed "advisors" that there were multiple UAP crashes and recoveries #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image #USA #Pre2017
-
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
 
-## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa #Pre2017
+## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA "advisors" that when UAP crashes happen, intelligence, military and private industry are pooled together. "They've" been using private companies/publicly traded companies to keep the secret information "protected" through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his "advisors" review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #WhistleblowerDisclosures #rumor #contentdeleted #usa #Pre2017 #Batch6
 
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are m...
 
 **Links:**
 
-[https://www.coasttocoastam.com/show/2016-03-27-show/](https://www.coasttocoastam.com/show/2016-03-27-show/) 
+[https://www.coasttocoastam.com/show/2016-03-27-show/](https://www.coasttocoastam.com/show/2016-03-27-show/) #Batch6
 
-## 2015, November 5 - The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before. #FOIA #usa #Pre2017
-
-Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed several officers from the NRO Mission Integration Directorate (MID) connected to the IG’s evaluation of DOD handling/response to the UAP subject.
-
-**Links:**
-
-[https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf ](https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf) 
-
-## 2015, March 13 - Kit Green states the records of Ret. USAF John Burroughs, Rendlesham Forest incident witness, were legally classified by the DOD. Green states only a handful of medical records were classified and the reasons were because inside the doctors notes, nursing, etc. are a “myriad of references to Special Access Projects” and the names of other adjacent and ancillary programs and projects that can not be disentangled and could uncover active/recent projects related to Rendlesham. Green states broadband non-ionizing electromagnetic radiation caused the injuries, the data is sparse and it is not well understood or peer reviewed. #HistoricalPreModern? #FOIA #ClassifiedRecords #Rendlesham #UAPRecordsCollection #USA #Pre2017
-
-**Links:**
-
-[https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927](https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927) 
-
-## 2015, March 6 - Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that in a TS/SCI organization in El Segundo, CA, he had lunch with a senior USAF NCO who worked for Project Blue Book in the 1970s after it had publicly disbanded. He was an ELINT technician who flew in RC-135s from MacDill AFB in Florida. He allegedly told Fish they were sometimes diverted to track UAP off the east coast of Florida; the UAP allegedly came from a hotspot east of Miami, north of Bermuda. A specific frequency emanated from them, and UAP evidence was sent to a “dedicated” USAF intelligence officer. #LeaksDeclass #rumor #wiki #ysacalifornia #USA #Pre2017
-
-##
-
-**Links:**
-
-[https://wikileaks.org/podesta-emails/emailid/31721](https://wikileaks.org/podesta-emails/emailid/31721) 
-
-## 2014 - Pope Francis says he would baptize aliens: 'Who are we to close doors #ReligiousCultural #quote #Europe #Pre2017
-
-Pope Francis expressed his openness to baptizing aliens during a homily on acceptance and inclusion within the Catholic Church. He referred to a Bible story about pagans' conversion to Christianity and emphasized accepting the Holy Spirit, even if it comes in unimaginable forms. The Pope humorous...
-
-**Links:**
-
-[https://www.independent.co.uk/news/world/europe/pope-francis-says-he-would-baptise-aliens-9360632.html](https://www.independent.co.uk/news/world/europe/pope-francis-says-he-would-baptise-aliens-9360632.html) 
-
-## 2014 - Testimony under oath. Ryan “FOBS” Graves, a former F-18 pilot in the U.S. Navy with over a decade of service UAP (Unidentified Aerial Phenomena) events that he witnessed during my service. #new #alien (2023-08-10) #USA #Pre2017
-
-Beginning in 2014, I was stationed near Virginia Beach, and my squadron, VFA-11, was equipped with upgraded radar systems. It was then that we began detecting unexplained UAP in our airspace. Initially considered software glitches, we confirmed their physical presence through infrared sensors. Ov...
-
-**Links:**
-
-[https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf) 
-
-**Photos:**
-
-![Testimony Under Oath Ryan Fobs Graves A Former F 1 1](images/2014-testimony-under-oath-ryan-fobs-graves-a-former-f-1-1.png)
-
-\
-
-## 2013 - The CIA publicly acknowledges the existence of Area 51 for the first time, following a FOIA request filed in 2005, and it declassifies documents detailing its history and purpose #FOIA#USA
-
-Area 51, also known as Homey Airport or Groom Lake, is a secretive facility within the Nevada Test and Training Range, operated by the US Air Force (USAF) and administered by Edwards Air Force Base. While its operations are undisclosed, it's believed to be involved in testing experimental aircraf...
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Area51](https://en.wikipedia.org/wiki/Area_51) 
-
-\
-
-## 2013 - Aguadilla, Puerto Rico #FOIARelease #VideoEvidence #DHS #Infrared #MilitaryUAP #Sensors #USA
-
-– Infrared footage from U.S. Customs patrol aircraft shows a torpedo-shaped object skimming just above the water then diving in at high speed.
-
-\
-
-## 2013 - UFO Crash in Peru - Jonathan Weygandt, Lance Corporal / Disclosure Project Witness #leak LARPing #LatinAmerica #Peru
-
-The account details a UFO crash witnessed in the jungle, with encounters with alien beings. The egg-shaped UFO emitted a purplish-green substance, had hatched, and seemed organic. The beings communicated telepathically, projecting non-harm intentions. Mysterious men in black took the witness into...
-
-**Links:**
-
-[https://youtu.be/GLU0NSTC9oU](https://youtu.be/GLU0NSTC9oU) 
-
-\
-
-## 2012 - Author Bryce Zabel tells a story told to him by Brent Friedman, the alleged neighbor of former Secretary of Energy John S. Herrington (under the Reagan administration). Herrington allegedly stated he had been briefed for several weeks at an underground facility outside of Washington, D.C. and the information learned caused him to “cry himself to sleep for a number of nights.” When asked why, Herrington allegedly stated “there is intelligent life in the universe; it’s here and I’ve seen it; this is not the kind of world I thought \[my children\] would grow up in.” #rumor#USA
+## 2012 - Author Bryce Zabel tells a story told to him by Brent Friedman, the alleged neighbor of former Secretary of Energy John S. Herrington (under the Reagan administration). Herrington allegedly stated he had been briefed for several weeks at an underground facility outside of Washington, D.C. and the information learned caused him to "cry himself to sleep for a number of nights." When asked why, Herrington allegedly stated "there is intelligent life in the universe; it's here and I've seen it; this is not the kind of world I thought \[my children\] would grow up in." #LeaksDeclass #rumor #USA #Batch6
 
 Herrington also allegedly stated the existence of extraterrestrials were the “tip of the iceberg” in terms of the revelations he learned related to the issue.
 
 **Links:**
 
-[https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up](https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up) 
+[https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up](https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up) #Batch6
 
-\
-
-## 2011, June - DHS officials Jim Bell and Sacha Mover begin a series of other meetings in the U.S. intelligence community beyond DHS to determine if they can set up BAASS as a UAP analysis program within DHS Science & Technology (S&T). Those men are the “keepers of the secrets,” who treat Bell and Mover rudely and told “no, and hell no” when asked. Bell and Mover later told BAASS that they believed advanced technology was being held at aerospace contractor facilities under government supervision. Mover and Bell became fearful of moving forward. By late 2011, DHS Deputy Secretary Jane Holl Lute, Under Secretary for Intelligence and Analysis Phyllis Green, and others decided not to contract BAASS within DHS. #LegislationPolicy #AgencyCoordination #GovernmentPolicy #UAPResearch #FOIARelease? #USA
-
-(p153-154)1947 [https://www.pearl-hifi.com/11 Spirited Growth/01 Books/Skinwalkers at the Pentagon.pdf ](<https://www.pearl-hifi.com/11 Spirited Growth/01 Books/Skinwalkers at the Pentagon.pdf >)
-
-\
-
-## 2011, April 13 - Skinny Bob NHI #Europe
-
-The videos were uploaded to a YouTube channel named ivan0135 in 2011. The channel was created the same day the first video was uploaded, on the 13th of April. According to the channel description, the creator is from Russia and was born in 1969.
-
-\
-
-## 2008, August 28 - Hello from Earth #Outbound #International
-
-First crowdsourced message to space via Bebo social network. 501 messages from 195 countries were transmitted to the exoplanet Gliese 581c, located approximately 20 light-years away in the constellation Libra. The messages will arrive in 2029.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/A_Message_From_Earth](https://en.wikipedia.org/wiki/A_Message_From_Earth)
-
-\
-
-## 2003, July 6 - Cosmic Call 2 #Outbound #Europe #Ukraine
-
-Second Cosmic Call transmission to five additional stars using the Evpatoria RT-70 radio telescope. Continued the METI (Messaging Extraterrestrial Intelligence) program with improved encoding and targeted different stellar systems.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Cosmic_Call](https://en.wikipedia.org/wiki/Cosmic_Call)
-
-\
-
-## 2002, August 15 - Crabwood Formation #Inbound #Europe #UnitedKingdom #Winchester #CropFormation
-
-Crop formation with alien face and binary message near Winchester, UK: "Beware the bearers of false gifts and their broken promises...Conduit closing." One of the most complex crop circles ever documented, featuring a CD-like disc with encoded ASCII message.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Crabwood_crop_circle](https://en.wikipedia.org/wiki/Crabwood_crop_circle)
-
-\
-
-## 2001, September 3 - Teen Age Message #Outbound #Europe
-
-First interstellar message composed by teenagers from Russia. Transmitted to six sun-like stars using the Evpatoria RT-70 radio telescope in Ukraine. Part of the Cosmic Call project, featuring messages about Earth's youth.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Teen_Age_Message](https://en.wikipedia.org/wiki/Teen_Age_Message)
-
-\
-
-## 2001, August 19 - Chilbolton Arecibo Reply #Inbound #Europe #UnitedKingdom #Hampshire #Chilbolton #CropFormation
-
-Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population (10 billion), and different solar system. Appeared near Chilbolton radio telescope, Hampshire, UK.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_crop_circle)
-
-\
-
-## 2001, August 14 - Chilbolton Face Formation #Inbound #Europe #UnitedKingdom #Hampshire #Chilbolton #CropFormation
-
-Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK. Appeared 5 days before the Arecibo Reply formation in the same area. Face shows non-human features with large eyes.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_crop_circle)
-
-\
-
-## 1999, May 24 - Cosmic Call #Outbound #Europe
-
-Radio message using sophisticated "Lexicon" mathematical language transmitted toward nearby stars. Sent from the Evpatoria RT-70 radio telescope in Ukraine as part of the first METI transmission. Targeted four sun-like stars.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Cosmic_Call](https://en.wikipedia.org/wiki/Cosmic_Call)
-
-\
-
-## 1990, August 4 - Calvine UFO Incident: Diamond-Shaped Object Photographed in Scottish Highlands #CivilianSightings #PhotoEvidence #MultipleWitness #MilitaryUAP #FOIARelease #LeaksDeclass #Europe #UnitedKingdom #Scotland #Calvine
-
-Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hovering silently in the sky before accelerating away at high speed. They captured several photographs using a 35mm camera showing a solid object with a bright or misty appearance. The photos were handed to the UK Ministry of Defence for analysis and disappeared for decades. In 2021, one original photograph was released under the Freedom of Information Act, showing the diamond-shaped object with what appeared to be a military jet nearby for scale. The MOD suggested it may have been a misidentified Harrier jump jet or optical illusion, but no firm conclusion was reached. The case remains one of the UK's most compelling UFO incidents due to photographic evidence, remote location, and official MOD involvement. Only one of the original photographs has been publicly released; the identities of the hikers have never been confirmed.
-
-**Links:**
-
-[https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/](https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/)
-
-**Photos:**
-
-*Images pending - children's drawings and newspaper coverage available in historical archives*
-
-\
-
-## 1996, September 10 - Matanzas Rural School, Cuba #ContactAttempt #LatinAmerica #Cuba
-
-Dozens of children witnessed large glowing oval craft silently hover over school assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate. Similar to Ariel School incident.
-
-\
-
-## 1996 - Varginha, Brazil #ContactAttempt #LatinAmerica #Brazil #Varginha
-
-Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America's highest-profile mass-contact claims with physical evidence reports. Military allegedly captured beings. Known as "Brazil's Roswell."
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Varginha_UFO_incident](https://en.wikipedia.org/wiki/Varginha_UFO_incident)
-
-\
-
-## 1994, September 16 - Ariel School, Zimbabwe #ContactAttempt #Africa #Zimbabwe
-
-62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth and environmental concerns. Investigated by Dr. John Mack and Cynthia Hind.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)
-[https://www.johnemackinstitute.org/ariel-school](https://www.johnemackinstitute.org/ariel-school)
-[https://skinnybob.info/](https://skinnybob.info/) 
-[https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/](https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/) 
-
-**Photos:**
-
-![Skinny Bob Nhi 1](images/2011-skinny-bob-nhi-1.jpg)
-![Skinny Bob Nhi 2](images/2011-skinny-bob-nhi-2.jpg)
-![Skinny Bob Nhi 3](images/2011-skinny-bob-nhi-3.jpg)
-
-\
-
-## 2011, February - Former Canadian defense minister Paul Hellyer #leak #news #alien #USA
-
-Former Canadian defense minister Paul Hellyer asserts that the U.S. possesses knowledge of UFO technology and has harnessed extraterrestrial technology for new energy forms. He criticizes the historical human response of hostility to alien craft and suggests that a shadow government with black op...
-
-**Links:**
-
-[https://www.cnet.com/culture/canadas-ex-defense-minister-u-s-knows-how-aliens-can-make-us-greener/](https://www.cnet.com/culture/canadas-ex-defense-minister-u-s-knows-how-aliens-can-make-us-greener/) 
-
-\
-
-## 2010,  October - USAF personnel at Francis E. Warren AFB near #MilitaryEncounters #NuclearSite #MissileFacility #UAPIncursion #HistoricalPreModern #CriticalInfrastructure #USA
-
-Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that day, the missile site loses communications with 50 Minuteman III nuclear missiles, affecting five Missile Alert Facilities Alpha through Echo comprising the 319th Strategic Missile Squadron. The USAF commander of the sq...
-
-\
-
-## 1977 - Attorney Daniel P. Sheehan, at the request of Congressional Research Service researcher Marcia S. Smith, claims to visit the Madison Building at the Library of Congress to look at “classified sections of Project Blue Book.” Sheehan claims to see photos of a flying disc embedded in snow surrounded by USAF personnel wearing parkas. Symbols are present on the side of the crashed disc. If true, this contradicts the findings of the Blue Book that were delivered to Congress and the American people, stating that a lack of physical evidence was a key reason why UAP was not worthy of future study. #MilitaryEncounters #UnderwaterUSO? #MassSighting #PhysicalEffects #HistoricalPreModern #Declassified #USA
-
-**Links:**
-
-[web.archive.org](https://web.archive.org/web/20150703123417/http:/www.presidentialufo.com/old site/marcia sm ith story.htm)
-
-\
-
-## 1977, August 20 - Voyager Golden Records #Outbound #USA
-
-12-inch gold-plated copper records launched aboard Voyager 1 and 2 spacecraft. Contains 116 images, greetings in 55 languages, and 90 minutes of music representing Earth's diversity. Expected to last billions of years in interstellar space.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Voyager_Golden_Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
-
-\
-
-## 1977, August 15 - Wow! Signal #Inbound #USA
-
-Strong 72-second narrowband radio signal detected by Ohio State University's Big Ear radio telescope from the direction of Sagittarius. Signal was 30 times stronger than background noise. Never detected again despite numerous follow-up searches.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
-
-\
-
-## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Inbound #HistoricalPreModern #Europe #UnitedKingdom #Wales #Pembrokeshire #BroadHaven
-
-On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the UK's most concentrated UFO flaps in UK history.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Broad_Haven_UFO_sightings](https://en.wikipedia.org/wiki/Broad_Haven_UFO_sightings)
-
-**Photos:**
-
-*Images pending - children's drawings and newspaper coverage available in historical archives*
-
-\
-
-## 1975, November 5 - Travis Walton Abduction #MilitaryEncounters #NuclearSite #SecurityIncident #RadarContact #HistoricalPreModern #USA
-
-In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparen...
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Travis_Walton_abduction](https://en.wikipedia.org/wiki/Travis_Walton_abduction)
-
-\
-
-## 1974, November 16 - Arecibo Message #Outbound #USA
-
-First deliberate interstellar radio message sent from Arecibo Observatory in Puerto Rico. 1,679-bit signal transmitted to globular star cluster M13, approximately 25,000 light-years away. Contains information about humanity, DNA, Earth's solar system, and the Arecibo telescope itself.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message)
-[https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt](https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt)
-
-\
-
-## 1973, April 5 - Pioneer 11 Plaque #Outbound #USA
-
-Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's first physical messages to space. Launched aboard Pioneer 11 spacecraft, now in interstellar space beyond Neptune's orbit.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Pioneer_plaque](https://en.wikipedia.org/wiki/Pioneer_plaque)
-
-\
-
-## 1972, March 2 - Pioneer 10 Plaque #Outbound #USA
-
-First physical message from humanity to potential extraterrestrial intelligence. Gold-anodized aluminum plaque showing human figures, Earth's location in the solar system, and the spacecraft's origin. Launched aboard Pioneer 10, now in interstellar space.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Pioneer_plaque](https://en.wikipedia.org/wiki/Pioneer_plaque)
-
-\
-
-## 1971 - Photos from the USS Trepang SSN 674 submarine as it traveled between Iceland and Norway's Jan Mayen Island. Cylindrical UFO rising from the water. #FOIA-- #image #new #limited (2023-08-09) #USA
+## 1971 - Photos from the USS Trepang SSN 674 submarine as it traveled between Iceland and Jan Mayen island in the Atlantic Ocean in March 1971. #FOIARelease #MilitaryEncounters #FOIA #image #new #limited #USA(2023-08-09) #USA #Batch6
 
 The incident involves multiple photos of a large cylindrical UFO emerging from the water, with more pictures available on Google Drive. Despite a Freedom of Information Act #FOIA request with case number DON-NAVY-2015-007410, no further information about the photos was obtained. In late November,...
 
 **Links:**
 
+[https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk](https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk) #Batch6
+[https://drive.google.com/file/d/1GMWdJ34zw-Kg52HxnBy1sOuvmlSP98t/view?usp=drivesdk](https://drive.google.com/file/d/1GMWdJ34zw-Kg52Hx_nBy1sOuvmlSP98t/view?usp=drivesdk) #Batch6
+[https://drive.google.com/file/d/1GOqVufBwxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk](https://drive.google.com/file/d/1GOqVufB_wxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk) #Batch6
+[https://documents.theblackvault.com/documents/navy/2015-007410-CHR1971-TrepangFinal.pdf](https://documents.theblackvault.com/documents/navy/2015-007410-CHR1971-Trepang_Final.pdf) #Batch6
+[https://www.reddit.com/r/UFOs/s/teOUvQl69r](https://www.reddit.com/r/UFOs/s/teOUvQl69r) #Batch6
 [https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk](https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk) 
 [https://drive.google.com/file/d/1GMWdJ34zw-Kg52HxnBy1sOuvmlSP98t/view?usp=drivesdk](https://drive.google.com/file/d/1GMWdJ34zw-Kg52Hx_nBy1sOuvmlSP98t/view?usp=drivesdk) 
 [https://drive.google.com/file/d/1GOqVufBwxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk](https://drive.google.com/file/d/1GOqVufB_wxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk) 
@@ -1412,7 +1113,7 @@ The incident involves multiple photos of a large cylindrical UFO emerging from t
 
 \
 
-## 1970 - Archived New Zealand letters to diplomats. Not from the government. #leak #Oceania #NewZealand
+## 1970 - Archived New Zealand letters to diplomats. Not from the government. #LeaksDeclass #leak #Oceania #NewZealand
 
 The collection comprises numerous files dating back to the 1970s, containing letters addressed to the US government regarding Unidentified Aerial Phenomena (UAP) from New Zealand.
 
