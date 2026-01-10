@@ -544,7 +544,7 @@ See threads and discussions for links to source materials.
 
 \
 
-## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #law #usadc #USA
+## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #LegislationPolicy #law #usadc #USA
 
 If the Senate passes the yearly NDAA bill and Congress creates and passes a different version of the bill. how do the two get reconciled? This is the National Defence bill
 
@@ -623,7 +623,7 @@ IC IG - November 16
 
 \
 
-## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #quote #law #USA
+## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #LegislationPolicy #quote #law #USA
 
 **Links:**
 
@@ -707,7 +707,7 @@ The Department of Defense is reshuffling leadership at the All-Domain Anomaly Re
 
 \
 
-## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #letter #law #usadc #USA
+## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #LegislationPolicy #letter #law #usadc #USA
 
 **Links:**
 
@@ -715,7 +715,7 @@ The Department of Defense is reshuffling leadership at the All-Domain Anomaly Re
 
 \
 
-## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #usadc #USA
+## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #CongressionalHearings #WhistleblowerDisclosures #usadc #USA
 
 Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander David Fravor (Ret.), a Former Commanding Officer of the United States Navy David Grusch (Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense)
 
@@ -726,7 +726,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander D
 
 \
 
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #law #USA
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #LegislationPolicy #law #USA
 
 #usadc
 
@@ -736,7 +736,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander D
 
 \
 
-## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #law #usadc #USA
+## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #LegislationPolicy #law #usadc #USA
 
 **Links:**
 
@@ -777,7 +777,7 @@ there is a large glowing disc that enters at the top right and passes to the lef
 
 \
 
-## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #new (2023-09-04) #map #USA #Asia #Japan
+## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO #FOIARelease #new #map #USA #Asia #Japan
 
 **Links:**
 
@@ -792,7 +792,7 @@ there is a large glowing disc that enters at the top right and passes to the lef
 
 \
 
-## 2023, August - Senator Kirsten Gillibrand #quote #usadc #USA
+## 2023, August - Senator Kirsten Gillibrand #WhistleblowerDisclosures #LegislationPolicy #quote #usadc #USA
 
 David Grusch's testimony received the most attention with his statement: "I have no ability to verify that testimony because we’ve not been told of any such programs. We’ve asked for all information related to all programs and have not been given that detail." As someone who helped secure full fu...
 
@@ -802,7 +802,7 @@ David Grusch's testimony received the most attention with his statement: "I have
 
 \
 
-## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #law #usadc #USA
+## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #CongressionalHearings #WhistleblowerDisclosures #law #usadc #USA
 
 Testimonies under oath from whistleblowers on the subject of UAP. Ryan Graves, the Executive Director Americans for Safe Aerospace, Commander David Fravor (Ret.) a Former Commanding Officer of the United States Navy
 
@@ -821,7 +821,7 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 \
 
-## 2023, July - Congress debrief - Leaked debrief used by Congress to prepare for the hearing #law #usadc #USA
+## 2023, July - Congress debrief - Leaked debrief used by Congress to prepare for the hearing #LeaksDeclass #law #usadc #USA
 
 The 177-page debrief has been parsed into chunks for easier consumption. 1947 - 1960 -
 
@@ -840,7 +840,7 @@ Ryan Graves, the Executive Director of Americans for Safe Aerospace, emphasizes 
 
 \
 
-## 2023, July - National Defense Authorization Act for Fiscal Year 2024 #law #usadc #USA
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024 #LegislationPolicy #law #usadc #USA
 
 The legislation, outlined in multiple sections, aims to establish a comprehensive framework for handling and disclosing records related to Unidentified Anomalous Phenomena (UAPs) within the United States government. It mandates the creation of the "Unidentified Anomalous Phenomena Records Collect...
 
@@ -850,7 +850,7 @@ The legislation, outlined in multiple sections, aims to establish a comprehensiv
 
 \
 
-## 2023, July - S.2103 — 118th Congress (2023-2024) #law #usadc #USA
+## 2023, July - S.2103 — 118th Congress (2023-2024) #LegislationPolicy #law #usadc #USA
 
 The Intelligence Authorization Act for Fiscal Year 2024, detailed across pages 209 and 110, introduces amendments concerning Unidentified Anomalous Phenomena (UAPs). The act defines key terms such as "Director" and "Unidentified Anomalous Phenomena" and expresses concern about potential technolog...
 
@@ -921,7 +921,7 @@ A reader from Poland, who was vacationing in Turkey, wrote to a Reddit user. Whi
 
 \
 
-## 2023, June - Gillibrand Secures Full Funding For UAP Office In Senate Defense Bill Markup. Jun 23, 2023 #law #usadc #USA
+## 2023, June - Gillibrand Secures Full Funding For UAP Office In Senate Defense Bill Markup. Jun 23, 2023 #LegislationPolicy #law #usadc #USA
 
 U.S. Senator Kirsten Gillibrand announced that she had secured full funding for the All-domain Anomaly Resolution Office (AARO) in the Senate Armed Services Committee’s FY24 National Defense Authorization Act markup. Earlier this year, Gillibrand and Senator Marco Rubio (R-FL) led a bipartisan pu...
 
