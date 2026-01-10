@@ -274,7 +274,7 @@ The Unidentified Anomalous Phenomena Disclosure Act of 2024, or UAP Disclosure A
 
 \
 
-## 2024, May 30 - A UK Freedom of Information request has revealed the Department for Science, Innovation and Technology (DSIT) is currently researching how it will react to the so-called ‘black swan’ event that is discovering extraterrestrial life, including announcing the find to the public. #LegislationPolicy #FOIARelease #GovernmentPreparedness #International #ScientificStudies #ReligiousCultural #Europe
+## 2024, May 30 - A UK Freedom of Information request has revealed the Department for Science, Innovation and Technology (DSIT) is currently researching how it will react to the so-called ‘black swan’ event that is discovering extraterrestrial life, including announcing the find to the public. #LegislationPolicy #FOIARelease #GovernmentPreparedness #International #ScientificStudies #ReligiousCultural #Europe #UnitedKingdom
 
 A black swan event is unpredictable and has wide-ranging consequences, but in hindsight, it appears to have been inevitable. The report is investigating whether a plan already exists – none has ever been made public – what a plan would look like, and how the UK can be ‘on the front foot’ should s...
 
@@ -1591,7 +1591,7 @@ Second Cosmic Call transmission to five additional stars using the Evpatoria RT-
 
 \
 
-## 2002, August 15 - Crabwood Formation #Inbound #Europe
+## 2002, August 15 - Crabwood Formation #Inbound #Europe #UnitedKingdom #Winchester #CropFormation
 
 Crop formation with alien face and binary message near Winchester, UK: "Beware the bearers of false gifts and their broken promises...Conduit closing." One of the most complex crop circles ever documented, featuring a CD-like disc with encoded ASCII message.
 
@@ -1611,7 +1611,7 @@ First interstellar message composed by teenagers from Russia. Transmitted to six
 
 \
 
-## 2001, August 19 - Chilbolton Arecibo Reply #Inbound #Europe
+## 2001, August 19 - Chilbolton Arecibo Reply #Inbound #Europe #UnitedKingdom #Hampshire #Chilbolton #CropFormation
 
 Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population (10 billion), and different solar system. Appeared near Chilbolton radio telescope, Hampshire, UK.
 
@@ -1621,7 +1621,7 @@ Crop formation mirroring 1974 Arecibo message structure with different data: sil
 
 \
 
-## 2001, August 14 - Chilbolton Face Formation #Inbound #Europe
+## 2001, August 14 - Chilbolton Face Formation #Inbound #Europe #UnitedKingdom #Hampshire #Chilbolton #CropFormation
 
 Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK. Appeared 5 days before the Arecibo Reply formation in the same area. Face shows non-human features with large eyes.
 
@@ -1641,7 +1641,7 @@ Radio message using sophisticated "Lexicon" mathematical language transmitted to
 
 \
 
-## 1990, August 4 - Calvine UFO Incident: Diamond-Shaped Object Photographed in Scottish Highlands #CivilianSightings #PhotoEvidence #MultipleWitness #MilitaryUAP #FOIARelease #LeaksDeclass #Europe
+## 1990, August 4 - Calvine UFO Incident: Diamond-Shaped Object Photographed in Scottish Highlands #CivilianSightings #PhotoEvidence #MultipleWitness #MilitaryUAP #FOIARelease #LeaksDeclass #Europe #UnitedKingdom #Scotland #Calvine
 
 Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hovering silently in the sky before accelerating away at high speed. They captured several photographs using a 35mm camera showing a solid object with a bright or misty appearance. The photos were handed to the UK Ministry of Defence for analysis and disappeared for decades. In 2021, one original photograph was released under the Freedom of Information Act, showing the diamond-shaped object with what appeared to be a military jet nearby for scale. The MOD suggested it may have been a misidentified Harrier jump jet or optical illusion, but no firm conclusion was reached. The case remains one of the UK's most compelling UFO incidents due to photographic evidence, remote location, and official MOD involvement. Only one of the original photographs has been publicly released; the identities of the hikers have never been confirmed.
 
@@ -1735,7 +1735,7 @@ Strong 72-second narrowband radio signal detected by Ohio State University's Big
 
 \
 
-## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Inbound #HistoricalPreModern #Europe
+## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Inbound #HistoricalPreModern #Europe #UnitedKingdom #Wales #Pembrokeshire #BroadHaven
 
 On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the most concentrated UFO flaps in UK history.
 
@@ -1951,7 +1951,7 @@ The National Investigations Committee On Aerial Phenomena was formed in 1956, wi
 
 \
 
-## 1957, May - U.S. pilot was ordered to shoot down UFO #MilitaryEncounters #InterceptorScramble #PilotOrder #HistoricalPreModern #Europe
+## 1957, May - U.S. pilot was ordered to shoot down UFO #MilitaryEncounters #InterceptorScramble #PilotOrder #HistoricalPreModern #Europe #UnitedKingdom #England
 
 During the Cold War, recently revealed secret files indicate that two U.S. fighter planes were dispatched to intercept and potentially shoot down an unidentified flying object (UFO) over the English countryside. The incident, disclosed through National Archives files in London, occurred in May 19...
 
@@ -2148,7 +2148,7 @@ This document discusses the presence of unidentified flying objects (UFOs) in th
 
 \
 
-## 1950 - Prime Minister Winston Churchill ordered a UFO sighting to be kept secret to prevent "mass panic." #FOIA#Europe
+## 1950 - Prime Minister Winston Churchill ordered a UFO sighting to be kept secret to prevent "mass panic." #FOIA #Europe #UnitedKingdom
 
 Newly declassified files reveal that the UK government treated UFO sightings seriously in the 1950s, engaging intelligence officials in discussions and requesting weekly reports on UFO encounters. In 1957, the Joint Intelligence Committee received reports detailing approximately one UFO sighting ...
 
@@ -2388,7 +2388,7 @@ During the city's final siege, reports emerged of a glowing cross in the sky ove
 
 \
 
-## 1420 CE - Japan: Gukanshō's Glowing Sphere #HistoricalPreModern #Medieval #Europe
+## 1420 CE - Japan: Gukanshō's Glowing Sphere #HistoricalPreModern #Medieval #Asia #Japan
 
 In the Gukanshō, an important historical and Buddhist text, a glowing sphere appeared in the sky, causing fear among the people. No further details about this sphere were provided.
 
@@ -2556,7 +2556,7 @@ The Konjaku Monogatari in Japan interpreted a glowing sphere seen in the sky as 
 
 \
 
-## 1034 CE - England: Peterborough Chronicle's Fiery Lights #HistoricalPreModern #Medieval #Europe
+## 1034 CE - England: Peterborough Chronicle's Fiery Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 
 The Peterborough Chronicle, a series of Anglo-Saxon annals, reported fiery lights in the sky, which were interpreted as signs of impending disaster. No further details were provided about these lights.
 
@@ -2606,7 +2606,7 @@ St. Gregory of Tours, a historian of the Franks, reported seeing a glowing objec
 The Nihon Koki in Japan recorded a glowing sphere appearing in the sky, moving slowly.
 ## 800 CE - Bright Sky Object During Emperor Kammu's Reign
 The Shoku Nihongi in Japan recorded a bright object seen in the sky during the reign of Emperor Kammu.
-## 793 CE - England: Anglo-Saxon Chronicle's Fiery Dragons
+## 793 CE - England: Anglo-Saxon Chronicle's Fiery Dragons #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
 The Anglo-Saxon Chronicle, a collection of Old English annals, reported strange fiery dragons flying in the sky, heralding disaster. The exact nature of these 'dragons' remains a mystery.
 ## 776 CE - France: Siege of Sigiburg UFOs
 During the Siege of Sigiburg, two large glowing objects hovered over a church, causing the Saxon besiegers to flee in panic. The nature and origin of these objects remain unknown.
