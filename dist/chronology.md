@@ -792,16 +792,6 @@ there is a large glowing disc that enters at the top right and passes to the lef
 
 \
 
-## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #letter #law #usadc
-
-In a letter to Inspector General Thomas A. Monheim, dated \[Date\], the House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs discusses a recent hearing on Unidentified Anomalous Phenomena (UAPs). During this hearing, Mr. David Grusch, an Air Force ...
-
-**Links:**
-
-[https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector](https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector)[https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf](https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf) 
-
-\
-
 ## 2023, August - Senator Kirsten Gillibrand #quote #usadc #USA
 
 David Grusch's testimony received the most attention with his statement: "I have no ability to verify that testimony because we’ve not been told of any such programs. We’ve asked for all information related to all programs and have not been given that detail." As someone who helped secure full fu...
@@ -2042,23 +2032,6 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 
 ## 1954 - Atomic Energy Act of 1954 - Establishes Government-wide policies for classifying, safeguarding, and declassifying Restricted Data information. #LegislationPolicy #AtomicEnergyAct #Classification #RecordsPolicy #NationalSecurity
 
-**Links:**
-
-[https://en.wikipedia.org/wiki/Atomic_Energy_Act_of_1954](https://en.wikipedia.org/wiki/Atomic_Energy_Act_of_1954) 
-[https://www.epa.gov/laws-regulations/summary-atomic-energy-act](https://www.epa.gov/laws-regulations/summary-atomic-energy-act) 
-
-**Photos:**
-
-![Establishes Government Wide Policies For Classifyi 1](images/1954-establishes-government-wide-policies-for-classifyi-1.png)
-
-**Details:**
-
-![](https://preview.redd.it/here-is-the-picture-i-took-from-the-guy-who-claimed-to-have-v0-6pd33438jd8d1.jpeg?width=640&crop=smart&auto=webp&s=7ffa63043c7c3b47718c57bee2a590907bb5a040)
-
-\
-
-## 1954 - Atomic Energy Act of 1954 - Establishes Government-wide policies for classifying, safeguarding, and declassifying Restricted Data information. #LegislationPolicy #AtomicEnergyAct #Classification #RecordsPolicy #NationalSecurity
-
 (aa) The term "special nuclear material" means (1) plutonium, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the Commission, pursuant to the provisions of section 2071 of this title, determines to be special nuclear material, but does not include source ma...
 
 **Links:**
@@ -2095,14 +2068,6 @@ This photograph, taken in 1955, depicts a crashed Flying Saucer that was reporte
 **Photos:**
 
 ![New Zealand 1](images/1951-new-zealand-1.png)
-
-\
-
-## 1951, August 25 - US National Archive Case File 978 August 25,1951. Lubbock Texas #HistoricalPreModern #USA
-
-**Links:**
-
-[https://www.reddit.com/r/UFOs/comments/1gaq0eb/us_national_archive_case_file_978_august_251951/](https://www.reddit.com/r/UFOs/comments/1gaq0eb/us_national_archive_case_file_978_august_251951/) 
 
 \
 
@@ -2191,17 +2156,6 @@ In a document dated September 23, 1947, the Air Materiel Command (AMC) presented
 \
 
 ## 1947, September 18 - The National Security Act of 1947 established CIA as an independent, civilian intelligence agency within the executive branch. USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947. #USA
-
-\
-
-## 1947, July 8 - Roswell incident #news
-
-The Act charged CIA with coordinating the Nation’s intelligence activities and, among other duties, collecting, evaluating, and disseminating intelligence affecting national security.
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/Roswellincident](https://en.wikipedia.org/wiki/Roswell_incident) 
-[https://www.cia.gov/legacy/cia-history/](https://www.cia.gov/legacy/cia-history/) 
 
 \
 
