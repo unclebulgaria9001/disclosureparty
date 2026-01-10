@@ -1236,39 +1236,53 @@
             }
         }
         
-        // Geocoding database for locations
+        // Geocoding database for locations (ordered by specificity - most specific first)
         const locationCoordinates = {
-            // USA locations
+            // Specific USA locations (check these first)
+            'area 51': [37.2350, -115.8111],
+            'white house': [38.8977, -77.0365],
+            'rendlesham forest': [52.0944, 1.5500],
+            'new mexico': [34.5199, -105.8701],
+            'new york': [40.7128, -74.0060],
+            'new jersey': [40.0583, -74.4057],
+            'new delhi': [28.6139, 77.2090],
+            'puerto rico': [18.2208, -66.5901],
+            'los angeles': [34.0522, -118.2437],
+            'san diego': [32.7157, -117.1611],
+            'mexico city': [19.4326, -99.1332],
+            'buenos aires': [-34.6037, -58.3816],
+            
+            // USA states and cities
+            'alaska': [64.2008, -149.4937],
+            'yukon': [64.2823, -135.0000],
             'washington': [38.9072, -77.0369],
             'pentagon': [38.8719, -77.0563],
-            'white house': [38.8977, -77.0365],
             'capitol': [38.8899, -77.0091],
-            'area 51': [37.2350, -115.8111],
             'roswell': [33.3943, -104.5230],
             'phoenix': [33.4484, -112.0740],
             'california': [36.7783, -119.4179],
-            'new york': [40.7128, -74.0060],
-            'new jersey': [40.0583, -74.4057],
             'texas': [31.9686, -99.9018],
             'florida': [27.6648, -81.5158],
             'ohio': [40.4173, -82.9071],
             'nevada': [38.8026, -116.4194],
-            'new mexico': [34.5199, -105.8701],
             'arizona': [34.0489, -111.0937],
             'chicago': [41.8781, -87.6298],
-            'los angeles': [34.0522, -118.2437],
-            'san diego': [32.7157, -117.1611],
             'seattle': [47.6062, -122.3321],
             
-            // International locations
-            'uk': [51.5074, -0.1278],
+            // Canada
+            'canada': [56.1304, -106.3468],
+            'canadian': [56.1304, -106.3468],
+            'ottawa': [45.4215, -75.6972],
+            'trudeau': [45.4215, -75.6972],
+            
+            // UK locations
             'united kingdom': [51.5074, -0.1278],
-            'london': [51.5074, -0.1278],
-            'england': [52.3555, -1.1743],
             'rendlesham': [52.0944, 1.5500],
             'hampshire': [51.0577, -1.3081],
             'chilbolton': [51.1500, -1.4400],
             'winchester': [51.0633, -1.3100],
+            'london': [51.5074, -0.1278],
+            'england': [52.3555, -1.1743],
             
             'france': [46.2276, 2.2137],
             'paris': [48.8566, 2.3522],
@@ -1334,8 +1348,43 @@
         function geocodeEvent(title, tags) {
             const searchText = (title + ' ' + tags.join(' ')).toLowerCase();
             
-            // Try to find location match
-            for (const [location, coords] of Object.entries(locationCoordinates)) {
+            // Check tags first for country/region codes (USA, Canada, etc.)
+            const tagString = tags.join(' ').toLowerCase();
+            if (tagString.includes('usa') || tagString.includes('united states')) {
+                // For USA-tagged events, prioritize USA locations
+                for (const [location, coords] of Object.entries(locationCoordinates)) {
+                    if (searchText.includes(location) && 
+                        (location.includes('washington') || location.includes('pentagon') || 
+                         location.includes('capitol') || location.includes('alaska') ||
+                         location.includes('california') || location.includes('texas') ||
+                         location.includes('florida') || location.includes('nevada') ||
+                         location.includes('arizona') || location.includes('new mexico') ||
+                         location.includes('ohio') || location.includes('new york') ||
+                         location.includes('chicago') || location.includes('seattle') ||
+                         location.includes('phoenix') || location.includes('roswell'))) {
+                        return {
+                            location: location.charAt(0).toUpperCase() + location.slice(1),
+                            coordinates: coords
+                        };
+                    }
+                }
+            }
+            
+            if (tagString.includes('canada') || searchText.includes('canadian') || 
+                searchText.includes('trudeau') || searchText.includes('yukon')) {
+                // For Canada-related events
+                if (searchText.includes('yukon')) {
+                    return { location: 'Yukon, Canada', coordinates: [64.2823, -135.0000] };
+                }
+                return { location: 'Canada', coordinates: [56.1304, -106.3468] };
+            }
+            
+            // Try to find location match (ordered by specificity)
+            // Sort by length descending to match longer/more specific terms first
+            const sortedLocations = Object.entries(locationCoordinates)
+                .sort((a, b) => b[0].length - a[0].length);
+            
+            for (const [location, coords] of sortedLocations) {
                 if (searchText.includes(location)) {
                     return {
                         location: location.charAt(0).toUpperCase() + location.slice(1),
