@@ -818,9 +818,9 @@
         // Tab switching
         document.querySelectorAll('.tab').forEach(tab => {
             tab.addEventListener('click', () => {
-                // Redirect to dedicated chronology viewer with full filter panel
+                // Redirect to timeline with chronology view
                 if (tab.dataset.doc === 'chronology') {
-                    window.location.href = 'chronology-viewer.html';
+                    window.location.href = 'timeline.html';
                     return;
                 }
                 
@@ -1657,9 +1657,9 @@
             const hash = window.location.hash.substring(1); // Remove #
             const [tab, queryString] = hash.split('?');
             
-            // Redirect chronology to dedicated viewer with full filter panel
+            // Redirect chronology to timeline with chronology view
             if (tab === 'chronology') {
-                window.location.href = 'chronology-viewer.html';
+                window.location.href = 'timeline.html';
                 return;
             }
             
