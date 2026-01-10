@@ -861,7 +861,7 @@ During an open hearing regarding Unidentified Anomalous Phenomena at the Senate 
 
 \
 
-## 2022 - United States Congress hearings on UFOs #law #usa #USA
+## 2022 - United States Congress hearings on UFOs #CongressionalHearings #law #usa #USA
 
 On May 17, 2022, the United States House Intelligence Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation convened public congressional hearings to address military reports of unexplained aerial phenomena (UAPs). Marking the first such hearings in over 50 years, the ev...
 
@@ -876,7 +876,7 @@ On May 17, 2022, the United States House Intelligence Subcommittee on Counterter
 
 \
 
-## 2021, June - UFO Report (U.S. Intelligence) #report #USA
+## 2021, June - UFO Report (U.S. Intelligence) #FOIARelease #ScientificStudies #report #USA
 
 Issued on June 25, 2021, by the Office of the Director of National Intelligence, the Preliminary Assessment: Unidentified Aerial Phenomena (UAP) Report offers a comprehensive overview of UAPs, compiling 144 observations by the U.S. Armed Forces from 2004 to 2021. The report highlights that the UA...
 
@@ -886,7 +886,7 @@ Issued on June 25, 2021, by the Office of the Director of National Intelligence,
 
 \
 
-## 2021 - Highly Classified NRO System Captures Possible "Tic-Tac" Object. Satellite image #FOIA #new (2023-08-08) #new (2023-08-08) #image #sensors #usavirginiabeach #USA
+## 2021 - Highly Classified NRO System Captures Possible "Tic-Tac" Object. Satellite image #FOIARelease #MilitaryEncounters #FOIA #new (2023-08-08) #new (2023-08-08) #image #sensors #usavirginiabeach #USA
 
 In 2021, the National Reconnaissance Office (NRO) utilized its classified analysis system called "Sentient" to detect an unconventional "tic tac" shaped object. Sentient, an advanced tool with classified details, was designed to process diverse data, anticipate future events, and direct satellite...
 
@@ -916,7 +916,7 @@ SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) an
 
 \
 
-## 2021 - UAP seen over the USS Kearsarge in the Fall of 2021. #FOIA #USA
+## 2021 - UAP seen over the USS Kearsarge in the Fall of 2021. #FOIARelease #MilitaryEncounters #FOIA #USA
 
 In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP) sightings above the USS Kearsarge in the Fall of 2021. He documented the detailed account of these sightings, which can be accessed through his write-up. Despite his efforts, Dave's Freedom of Information Act #FOIA r...
 
@@ -931,23 +931,16 @@ In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP)
 
 \
 
-## 2021, May - Obama on UFO videos 'We don't know exactly what they are' #quote #usa #USA
+## 2021, May - Obama on UFO videos 'We don't know exactly what they are' #WhistleblowerDisclosures #quote #usa #USA
 
 Former President Barack Obama has acknowledged the presence of footage and records depicting unidentified aerial phenomena in the skies, highlighting that the movements and trajectories of these objects defy easy explanation, presenting a true enigma. The U.S. Navy has verified the authenticity o...
 
 **Links:**
-
-[https://www.nbcnews.com/science/weird-science/obama-ufo-videos-dont-know-exactly-are-rcna963](https://www.nbcnews.com/science/weird-science/obama-ufo-videos-dont-know-exactly-are-rcna963) 
-
-\
-
-## 2021 - Former Nevada Sen. Harry Reid believes US defense contractor Lockheed Martin may have once had fragments of a crashed UFO in its possession, it was revealed Friday. #quote #new (2023-09-10) #usa #USA
-
 Former Nevada Sen. Harry Reid has suggested that defense contractor Lockheed Martin might have possessed fragments of a crashed UFO, though he never saw any proof and was denied Pentagon approval to investigate. Reid, a Democrat, claimed that he tried to gain classified approval to examine the al...
 
 \
 
-## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa #USA
+## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa #USA #MilitaryEncounters
 
 Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, following his role as Assistant Deputy Director for Intelligence, Surveillance, and Reconnaissance Operations at the Joint Chiefs of Staff. Several Freedom of Information Act #FOIA requests have been initiated to retri...
 
@@ -959,7 +952,7 @@ Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, f
 
 \
 
-## 2021 - Harry Reid reflects on his interest in UFOs #quote #usa #USA
+## 2021 - Harry Reid reflects on his interest in UFOs #WhistleblowerDisclosures #HistoricalPreModern #quote #usa #USA
 
 Harry Reid reflects on his enduring interest in UFOs, tracing it back to his attendance at a conference on unidentified aerial phenomena. In 2007, he collaborated with fellow senators to secure funding for the Advanced Aerospace Threat Identification Program, which investigated UFO reports involv...
 
@@ -969,17 +962,15 @@ Harry Reid reflects on his enduring interest in UFOs, tracing it back to his att
 
 \
 
-## 2020 - December 2020, Retired general, Eshed #quote #MiddleEast #Israel
+## 2021, July - David Grusch becomes a direct daily staffer to President Biden on UAP. Here's his resume, which was submitted to Congress on the same day as his hearing. #MilitaryEncounters #Navy #FOIARelease #UAPIncident #VideoEvidence #USA
 
-Former Israeli space security chief Haim Eshed claimed that humanity has been engaged with extraterrestrials from a "galactic federation." According to Eshed, these extraterrestrial beings have requested their presence to remain undisclosed due to humanity's lack of readiness to comprehend it ful...
-
-**Links:**
+SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) and Trans-Medium Anomaly issues. Executed new program of record responsive to direct tasking by the Congressional Intelligence Committees. Lead advisor for Space Control and Non-Kinetic investment R&D solutions for OSD ...
 
 [https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333](https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333) 
 
 \
 
-## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
+## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #MilitaryEncounters #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
 
 May 2023:
 
