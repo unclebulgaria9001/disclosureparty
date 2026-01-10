@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filter System Test</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: #0d1117;
+            color: #c9d1d9;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 { color: #58a6ff; }
+        h2 { color: #8b949e; margin-top: 30px; }
+        .test-case {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        .pass { color: #3fb950; }
+        .fail { color: #f85149; }
+        .result { margin: 10px 0; font-weight: bold; }
+        pre {
+            background: #0d1117;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .stat-box {
+            background: #21262d;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 2em;
+            color: #58a6ff;
+            font-weight: bold;
+        }
+        .stat-label {
+            color: #8b949e;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧪 Filter System Test Suite</h1>
+    <p>Testing consistency across Timeline, Geotimeline, and Chronology viewers</p>
+    
+    <div class="stats">
+        <div class="stat-box">
+            <div class="stat-value" id="totalTests">0</div>
+            <div class="stat-label">Total Tests</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-value pass" id="passedTests">0</div>
+            <div class="stat-label">Passed</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-value fail" id="failedTests">0</div>
+            <div class="stat-label">Failed</div>
+        </div>
+    </div>
+    
+    <div id="testResults"></div>
+    
+    <script>
+        let totalTests = 0;
+        let passedTests = 0;
+        let failedTests = 0;
+        let allEvents = [];
+        
+        // Shared filter logic (extracted from timeline.html and viewer.html)
+        function getFilteredEvents(events, selectedCategoryTags, selectedGeoTags) {
+            // If no filters selected, return empty array
+            if (selectedCategoryTags.length === 0 || selectedGeoTags.length === 0) {
+                return [];
+            }
+            
+            return events.filter(event => {
+                const eventTags = event.tags.map(t => t.toLowerCase().replace('#', ''));
+                
+                // Entry must match at least one selected category tag AND one selected geo tag
+                const hasMatchingCategoryTag = selectedCategoryTags.some(tag => 
+                    eventTags.includes(tag.toLowerCase())
+                );
+                const hasMatchingGeoTag = selectedGeoTags.some(tag => 
+                    eventTags.includes(tag.toLowerCase())
+                );
+                
+                return hasMatchingCategoryTag && hasMatchingGeoTag;
+            });
+        }
+        
+        // Load and parse chronology.md
+        async function loadChronology() {
+            const response = await fetch('dist/chronology.md');
+            const text = await response.text();
+            
+            // Remove YAML frontmatter
+            const cleanText = text.replace(/^---[\s\S]*?---\n/m, '');
+            const lines = cleanText.split('\n');
+            
+            let currentEntry = null;
+            let inChronology = false;
+            
+            for (let line of lines) {
+                line = line.trim();
+                
+                if (line === '# Chronology' || line === 'Chronology') {
+                    inChronology = true;
+                    continue;
+                }
+                
+                if (!inChronology) continue;
+                
+                const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
+                
+                if (headerMatch) {
+                    if (currentEntry) allEvents.push(currentEntry);
+                    currentEntry = {
+                        date: headerMatch[1],
+                        title: headerMatch[2],
+                        tags: []
+                    };
+                } else if (currentEntry) {
+                    const tags = line.match(/#[A-Za-z0-9_]+/g);
+                    if (tags) currentEntry.tags.push(...tags);
+                }
+            }
+            
+            if (currentEntry) allEvents.push(currentEntry);
+            
+            console.log(`Loaded ${allEvents.length} events from chronology.md`);
+            runTests();
+        }
+        
+        function addTestResult(testName, passed, expected, actual, details = '') {
+            totalTests++;
+            if (passed) passedTests++;
+            else failedTests++;
+            
+            const resultDiv = document.createElement('div');
+            resultDiv.className = 'test-case';
+            resultDiv.innerHTML = `
+                <h3>${passed ? '✅' : '❌'} ${testName}</h3>
+                <div class="result ${passed ? 'pass' : 'fail'}">
+                    ${passed ? 'PASS' : 'FAIL'}
+                </div>
+                ${details ? `<p>${details}</p>` : ''}
+                <pre>Expected: ${expected}\nActual: ${actual}</pre>
+            `;
+            document.getElementById('testResults').appendChild(resultDiv);
+            
+            updateStats();
+        }
+        
+        function updateStats() {
+            document.getElementById('totalTests').textContent = totalTests;
+            document.getElementById('passedTests').textContent = passedTests;
+            document.getElementById('failedTests').textContent = failedTests;
+        }
+        
+        function runTests() {
+            document.getElementById('testResults').innerHTML = '<h2>Test Results</h2>';
+            
+            // Test 1: No filters selected = 0 results
+            const test1 = getFilteredEvents(allEvents, [], []);
+            addTestResult(
+                'Test 1: No filters selected',
+                test1.length === 0,
+                '0 events',
+                `${test1.length} events`,
+                'When no category or geo filters are selected, should return empty array'
+            );
+            
+            // Test 2: Only category filters, no geo filters = 0 results
+            const test2 = getFilteredEvents(allEvents, ['Outbound', 'Inbound'], []);
+            addTestResult(
+                'Test 2: Category filters only, no geo filters',
+                test2.length === 0,
+                '0 events',
+                `${test2.length} events`,
+                'Must have both category AND geo filters selected'
+            );
+            
+            // Test 3: Only geo filters, no category filters = 0 results
+            const test3 = getFilteredEvents(allEvents, [], ['USA', 'Europe']);
+            addTestResult(
+                'Test 3: Geo filters only, no category filters',
+                test3.length === 0,
+                '0 events',
+                `${test3.length} events`,
+                'Must have both category AND geo filters selected'
+            );
+            
+            // Test 4: USA + Outbound filter
+            const test4 = getFilteredEvents(allEvents, ['Outbound'], ['USA']);
+            const usaOutbound = allEvents.filter(e => {
+                const tags = e.tags.map(t => t.toLowerCase().replace('#', ''));
+                return tags.includes('outbound') && tags.includes('usa');
+            });
+            addTestResult(
+                'Test 4: USA + Outbound events',
+                test4.length === usaOutbound.length,
+                `${usaOutbound.length} events`,
+                `${test4.length} events`,
+                'Should return events tagged with both #Outbound and #USA'
+            );
+            
+            // Test 5: Europe + CongressionalHearings filter
+            const test5 = getFilteredEvents(allEvents, ['CongressionalHearings'], ['Europe']);
+            const europeHearings = allEvents.filter(e => {
+                const tags = e.tags.map(t => t.toLowerCase().replace('#', ''));
+                return tags.includes('congressionalhearings') && tags.includes('europe');
+            });
+            addTestResult(
+                'Test 5: Europe + Congressional Hearings',
+                test5.length === europeHearings.length,
+                `${europeHearings.length} events`,
+                `${test5.length} events`,
+                'Should return events tagged with both #CongressionalHearings and #Europe'
+            );
+            
+            // Test 6: Multiple category tags + single geo tag
+            const test6 = getFilteredEvents(allEvents, ['Outbound', 'Inbound', 'ContactAttempt'], ['LatinAmerica']);
+            const latinAmericaComms = allEvents.filter(e => {
+                const tags = e.tags.map(t => t.toLowerCase().replace('#', ''));
+                return (tags.includes('outbound') || tags.includes('inbound') || tags.includes('contactattempt')) 
+                    && tags.includes('latinamerica');
+            });
+            addTestResult(
+                'Test 6: Multiple categories + LatinAmerica',
+                test6.length === latinAmericaComms.length,
+                `${latinAmericaComms.length} events`,
+                `${test6.length} events`,
+                'Should return events matching ANY category tag AND the geo tag'
+            );
+            
+            // Test 7: Single category + multiple geo tags
+            const test7 = getFilteredEvents(allEvents, ['MilitaryEncounters'], ['USA', 'Europe', 'Asia']);
+            const militaryMultiGeo = allEvents.filter(e => {
+                const tags = e.tags.map(t => t.toLowerCase().replace('#', ''));
+                return tags.includes('militaryencounters') 
+                    && (tags.includes('usa') || tags.includes('europe') || tags.includes('asia'));
+            });
+            addTestResult(
+                'Test 7: Military + Multiple regions',
+                test7.length === militaryMultiGeo.length,
+                `${militaryMultiGeo.length} events`,
+                `${test7.length} events`,
+                'Should return events matching the category AND ANY geo tag'
+            );
+            
+            // Test 8: Historical events in UK
+            const test8 = getFilteredEvents(allEvents, ['HistoricalPreModern'], ['UnitedKingdom']);
+            const ukHistorical = allEvents.filter(e => {
+                const tags = e.tags.map(t => t.toLowerCase().replace('#', ''));
+                return tags.includes('historicalpremodern') && tags.includes('unitedkingdom');
+            });
+            addTestResult(
+                'Test 8: Historical + UnitedKingdom',
+                test8.length === ukHistorical.length,
+                `${ukHistorical.length} events`,
+                `${test8.length} events`,
+                'Should return historical events tagged with #UnitedKingdom'
+            );
+            
+            // Test 9: Case insensitivity check
+            const test9a = getFilteredEvents(allEvents, ['outbound'], ['usa']);
+            const test9b = getFilteredEvents(allEvents, ['Outbound'], ['USA']);
+            const test9c = getFilteredEvents(allEvents, ['OUTBOUND'], ['usa']);
+            addTestResult(
+                'Test 9: Case insensitivity',
+                test9a.length === test9b.length && test9b.length === test9c.length,
+                `Same count for all case variations`,
+                `lowercase: ${test9a.length}, TitleCase: ${test9b.length}, UPPERCASE: ${test9c.length}`,
+                'Filter should be case-insensitive'
+            );
+            
+            // Test 10: All category + all geo tags
+            const allCategories = ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 
+                                  'CongressionalHearings', 'LeaksDeclass', 'WhistleblowerDisclosures',
+                                  'MilitaryEncounters', 'CivilianSightings', 'HistoricalPreModern'];
+            const allGeo = ['USA', 'Canada', 'Mexico', 'Europe', 'UnitedKingdom', 'LatinAmerica', 
+                           'Asia', 'MiddleEast', 'Africa', 'Oceania', 'International'];
+            const test10 = getFilteredEvents(allEvents, allCategories, allGeo);
+            addTestResult(
+                'Test 10: All filters selected',
+                test10.length === allEvents.length,
+                `${allEvents.length} events (all)`,
+                `${test10.length} events`,
+                'When all filters selected, should return all events'
+            );
+            
+            // Summary
+            const summaryDiv = document.createElement('div');
+            summaryDiv.className = 'test-case';
+            summaryDiv.style.marginTop = '30px';
+            summaryDiv.style.borderColor = passedTests === totalTests ? '#3fb950' : '#f85149';
+            summaryDiv.innerHTML = `
+                <h2>📊 Test Summary</h2>
+                <p><strong>Total Events Loaded:</strong> ${allEvents.length}</p>
+                <p><strong>Tests Run:</strong> ${totalTests}</p>
+                <p class="pass"><strong>Passed:</strong> ${passedTests}</p>
+                <p class="fail"><strong>Failed:</strong> ${failedTests}</p>
+                <p><strong>Success Rate:</strong> ${((passedTests/totalTests)*100).toFixed(1)}%</p>
+                ${passedTests === totalTests ? 
+                    '<p class="pass" style="font-size: 1.2em;">✅ All tests passed! Filter system is working correctly.</p>' :
+                    '<p class="fail" style="font-size: 1.2em;">❌ Some tests failed. Review results above.</p>'
+                }
+            `;
+            document.getElementById('testResults').appendChild(summaryDiv);
+        }
+        
+        // Run tests on page load
+        loadChronology();
+    </script>
+</body>
+</html>
