@@ -1227,7 +1227,7 @@ May 2023:
 
 \
 
-## 2020, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
+## 2020, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #WhistleblowerDisclosures #quote #usadc #USA
 
 The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
