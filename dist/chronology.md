@@ -544,7 +544,7 @@ See threads and discussions for links to source materials.
 
 \
 
-## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #LegislationPolicy #law #usadc #USA
+## 2023, November 29 - National Defense Authorization Act for Fiscal Year 2024. In Congress, passed senate #law #usadc #USA
 
 If the Senate passes the yearly NDAA bill and Congress creates and passes a different version of the bill. how do the two get reconciled? This is the National Defence bill
 
@@ -623,7 +623,7 @@ IC IG - November 16
 
 \
 
-## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #LegislationPolicy #quote #law #USA
+## 2023, September 14 - Rep. Luna – "We will not be getting the UAP select committee. However, we will be getting another hearing" #quote #law #USA
 
 **Links:**
 
@@ -642,6 +642,12 @@ NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena 
 
 **Photos:**
 
+![Nasa Is Well Positioned To Contribute To Studying 1](images/2023-nasa-is-well-positioned-to-contribute-to-studying-1.png)
+
+\
+
+## 2023, September 12 - Probably assembled from bones - Discovery of two previously unknown species with unique genetic information, backed up in a DNA database accessible to other scientists for verification. #video #image #dns #new #fake #LatinAmerica #Mexico
+
 This post discusses the discovery of two previously unknown species with unique genetic information backed up in a DNA database accessible to other scientists for verification. Tests, including those by metallurgy specialists, radiologists, and geneticists, have authenticated the bodies and their...
 
 **Links:**
@@ -655,13 +661,148 @@ This post discusses the discovery of two previously unknown species with unique 
 [https://www.ncbi.nlm.nih.gov/sra/PRJNA869134](https://www.ncbi.nlm.nih.gov/sra/PRJNA869134) 
 [https://www.ncbi.nlm.nih.gov/sra/PRJNA865375](https://www.ncbi.nlm.nih.gov/sra/PRJNA865375) 
 
-**Photos:**
+\
 
-![Nasa Is Well Positioned To Contribute To Studying 1](images/2023-nasa-is-well-positioned-to-contribute-to-studying-1.png)
+## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #LatinAmerica #Mexico
+
+The Mexican Chamber of Deputies is set to conduct a public hearing similar to those held in the United States Congress, focusing on unidentified flying objects (UFOs). Morenista representative Sergio Gutiérez Luna announced this, with renowned UFO specialist Jaime Maussan participating in the eve...
+
+**Links:**
+
+[https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/](https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/) 
+[https://reddit.com/r/UFOs/s/TwS6ldXrDw](https://reddit.com/r/UFOs/s/TwS6ldXrDw) 
+[https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/?](https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/?share_id=vA4tY2tTcMa88vfLHHL9i&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1) 
 
 \
 
-## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #CongressionalHearings #WhistleblowerDisclosures #law #usadc #USA
+## 2023, September 12 - NASA's James Webb Space Telescope may have detected a molecule called dimethyl sulphide (DMS). On Earth, at least, this is only produced by life. #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #International
+
+NASA's James Webb Space Telescope has potentially discovered a molecule called dimethyl sulphide (DMS) on a distant planet, K2-18b, which could indicate life, as living organisms on Earth typically produce DMS. However, researchers emphasize that this finding is not yet confirmed, and more data i...
+
+**Links:**
+
+[https://www.bbc.com/news/science-environment-66786611](https://www.bbc.com/news/science-environment-66786611) 
+
+\
+
+## 2023, September 12 - New David Grusch interview #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
+
+Starting around the 20:40 mark, the discussion delves into the creation of laws related to obfuscation and secrecy by the officials involved in the Manhattan Project. It's highlighted that UAP materials emitting radiation are intentionally classified under the Atomic Energy Act. Moving to the 23:...
+
+**Links:**
+
+[https://reddit.com/r/UFOs/s/wLeZWgUZN5](https://reddit.com/r/UFOs/s/wLeZWgUZN5) 
+[https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf) 
+
+\
+
+## 2023, August 31 - A new AARO website states that AARO will be accepting reports from current or former U.S. Government employees, service members, or contractors with direct knowledge of U.S. Government programs or activities related to UAP dating back to 1945 and Deputy Defense Secretary Kathleen Hicks recently moved to personally oversee the Pentagon's unidentified anomalous phenomena (UAP) #usadc #USA
+
+The Department of Defense is reshuffling leadership at the All-Domain Anomaly Resolution Office, the agency within the Pentagon that’s responsible for investigating reports of unidentified aerial phenomena or, as they’re better known, unidentified flying objects. Deputy Secretary Of Defense Kathl...
+
+**Links:**
+
+[https://www.aaro.mil/](https://www.aaro.mil/) 
+[https://www.reddit.com/r/UFOs/comments/166hyc9/aaro_mission_brief_interesting_sections/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1](https://www.reddit.com/r/UFOs/comments/166hyc9/aaro_mission_brief_interesting_sections/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) 
+
+\
+
+## 2023, August 22 - Rep. Burchett launches UAP caucus, leads letter to Intelligence Community Inspector General about UAP retrieval programs #letter #law #usadc #USA
+
+**Links:**
+
+[https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector](https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector)[https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf](https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf) 
+
+\
+
+## 2023, July - Congressional hearing on field hearing on whistleblowers is on July 26 at 10 am #usadc #USA
+
+Ryan Graves, the Executive Director of Americans for Safe Aerospace, Commander David Fravor (Ret.), a Former Commanding Officer of the United States Navy David Grusch (Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense)
+
+**Links:**
+
+[https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/) 
+[https://oversight.house.gov/hearing/?f-post-month=07&f-post-year=2023](https://oversight.house.gov/hearing/?f-post-month=07&f-post-year=2023) 
+
+\
+
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024. Status is "Passed Senate" #law #USA
+
+#usadc
+
+**Links:**
+
+[https://www.congress.gov/bill/118th-congress/senate-bill/2226](https://www.congress.gov/bill/118th-congress/senate-bill/2226)
+
+\
+
+## 2023 - S.2103 — 118th Congress (2023-2024) Intelligence Authorization Act for Fiscal Year 2024. Status is "Introduced" #law #usadc #USA
+
+**Links:**
+
+[https://www.congress.gov/bill/118th-congress/senate-bill/2103](https://www.congress.gov/bill/118th-congress/senate-bill/2103) 
+
+\
+
+## 2023, September 22 - Unidentified Aerial Phenomena (UAP), a batch of documents and videos, has emerged from the United States Customs and Border Protection (CBP). #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO (if used) #USA
+
+there is a large glowing disc that enters at the top right and passes to the left, distorting the recording. -  minute mark one starts
+
+**Links:**
+
+[https://www.theblackvault.com/documentarchive/uap-documents-and-videos-surface-from-u-s-customs-and-border-protection/](https://www.theblackvault.com/documentarchive/uap-documents-and-videos-surface-from-u-s-customs-and-border-protection/) 
+[https://documents3.theblackvault.com/documents/cbp/CBP-UAP.zip](https://documents3.theblackvault.com/documents/cbp/CBP-UAP.zip) 
+[https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%201.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%201.mp4) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.1%20.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.1%20.mp4) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.2.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%202.2.mp4) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%203.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%203.mp4) 
+[https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-5.wmv](https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-5.wmv) 
+[https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-6.wmv](https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-6.wmv) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%207.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%207.mp4) 
+[https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-8.wmv](https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/Video-pertaining-to-Unidentified-Aerial-Phenomenon-8.wmv) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%209.avi](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%209.avi) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.avi](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.avi) 
+[https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.mp4](https://documents3.theblackvault.com/documents/cbp/Video%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon%2010.mp4) 
+
+**Photos:**
+
+![Unidentified Aerial Phenomena Uap A Batch Of Docum 2](images/2023-unidentified-aerial-phenomena-uap-a-batch-of-docum-2.png)
+![Unidentified Aerial Phenomena Uap A Batch Of Docum 1](images/2023-unidentified-aerial-phenomena-uap-a-batch-of-docum-1.png)
+
+**Details:**
+
+[Video at 5:48](https://www.youtube.com/watch?v=On8ikZfxFO4&t=348s)
+ The origins of this release remain a mystery. There are two main possibilities: either CBP took the initiative to proactively disclose these materials to the public, or they were released as a result of a Freedom of Information Act (FOIA) request. The Black Vault currently has multiple FOIA cases with CBP. Some of these requests were transferred to other agencies, while others remain open with CBP.
+
+\
+
+## 2023, September 4 - Pentagon releases new map of UFO hotspots. Japan turns out to be a major hotspot. Specifically around Hiroshima and Nagasaki. (Article in submission statement)  #new (2023-09-04) #map #USA #Asia #Japan
+
+**Links:**
+
+[https://www.reddit.com/r/UFOs/comments/16a3fcq/pentagon_releases_new_map_of_ufo_hotspots_japan/?utm_source=share&utm_medium=web2x&context=3](https://www.reddit.com/r/UFOs/comments/16a3fcq/pentagon_releases_new_map_of_ufo_hotspots_japan/?utm_source=share&utm_medium=web2x&context=3) 
+[https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/](https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/) 
+[https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/](https://archive.ph/20230904190116/https://www.telegraph.co.uk/world-news/2023/09/04/japan-hotspot-ufos-pentagon-website/) 
+
+**Photos:**
+
+![Pentagon Releases New Map Of Ufo Hotspots Japan Tu 2](images/2023-pentagon-releases-new-map-of-ufo-hotspots-japan-tu-2.png)
+![Pentagon Releases New Map Of Ufo Hotspots Japan Tu 1](images/2023-pentagon-releases-new-map-of-ufo-hotspots-japan-tu-1.jpg)
+
+\
+
+## 2023, August - Senator Kirsten Gillibrand #quote #usadc #USA
+
+David Grusch's testimony received the most attention with his statement: "I have no ability to verify that testimony because we’ve not been told of any such programs. We’ve asked for all information related to all programs and have not been given that detail." As someone who helped secure full fu...
+
+**Links:**
+
+[https://www.cityandstateny.com/personality/2023/08/kirsten-gillibrand-wants-know-truth-about-aliens/389198/](https://www.cityandstateny.com/personality/2023/08/kirsten-gillibrand-wants-know-truth-about-aliens/389198/) 
+
+\
+
+## 2023, July - Congressional hearing with whistleblowers' testimonies under oath on the subject of UAP #law #usadc #USA
 
 Testimonies under oath from whistleblowers on the subject of UAP. Ryan Graves, the Executive Director Americans for Safe Aerospace, Commander David Fravor (Ret.) a Former Commanding Officer of the United States Navy
 
@@ -680,7 +821,42 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 \
 
-## 2023, July - Tim Burchett (R-TN) I have seen better-quality videos; they need to release them #WhistleblowerDisclosures #quote #USA
+## 2023, July - Congress debrief - Leaked debrief used by Congress to prepare for the hearing #law #usadc #USA
+
+The 177-page debrief has been parsed into chunks for easier consumption. 1947 - 1960 -
+
+**Links:**
+
+[https://public.amplenote.com/9uoxxbKEUZhqf4zWY6Yr7nnh](https://public.amplenote.com/9uoxxbKEUZhqf4zWY6Yr7nnh)
+[https://www.reddit.com/r/UFOs/comments/15ar22l/177pagedebriefgiventocongresspostedby/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=1](https://www.reddit.com/r/UFOs/comments/15ar22l/177_page_debrief_given_to_congress_posted_by/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) 
+[https://public.amplenote.com/B1Wedit627kCRFjHLbSpup32](https://public.amplenote.com/B1Wedit627kCRFjHLbSpup32) 
+
+**Details:**
+
+1981 - 2000 - [https://public.amplenote.com/rMyRZEDyPky8Nki4NruXfkxL](https://public.amplenote.com/rMyRZEDyPky8Nki4NruXfkxL) 
+2001 - 2019 - [https://public.amplenote.com/mnWPDofM97cAKfeEebLacBX2](https://public.amplenote.com/mnWPDofM97cAKfeEebLacBX2) 
+2020 - 2023 - [https://public.amplenote.com/KVrMUCFLYRr6K4FXmrLHec1a](https://public.amplenote.com/KVrMUCFLYRr6K4FXmrLHec1a) 
+Ryan Graves, the Executive Director of Americans for Safe Aerospace, emphasizes the regularity and seriousness of UFO sightings in restricted airspace off the Atlantic Coast. He stresses the need for serious investigation and acknowledgement of potential threats posed by these unidentified objects. Commander David Fravor, a former U.S. Navy pilot, recounts a UFO encounter in 2004 involving a white Tic Tac-shaped object exhibiting unconventional behaviour. Fravor believes it should be studied more closely for technological insights. David Grusch, a former USAF officer and intelligence official, claims the U.S. government possesses non-human spacecraft and deceased pilots through a secretive UFO recovery program. He alleges government involvement with the Vatican and the Five Eyes. A congressional hearing on UFOs revealed that around 95% of sightings go unreported due to stigma, and suggestions were made to use existing NASA databases to track sightings with actual sensor footage. The hearing emphasized the serious nature of the issue, acknowledging the presence of career officers with decades of experience and the commitment to transparency and pressure on the matter.
+
+\
+
+## 2023, July - National Defense Authorization Act for Fiscal Year 2024 #law #usadc #USA
+
+The legislation, outlined in multiple sections, aims to establish a comprehensive framework for handling and disclosing records related to Unidentified Anomalous Phenomena (UAPs) within the United States government. It mandates the creation of the "Unidentified Anomalous Phenomena Records Collect...
+
+**Links:**
+
+[https://www.congress.gov/bill/118th-congress/senate-bill/2226](https://www.congress.gov/bill/118th-congress/senate-bill/2226)[https://www.congress.gov/amendment/118th-congress/senate-amendment/935/text](https://www.congress.gov/amendment/118th-congress/senate-amendment/935/text) 
+
+\
+
+## 2023, July - S.2103 — 118th Congress (2023-2024) #law #usadc #USA
+
+The Intelligence Authorization Act for Fiscal Year 2024, detailed across pages 209 and 110, introduces amendments concerning Unidentified Anomalous Phenomena (UAPs). The act defines key terms such as "Director" and "Unidentified Anomalous Phenomena" and expresses concern about potential technolog...
+
+\
+
+## 2023, July - Tim Burchett (R-TN) I have seen better-quality videos; they need to release them #quote #USA
 
 **Links:**
 
@@ -688,7 +864,7 @@ David Grusch (Former National Reconnaissance Officer Representative, Unidentifie
 
 \
 
-## 2023, June - Karl E. Nell is a possible first-hand witness. "His assertion concerning the existence of a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence," said Karl Nell, the retired Army Colonel who worked with Grusch on the UAP Task Force. #WhistleblowerDisclosures #MilitaryEncounters #usadc #USA
+## 2023, June - Karl E. Nell is a possible first-hand witness. “His assertion concerning the existence of a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence,” said Karl Nell, the retired Army Colonel who worked with Grusch on the UAP Task Force. #usadc #USA
 
 Karl E. Nell, a recently retired Army Colonel and current aerospace executive who was the Army’s liaison for the UAP Task Force from 2021 to 2022 and worked with Grusch there, characterizes Grusch as “beyond reproach.""
 
@@ -699,7 +875,17 @@ Karl E. Nell, a recently retired Army Colonel and current aerospace executive wh
 
 \
 
-## 2023, July - John Kirby Now, we're not saying what they are or are not.  We're saying that there's something our pilots are seeing. #WhistleblowerDisclosures #quote #usadc #USA
+## 2023, June - UFO Whistleblower David Grusch - Full Interview 06/11/2023 #news #usava #USA
+
+In June 2023, David Grusch, a former USAF officer and intelligence official, publicly asserted that the U.S. government operates a covert UFO recovery program, possessing non-human spacecraft and deceased pilots. Grusch lodged whistleblower complaints in 2022 and 2021 to disclose classified UFO i...
+
+**Links:**
+
+[https://www.youtube.com/watch?v=GV4SRQRfDQs](https://www.youtube.com/watch?v=GV4SRQRfDQs) 
+
+\
+
+## 2023, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
 
 The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
@@ -709,7 +895,7 @@ The Pentagon has established an organization to compile and coordinate reports o
 
 \
 
-## 2023, July - Former intelligence chief Christopher Mellon has said he believes the US has recovered technology that 'did not originate on this earth' #WhistleblowerDisclosures #quote #usa
+## 2023, July - Former intelligence chief Christopher Mellon has said he believes the US has recovered technology that 'did not originate on this earth'. #quote #usa
 
 I've been told that we have recovered technology that did not originate on this Earth, by officials in the Department of Defense and by former intelligence officials
 
@@ -719,7 +905,59 @@ I've been told that we have recovered technology that did not originate on this 
 
 \
 
-## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryEncounters #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
+## 2023, June 20 - Turkey UFO #LeaksDeclass #Conspiracy #OceanUAP #LARPing #Debunked #UnderwaterUSO #MiddleEast #Turkey
+
+A reader from Poland, who was vacationing in Turkey, wrote to a Reddit user. While relaxing on the beach, she decided to use a feature of her iPhone 13 Pro Max that allows taking a series of quick photos. The phone took six nearly identical pictures, but something unusual appeared in one of them,...
+
+**Links:**
+
+[https://www.reddit.com/r/UFOs/comments/16a5ujh/uap_best_sighting_ever_turkey/](https://www.reddit.com/r/UFOs/comments/16a5ujh/uap_best_sighting_ever_turkey/) 
+[https://youtu.be/XAoiWByrJQI](https://youtu.be/XAoiWByrJQI) 
+[https://easyupload.io/m/vu3tze](https://easyupload.io/m/vu3tze) 
+
+**Photos:**
+
+![Turkey Ufo 1](images/2023-turkey-ufo-1.png)
+
+\
+
+## 2023, June - Gillibrand Secures Full Funding For UAP Office In Senate Defense Bill Markup. Jun 23, 2023 #law #usadc #USA
+
+U.S. Senator Kirsten Gillibrand announced that she had secured full funding for the All-domain Anomaly Resolution Office (AARO) in the Senate Armed Services Committee’s FY24 National Defense Authorization Act markup. Earlier this year, Gillibrand and Senator Marco Rubio (R-FL) led a bipartisan pu...
+
+**Links:**
+
+[https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/](https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/) 
+
+\
+
+## 2023, May - Australian Air Force UAP FOIA #FOIA #Oceania #Australia
+
+t is outlined that there have been recent developments regarding Unidentified Aerial Phenomena (UAP) or Unidentified Flying Objects (UFOs). The United States Department of Defense has released information about these phenomena, emphasizing their potential impact on military operations and the nee...
+
+**Links:**
+
+[https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf](https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf) 
+[https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/](https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/) 
+
+\
+
+## 2023, May 31 - Western U.S. Objects  #new (2023-09-04) #usa
+
+2023, May 24 - FVEY Inaugural UAP Caucus Working Group FVEY Inaugural UAP Caucus Working Group” meeting. FVEY, which stands for “Five Eyes,” is an intelligence alliance that includes Australia, Canada, New Zealand, the United Kingdom, and the United States. It encourages collaboration and intelli...
+
+**Links:**
+
+[https://www.dvidshub.net/video/885193/western-us-objects](https://www.dvidshub.net/video/885193/western-us-objects) 
+[https://www.theblackvault.com/documentarchive/wp-content/uploads/2024/06/23-F-1049-1.pdf](https://www.theblackvault.com/documentarchive/wp-content/uploads/2024/06/23-F-1049-1.pdf) 
+
+**Photos:**
+
+![Western Us Objects New 2023 09 04 Usa 1](images/2023-western-us-objects-new-2023-09-04-usa-1.png)
+
+\
+
+## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
 
 **Links:**
 
@@ -727,7 +965,7 @@ I've been told that we have recovered technology that did not originate on this 
 
 \
 
-## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the government planned to study the wreckage of an unidentified object shot down over Yukon in February 2023 #FOIARelease #MilitaryEncounters #20 #new #canada #usaddition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #20 #new  (2023-09-10) #canada #usa
+## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the Canadian government was responding to the Feb. 11 Yukon incident. In addition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #20 #new  (2023-09-10) #canada #usa
 
 The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed concern that the indigenous hunters might accidentally find the object during their caribou hunt. It also explained that while CAF CF-18s Hornets had been scrambled to intercept the object, “F-22s were better located...
 
@@ -743,7 +981,7 @@ The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed
 
 \
 
-## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #MilitaryEncounters #20 # new (2023-09-10) #canada #usa
+## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #20 # new (2023-09-10) #canada #usa
 
 The object taken down Friday, which officials have not characterized as a balloon, was shot down at 1:45 p.m. EST, according to Pentagon spokesman Brig. Gen. Patrick Ryder said recovery teams are now collecting the debris that is sitting on top of ice in US territorial waters. "No official video ...
 
@@ -755,7 +993,7 @@ The object taken down Friday, which officials have not characterized as a balloo
 
 \
 
-## 2023, January 28 - List of high-altitude object events in 2023 #MilitaryEncounters #usa #canada
+## 2023, January 28 - List of high-altitude object events in 2023 #usa #canada
 
 Multiple airborne objects, sometimes reported in mainstream media as UFOs, were observed and sometimes shot down by military aircraft. Many of the objects were reported as meteorology or espionage balloons
 
@@ -779,7 +1017,7 @@ The Department of Defense (DoD) has officially confirmed to Liberation Times tha
 
 \
 
-## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIARelease #MilitaryEncounters #FOIA #video #sensors #Asia
+## 2023, January - DoD Releases New UFO/UAP Videos They Believe They Identified – South Asia – 01/15/2023 #FOIA #video #sensors #Asia
 
 During an open hearing before the Senate Armed Services Committee on April 19, the Department of Defense (DoD) provided insights into Unidentified Anomalous Phenomena. Dr. Sean Kirkpatrick, the director of the All-domain Anomaly Resolution Office (AARO), displayed videos portraying an unidentifie...
 
@@ -795,7 +1033,7 @@ During an open hearing before the Senate Armed Services Committee on April 19, t
 
 \
 
-## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #LeaksDeclass #leak #LARPing #conspiracy #atlanticocean #International
+## 2023, July 7 - Microbiologist EBO post. Subsequently deleted #leak #LARPing #conspiracy #atlanticocean #International
 
 The shared DNA system's resemblance implies a common origin, likely stemming from a similar physicochemical process and initial conditions. Non-coding sequences, once dubbed "junk DNA," are vital for gene expression regulation through epigenetics. The 64bp gene address mentioned may solely functi...
 
@@ -805,7 +1043,7 @@ The shared DNA system's resemblance implies a common origin, likely stemming fro
 
 \
 
-## 2023 - Giant burger-shaped factory ship in the Atlantic #LeaksDeclass #leak #LARPing #conspiracy #atlanticocean #International
+## 2023 - Giant burger-shaped factory ship in the Atlantic #leak #LARPing #conspiracy #atlanticocean #International
 
 This compilation of information and discussions covers various UFO sightings and encounters. There are mentions of a mobile construction facility resembling a "burger" shape located in the Atlantic Ocean that deploys UFOs, primarily unmanned drones created for specific purposes. The discussion de...
 
@@ -815,7 +1053,7 @@ This compilation of information and discussions covers various UFO sightings and
 
 \
 
-## 2022, May 17 - Navy 2021 Flyby video #MilitaryEncounters #new (2023-09-04) #video #offical #unknownlocation #USA
+## 2022, May 17 - Navy 2021 Flyby video #new (2023-09-04) #video #offical #unknownlocation #USA
 
 Navy 2021 Flyby video
 
@@ -829,7 +1067,7 @@ Navy 2021 Flyby video
 
 \
 
-## 2022, April 17 - Under Secretary Moultrie and Naval Intel Deputy Director Bray testify under oath to Congress that the US military has detected physical UAPs they can't ID and associated energy signatures. Direct from the United States of America's Congressional Record. #CongressionalHearings #MilitaryEncounters #new #law #oath #usa
+## 2022, April 17 - Under Secretary Moultrie and Naval Intel Deputy Director Bray testify under oath to Congress that the US military has detected physical UAPs they can't ID and associated energy signatures. Direct from the United States of America's Congressional Record. #new #law #oath #usa
 
 Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, and Scott W. Bray, Deputy Director of Naval Intelligence, affirmed the United States' commitment to investigating unidentified aerial phenomena (UAPs) due to their potential security and flight safety risks. During disc...
 
@@ -839,7 +1077,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 \
 
-## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth #ScientificStudies #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #International
+## 2022, January - James Webb Space Telescope (JWST) arrived at its destination, a solar orbit near the Sun–Earth L2 Lagrange point, about 1.5 million kilometers (930,000 mi) from Earth #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #International
 
 **Links:**
 
@@ -847,7 +1085,7 @@ Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, an
 
 \
 
-## 2022 - DoD Releases New UFO/UAP Video From An Undisclosed Location. Known as the Mosul Orb – July 12, 2022, #FOIARelease #MilitaryEncounters #FOIA #alien #video #sensors #iraq #MiddleEast
+## 2022 - DoD Releases New UFO/UAP Video From An Undisclosed Location. Known as the Mosul Orb – July 12, 2022, #FOIA #alien #video #sensors #iraq #MiddleEast
 
 During an open hearing regarding Unidentified Anomalous Phenomena at the Senate Armed Services Committee, Dr. Sean Kirkpatrick from the All-domain Anomaly Resolution Office (AARO) showcased a video depicting a silver, orb-like object in motion across a sensor's field of view. The video, captured ...
 
@@ -861,7 +1099,7 @@ During an open hearing regarding Unidentified Anomalous Phenomena at the Senate 
 
 \
 
-## 2022 - United States Congress hearings on UFOs #CongressionalHearings #law #usa #USA
+## 2022 - United States Congress hearings on UFOs #law #usa #USA
 
 On May 17, 2022, the United States House Intelligence Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation convened public congressional hearings to address military reports of unexplained aerial phenomena (UAPs). Marking the first such hearings in over 50 years, the ev...
 
@@ -876,7 +1114,7 @@ On May 17, 2022, the United States House Intelligence Subcommittee on Counterter
 
 \
 
-## 2021, June - UFO Report (U.S. Intelligence) #FOIARelease #ScientificStudies #report #USA
+## 2021, June - UFO Report (U.S. Intelligence) #report #USA
 
 Issued on June 25, 2021, by the Office of the Director of National Intelligence, the Preliminary Assessment: Unidentified Aerial Phenomena (UAP) Report offers a comprehensive overview of UAPs, compiling 144 observations by the U.S. Armed Forces from 2004 to 2021. The report highlights that the UA...
 
@@ -886,7 +1124,7 @@ Issued on June 25, 2021, by the Office of the Director of National Intelligence,
 
 \
 
-## 2021 - Highly Classified NRO System Captures Possible "Tic-Tac" Object. Satellite image #FOIARelease #MilitaryEncounters #FOIA #new (2023-08-08) #new (2023-08-08) #image #sensors #usavirginiabeach #USA
+## 2021 - Highly Classified NRO System Captures Possible "Tic-Tac" Object. Satellite image #FOIA #new (2023-08-08) #new (2023-08-08) #image #sensors #usavirginiabeach #USA
 
 In 2021, the National Reconnaissance Office (NRO) utilized its classified analysis system called "Sentient" to detect an unconventional "tic tac" shaped object. Sentient, an advanced tool with classified details, was designed to process diverse data, anticipate future events, and direct satellite...
 
@@ -916,7 +1154,7 @@ SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) an
 
 \
 
-## 2021 - UAP seen over the USS Kearsarge in the Fall of 2021. #FOIARelease #MilitaryEncounters #FOIA #USA
+## 2021 - UAP seen over the USS Kearsarge in the Fall of 2021. #FOIA #USA
 
 In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP) sightings above the USS Kearsarge in the Fall of 2021. He documented the detailed account of these sightings, which can be accessed through his write-up. Despite his efforts, Dave's Freedom of Information Act #FOIA r...
 
@@ -931,16 +1169,23 @@ In March 2022, Dave Beaty disclosed multiple Unidentified Aerial Phenomena (UAP)
 
 \
 
-## 2021, May - Obama on UFO videos 'We don't know exactly what they are' #WhistleblowerDisclosures #quote #usa #USA
+## 2021, May - Obama on UFO videos 'We don't know exactly what they are' #quote #usa #USA
 
 Former President Barack Obama has acknowledged the presence of footage and records depicting unidentified aerial phenomena in the skies, highlighting that the movements and trajectories of these objects defy easy explanation, presenting a true enigma. The U.S. Navy has verified the authenticity o...
 
 **Links:**
+
+[https://www.nbcnews.com/science/weird-science/obama-ufo-videos-dont-know-exactly-are-rcna963](https://www.nbcnews.com/science/weird-science/obama-ufo-videos-dont-know-exactly-are-rcna963) 
+
+\
+
+## 2021 - Former Nevada Sen. Harry Reid believes US defense contractor Lockheed Martin may have once had fragments of a crashed UFO in its possession, it was revealed Friday. #quote #new (2023-09-10) #usa #USA
+
 Former Nevada Sen. Harry Reid has suggested that defense contractor Lockheed Martin might have possessed fragments of a crashed UFO, though he never saw any proof and was denied Pentagon approval to investigate. Reid, a Democrat, claimed that he tried to gain classified approval to examine the al...
 
 \
 
-## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa #USA #MilitaryEncounters
+## 2021 - Captain Scott Chesbrough, Chief of Staff, Office of Naval Intelligence UAP/UFO E-mails #FOIA++ #usa #USA
 
 Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, following his role as Assistant Deputy Director for Intelligence, Surveillance, and Reconnaissance Operations at the Joint Chiefs of Staff. Several Freedom of Information Act #FOIA requests have been initiated to retri...
 
@@ -952,7 +1197,7 @@ Captain Scott Chesbrough assumed the ONI Chief of Staff position in June 2018, f
 
 \
 
-## 2021 - Harry Reid reflects on his interest in UFOs #WhistleblowerDisclosures #HistoricalPreModern #quote #usa #USA
+## 2021 - Harry Reid reflects on his interest in UFOs #quote #usa #USA
 
 Harry Reid reflects on his enduring interest in UFOs, tracing it back to his attendance at a conference on unidentified aerial phenomena. In 2007, he collaborated with fellow senators to secure funding for the Advanced Aerospace Threat Identification Program, which investigated UFO reports involv...
 
@@ -962,19 +1207,27 @@ Harry Reid reflects on his enduring interest in UFOs, tracing it back to his att
 
 \
 
-## 2021, July - David Grusch becomes a direct daily staffer to President Biden on UAP. Here's his resume, which was submitted to Congress on the same day as his hearing. #MilitaryEncounters #Navy #FOIARelease #UAPIncident #VideoEvidence #USA
+## 2020 - December 2020, Retired general, Eshed #quote #MiddleEast #Israel
 
-SELECTED ACCOMPLISHMENTS  NGA lead for Unidentified Anomalous Phenomena (UAP) and Trans-Medium Anomaly issues. Executed new program of record responsive to direct tasking by the Congressional Intelligence Committees. Lead advisor for Space Control and Non-Kinetic investment R&D solutions for OSD ...
+Former Israeli space security chief Haim Eshed claimed that humanity has been engaged with extraterrestrials from a "galactic federation." According to Eshed, these extraterrestrial beings have requested their presence to remain undisclosed due to humanity's lack of readiness to comprehend it ful...
+
+**Links:**
 
 [https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333](https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333) 
 
 \
 
-## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #MilitaryEncounters #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
+## 2022, July 20 - AARO was founded after other offices in quick succession like AIMSOG, fail to obfuscate what is suddenly happening with UAP successfully: #FOIARelease #VideoEvidence #MQ9 #MilitaryUAP #Sensors #AARO #USA
 
 May 2023:
 
 **Links:**
+
+[https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/](https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
+
+\
+
+## 2020, July - John Kirby Now, we’re not saying what they are or are not.  We’re saying that there’s something our pilots are seeing. #quote #usadc #USA
 
 The Pentagon has established an organization to compile and coordinate reports of unidentified aerial phenomena (UAP) within the military. Given their impact on pilot training operations, the Biden administration treats UAP sightings as a serious and genuine concern. While committed to transparen...
 
@@ -984,7 +1237,7 @@ The Pentagon has established an organization to compile and coordinate reports o
 
 \
 
-## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #WhistleblowerDisclosures #quote #usa #USA #LeaksDeclass
+## 2020 - Harry Reid: "The American people deserve to be informed" about UFOs - #quote #usa #USA
 
 Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve to be informed" about UFO information following the Pentagon's official release of three Navy videos showing "unidentified aerial phenomena."
 
@@ -994,7 +1247,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #LeaksDeclass #social #news #rumor #usa #USA #PrivateSector
+## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a “technical collaboration” with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA’s public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division #social #news #rumor #usa #USA
 
 **Links:**
 
@@ -1002,7 +1255,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #MilitaryEncounters #usacalifornia #USA #Navy
+## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #usacalifornia #USA
 
 [https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights](<https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights >)
 
@@ -1012,7 +1265,7 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2019, July 12 - Tom DeLonge states in July 2019 that TTSA spent the last year and a half briefing the Senate, multiple Committees and helping “glue” the DOD, IC and Congress together. #WhistleblowerDisclosures #quote #usa #USA #PrivateSector
+## 2019, July 12 - Tom DeLonge states in July 2019 that TTSA spent the last year and a half briefing the Senate, multiple Committees and helping “glue” the DOD, IC and Congress together. #quote #usa
 
 **Links:**
 
@@ -1020,7 +1273,67 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 
 \
 
-## 2018, March - Harry Reid on What the Government Knows About UFOs #WhistleblowerDisclosures #quote #news #new (2023-08-10) #usa #USA #LeaksDeclass
+## 2019, April 30 - DOE documents report round silver object flying around nuclear processing facility " #NuclearSite #DOE #UAPIncursion #SecurityIncident #UAPRecordsCollection #CivilianSighting #USA
+
+Details: At approximately 10:30 hours, I (b) (6) was notified by the Central Alarm Station (CAS) that they heard over the escort channel about a possible drone sighting. The CAS Operator reported hearing escorts at building 815 in the Process Area discussing a drone sighting at around 10:27 hours...
+
+**Links:**
+
+[https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf](https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf) 
+[https://reddit.com/r/UFOs/s/9PSLtKNN7O](https://reddit.com/r/UFOs/s/9PSLtKNN7O)
+[https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents) 
+[https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf) 
+
+**Photos:**
+
+![Doe Documents Report Round Silver Object Flying Ar 1](images/2019-doe-documents-report-round-silver-object-flying-ar-1.png)
+
+\
+
+## 2019 - Leaked 2019 video of UAP flying near a stealth ship. UAP goes in and out of the water. #leak #alien #usasandiago #USA
+
+What appears to be a UFO flies around a Navy ship off the coast of San Diego before suddenly disappearing after flying into the water. NBC’s Gadi Schwartz reports.
+
+**Links:**
+
+[https://www.youtube.com/watch?v=TVL6jv-h1W0](https://www.youtube.com/watch?v=TVL6jv-h1W0) 
+
+**Photos:**
+
+![Leaked 2019 Video Of Uap Flying Near A Stealth Shi 1](images/2019-leaked-2019-video-of-uap-flying-near-a-stealth-shi-1.png)
+
+\
+
+## 2019 - Pentagon UFO videos #FOIA #alien #USA
+
+The Pentagon UFO videos consist of visual recordings captured by US Navy fighter jets in 2004, 2014, 2015, and 2019, depicting encounters with unidentified aerial phenomena (UAP). After gaining significant media attention and speculation, the Pentagon officially declassified and released these vi...
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/PentagonUFOvideos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos) 
+
+**Photos:**
+
+![Pentagon Ufo Videos Foia Alien 1](images/2019-pentagon-ufo-videos-foia-alien-1.png)
+
+\
+
+## 2018, October - Iraq Jellyfish UAP #LeaksDeclass #VideoEvidence #MilitaryUAP #Transmedium #NavalEncounter #InvestigativeJournalism #USA
+
+I nvestigative journalists Jeremy Corbell and George Knapp obtained and are revealing for the first time - footage of a military filmed UAP incursion within a United States joint operations base. This UAP of unknown origin displayed transmedium capability - and has been officially designated by t...
+
+**Links:**
+
+[https://www.youtube.com/watch?v=oaO6sUq0HsQ](https://www.youtube.com/watch?v=oaO6sUq0HsQ) 
+[https://www.youtube.com/watch?v=7bns_WhNAQM&t=0s](https://www.youtube.com/watch?v=7bns_WhNAQM&t=0s) 
+
+**Photos:**
+
+![Iraq Jellyfish Uap 1](images/2018-iraq-jellyfish-uap-1.png)
+
+\
+
+## 2018, March - Harry Reid on What the Government Knows About UFOs #quote #news #new (2023-08-10) #usa
 
 Former Senate majority leader Harry Reid mentioned that he had talked with President Bill Clinton about aerial phenomena and UFOs during his presidency. Reid noted that Clinton's curiosity extended to a wide range of topics, and while the conversation was passing, Clinton was interested in the su...
 
@@ -1030,7 +1343,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017,  March 27 - Anonymous website partially encoded publishes an article on “turning the vehicle into a pilot’s prosthetic extension.” In the article are vague examples of how to replicate the piloting features of a UAP: “there must be no difference between the aircraft and the crew…you cannot just take a human being and fit him with all this array of sensors; you first need to tweak the human somehow to better exploit the capabilities of this technology…we need to go a step further from the current paradigm of manned aircrafts and shift toward a paradigm of aircrafts that behave like a human.” Elsewhere on the site, allegedly non-public reports from Raytheon and Lockheed are cited. #LeaksDeclass #news #rumor #usa #USA #PrivateSector
+## 2017,  March 27 - Anonymous website partially encoded publishes an article on “turning the vehicle into a pilot’s prosthetic extension.” In the article are vague examples of how to replicate the piloting features of a UAP: “there must be no difference between the aircraft and the crew…you cannot just take a human being and fit him with all this array of sensors; you first need to tweak the human somehow to better exploit the capabilities of this technology…we need to go a step further from the current paradigm of manned aircrafts and shift toward a paradigm of aircrafts that behave like a human.” Elsewhere on the site, allegedly non-public reports from Raytheon and Lockheed are cited. #news #rumor #usa
 
 “MilOrbs” and they perform covert test unbeknownst to USG knowledge to see how crew react to them. Another article from 20 December 2017 writes that USAF pilots are trained to be aware of UAP, shares a seemingly non-public FLIR image dated 11 November 2014 and states: “we want our enemies to beli...
 
@@ -1040,7 +1353,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017, December - Chris Mellon has spent nearly 20 years in the federal government serving in various national security positions. For the first time, he has agreed to speak publicly about his experiences within government as they relate to UFOs. #WhistleblowerDisclosures #quote #usa
+## 2017, December - Chris Mellon has spent nearly 20 years in the federal government serving in various national security positions. For the first time, he has agreed to speak publicly about his experiences within government as they relate to UFOs. #quote #usa
 
 **Links:**
 
@@ -1048,7 +1361,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017, December - Harry Reid played a key role in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs) #HistoricalPreModern #WhistleblowerDisclosures #new #news (2023-08-10) #usa
+## 2017, December - Harry Reid played a key role in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs) #new #news (2023-08-10) #usa
 
 Former Senate majority leader Harry Reid was key in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs). The program was active from late 2008 through 2011 and cost taxpayers $22 million...
 
@@ -1057,7 +1370,9 @@ Former Senate majority leader Harry Reid was key in initiating the Advanced Aero
 [https://www.usatoday.com/story/news/politics/onpolitics/2017/12/16/pentagon-tracking-ufos-thanks-part-former-sen-harry-reid/958187001/](https://www.usatoday.com/story/news/politics/onpolitics/2017/12/16/pentagon-tracking-ufos-thanks-part-former-sen-harry-reid/958187001/) 
 [https://www.cnn.com/2017/12/16/politics/pentagon-ufo-project/index.html](https://www.cnn.com/2017/12/16/politics/pentagon-ufo-project/index.html) 
 
-## 2017, October 19 - The first known interstellar object to visit our solar system, 1I/2017 U1 Oumuamua, was discovered on October 19, 2017, by the University of Hawaii’s Pan-STARRS1 telescope, funded by NASA’s Near-Earth Object Observations (NEOO) Program, which finds and tracks asteroids and comets in Earth’s neighborhood. #theory #limited #space #USA #Pre2017
+\
+
+## 2017, October 19 - The first known interstellar object to visit our solar system, 1I/2017 U1 Oumuamua, was discovered on October 19, 2017, by the University of Hawaii’s Pan-STARRS1 telescope, funded by NASA’s Near-Earth Object Observations (NEOO) Program, which finds and tracks asteroids and comets in Earth’s neighborhood. #theory #limited #space #USA
 
 Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention for his groundbreaking research in astrophysics, particularly on topics such as black holes and the early universe. However, he has also stirred controversy by delving into the subject of space aliens and their poten...
 
@@ -1065,41 +1380,398 @@ Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention
 
 [https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/) 
 [https://www.scientificamerican.com/article/astronomer-avi-loeb-says-aliens-have-visited-and-hes-not-kidding1/](https://www.scientificamerican.com/article/astronomer-avi-loeb-says-aliens-have-visited-and-hes-not-kidding1/) 
-[https://lweb.cfa.harvard.edu/~loeb/LK1.pdf](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf) 
+[https://lweb.cfa.harvard.edu/\~loeb/LK1.pdf](https://lweb.cfa.harvard.edu/\~loeb/LK1.pdf) 
 
 **Photos:**
 
 ![The First Known Interstellar Object To Visit Our S 1](images/2017-the-first-known-interstellar-object-to-visit-our-s-1.png)
 
-DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
+\
 
-## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA "advisors" that when UAP crashes happen, intelligence, military and private industry are pooled together. "They've" been using private companies/publicly traded companies to keep the secret information "protected" through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his "advisors" review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #WhistleblowerDisclosures #rumor #contentdeleted #usa #Pre2017 #Batch6
+## 2016, April - Tom DeLonge states he was told by unnamed "advisors" that there were multiple UAP crashes and recoveries #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image #USA
+
+DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
+\
+
+## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
 
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are m...
 
 **Links:**
 
-[https://www.coasttocoastam.com/show/2016-03-27-show/](https://www.coasttocoastam.com/show/2016-03-27-show/) #Batch6
+[https://www.coasttocoastam.com/show/2016-03-27-show/](https://www.coasttocoastam.com/show/2016-03-27-show/) 
 
-## 2012 - Author Bryce Zabel tells a story told to him by Brent Friedman, the alleged neighbor of former Secretary of Energy John S. Herrington (under the Reagan administration). Herrington allegedly stated he had been briefed for several weeks at an underground facility outside of Washington, D.C. and the information learned caused him to "cry himself to sleep for a number of nights." When asked why, Herrington allegedly stated "there is intelligent life in the universe; it's here and I've seen it; this is not the kind of world I thought \[my children\] would grow up in." #LeaksDeclass #rumor #USA #Batch6
+\
+
+## 2016 - New UFO image declassified by Department of Defense. #FOIA #iraq #MiddleEast
+
+The Department of Defense has declassified a new UFO image showing a metallic-looking orb flying over Mosul, Iraq. The image was taken by a US spy plane in April 2016 and was part of a classified briefing video on UFOs presented to various US government agencies.
+
+**Links:**
+
+[https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/newufoimagedeclassifiedbydepartmentof/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=2](https://www.reddit.com/r/interestingasfuck/comments/10lzp5d/new_ufo_image_declassified_by_department_of/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2)[https://drive.google.com/file/d/1hqgZDTS28Uah9Ay-0IlzFeRy24QpA7ch/view?usp=drivelink](https://drive.google.com/file/d/1hqgZDTS28Uah9Ay-0IlzFeRy24QpA7ch/view?usp=drive_link) 
+
+**Photos:**
+
+![New Ufo Image Declassified By Department Of Defens 1](images/2016-new-ufo-image-declassified-by-department-of-defens-1.png)
+
+\
+
+## 2015, November 5 - The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before. #FOIA #usa
+
+Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed several officers from the NRO Mission Integration Directorate (MID) connected to the IG’s evaluation of DOD handling/response to the UAP subject.
+
+**Links:**
+
+[https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf ](https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf) 
+
+\
+
+## 2015, March 13 - Kit Green states the records of Ret. USAF John Burroughs, Rendlesham Forest incident witness, were legally classified by the DOD. Green states only a handful of medical records were classified and the reasons were because inside the doctors notes, nursing, etc. are a “myriad of references to Special Access Projects” and the names of other adjacent and ancillary programs and projects that can not be disentangled and could uncover active/recent projects related to Rendlesham. Green states broadband non-ionizing electromagnetic radiation caused the injuries, the data is sparse and it is not well understood or peer reviewed. #HistoricalPreModern? #FOIA #ClassifiedRecords #Rendlesham #UAPRecordsCollection #USA
+
+**Links:**
+
+[https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927](https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927) 
+
+\
+
+## 2015, March 6 - Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that in a TS/SCI organization in El Segundo, CA, he had lunch with a senior USAF NCO who worked for Project Blue Book in the 1970s after it had publicly disbanded. He was an ELINT technician who flew in RC-135s from MacDill AFB in Florida. He allegedly told Fish they were sometimes diverted to track UAP off the east coast of Florida; the UAP allegedly came from a hotspot east of Miami, north of Bermuda. A specific frequency emanated from them, and UAP evidence was sent to a “dedicated” USAF intelligence officer. #rumor #wiki #ysacalifornia #USA
+
+##
+
+**Links:**
+
+[https://wikileaks.org/podesta-emails/emailid/31721](https://wikileaks.org/podesta-emails/emailid/31721) 
+
+\
+
+## 2015 - Gimbal is one of three US military videos of unidentified aerial phenomenon (UAP) #video #sensors #USA
+
+2015-Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.480p
+
+**Links:**
+
+[https://drive.google.com/file/d/1EqgogcCDBxZtYnjizgJzywZH_JOLRVg3/view?usp=drive_link](https://drive.google.com/file/d/1EqgogcCDBxZtYnjizgJzywZH_JOLRVg3/view?usp=drive_link) 
+[https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm) 
+[https://commons.m.wikimedia.org/wiki/File:Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm](https://commons.m.wikimedia.org/wiki/File:Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm) 
+
+**Photos:**
+
+![Gimbal Is One Of Three Us Military Videos Of Unide 1](images/2015-gimbal-is-one-of-three-us-military-videos-of-unide-1.png)
+
+\
+
+## 2015 - Go Fast Official USG Footage of UAP for Public Release #video #sensors #USA
+
+2015-Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm.480p
+
+**Links:**
+
+[https://drive.google.com/file/d/1Er7Ejv3CoWksUIuzo8OC4lxwaEIrmKc4/view?usp=drive_link](https://drive.google.com/file/d/1Er7Ejv3CoWksUIuzo8OC4lxwaEIrmKc4/view?usp=drive_link) 
+[https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm) 
+
+**Photos:**
+
+![Go Fast Official Usg Footage Of Uap For Public Rel 1](images/2015-go-fast-official-usg-footage-of-uap-for-public-rel-1.png)
+
+\
+
+## 2014 - Pope Francis says he would baptize aliens: 'Who are we to close doors #quote#Europe
+
+Pope Francis expressed his openness to baptizing aliens during a homily on acceptance and inclusion within the Catholic Church. He referred to a Bible story about pagans' conversion to Christianity and emphasized accepting the Holy Spirit, even if it comes in unimaginable forms. The Pope humorous...
+
+**Links:**
+
+[https://www.independent.co.uk/news/world/europe/pope-francis-says-he-would-baptise-aliens-9360632.html](https://www.independent.co.uk/news/world/europe/pope-francis-says-he-would-baptise-aliens-9360632.html) 
+
+\
+
+## 2014 - Testimony under oath. Ryan “FOBS” Graves, a former F-18 pilot in the U.S. Navy with over a decade of service UAP (Unidentified Aerial Phenomena) events that he witnessed during my service. #new #alien (2023-08-10) #USA
+
+Beginning in 2014, I was stationed near Virginia Beach, and my squadron, VFA-11, was equipped with upgraded radar systems. It was then that we began detecting unexplained UAP in our airspace. Initially considered software glitches, we confirmed their physical presence through infrared sensors. Ov...
+
+**Links:**
+
+[https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf) 
+
+**Photos:**
+
+![Testimony Under Oath Ryan Fobs Graves A Former F 1 1](images/2014-testimony-under-oath-ryan-fobs-graves-a-former-f-1-1.png)
+
+\
+
+## 2013 - The CIA publicly acknowledges the existence of Area 51 for the first time, following a FOIA request filed in 2005, and it declassifies documents detailing its history and purpose #FOIA#USA
+
+Area 51, also known as Homey Airport or Groom Lake, is a secretive facility within the Nevada Test and Training Range, operated by the US Air Force (USAF) and administered by Edwards Air Force Base. While its operations are undisclosed, it's believed to be involved in testing experimental aircraf...
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Area51](https://en.wikipedia.org/wiki/Area_51) 
+
+\
+
+## 2013 - Aguadilla, Puerto Rico #FOIARelease #VideoEvidence #DHS #Infrared #MilitaryUAP #Sensors #USA
+
+– Infrared footage from U.S. Customs patrol aircraft shows a torpedo-shaped object skimming just above the water then diving in at high speed.
+
+\
+
+## 2013 - UFO Crash in Peru - Jonathan Weygandt, Lance Corporal / Disclosure Project Witness #leak LARPing #LatinAmerica #Peru
+
+The account details a UFO crash witnessed in the jungle, with encounters with alien beings. The egg-shaped UFO emitted a purplish-green substance, had hatched, and seemed organic. The beings communicated telepathically, projecting non-harm intentions. Mysterious men in black took the witness into...
+
+**Links:**
+
+[https://youtu.be/GLU0NSTC9oU](https://youtu.be/GLU0NSTC9oU) 
+
+\
+
+## 2012 - Author Bryce Zabel tells a story told to him by Brent Friedman, the alleged neighbor of former Secretary of Energy John S. Herrington (under the Reagan administration). Herrington allegedly stated he had been briefed for several weeks at an underground facility outside of Washington, D.C. and the information learned caused him to “cry himself to sleep for a number of nights.” When asked why, Herrington allegedly stated “there is intelligent life in the universe; it’s here and I’ve seen it; this is not the kind of world I thought \[my children\] would grow up in.” #rumor#USA
 
 Herrington also allegedly stated the existence of extraterrestrials were the “tip of the iceberg” in terms of the revelations he learned related to the issue.
 
 **Links:**
 
-[https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up](https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up) #Batch6
+[https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up](https://archive.org/details/adafterdisclosur0000dola/page/276/mode/2up) 
 
-## 1971 - Photos from the USS Trepang SSN 674 submarine as it traveled between Iceland and Jan Mayen island in the Atlantic Ocean in March 1971. #FOIARelease #MilitaryEncounters #FOIA #image #new #limited #USA(2023-08-09) #USA #Batch6
+\
+
+## 2011, June - DHS officials Jim Bell and Sacha Mover begin a series of other meetings in the U.S. intelligence community beyond DHS to determine if they can set up BAASS as a UAP analysis program within DHS Science & Technology (S&T). Those men are the “keepers of the secrets,” who treat Bell and Mover rudely and told “no, and hell no” when asked. Bell and Mover later told BAASS that they believed advanced technology was being held at aerospace contractor facilities under government supervision. Mover and Bell became fearful of moving forward. By late 2011, DHS Deputy Secretary Jane Holl Lute, Under Secretary for Intelligence and Analysis Phyllis Green, and others decided not to contract BAASS within DHS. #LegislationPolicy #AgencyCoordination #GovernmentPolicy #UAPResearch #FOIARelease? #USA
+
+(p153-154)1947 [https://www.pearl-hifi.com/11 Spirited Growth/01 Books/Skinwalkers at the Pentagon.pdf ](<https://www.pearl-hifi.com/11 Spirited Growth/01 Books/Skinwalkers at the Pentagon.pdf >)
+
+\
+
+## 2011, April 13 - Skinny Bob NHI #Europe
+
+The videos were uploaded to a YouTube channel named ivan0135 in 2011. The channel was created the same day the first video was uploaded, on the 13th of April. According to the channel description, the creator is from Russia and was born in 1969.
+
+\
+
+## 2008, August 28 - Hello from Earth #Outbound #International
+
+First crowdsourced message to space via Bebo social network. 501 messages from 195 countries were transmitted to the exoplanet Gliese 581c, located approximately 20 light-years away in the constellation Libra. The messages will arrive in 2029.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/A_Message_From_Earth](https://en.wikipedia.org/wiki/A_Message_From_Earth)
+
+\
+
+## 2003, July 6 - Cosmic Call 2 #Outbound #Europe #Ukraine
+
+Second Cosmic Call transmission to five additional stars using the Evpatoria RT-70 radio telescope. Continued the METI (Messaging Extraterrestrial Intelligence) program with improved encoding and targeted different stellar systems.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Cosmic_Call](https://en.wikipedia.org/wiki/Cosmic_Call)
+
+\
+
+## 2002, August 15 - Crabwood Formation #Inbound #Europe #UnitedKingdom #Winchester #CropFormation
+
+Crop formation with alien face and binary message near Winchester, UK: "Beware the bearers of false gifts and their broken promises...Conduit closing." One of the most complex crop circles ever documented, featuring a CD-like disc with encoded ASCII message.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Crabwood_crop_circle](https://en.wikipedia.org/wiki/Crabwood_crop_circle)
+
+\
+
+## 2001, September 3 - Teen Age Message #Outbound #Europe
+
+First interstellar message composed by teenagers from Russia. Transmitted to six sun-like stars using the Evpatoria RT-70 radio telescope in Ukraine. Part of the Cosmic Call project, featuring messages about Earth's youth.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Teen_Age_Message](https://en.wikipedia.org/wiki/Teen_Age_Message)
+
+\
+
+## 2001, August 19 - Chilbolton Arecibo Reply #Inbound #Europe #UnitedKingdom #Hampshire #Chilbolton #CropFormation
+
+Crop formation mirroring 1974 Arecibo message structure with different data: silicon-based DNA, different population (10 billion), and different solar system. Appeared near Chilbolton radio telescope, Hampshire, UK.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_crop_circle)
+
+\
+
+## 2001, August 14 - Chilbolton Face Formation #Inbound #Europe #UnitedKingdom #Hampshire #Chilbolton #CropFormation
+
+Crop formation showing humanoid face near Chilbolton radio telescope, Hampshire, UK. Appeared 5 days before the Arecibo Reply formation in the same area. Face shows non-human features with large eyes.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Chilbolton_crop_circle](https://en.wikipedia.org/wiki/Chilbolton_crop_circle)
+
+\
+
+## 1999, May 24 - Cosmic Call #Outbound #Europe
+
+Radio message using sophisticated "Lexicon" mathematical language transmitted toward nearby stars. Sent from the Evpatoria RT-70 radio telescope in Ukraine as part of the first METI transmission. Targeted four sun-like stars.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Cosmic_Call](https://en.wikipedia.org/wiki/Cosmic_Call)
+
+\
+
+## 1990, August 4 - Calvine UFO Incident: Diamond-Shaped Object Photographed in Scottish Highlands #CivilianSightings #PhotoEvidence #MultipleWitness #MilitaryUAP #FOIARelease #LeaksDeclass #Europe #UnitedKingdom #Scotland #Calvine
+
+Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hovering silently in the sky before accelerating away at high speed. They captured several photographs using a 35mm camera showing a solid object with a bright or misty appearance. The photos were handed to the UK Ministry of Defence for analysis and disappeared for decades. In 2021, one original photograph was released under the Freedom of Information Act, showing the diamond-shaped object with what appeared to be a military jet nearby for scale. The MOD suggested it may have been a misidentified Harrier jump jet or optical illusion, but no firm conclusion was reached. The case remains one of the UK's most compelling UFO incidents due to photographic evidence, remote location, and official MOD involvement. Only one of the original photographs has been publicly released; the identities of the hikers have never been confirmed.
+
+**Links:**
+
+[https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/](https://www.reddit.com/r/UFOs/comments/1q6lxl8/the_calvine_ufo_incident_1990_a_mystery_in_the/)
+
+**Photos:**
+
+*Images pending - children's drawings and newspaper coverage available in historical archives*
+
+\
+
+## 1996, September 10 - Matanzas Rural School, Cuba #ContactAttempt #LatinAmerica #Cuba
+
+Dozens of children witnessed large glowing oval craft silently hover over school assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate. Similar to Ariel School incident.
+
+\
+
+## 1996 - Varginha, Brazil #ContactAttempt #LatinAmerica #Brazil #Varginha
+
+Multiple townspeople reported humanoid "grey" beings and nearby craft. One of Latin America's highest-profile mass-contact claims with physical evidence reports. Military allegedly captured beings. Known as "Brazil's Roswell."
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Varginha_UFO_incident](https://en.wikipedia.org/wiki/Varginha_UFO_incident)
+
+\
+
+## 1994, September 16 - Ariel School, Zimbabwe #ContactAttempt #Africa #Zimbabwe
+
+62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth and environmental concerns. Investigated by Dr. John Mack and Cynthia Hind.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)
+[https://www.johnemackinstitute.org/ariel-school](https://www.johnemackinstitute.org/ariel-school)
+[https://skinnybob.info/](https://skinnybob.info/) 
+[https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/](https://howandwhys.com/skinny-bob-alien-videos-forensic-analysis/) 
+
+**Photos:**
+
+![Skinny Bob Nhi 1](images/2011-skinny-bob-nhi-1.jpg)
+![Skinny Bob Nhi 2](images/2011-skinny-bob-nhi-2.jpg)
+![Skinny Bob Nhi 3](images/2011-skinny-bob-nhi-3.jpg)
+
+\
+
+## 2011, February - Former Canadian defense minister Paul Hellyer #leak #news #alien #USA
+
+Former Canadian defense minister Paul Hellyer asserts that the U.S. possesses knowledge of UFO technology and has harnessed extraterrestrial technology for new energy forms. He criticizes the historical human response of hostility to alien craft and suggests that a shadow government with black op...
+
+**Links:**
+
+[https://www.cnet.com/culture/canadas-ex-defense-minister-u-s-knows-how-aliens-can-make-us-greener/](https://www.cnet.com/culture/canadas-ex-defense-minister-u-s-knows-how-aliens-can-make-us-greener/) 
+
+\
+
+## 2010,  October - USAF personnel at Francis E. Warren AFB near #MilitaryEncounters #NuclearSite #MissileFacility #UAPIncursion #HistoricalPreModern #CriticalInfrastructure #USA
+
+Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that day, the missile site loses communications with 50 Minuteman III nuclear missiles, affecting five Missile Alert Facilities Alpha through Echo comprising the 319th Strategic Missile Squadron. The USAF commander of the sq...
+
+\
+
+## 1977 - Attorney Daniel P. Sheehan, at the request of Congressional Research Service researcher Marcia S. Smith, claims to visit the Madison Building at the Library of Congress to look at “classified sections of Project Blue Book.” Sheehan claims to see photos of a flying disc embedded in snow surrounded by USAF personnel wearing parkas. Symbols are present on the side of the crashed disc. If true, this contradicts the findings of the Blue Book that were delivered to Congress and the American people, stating that a lack of physical evidence was a key reason why UAP was not worthy of future study. #MilitaryEncounters #UnderwaterUSO? #MassSighting #PhysicalEffects #HistoricalPreModern #Declassified #USA
+
+**Links:**
+
+[web.archive.org](https://web.archive.org/web/20150703123417/http:/www.presidentialufo.com/old site/marcia sm ith story.htm)
+
+\
+
+## 1977, August 20 - Voyager Golden Records #Outbound #USA
+
+12-inch gold-plated copper records launched aboard Voyager 1 and 2 spacecraft. Contains 116 images, greetings in 55 languages, and 90 minutes of music representing Earth's diversity. Expected to last billions of years in interstellar space.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Voyager_Golden_Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
+
+\
+
+## 1977, August 15 - Wow! Signal #Inbound #USA
+
+Strong 72-second narrowband radio signal detected by Ohio State University's Big Ear radio telescope from the direction of Sagittarius. Signal was 30 times stronger than background noise. Never detected again despite numerous follow-up searches.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
+
+\
+
+## 1977, February 4 - Broad Haven School UFO Sighting #CivilianSightings #MultipleWitness #ContactAttempt #Inbound #HistoricalPreModern #Europe #UnitedKingdom #Wales #Pembrokeshire #BroadHaven
+
+On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a field next to Broadhaven Primary School in Broad Haven, Pembrokeshire, Wales. A group of 14 children claimed to have observed the craft and a silver creature. The headmaster, believing this to be a practical joke, made each child independently draw what they had seen. The resulting pictures were all nearly identical, showing the same cigar-shaped object. This incident is similar to the 1994 Ariel School Incident in Zimbabwe. The entire Pembrokeshire area was inundated with UFO sightings, cryptid reports, and Men in Black encounters throughout 1977, making it one of the UK's most concentrated UFO flaps in UK history.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Broad_Haven_UFO_sightings](https://en.wikipedia.org/wiki/Broad_Haven_UFO_sightings)
+
+**Photos:**
+
+*Images pending - children's drawings and newspaper coverage available in historical archives*
+
+\
+
+## 1975, November 5 - Travis Walton Abduction #MilitaryEncounters #NuclearSite #SecurityIncident #RadarContact #HistoricalPreModern #USA
+
+In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished after he and six coworkers encountered a brilliant disc-shaped object. Five days later, Walton reappeared with no clear memory of his absence, though he eventually described vivid experiences of interacting with apparen...
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Travis_Walton_abduction](https://en.wikipedia.org/wiki/Travis_Walton_abduction)
+
+\
+
+## 1974, November 16 - Arecibo Message #Outbound #USA
+
+First deliberate interstellar radio message sent from Arecibo Observatory in Puerto Rico. 1,679-bit signal transmitted to globular star cluster M13, approximately 25,000 light-years away. Contains information about humanity, DNA, Earth's solar system, and the Arecibo telescope itself.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Arecibo_message](https://en.wikipedia.org/wiki/Arecibo_message)
+[https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt](https://unclebulgaria9001.github.io/disclosureparty/dist/arecibo-message-1974.txt)
+
+\
+
+## 1973, April 5 - Pioneer 11 Plaque #Outbound #USA
+
+Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's first physical messages to space. Launched aboard Pioneer 11 spacecraft, now in interstellar space beyond Neptune's orbit.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Pioneer_plaque](https://en.wikipedia.org/wiki/Pioneer_plaque)
+
+\
+
+## 1972, March 2 - Pioneer 10 Plaque #Outbound #USA
+
+First physical message from humanity to potential extraterrestrial intelligence. Gold-anodized aluminum plaque showing human figures, Earth's location in the solar system, and the spacecraft's origin. Launched aboard Pioneer 10, now in interstellar space.
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/Pioneer_plaque](https://en.wikipedia.org/wiki/Pioneer_plaque)
+
+\
+
+## 1971 - Photos from the USS Trepang SSN 674 submarine as it traveled between Iceland and Norway's Jan Mayen Island. Cylindrical UFO rising from the water. #FOIA-- #image #new #limited (2023-08-09) #USA
 
 The incident involves multiple photos of a large cylindrical UFO emerging from the water, with more pictures available on Google Drive. Despite a Freedom of Information Act #FOIA request with case number DON-NAVY-2015-007410, no further information about the photos was obtained. In late November,...
 
 **Links:**
 
-[https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk](https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk) #Batch6
-[https://drive.google.com/file/d/1GMWdJ34zw-Kg52HxnBy1sOuvmlSP98t/view?usp=drivesdk](https://drive.google.com/file/d/1GMWdJ34zw-Kg52Hx_nBy1sOuvmlSP98t/view?usp=drivesdk) #Batch6
-[https://drive.google.com/file/d/1GOqVufBwxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk](https://drive.google.com/file/d/1GOqVufB_wxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk) #Batch6
-[https://documents.theblackvault.com/documents/navy/2015-007410-CHR1971-TrepangFinal.pdf](https://documents.theblackvault.com/documents/navy/2015-007410-CHR1971-Trepang_Final.pdf) #Batch6
-[https://www.reddit.com/r/UFOs/s/teOUvQl69r](https://www.reddit.com/r/UFOs/s/teOUvQl69r) #Batch6
 [https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk](https://drive.google.com/file/d/1GJOU6jbYs4B9msLDrY-Umsi3ZRy6fWWd/view?usp=drivesdk) 
 [https://drive.google.com/file/d/1GMWdJ34zw-Kg52HxnBy1sOuvmlSP98t/view?usp=drivesdk](https://drive.google.com/file/d/1GMWdJ34zw-Kg52Hx_nBy1sOuvmlSP98t/view?usp=drivesdk) 
 [https://drive.google.com/file/d/1GOqVufBwxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk](https://drive.google.com/file/d/1GOqVufB_wxJvjxJ0hioApqIZS9hjgaIK/view?usp=drivesdk) 
@@ -1113,7 +1785,7 @@ The incident involves multiple photos of a large cylindrical UFO emerging from t
 
 \
 
-## 1970 - Archived New Zealand letters to diplomats. Not from the government. #LeaksDeclass #leak #Oceania #NewZealand
+## 1970 - Archived New Zealand letters to diplomats. Not from the government. #leak #Oceania #NewZealand
 
 The collection comprises numerous files dating back to the 1970s, containing letters addressed to the US government regarding Unidentified Aerial Phenomena (UAP) from New Zealand.
 
