@@ -2251,6 +2251,11 @@
             });
             
             updateFilterCounts(); // Update counts after filtering
+            
+            // Update map markers if map is visible
+            if (map && document.getElementById('mapView').style.display !== 'none') {
+                updateMapMarkers();
+            }
         }
         
         // Function to calculate and update filter counts based on currently visible events
@@ -2747,45 +2752,45 @@
             }
         }
         
-        function initializeMap() {
-            // Initialize Leaflet map
-            map = L.map('mapView', {
-                center: [20, 0],
-                zoom: 2,
-                minZoom: 2,
-                maxZoom: 18,
-                worldCopyJump: true
+        function getFilteredEvents() {
+            // Get selected tags
+            const selectedTags = Array.from(document.querySelectorAll('.tag-filter:checked'))
+                .map(cb => cb.value);
+            
+            // Get total number of tag filters
+            const totalTags = document.querySelectorAll('.tag-filter').length;
+            
+            // If all tags selected or no tags selected, return all events
+            const showAll = selectedTags.length === totalTags || selectedTags.length === 0;
+            
+            if (showAll) {
+                return allEvents;
+            }
+            
+            // Filter events by selected tags
+            return allEvents.filter(event => {
+                const eventTags = event.tags || [];
+                return selectedTags.some(tag => 
+                    eventTags.some(eventTag => 
+                        eventTag.toLowerCase() === tag.toLowerCase()
+                    )
+                );
             });
+        }
+        
+        function updateMapMarkers() {
+            if (!map || !markerClusterGroup) return;
             
-            // Add dark tile layer
-            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-                subdomains: 'abcd',
-                maxZoom: 20
-            }).addTo(map);
+            // Clear existing markers
+            markerClusterGroup.clearLayers();
             
-            // Initialize marker cluster group
-            markerClusterGroup = L.markerClusterGroup({
-                maxClusterRadius: 50,
-                spiderfyOnMaxZoom: true,
-                showCoverageOnHover: false,
-                zoomToBoundsOnClick: true,
-                iconCreateFunction: function(cluster) {
-                    const count = cluster.getChildCount();
-                    let size = 'small';
-                    if (count > 10) size = 'large';
-                    else if (count > 5) size = 'medium';
-                    
-                    return L.divIcon({
-                        html: '<div><span>' + count + '</span></div>',
-                        className: 'marker-cluster marker-cluster-' + size,
-                        iconSize: L.point(40, 40)
-                    });
-                }
-            });
+            // Get filtered events based on current filters
+            const filteredEvents = getFilteredEvents();
             
-            // Add markers for events with coordinates
-            const eventsWithCoords = allEvents.filter(e => e.coordinates && e.coordinates[0] !== 0 && e.coordinates[1] !== 0);
+            // Add markers for filtered events with coordinates
+            const eventsWithCoords = filteredEvents.filter(e => e.coordinates && e.coordinates[0] !== 0 && e.coordinates[1] !== 0);
+            
+            console.log(`Map updated: showing ${eventsWithCoords.length} of ${allEvents.filter(e => e.coordinates).length} geotagged events`);
             
             eventsWithCoords.forEach(event => {
                 const [lat, lng] = event.coordinates;
@@ -2868,6 +2873,46 @@
             });
             
             map.addLayer(markerClusterGroup);
+        }
+        
+        function initializeMap() {
+            // Initialize Leaflet map
+            map = L.map('mapView', {
+                center: [20, 0],
+                zoom: 2,
+                minZoom: 2,
+                maxZoom: 18,
+                worldCopyJump: true
+            });
+            
+            // Add dark tile layer
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 20
+            }).addTo(map);
+            
+            // Initialize marker cluster group
+            markerClusterGroup = L.markerClusterGroup({
+                maxClusterRadius: 50,
+                spiderfyOnMaxZoom: true,
+                showCoverageOnHover: false,
+                zoomToBoundsOnClick: true,
+                iconCreateFunction: function(cluster) {
+                    const count = cluster.getChildCount();
+                    let size = 'small';
+                    if (count > 10) size = 'large';
+                    else if (count > 5) size = 'medium';
+                    
+                    return L.divIcon({
+                        html: '<div><span>' + count + '</span></div>',
+                        className: 'marker-cluster marker-cluster-' + size,
+                        iconSize: L.point(40, 40)
+                    });
+                }
+            });
+            
+            map.addLayer(markerClusterGroup);
             
             // Add legend to map
             const legend = L.control({ position: 'bottomright' });
@@ -2901,7 +2946,8 @@
             };
             legend.addTo(map);
             
-            console.log(`Map initialized with ${eventsWithCoords.length} geotagged events`);
+            // Initial marker population
+            updateMapMarkers();
         }
         
         // Initialize language switcher
