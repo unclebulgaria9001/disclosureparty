@@ -931,7 +931,7 @@ U.S. Senator Kirsten Gillibrand announced that she had secured full funding for 
 
 \
 
-## 2023, May - Australian Air Force UAP FOIA #FOIA #Oceania #Australia
+## 2023, May - Australian Air Force UAP FOIA #FOIARelease #FOIA #Oceania #Australia
 
 t is outlined that there have been recent developments regarding Unidentified Aerial Phenomena (UAP) or Unidentified Flying Objects (UFOs). The United States Department of Defense has released information about these phenomena, emphasizing their potential impact on military operations and the nee...
 
@@ -942,7 +942,7 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 \
 
-## 2023, May 31 - Western U.S. Objects  #new (2023-09-04) #usa
+## 2023, May 31 - Western U.S. Objects  #MilitaryEncounters #new (2023-09-04) #usa
 
 2023, May 24 - FVEY Inaugural UAP Caucus Working Group FVEY Inaugural UAP Caucus Working Group” meeting. FVEY, which stands for “Five Eyes,” is an intelligence alliance that includes Australia, Canada, New Zealand, the United Kingdom, and the United States. It encourages collaboration and intelli...
 
@@ -957,7 +957,7 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 \
 
-## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
+## 2023, May 19 - FOIA Release: Joint Chiefs issue worldwide UAP reporting requirements #FOIARelease #LegislationPolicy #MilitaryPolicy #ReportingRequirements #JointChiefs #UAPRecordsCollection #USA
 
 **Links:**
 
@@ -965,7 +965,7 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 \
 
-## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the Canadian government was responding to the Feb. 11 Yukon incident. In addition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #20 #new  (2023-09-10) #canada #usa
+## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the Canadian government was responding to the Feb. 11 Yukon incident. In addition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #MilitaryEncounters #20 #new  (2023-09-10) #canada #usa
 
 The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed concern that the indigenous hunters might accidentally find the object during their caribou hunt. It also explained that while CAF CF-18s Hornets had been scrambled to intercept the object, “F-22s were better located...
 
@@ -981,7 +981,7 @@ The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed
 
 \
 
-## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #20 # new (2023-09-10) #canada #usa
+## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #MilitaryEncounters #20 # new (2023-09-10) #canada #usa
 
 The object taken down Friday, which officials have not characterized as a balloon, was shot down at 1:45 p.m. EST, according to Pentagon spokesman Brig. Gen. Patrick Ryder said recovery teams are now collecting the debris that is sitting on top of ice in US territorial waters. "No official video ...
 
@@ -993,7 +993,7 @@ The object taken down Friday, which officials have not characterized as a balloo
 
 \
 
-## 2023, January 28 - List of high-altitude object events in 2023 #usa #canada
+## 2023, January 28 - List of high-altitude object events in 2023 #MilitaryEncounters #usa #canada
 
 Multiple airborne objects, sometimes reported in mainstream media as UFOs, were observed and sometimes shot down by military aircraft. Many of the objects were reported as meteorology or espionage balloons
 
