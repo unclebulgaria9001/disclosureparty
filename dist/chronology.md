@@ -646,7 +646,7 @@ NASA is well-positioned to contribute to studying Unidentified Aerial Phenomena 
 
 \
 
-## 2023, September 12 - Probably assembled from bones - Discovery of two previously unknown species with unique genetic information, backed up in a DNA database accessible to other scientists for verification. #video #image #dns #new #fake #LatinAmerica
+## 2023, September 12 - Probably assembled from bones - Discovery of two previously unknown species with unique genetic information, backed up in a DNA database accessible to other scientists for verification. #video #image #dns #new #fake #LatinAmerica #Mexico
 
 This post discusses the discovery of two previously unknown species with unique genetic information backed up in a DNA database accessible to other scientists for verification. Tests, including those by metallurgy specialists, radiologists, and geneticists, have authenticated the bodies and their...
 
@@ -663,7 +663,7 @@ This post discusses the discovery of two previously unknown species with unique 
 
 \
 
-## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #LatinAmerica
+## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #LatinAmerica #Mexico
 
 The Mexican Chamber of Deputies is set to conduct a public hearing similar to those held in the United States Congress, focusing on unidentified flying objects (UFOs). Morenista representative Sergio Gutiérez Luna announced this, with renowned UFO specialist Jaime Maussan participating in the eve...
 
@@ -1571,7 +1571,7 @@ The videos were uploaded to a YouTube channel named ivan0135 in 2011. The channe
 
 \
 
-## 2008, August 28 - Hello from Earth #Outbound
+## 2008, August 28 - Hello from Earth #Outbound #International
 
 First crowdsourced message to space via Bebo social network. 501 messages from 195 countries were transmitted to the exoplanet Gliese 581c, located approximately 20 light-years away in the constellation Libra. The messages will arrive in 2029.
 
@@ -1581,7 +1581,7 @@ First crowdsourced message to space via Bebo social network. 501 messages from 1
 
 \
 
-## 2003, July 6 - Cosmic Call 2 #Outbound
+## 2003, July 6 - Cosmic Call 2 #Outbound #Europe #Ukraine
 
 Second Cosmic Call transmission to five additional stars using the Evpatoria RT-70 radio telescope. Continued the METI (Messaging Extraterrestrial Intelligence) program with improved encoding and targeted different stellar systems.
 
@@ -1656,7 +1656,7 @@ Two hikers near Calvine, Scotland witnessed a large diamond-shaped object hoveri
 
 \
 
-## 1996, September 10 - Matanzas Rural School, Cuba #ContactAttempt #LatinAmerica
+## 1996, September 10 - Matanzas Rural School, Cuba #ContactAttempt #LatinAmerica #Cuba
 
 Dozens of children witnessed large glowing oval craft silently hover over school assembly area. Pupils reported lights swept toward them in patterned sequence, as if trying to communicate. Similar to Ariel School incident.
 
@@ -1672,7 +1672,7 @@ Multiple townspeople reported humanoid "grey" beings and nearby craft. One of La
 
 \
 
-## 1994, September 16 - Ariel School, Zimbabwe #ContactAttempt #Africa
+## 1994, September 16 - Ariel School, Zimbabwe #ContactAttempt #Africa #Zimbabwe
 
 62 pupils (ages 5-12) witnessed silvery cigar-shaped craft hover above playground. Many described receiving non-verbal "thought message" about caring for Earth and environmental concerns. Investigated by Dr. John Mack and Cynthia Hind.
 
@@ -1715,7 +1715,7 @@ Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that da
 
 \
 
-## 1977, August 20 - Voyager Golden Records #Outbound
+## 1977, August 20 - Voyager Golden Records #Outbound #USA
 
 12-inch gold-plated copper records launched aboard Voyager 1 and 2 spacecraft. Contains 116 images, greetings in 55 languages, and 90 minutes of music representing Earth's diversity. Expected to last billions of years in interstellar space.
 
@@ -1725,7 +1725,7 @@ Cheyenne, WY see a large cigar-shaped UAP above its missile field. Later that da
 
 \
 
-## 1977, August 15 - Wow! Signal #Inbound
+## 1977, August 15 - Wow! Signal #Inbound #USA
 
 Strong 72-second narrowband radio signal detected by Ohio State University's Big Ear radio telescope from the direction of Sagittarius. Signal was 30 times stronger than background noise. Never detected again despite numerous follow-up searches.
 
@@ -1759,7 +1759,7 @@ In Arizona's Apache-Sitgreaves National Forest, logger Travis Walton vanished af
 
 \
 
-## 1974, November 16 - Arecibo Message #Outbound
+## 1974, November 16 - Arecibo Message #Outbound #USA
 
 First deliberate interstellar radio message sent from Arecibo Observatory in Puerto Rico. 1,679-bit signal transmitted to globular star cluster M13, approximately 25,000 light-years away. Contains information about humanity, DNA, Earth's solar system, and the Arecibo telescope itself.
 
@@ -1770,7 +1770,7 @@ First deliberate interstellar radio message sent from Arecibo Observatory in Pue
 
 \
 
-## 1973, April 5 - Pioneer 11 Plaque #Outbound
+## 1973, April 5 - Pioneer 11 Plaque #Outbound #USA
 
 Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's first physical messages to space. Launched aboard Pioneer 11 spacecraft, now in interstellar space beyond Neptune's orbit.
 
@@ -1780,7 +1780,7 @@ Identical gold-anodized aluminum plaque to Pioneer 10, continuing humanity's fir
 
 \
 
-## 1972, March 2 - Pioneer 10 Plaque #Outbound
+## 1972, March 2 - Pioneer 10 Plaque #Outbound #USA
 
 First physical message from humanity to potential extraterrestrial intelligence. Gold-anodized aluminum plaque showing human figures, Earth's location in the solar system, and the spacecraft's origin. Launched aboard Pioneer 10, now in interstellar space.
 
@@ -1860,7 +1860,7 @@ First reported on April 2, 1968, luminous apparitions interpreted as the Virgin 
 
 \
 
-## 1967, March - Case: A fighter jet ‘disintegrates’ when it prepares to fire missiles at a UFO. #CivilianSightings #RadarContact #HistoricalPreModern #LatinAmerica
+## 1967, March - Case: A fighter jet ‘disintegrates’ when it prepares to fire missiles at a UFO. #CivilianSightings #RadarContact #HistoricalPreModern #LatinAmerica #Cuba
 
 A pair of MiG-21 jet fighters were scrambled to inspect the enigmatic invader, which they eventually discovered and observed to resemble a big, metallic sphere devoid of wings or any kind of propulsion system. The flight leader was immediately told that the object had failed to reply to radio con...
 
@@ -2218,7 +2218,7 @@ The Act charged CIA with coordinating the Nation’s intelligence activities and
 
 \
 
-## 1947, July 8 - Roswell incident #news#LatinAmerica
+## 1947, July 8 - Roswell incident #news #USA
 
 The Roswell incident in June and July 1947 in New Mexico involved the military's initial announcement of recovering debris from a "flying disc," which was later retracted as a conventional weather balloon. Retired lieutenant Colonel Jesse Marcel's claims in 1978 fueled conspiracy theories that th...
 
