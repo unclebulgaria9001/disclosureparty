@@ -1745,9 +1745,7 @@ On February 4, 1977, a yellow cigar-shaped craft was claimed to have landed in a
 
 **Photos:**
 
-![Children's drawings of cigar-shaped UFO at Broad Haven School showing remarkable consistency](images/1977-broad-haven-school-ufo-1.jpg)
-![Newspaper coverage of Broad Haven School UFO incident](images/1977-broad-haven-school-ufo-2.jpg)
-![Witness testimony and additional documentation from Broad Haven sightings](images/1977-broad-haven-school-ufo-3.jpg)
+*Images pending - children's drawings and newspaper coverage available in historical archives*
 
 \
 
