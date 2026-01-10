@@ -2840,11 +2840,21 @@
                     dateStr = d3.timeFormat('%B %d, %Y')(event.date);
                 }
                 
+                // Format tags for display
+                let tagsHtml = '';
+                if (event.tags && event.tags.length > 0) {
+                    const tagBadges = event.tags.map(tag => 
+                        `<span style="display: inline-block; background: #21262d; color: #58a6ff; padding: 2px 6px; border-radius: 3px; font-size: 0.75em; margin: 2px 2px 0 0; border: 1px solid #30363d;">#${tag}</span>`
+                    ).join('');
+                    tagsHtml = `<div style="margin: 8px 0; line-height: 1.6;">${tagBadges}</div>`;
+                }
+                
                 // Create popup content
                 const popupContent = `
                     <div class="map-popup-title">${event.title}</div>
                     <div class="map-popup-date">${dateStr}</div>
                     ${event.location ? `<div style="color: #8b949e; font-size: 0.8em; margin-bottom: 8px;">📍 ${event.location}</div>` : ''}
+                    ${tagsHtml}
                     <div class="map-popup-description">${event.description}</div>
                     <a class="map-popup-link" onclick="showEventModal(${JSON.stringify(event).replace(/"/g, '&quot;')})">View Details →</a>
                 `;
