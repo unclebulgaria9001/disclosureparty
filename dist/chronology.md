@@ -1295,6 +1295,16 @@ What appears to be a UFO flies around a Navy ship off the coast of San Diego bef
 
 \
 
+## 2018-2019 - Linda Moulton Howe Antarctica Whistleblower Interviews #WhistleblowerDisclosures #Antarctica #USA
+
+Investigative journalist Linda Moulton Howe conducted a series of interviews with alleged military personnel and contractors claiming knowledge of unusual discoveries and activities in Antarctica. The interviews, published between 2018 and 2019, featured multiple sources describing encounters with anomalous craft, unusual structures beneath the ice, and classified operations in restricted zones of the continent. Sources claimed to have witnessed disc-shaped craft emerging from or entering the ice, advanced technology inconsistent with known human capabilities, and extensive underground facilities. While the accounts remain unverified and sources maintained anonymity citing security concerns, the interviews have contributed to ongoing speculation about classified Antarctic operations. Howe's reporting emphasized the consistency of certain details across independent sources and the professional backgrounds of the alleged witnesses.
+
+**Links:**
+
+[Earthfiles - Linda Moulton Howe](https://www.earthfiles.com/)
+
+\
+
 ## 2019 - Pentagon UFO videos #FOIA #alien #USA
 
 The Pentagon UFO videos consist of visual recordings captured by US Navy fighter jets in 2004, 2014, 2015, and 2019, depicting encounters with unidentified aerial phenomena (UAP). After gaining significant media attention and speculation, the Pentagon officially declassified and released these vi...
@@ -1321,6 +1331,17 @@ I nvestigative journalists Jeremy Corbell and George Knapp obtained and are reve
 **Photos:**
 
 ![Iraq Jellyfish Uap 1](images/2018-iraq-jellyfish-uap-1.png)
+
+\
+
+## 2018 - NASA Discovers Massive Magnetic Anomaly Beneath Antarctica #ScientificStudies #Antarctica #International
+
+NASA scientists discovered a massive magnetic anomaly beneath the ice in Wilkes Land, East Antarctica. The anomaly, detected through satellite and aerial surveys, spans an area larger than Paris and suggests the presence of a massive metallic object or geological formation beneath the ice sheet. Initial analysis indicated the anomaly could be a massive impact crater from an asteroid strike, potentially dating back millions of years. The crater's size and the magnetic signature suggest an object approximately 300 kilometers in diameter may be buried beneath the ice. Alternative theories have proposed unusual geological formations or concentrations of metallic minerals. The discovery has sparked interest due to the anomaly's size, depth, and the difficulty of conducting direct investigation beneath kilometers of ice.
+
+**Links:**
+
+[NASA Earth Observatory](https://earthobservatory.nasa.gov/)
+[Science Journal - Antarctic Anomalies](https://www.science.org/)
 
 \
 
@@ -1391,6 +1412,28 @@ DeLonge states he has been told how public perception on UAP has been shaped by 
 **Links:**
 
 [https://www.coasttocoastam.com/show/2016-03-27-show/](https://www.coasttocoastam.com/show/2016-03-27-show/) 
+
+\
+
+## 2016, November - Secretary of State John Kerry Visits Antarctica #Antarctica #USA
+
+U.S. Secretary of State John Kerry visited Antarctica in November 2016, becoming the highest-ranking U.S. government official to visit the continent. The visit occurred during the final weeks of the Obama administration and coincided with the 2016 U.S. presidential election. Kerry's trip included visits to McMurdo Station and the South Pole, where he met with scientists and researchers studying climate change. The unusual timing of the visit, during a critical election period, sparked speculation about the true purpose of the trip. Official statements emphasized climate research and international cooperation under the Antarctic Treaty, but the visit has remained a subject of interest in UAP research communities due to its timing and the high-level nature of the delegation.
+
+**Links:**
+
+[U.S. Department of State - Kerry Antarctica Visit](https://2009-2017.state.gov/secretary/remarks/2016/11/264129.htm)
+[National Science Foundation - Kerry Visit Coverage](https://www.nsf.gov/news/)
+
+\
+
+## 2016 - IceCube Neutrino Observatory Detects Unusual Particles #ScientificStudies #Antarctica #International
+
+The IceCube Neutrino Observatory, located at the Amundsen-Scott South Pole Station in Antarctica, detected unusual high-energy particle events between 2016 and 2018. The detector observed particles that appeared to be traveling upward through the Earth, rather than downward from space as expected. These anomalous detections suggested particles were either passing through the entire planet or originating from within Earth itself, challenging conventional physics models. The IceCube facility consists of over 5,000 optical sensors embedded deep in Antarctic ice, designed to detect neutrinos from cosmic sources. While scientists have proposed various explanations including exotic particle physics, the anomalous readings have not been fully explained and continue to be studied.
+
+**Links:**
+
+[IceCube Neutrino Observatory](https://icecube.wisc.edu/)
+[Nature - IceCube Anomalous Events](https://www.nature.com/)
 
 \
 
