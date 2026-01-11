@@ -259,6 +259,602 @@ Conjecture that material has been hidden under special classification or physica
 | 4chan egg leak | 1/5 | Likely hoax |
 | "Building around craft" claim | 0/5 | No direct evidence |
 
+## Enhanced Causal Network: New Nodes and Links
+
+### Executive Summary
+The large-immovable-craft narrative can be decomposed into three linked subsystems:
+- **(A) Detection/Indication**: Sensors, anomalies, eyewitnesses
+- **(B) Logistics/Decision**: Assessment, cost/feasibility, secrecy
+- **(C) Concealment/Maintenance**: Construction, classification, contractor operations
+
+Each subsystem has observable signatures (documents, procurement/contractor records, satellite imagery, flight manifests, geological/sensor data). Strengthening or refuting the narrative requires coordinated FOIA/imagery/archival queries targeted at those signatures.
+
+### New Nodes to Add to Network Graph
+
+**Detection & Sensor Nodes:**
+- Satellite tasking logs (NRO/NGA) — metadata of when authority requested imagery of coordinates
+- Commercial imagery time-series (Maxar/Planet) footprints and change-detection outputs
+- Ice-penetrating radar & seismic survey logs for candidate coordinates
+- Large cleared/roofed footprint detected in optical/thermal imagery (change event)
+- International sensor correlation node (Five Eyes NRO/AARO sharing events)
+
+**Logistics & Operations Nodes:**
+- Antarctic heavy-lift procurement records & contractor task orders (Leidos, Lockheed, CH2M/AECOM)
+- McMurdo/field-station special construction/annex filings and permit requests
+- Unusual cargo/airlift manifests (LC-130/C-17/ship manifests) from Christchurch → McMurdo / Wilkes-Land corridor
+- Heavy equipment deployment records (cranes, prefab modules, containerized shelters)
+
+**Classification & Secrecy Nodes:**
+- Classification/legal mechanism node (Atomic Energy Act / Special Access Programs)
+- Compartmentalization & contractor NDAs
+- Congressional SCIF briefing materials (classified annexes)
+
+**Disclosure & Narrative Nodes:**
+- Whistleblower disclosure node (named testimonies: Barber, Grusch, Coulthart sources)
+- Leak/hoax amplification node (anonymous image/video posts, 4chan)
+- Media investigation node (Coulthart, Knapp, investigative journalism)
+
+### New Major Links (with Evidence Types)
+
+**Detection → Collection:**
+- `NRO/NGA Satellite tasking logs` → **CAUSES** → `Targeted imagery production`
+  - Evidence: Imagery IDs, request memos, tasking metadata
+  - Inference: Frequent tasking over a coordinate implies interest/monitoring
+
+- `Ice-penetrating radar surveys` → **EVIDENCES** → `Subsurface anomaly records` → **ANCHORS** → `Wilkes Land or subglacial feature nodes`
+  - Evidence: Survey logs, scientific publications, radar reflections
+  - Inference: Repeated surveys at same coordinates suggest follow-up investigation
+
+**Logistics → Capability:**
+- `Heavy-lift procurement & contractor task orders` → **CAUSES** → `Presence of heavy engineering capability in-theatre` → **SUPPORTS** → `Ability to build large enclosure`
+  - Evidence: Contract awards, task orders, procurement records
+  - Inference: Specialized equipment presence enables construction
+
+- `Aircraft/ship manifests (unexpected oversized cargo)` → **EVIDENCES** → `Moving large structural components to Antarctica`
+  - Evidence: Port manifests, flight logs, cargo descriptions
+  - Inference: Unusual cargo patterns suggest non-standard operations
+
+**Classification → Opacity:**
+- `Classification mechanism (AEA / SAP)` → **CAUSES** → `Records withheld from Congress/public` → **EXPLAINS** → `Why no public construction logs show building`
+  - Evidence: Classification markings, FOIA denials, redactions
+  - Inference: Legal barriers prevent disclosure
+
+- `Five Eyes info-sharing` → **ENABLES** → `Cross-jurisdictional concealment and coordinated classification` → **EXPLAINS** → `Multi-national opacity`
+  - Evidence: Five Eyes coordination memos, allied FOIA responses
+  - Inference: International coordination reduces single-point disclosure risk
+
+**Disclosure → Amplification:**
+- `Whistleblower disclosures` → **CAUSES** → `Media attention & community narratives` → **EFFECT** → `Anonymous leaks and social amplification`
+  - Evidence: Testimony dates, media coverage, social media posts
+  - Inference: 4chan egg leak as feedback (3 days after Barber testimony)
+
+- `DIA AAWSAP/AATIP technical research` → **CAUSES** → `Development of reverse-engineering programs & technical interest` → **LINKS** → `Contractor involvement (Lockheed, Bigelow) / specialized facilities`
+  - Evidence: DIA FOIA releases, contractor reports, technical studies
+  - Inference: Technical programs create ecosystem for specialized facilities
+
+## Detailed Stepwise Causal Chains
+
+### Chain A: Sensor/Anomaly → Regional Interest → Operational Response
+
+**Step 1:** Scientific/sensor anomaly detected
+- Wilkes Land gravity/magnetic anomaly (NASA satellite data, 2018)
+- IceCube upward-traveling particle events (2016-2018)
+- NRO Sentient detection (2021)
+- **Status**: Verified nodes in chronology
+
+**Step 2:** Interpretation by scientists/intelligence as "anomalous" → Targeted collection
+- Internal assessment triggers satellite tasking, radar surveys
+- **Evidence to seek**: Satellite tasking logs, radar survey logs, NRO/NGA/IC memos referencing coordinates
+
+**Step 3:** Targeted collection produces classified imagery/data → Internal assessment by IC/DoD
+- Imagery analysis, geophysical data interpretation
+- **Evidence to seek**: NRO/NGA imagery analysis reports, IC assessment memos
+
+**Step 4:** Assessment concludes either (a) natural geologic anomaly or (b) anomalous artificial object requiring on-site follow-up
+- Decision node: Natural vs. artificial determination
+- **Evidence to seek**: Technical assessment memos, decision records
+
+**Step 5:** If (b), operational response triggered
+- Logistics planning, contractor task orders, heavy-lift procurement, site containment planning
+- **Evidence to seek**: NSF/USAP/contractor records of inland science support in same coordinates and dates, AARO/NRO internal emails
+
+### Chain B: Retrieval/Containment Decision (Scale/Physics) → Build vs. Move
+
+**Step 1:** Sensor/visual detection / field discovery indicates object of substantial size/depth
+- Initial assessment of scale, mass, anchoring
+- **Evidence to seek**: Field reports, reconnaissance logs, initial assessment memos
+
+**Step 2:** Practical assessment: Object mass/anchoring/ice encasement prevents or makes movement cost-prohibitive
+- Engineering analysis of retrieval feasibility
+- **Evidence to seek**: Engineering cost analyses, structural assessment memos (DoD/NSF/SAP)
+
+**Step 3:** Decision node: (Move) attempt retrieval/transport vs. (Contain) secure in-situ and build enclosure/shelter
+- Cost-benefit analysis, risk assessment
+- **Evidence to seek**: Decision memos, authorization records, budget authority requests
+
+**Step 4:** If contain chosen: Authorizations, contractor tasking, specialized materials & heavy equipment mobilized
+- Site secured under classification/SAP
+- **Evidence to seek**: 
+  - Heavy equipment/temporary-structure procurement logs
+  - Construction contractor orders
+  - Port manifests (Christchurch → McMurdo)
+  - Satellite imagery showing cleared footprint, heavy equipment, temporary camp rings
+
+**Step 5:** Long-term: Maintenance, monitoring, restricted access, classified records
+- Ongoing operations and security
+- **Evidence to seek**: 
+  - Flight manifests for LC-130, helicopter heavy-lift logs (long-sling ops)
+  - Base NOTAMs, McMurdo construction permits
+  - Persistent satellite monitoring patterns
+
+### Chain C: Secrecy/Classification → Leakage & Public Narrative
+
+**Step 1:** Site and activity classified (AEA, SAP) → Records withheld
+- Legal classification mechanisms invoked
+- **Evidence to seek**: Classification markings, FOIA denials citing AEA/SAP
+
+**Step 2:** Compartmentization fosters whispers within contractors/military → Whistleblowers
+- Information leakage through cleared personnel
+- **Evidence to seek**: IG reports, whistleblower complaints, congressional testimony
+
+**Step 3:** Whistleblower testimony (named or anonymous) leaks to journalists → Publicization
+- Coulthart, Howe, Barber disclosures
+- **Evidence to seek**: Interview transcripts, media reports, testimony dates
+
+**Step 4:** Community attempts to corroborate with open sources, but gaps invite hoaxes/false-correlations
+- Satellite imagery searches, scientific anomaly citations
+- 4chan leak (3 days after Barber testimony) as example
+- **Evidence to seek**: Chronology matching whistleblower dates → anonymous leaks → satellite imagery search windows
+
+**Step 5:** Political pressure / congressional inquisitions → Legislative & FOIA activity
+- NDAA provisions, AARO establishment, Archive collection
+- **Evidence to seek**: Congressional SCIF transcripts, IG determination letters, legislative history
+
+### Chain D: Technical Research → Capability & Rationale for Concealment
+
+**Step 1:** Formal research programs show interest in advanced propulsion/materials
+- AAWSAP/AATIP, DIA releases document reverse engineering interest
+- **Status**: Verified in chronology (DIA AAWSAP release 2024-08-20)
+
+**Step 2:** If non-human-origin materials plausibly present, R&D & containment programs justified
+- Technical, national-security, safety rationales
+- **Evidence to seek**: Program justification memos, threat assessments
+
+**Step 3:** Technical program infrastructure creates ecosystem for specialized facilities
+- Contractors, labs, secure facilities for moving, studying, constructing enclosures
+- **Evidence to seek**: 
+  - DIA AAWSAP/AATIP contractor reports (some public)
+  - Contract award histories
+  - SBIR/IRAD filings referencing exotic materials
+  - Unusual classification markings in procurement records
+
+## Focused Chain: "Too Big to Move → Build a Building Around It"
+
+### A. Detection & Initial On-Site Verification
+**Node**: Initial detection (satellite, seismic, radar, field scientist, or military recon)
+
+**Expected Supporting Evidence**:
+- Sensor logs (radar, seismic, thermal)
+- NRO/NGA images (classified)
+- Ice-penetrating survey notes
+- Field camp reports
+- Initial reconnaissance memos
+
+### B. Engineering Assessment
+**Node**: Structural/thermal/ice/anchoring assessment concludes movement impractical
+
+**Likely Content**:
+- Structural analyses
+- Mass estimates (tonnage, dimensions)
+- Melting/refreezing constraints
+- Safety risk memo
+- Transport cost-benefit analysis
+
+**Evidence to Seek**:
+- Technical memos from engineering contractors
+- Engineering contracting solicitations
+- Cost/benefit memos
+- Feasibility studies
+
+### C. Containment Decision & Authorization
+**Node**: Decision to secure in place and build structure (classified decision record)
+
+**Evidence to Seek**:
+- Internal authorization memos
+- Budget authority requests
+- Classified task orders to contractors
+- Special Access Program (SAP) authorizations
+- Decision briefing materials
+
+### D. Logistics & Construction
+**Node**: Procurement of heavy equipment, prefabricated shelters, materials shipped to staging hub
+
+**Evidence to Seek**:
+- **Port/Ship Manifests**: Christchurch → McMurdo oversized cargo entries
+- **Aircraft Manifests**: C-17/LC-130 sorties to interior coordinates
+- **Contractor Task Orders**: Leidos, Lockheed, AECOM Antarctic work
+- **Satellite Imagery Signatures**:
+  - Cleared area (unnatural geometry in ice)
+  - Heavy equipment (cranes, bulldozers)
+  - Temporary camp rings
+  - Long-term roofed structure (rectangular, orthogonal)
+  - Thermal anomalies (persistent heat signature)
+- **Helicopter Logs**: Long-sling sortie logs (Barber testimony mentions long-sling retrievals)
+
+### E. Ongoing Secrecy & Maintenance
+**Node**: Site becomes maintained under restricted access with changed traffic patterns
+
+**Evidence to Seek**:
+- Persistent satellite monitoring (repeated NRO/NGA taskings)
+- Unusual patterns of resupply flights
+- Restricted-airspace temporary NOTAMs
+- Redacted logistics invoices
+- Contractor maintenance agreements
+
+### F. Leakage & Corroboration Attempts
+**Node**: Whistleblowers, anonymous images, community examination of imagery, FOIA
+
+**Evidence to Seek**:
+- Testimony transcripts
+- Anonymous leaks (4chan, social media)
+- Change-detection imagery analysis
+- Matching manifests to testimony dates
+- FOIA responses and denials
+
+## Practical Indicators and Expected Signatures
+
+### Open-Source Imagery Analysis
+**Temporal change-detection** in high-res optical imagery (Maxar 0.5m or Planet daily):
+- Cleared ground (unnatural in ice environment)
+- Regular rectangular/orthogonal geometry
+- Shadowing consistent with roof/structure
+- Persistent presence over multiple years
+
+**Thermal anomalies** (MODIS/ASTER/Thermal bands):
+- Persistent heat signature at fixed coordinates
+- Inconsistent with natural geothermal activity
+- Consistent with heated structure or operations
+
+### Flight & Transport Patterns
+**Repeated small- and large-transport flights** to a coordinate:
+- LC-130 ski-equipped cargo aircraft
+- C-17 heavy-lift transport
+- Helicopter sorties with manifest anomalies
+- **Check**: USN/USAF flight logs, Operation Deep Freeze manifests
+
+**Port/Airlift manifests** from Christchurch (NZ) or Hobart (Australia) to McMurdo:
+- Unusual containers
+- Oversized crate entries
+- Contractor shipping invoices
+- Redacted cargo descriptions
+
+### Contractor & Procurement Records
+**Contractor task orders** to:
+- Lockheed Martin (aerospace, logistics)
+- Leidos (engineering, support services)
+- AECOM (construction, infrastructure)
+- Caterpillar/engineer rental firms (heavy equipment)
+- **Target**: Antarctic heavy construction during relevant years
+
+### Geophysical & Sensor Data
+**Ice-penetrating radar & seismic survey schedule logs**:
+- Follow-up surveys at same coordinates
+- Repeated tasking suggesting ongoing interest
+- Anomalous reflections or signatures
+
+**NRO/NGA/IC emails/tasking memos**:
+- FOIA requests targeting "taskings" for Wilkes Land coordinates
+- Particular lat/lon ranges
+- Repeated imagery requests
+
+### Classified Information Leakage Patterns
+**Match whistleblower dates to leak/hoax posts**:
+- Isolate windows for targeted imagery searches
+- Example: 4chan egg leak (2025-01-21) came 3 days after Barber testimony (2025-01-18)
+- Pattern suggests information flow from classified to public domain
+
+## Prioritized Investigative Actions
+
+### Priority 1: FOIA Requests (with Phrasing Guidance)
+
+**1. NSF/USAP (US Antarctic Program)**
+- **Target**: Flight manifests, cargo manifests, contractor task orders
+- **Date Range**: 2016-2025 (correlate to alleged events)
+- **Keywords**: "heavy cargo," "prefab," "facility module," "containerized shelter," "Wilkes Land," "deep-field operations"
+- **Sample Request**: "All flight manifests and cargo manifests for LC-130 and C-17 flights to McMurdo Station and deep-field coordinates within 100km of [LAT/LON] for the period 2016-2025, including contractor task orders for construction or heavy equipment deployment."
+
+**2. DoD/AF/USN (Operation Deep Freeze)**
+- **Target**: Flight logs for LC-130/C-17 sorties to interior coordinates; helicopter sling operation logs; heavy-equipment deployment records
+- **Keywords**: "long-sling," "external cargo," "special lift," "inland sortie," "deep-field support"
+- **Sample Request**: "All Operation Deep Freeze flight logs for sorties to coordinates south of 75°S and inland from McMurdo Station for the period 2016-2025, including helicopter long-sling operation logs and heavy-equipment deployment records."
+
+**3. NRO/NGA (National Reconnaissance Office / National Geospatial-Intelligence Agency)**
+- **Target**: Satellite tasking logs and imagery request metadata for Wilkes Land coordinates
+- **Keywords**: "tasking," "imagery request," "Sentient," "Wilkes Land," "Antarctic inland"
+- **Sample Request**: "All satellite tasking logs and imagery request metadata for coordinates within the Wilkes Land region (approximate range: 120°E-140°E, 65°S-75°S) for the period 2016-2025, including requester agency and justification if unclassified."
+
+**4. Contractor FOIA (Lockheed Martin, Leidos, AECOM)**
+- **Target**: Task orders/contract solicitations that include Antarctic work
+- **Keywords**: "Antarctic," "McMurdo," "NSF," "USAP," "remote construction," "classified facility"
+- **Sample Request**: "All task orders and contract solicitations awarded to [Contractor Name] for work in Antarctica or in support of US Antarctic Program operations for the period 2016-2025, including redacted versions of classified contracts."
+
+**5. USCG / Port of Christchurch (International Request)**
+- **Target**: Port manifests for suspect shipping dates
+- **Keywords**: "McMurdo," "USAP," "oversized cargo," "containerized"
+- **Sample Request** (to NZ Customs): "All port manifests for cargo shipped from Christchurch, New Zealand to McMurdo Station, Antarctica for the period 2016-2025, including descriptions of oversized or unusual cargo."
+
+### Priority 2: Imagery Analytic Plan
+
+**Baseline Imagery Gathering**:
+- **Sources**: Maxar (0.5m resolution), Planet (3m daily), Sentinel-2 (10m free), Landsat (30m free)
+- **Target Coordinates**: 
+  - Wilkes Land centroid (~130°E, 70°S)
+  - McMurdo fringe coordinates (~166°E, 77°S)
+  - Inland subglacial lake coordinates (Dome C vicinity)
+- **Date Range**: 2016-present
+
+**Change-Detection Analysis**:
+- **Method**: Temporal differencing, geometric feature extraction
+- **Search For**:
+  - Geometric clearings (rectangular, orthogonal)
+  - Thermal hotspots (MODIS/ASTER thermal bands)
+  - Temporary camps (circular patterns, equipment)
+  - Long-term structures (persistent rectangular features)
+  - Shadow analysis (height estimation)
+
+**Cross-Match with Testimony Dates**:
+- Barber testimony (2025-01-18) → Check imagery 2024-2025
+- Coulthart book publication (2021-10-08) → Check imagery 2020-2021
+- Howe interviews (2018-2019) → Check imagery 2017-2019
+
+### Priority 3: Source Corroboration
+
+**Interview Approach**:
+- **Contractors**: Reach out to press shops for records of "special" projects
+- **Scientists**: Ask IceCube, Byrd, Dome C personnel about unusual aviation or construction activity
+- **Logistics Personnel**: Former Operation Deep Freeze participants
+
+**Congressional Records**:
+- Cross-check AARO/NRO/DoD briefings
+- Dates of SCIF sessions where references may have been made to "sites"
+- Even redacted notes sometimes reveal patterns (page counts, section headers)
+
+## New Events to Add to Chronology (If Verified)
+
+### Event Type 1: Unusual Heavy-Lift Shipments
+**Event**: "Unusual heavy-lift shipments Christchurch→McMurdo, dates X–Y, containing oversized crates described as 'facility modules' or redacted cargo"
+
+**Why It Matters**: Direct logistics evidence of large-structure transport
+
+**How to Verify**:
+- NZ customs logs
+- Port manifests
+- Contractor shipping invoices
+- FOIA from NSF/USAP
+
+**Chronology Entry Format**:
+```
+## [DATE] - Unusual Heavy-Lift Cargo Shipment to McMurdo Station #Antarctica #Logistics #OperationDeepFreeze #ContractorOperations #USA
+
+Port manifests from Christchurch, New Zealand show [X] oversized crates described as [description] shipped to McMurdo Station. Contractor: [Name]. Cargo weight: [tonnage]. Destination: [McMurdo / inland coordinates].
+
+**Event Type**: Logistics, Contractor_Operations, Antarctic_Infrastructure
+**Credibility**: [X/5] (Port manifest, contractor invoice, [other evidence])
+**Related Events**:
+- SUPPORTS → [Whistleblower testimony or other event]
+- CORRELATES_WITH → [Satellite imagery change-detection]
+```
+
+### Event Type 2: Satellite-Observed Footprint Change
+**Event**: "Satellite-observed rapid footprint change at coordinate LAT/LON in Wilkes Land showing cleared rectangle and roofed structure between dates A-B"
+
+**Why It Matters**: Observable geometry inconsistent with natural processes
+
+**How to Verify**:
+- Commercial imagery purchase (Maxar, Planet)
+- Change-detection analysis
+- Shadow/timelapse analysis
+- Independent verification by multiple analysts
+
+**Chronology Entry Format**:
+```
+## [DATE] - Satellite Imagery Shows Geometric Anomaly at Wilkes Land Coordinates #Antarctica #SatelliteImagery #GeometricAnomaly #WilkesLand #International
+
+Commercial satellite imagery (Maxar/Planet) shows appearance of [dimensions] rectangular cleared area at coordinates [LAT/LON] between [DATE A] and [DATE B]. Structure exhibits [characteristics]. Change-detection analysis confirms [findings].
+
+**Event Type**: Satellite_Evidence, Geometric_Anomaly, Antarctic_Infrastructure
+**Credibility**: [X/5] (Commercial imagery, change-detection, [other evidence])
+**Imagery Sources**: [Maxar image ID], [Planet scene ID]
+**Related Events**:
+- CORRELATES_WITH → [Whistleblower testimony]
+- TEMPORAL_MATCH → [Cargo shipment or flight manifest]
+```
+
+### Event Type 3: Redacted AARO/NRO/NGA Tasking Memo
+**Event**: "Redacted AARO/NRO/NGA tasking memo requesting follow-up high-resolution imagery over coordinate LAT/LON on repeated dates"
+
+**Why It Matters**: Shows IC interest and directed monitoring
+
+**How to Verify**:
+- FOIA requests for NRO/NGA tasking logs
+- Cite specific coordinates
+- Request metadata (date, requester, justification)
+
+**Chronology Entry Format**:
+```
+## [DATE] - NRO/NGA Tasking Memo for Antarctic Coordinates Released via FOIA #FOIA #NRO #NGA #SatelliteTasking #Antarctica #USA
+
+FOIA release shows [redacted/partially redacted] tasking memo from [agency] requesting high-resolution imagery of coordinates [LAT/LON] on [dates]. Requester: [agency/redacted]. Justification: [redacted/partially visible].
+
+**Event Type**: FOIA_Release, Satellite_Tasking, Intelligence_Activity
+**Credibility**: [X/5] (Official FOIA release, [other evidence])
+**Document IDs**: [FOIA case number], [document ID]
+**Related Events**:
+- DEMONSTRATES → IC interest in specific Antarctic coordinates
+- CORRELATES_WITH → [Satellite imagery change-detection]
+```
+
+### Event Type 4: Contract Award to Major Contractor
+**Event**: "Contract award to major contractor (Lockheed/Leidos) for a 'remote Antarctic engineering project – classified' with schedule overlapping suspicious imagery dates"
+
+**Why It Matters**: Establishes contractor involvement and legal procurement path
+
+**How to Verify**:
+- Contract filings
+- Debarment/procurement datasets
+- Redacted versions in FOIA
+- USASpending.gov searches
+
+**Chronology Entry Format**:
+```
+## [DATE] - Classified Contract Award for Antarctic Engineering Project #ContractorOperations #Antarctica #ClassifiedProgram #Procurement #USA
+
+Contract award to [Contractor Name] for [project description/redacted]. Contract value: $[amount]. Period of performance: [dates]. Classification: [level]. Procuring agency: [DoD/NSF/other].
+
+**Event Type**: Contract_Award, Contractor_Operations, Classified_Program
+**Credibility**: [X/5] (Official contract record, [other evidence])
+**Contract IDs**: [contract number], [task order number]
+**Related Events**:
+- ENABLES → [Construction or logistics capability]
+- TEMPORAL_MATCH → [Satellite imagery or testimony dates]
+```
+
+### Event Type 5: McMurdo Station Construction Logs
+**Event**: "McMurdo Station construction/maintenance logs showing anomalous non-science cargo movement during years X–Y"
+
+**Why It Matters**: Ties logistical hub activity to suspicious operations
+
+**How to Verify**:
+- NSF USAP station logs
+- Contractor work orders
+- Base manifests
+- FOIA requests
+
+### Event Type 6: Seismometer/Radar Anomaly Logs
+**Event**: "Seismometer/radar anomaly logs showing repeated unnatural reflections at same coordinate"
+
+**Why It Matters**: Geophysical signature of an engineered mass under ice
+
+**How to Verify**:
+- Scientific data repositories
+- Paper preprints
+- FOIA to NSF for survey data
+- Ice-penetrating radar archives
+
+## Credibility & Probabilistic Assessments
+
+### Evidence Credibility Tiers
+
+**Tier 1: High Credibility (5/5) - Verified Public Records**
+- Wilkes Land anomaly (NASA satellite data, peer-reviewed)
+- IceCube particle detections (scientific publications)
+- Operation Deep Freeze operations (official DoD records)
+- NRO emails (FOIA releases, 2022)
+- DIA AAWSAP/AATIP documents (FOIA releases, 2024)
+
+**Tier 2: Moderate Credibility (3-4/5) - Sourced but Unverified**
+- Coulthart investigative claims (4/5: credible journalist, multiple sources)
+- Barber retrieval testimony (3/5: named whistleblower, operational detail)
+- Five Eyes coordination (4/5: multiple government sources, no single treaty doc)
+
+**Tier 3: Low Credibility (1-2/5) - Anonymous/Unverified**
+- Howe Antarctica interviews (2/5: anonymous sources)
+- Lear/briefing file hints (1/5: unverified references)
+- 4chan egg leak (1/5: likely hoax, timing suspicious)
+
+**Tier 4: No Direct Evidence (0/5) - Speculative**
+- "Building around craft" claim (0/5: no verified construction/satellite evidence)
+
+### Probabilistic Assessment: "Building Around Craft" Scenario
+
+**Operational Plausibility**: Medium (3/5)
+- Moving very large objects in Antarctica is operationally difficult
+- Building enclosure in-situ is a known engineering solution
+- Precedent exists for large Antarctic structures (McMurdo facilities)
+
+**Evidence Strength**: Low (1/5)
+- No verified satellite imagery of unusual structures
+- No confirmed port manifests of oversized construction materials
+- No contractor task orders publicly linking to such projects
+
+**Overall Probability**: Low-to-Medium (2/5)
+- Causal chain is operationally plausible
+- Contextual evidence exists (anomalies, logistics capability, whistleblower claims)
+- **BUT**: No direct signatures (imagery/manifests) yet confirmed
+
+### How to Avoid False Positives
+
+**Require Multiple Independent Lines of Evidence**:
+- Minimum 3 of 6 evidence types before elevating from "speculative" to "probable":
+  1. Satellite imagery change-detection
+  2. Port/flight manifests
+  3. Contractor task order
+  4. Whistleblower claim referencing same coordinates/time window
+  5. NRO/NGA tasking logs
+  6. Geophysical survey data
+
+**Treat Anonymous Leaks as Potential Signals**:
+- Require corroboration from metadata or independent imagery
+- Check EXIF data, upload times, raw frames
+- Do not use as primary evidence without verification
+
+**Evidence Matrix Checklist**:
+| Evidence Type | Present? | Credibility | Verification Status | Cross-Correlation |
+|---------------|----------|-------------|---------------------|-------------------|
+| Imagery signature | ? | ? | ? | Matches testimony date? |
+| Manifest | ? | ? | ? | Matches coordinates? |
+| Contractor order | ? | ? | ? | Matches time window? |
+| Whistleblower | ? | ? | ? | Specific details? |
+| Radar/ice data | ? | ? | ? | Repeated surveys? |
+| NRO tasking | ? | ? | ? | Frequent requests? |
+
+**Threshold**: Require ≥3 matched nodes with credibility ≥3/5 for strong suspicion
+
+## Quick Action Checklist
+
+### Immediate Actions (Next 30 Days)
+
+**1. Select Candidate Coordinates**:
+- [ ] Wilkes Land centroid (~130°E, 70°S)
+- [ ] McMurdo fringe coordinate (~166°E, 77°S)
+- [ ] Inland subglacial lake coordinate (Dome C vicinity)
+
+**2. Obtain Imagery**:
+- [ ] Purchase/obtain Maxar time series (2016-2025) for 3 coordinates
+- [ ] Download free Sentinel-2 and Landsat imagery for same coordinates
+- [ ] Request Planet imagery if available
+
+**3. File FOIA Requests**:
+- [ ] NSF USAP: Flight manifests, cargo manifests, contractor task orders
+- [ ] DoD Operation Deep Freeze: Flight logs, helicopter logs, equipment deployment
+- [ ] NRO/NGA: Satellite tasking logs for coordinates
+- [ ] Contractor FOIA: Lockheed, Leidos, AECOM Antarctic task orders
+- [ ] NZ Customs: Port manifests Christchurch→McMurdo
+
+**4. Imagery Analysis**:
+- [ ] Perform change-detection analysis on imagery time series
+- [ ] Search for geometric clearings, thermal anomalies, temporary camps
+- [ ] Document any rectangular/orthogonal structures
+- [ ] Cross-match findings with testimony dates
+
+**5. Build Evidence Matrix**:
+- [ ] Create spreadsheet with 6 evidence types as columns
+- [ ] Document findings for each coordinate
+- [ ] Calculate credibility scores
+- [ ] Identify coordinates with ≥3 matched evidence types
+
+**6. Compile Whistleblower Timeline**:
+- [ ] Map Barber testimony (2025-01-18) to imagery windows
+- [ ] Map Coulthart claims (2021) to imagery windows
+- [ ] Map Howe interviews (2018-2019) to imagery windows
+- [ ] Identify specific coordinates or regions mentioned
+
+**7. Monitor Ongoing Developments**:
+- [ ] Congressional SCIF briefings for declassified portions
+- [ ] New FOIA releases from Black Vault or other sources
+- [ ] Additional whistleblower testimony
+- [ ] Commercial imagery updates
+
 ### Recommended Next Steps
 1. **Draft prioritized FOIA request list** (exact agencies, sample request language) targeting most promising records
 2. **Produce timeline** cross-referencing whistleblower/press claims with documented Operation Deep Freeze/NSF activity
