@@ -1106,13 +1106,32 @@ On May 17, 2022, the United States House Intelligence Subcommittee on Counterter
 
 \
 
-## 2021, June - UFO Report (U.S. Intelligence) #report #USA
+## 2021, June 25 - ODNI Preliminary Assessment on UAP Released to Congress #OfficialReport #CongressionalMandated #144Observations #PolicyDriver #USA
 
-Issued on June 25, 2021, by the Office of the Director of National Intelligence, the Preliminary Assessment: Unidentified Aerial Phenomena (UAP) Report offers a comprehensive overview of UAPs, compiling 144 observations by the U.S. Armed Forces from 2004 to 2021. The report highlights that the UA...
+The Office of the Director of National Intelligence (ODNI) released the "Preliminary Assessment: Unidentified Aerial Phenomena" report to Congress, mandated by the FY2021 Intelligence Authorization Act. The unclassified report analyzed 144 UAP observations by U.S. Armed Forces personnel from November 2004 to March 2021. Key findings: (1) 80 observations involved multiple sensors, (2) 18 incidents displayed unusual flight characteristics (remaining stationary in high winds, moving against wind, maneuvering abruptly, moving at considerable speed without discernible propulsion), (3) 143 remained unexplained, only 1 identified with high confidence (deflating balloon), (4) UAP "clearly pose a safety of flight issue and may pose a challenge to U.S. national security." The report identified five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or industry programs, foreign adversary systems, and "Other." The assessment explicitly stated more data was needed and drove congressional demands for enhanced reporting, leading directly to expanded NDAA requirements, AARO establishment with broader mandate, and increased funding for UAP investigation.
+
+**Event Type**: Official_Report, Congressional_Mandate, Intelligence_Assessment
+**Credibility**: 5/5 (Official ODNI report to Congress, mandated by law, multi-agency coordination)
+**Primary Actors**: Avril Haines (DNI), ODNI, UAPTF, Navy, FBI, multiple IC agencies
+**Agencies**: ODNI, UAPTF, Navy, Air Force, FBI, DIA, NGA, NRO
+**Sensor Type**: Multiple sensors (radar, FLIR, EO, visual), 80 incidents with multi-sensor data
+**Related Events**:
+- RESPONDS_TO → 2020-2021 NDAA UAP reporting requirements (evidence: congressionally mandated report)
+- ENABLED_BY → 2019-04-24 Navy reporting guidelines (evidence: increased reporting fed 144-observation dataset)
+- ENABLED_BY → 2020-08-04 UAPTF establishment (evidence: UAPTF conducted analysis)
+- CAUSES → 2022 expanded NDAA UAP provisions (evidence: congressional record cites report's data gaps)
+- CAUSES → 2022-07-20 AARO establishment (evidence: report's recommendations drove broader mandate)
+- CAUSES → 2022-2023 congressional hearings surge (evidence: members cite report in hearing statements)
+**Causal Chain**: Media_Political_Legislative_Chain_1, Incidents_Security_Policy_Chain_3
+**Immediate Outcomes**: Legitimized UAP as national security concern; identified data gaps; drove legislative action
+**Policy Impact**: Expanded NDAA requirements; AARO creation with enhanced authorities; increased IC coordination; normalized UAP investigation
+**Evidence Strength**: Strong (5/5) - Official IC product, clear causal links to downstream legislation, explicit congressional citations
 
 **Links:**
 
-[https://en.wikipedia.org/wiki/UFOReport(U.S.Intelligence)](https://en.wikipedia.org/wiki/UFO_Report_(U.S._Intelligence)) 
+[ODNI Preliminary Assessment PDF](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
+[Congressional Mandate - FY2021 IAA](https://www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf)
+[ODNI Press Release](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena)
 
 \
 
@@ -1268,12 +1287,37 @@ Former Senate Majority Leader Harry Reid tweeted Monday that Americans "deserve 
 ## 2019, August 8 - To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, announces a "technical collaboration" with Lockheed Martin, Boeing, Bigelow Aerospace and BAE Systems. It is seemingly published by mistake and removed from Instagram soon after it goes live. A technical collaboration with these aerospace contractors is never mentioned in TTSA's public SEC filings, nor has TTSA ever mentioned working with Boeing or BAE. Lockheed Martin Skunk Works veteran Steve Justice was TTSA's Aerospace Division #LeaksDeclass #social #news #rumor #usa #USA
 
 **Links:**
-
 [https://silvarecord.com/2019/08/08/delonge-confirms-ttsa-technical-collaboration-with-lockheedboeing-bigelow-aerospace-bae/](https://silvarecord.com/2019/08/08/delonge-confirms-ttsa-technical-collaboration-with-lockheedboeing-bigelow-aerospace-bae/) 
 
 \
 
-## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as “ghostbusters” are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #usacalifornia #USA
+## 2019, April 24 - Navy Establishes New UAP Reporting Guidelines #MilitaryPolicy #ReportingProcedures #StigmaReduction #USA
+
+The U.S. Navy established formal guidelines for pilots and personnel to report Unidentified Aerial Phenomena (UAP) encounters, marking a significant policy shift following increased public and congressional attention from the 2017 NYT AATIP disclosure. Navy spokesperson Joseph Gradisher stated the new reporting mechanism was created because "there have been a number of reports of unauthorized and/or unidentified aircraft entering various military-controlled ranges and designated air space in recent years." The guidelines aimed to reduce stigma around UAP reporting, standardize data collection, and ensure proper threat assessment. This policy change directly responded to pilot concerns about lack of formal reporting channels and represented the Navy's acknowledgment that UAP encounters posed potential safety and security issues requiring systematic investigation. The guidelines contributed to increased UAP reporting that informed the 2021 ODNI Preliminary Assessment.
+
+**Event Type**: Military_Policy, Reporting_Procedures, Stigma_Reduction
+**Credibility**: 5/5 (Official Navy policy, spokesperson on record, documented in military communications)
+**Primary Actors**: Joseph Gradisher (Navy spokesperson), Navy leadership
+**Agencies**: U.S. Navy, DoD
+**Related Events**:
+- RESPONDS_TO → 2017-12-16 NYT AATIP disclosure (evidence: Navy statements cite increased attention)
+- RESPONDS_TO → 2017-10-11 TTSA formation (evidence: pilot advocacy from Elizondo/Mellon)
+- ENABLES → 2021-06-25 ODNI Preliminary Assessment (evidence: new reports fed into 144-observation dataset)
+- CORRELATES_WITH → 2019 increased congressional inquiries (evidence: timing with Senate briefings)
+**Causal Chain**: Media_Political_Legislative_Chain_1, Incidents_Security_Policy_Chain_3
+**Immediate Outcomes**: Reduced reporting stigma; standardized UAP data collection; increased pilot reports
+**Policy Impact**: Enabled systematic UAP investigation; contributed to UAPTF establishment; informed ODNI assessment
+**Evidence Strength**: Strong (5/5) - Official Navy policy, direct causal link to downstream reporting increase
+
+**Links:**
+
+[Politico - Navy Pilots Report UFOs](https://www.politico.com/story/2019/04/23/us-navy-guidelines-reporting-ufos-1375290)
+[Navy Statement on UAP Reporting](https://www.navy.mil/Press-Office/News-Stories/Article/1823798/)
+[Washington Post - Navy UFO Guidelines](https://www.washingtonpost.com/national-security/2019/04/24/how-angry-pilots-got-navy-stop-dismissing-ufo-sightings/)
+
+\
+
+## 2019, July 30 - Unusual and extensive redactions exist in the logs of the USS Russell, where crewmembers report a UAP incident. A team known as "ghostbusters" are deployed during events to use counter-drone equipment. It is unknown if the deterrence is successful. #usacalifornia #USA
 
 [https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights](<https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious -drones-off-california-over-numerous-nights >)
 
@@ -1418,6 +1462,31 @@ The New York Times published "Glowing Auras and 'Black Money': The Pentagon's My
 [FLIR1/Nimitz Video - DoD Release](https://www.defense.gov/News/Releases/Release/Article/2165713/)
 [Luis Elizondo Resignation Letter](https://www.documentcloud.org/documents/4326714-Elizondo-resignation-letter.html)
 [To The Stars Academy Announcement](https://home.tothestarsacademy.com/)
+
+\
+
+## 2017, October 11 - To The Stars Academy (TTSA) Publicly Launched #Organization #Whistleblower #MediaDisclosure #PoliticalBridge #USA
+
+To The Stars Academy of Arts & Science (TTSA) was publicly launched by Tom DeLonge with a team of former government and military officials including Luis Elizondo (former AATIP director), Christopher Mellon (former Deputy Assistant Secretary of Defense for Intelligence), Dr. Hal Puthoff (physicist), Jim Semivan (former CIA), and Steve Justice (former Lockheed Skunk Works). TTSA positioned itself as a bridge between whistleblowers, media, and government, facilitating UAP disclosure through public education, congressional briefings, and media releases. The organization played a crucial role in the 2017-2020 disclosure wave by: (1) providing institutional support for whistleblowers like Elizondo, (2) briefing Senate committees and helping "glue" DoD, IC, and Congress together (per DeLonge 2019), (3) releasing UAP videos and documentation, and (4) creating public pressure for government transparency. TTSA's activities directly enabled congressional action on UAP issues and contributed to UAPTF establishment and NDAA provisions.
+
+**Event Type**: Organization_Formation, Whistleblower_Support, Political_Bridge
+**Credibility**: 5/5 (Public company with SEC filings, named officials, documented congressional briefings)
+**Primary Actors**: Tom DeLonge (founder), Luis Elizondo (Director of Global Security), Christopher Mellon (National Security Affairs Advisor), Dr. Hal Puthoff (VP Science & Technology), Jim Semivan (Senior Intelligence Officer), Steve Justice (Aerospace Division Director)
+**Related Events**:
+- ENABLES → 2017-12-16 NYT AATIP disclosure (evidence: Elizondo joined TTSA immediately after DoD resignation)
+- CAUSES → 2018-2019 Congressional briefings (evidence: DeLonge statement about briefing Senate committees)
+- CORRELATES_WITH → 2019 Navy reporting guidelines (evidence: increased attention from TTSA activities)
+- ENABLES → 2020-2021 NDAA UAP provisions (evidence: congressional testimony cites TTSA briefings)
+**Causal Chain**: Media_Political_Legislative_Chain_1, Whistleblower_Investigation_Chain_2
+**Immediate Outcomes**: Institutional support for whistleblowers; congressional briefing channel established; public legitimization
+**Policy Impact**: Facilitated DoD-Congress communication; contributed to UAPTF and AARO creation; enabled whistleblower protections
+**Evidence Strength**: Strong (4/5) - SEC filings, public statements, congressional record references
+
+**Links:**
+
+[TTSA Official Announcement](https://home.tothestarsacademy.com/)
+[TTSA SEC Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274)
+[Tom DeLonge on Congressional Briefings](https://twitter.com/TheZignal/status/1149811406491049984)
 
 \
 
