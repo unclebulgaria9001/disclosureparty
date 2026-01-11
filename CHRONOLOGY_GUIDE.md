@@ -100,6 +100,186 @@ This section is optional but useful for longer explanations.
 Extended information here.
 ```
 
+### 6. Enhanced Metadata Fields (Recommended for Major Events)
+
+For significant events, include enhanced metadata to support correlation analysis:
+
+```markdown
+**Event Type**: Primary_Classification, Secondary_Classification
+**Credibility**: X/5 (Justification)
+**Primary Actors**: Names and roles
+**Agencies**: Government agencies involved
+**Sensor Type**: Detection methods (if applicable)
+**Related Events**:
+- RELATIONSHIP → Event ID/Date (evidence: brief explanation)
+**Causal Chain**: Chain_Name
+**Immediate Outcomes**: Direct results
+**Policy Impact**: Legislative/regulatory changes
+**Evidence Strength**: Strong/Moderate/Weak (X/5) - Justification
+```
+
+---
+
+## Credibility Scoring System
+
+Rate each event's credibility on a 1-5 scale:
+
+### 5/5 - Highest Credibility
+- Official government documents (DoD, ODNI, congressional records)
+- IG-verified testimony under oath
+- Multiple independent primary sources
+- Authenticated sensor data with chain of custody
+- Peer-reviewed scientific studies
+- Official press releases from government agencies
+
+**Examples:**
+- ODNI Preliminary Assessment (official IC report)
+- Congressional hearing testimony (sworn, on record)
+- DoD video authentication statements
+
+### 4/5 - High Credibility
+- Named official sources (not under oath)
+- Single authoritative government document
+- Credible investigative journalism with verification
+- Military/intelligence personnel on record
+- Academic research with methodology disclosed
+
+**Examples:**
+- Navy spokesperson statements
+- Investigative journalist reports with named sources
+- Military incident reports
+
+### 3/5 - Moderate Credibility
+- Anonymous official sources (credible outlet)
+- Unverified single-source claims
+- Credible witness testimony (not sworn)
+- FOIA documents with heavy redactions
+- Secondary source reporting
+
+**Examples:**
+- Anonymous whistleblower accounts
+- Heavily redacted documents
+- Single witness reports
+
+### 2/5 - Low Credibility
+- Unverified leaks
+- Anonymous sources (questionable outlet)
+- Single witness with no corroboration
+- Rumor from semi-credible sources
+
+**Examples:**
+- Unverified social media leaks
+- Anonymous forum posts with some details
+- Uncorroborated single-source claims
+
+### 1/5 - Minimal Credibility
+- Unsubstantiated rumors
+- No verifiable sources
+- Contradicted by evidence
+- Known disinformation
+
+**Examples:**
+- Internet rumors with no sources
+- Claims contradicted by official records
+- Debunked stories
+
+---
+
+## Causal Relationship Types
+
+When documenting **Related Events**, use these relationship types:
+
+### CAUSES →
+Direct causal relationship with documentary evidence
+- Example: "2017 NYT article CAUSES → 2018 congressional inquiries (evidence: hearing transcripts cite article)"
+
+### ENABLES →
+Creates conditions that allow subsequent event
+- Example: "UAPTF establishment ENABLES → ODNI assessment (evidence: UAPTF conducted analysis)"
+
+### RESPONDS_TO →
+Direct response to prior event
+- Example: "Navy guidelines RESPONDS_TO → NYT disclosure (evidence: Navy statement references increased attention)"
+
+### CORRELATES_WITH →
+Temporal correlation, plausible connection, no direct evidence
+- Example: "TTSA activities CORRELATES_WITH → Navy guidelines (evidence: similar timeframe)"
+
+### CONTRADICTS →
+Conflicts with or disputes prior event/claim
+- Example: "2022 NRO emails CONTRADICTS → 2015 NRO FOIA response (evidence: emails show UAP coordination)"
+
+### DOCUMENTS →
+Provides evidence or documentation of event
+- Example: "Corbell video DOCUMENTS → USS Omaha incident (evidence: video shows actual incident)"
+
+---
+
+## Evidence Strength Assessment
+
+Rate the strength of causal links:
+
+### Strong (5/5)
+- Direct documentary evidence (memos, emails, meeting minutes)
+- Explicit statements in congressional record
+- Timeline with <30 day gap and clear mechanism
+- Multiple independent confirmations
+
+### Moderate (3/5)
+- Circumstantial documentation
+- Temporal correlation with plausible mechanism
+- Single authoritative source
+- 30-90 day gap with logical connection
+
+### Weak (1/5)
+- Temporal correlation only
+- >90 day gap
+- Speculative mechanism
+- No direct documentation
+
+---
+
+## Major Causal Chains
+
+Tag events with these established causal chains:
+
+1. **Media_Political_Legislative_Chain_1**: Media disclosure → Congressional pressure → Legislation → Oversight
+2. **Whistleblower_Investigation_Chain_2**: Whistleblower → IG investigation → Congressional inquiry → FOIA releases
+3. **Incidents_Security_Policy_Chain_3**: UAP incidents → Threat assessment → Policy changes → Enhanced capabilities
+4. **Scientific_Legitimization_Chain_4**: Official studies → Academic interest → Civilian research → Data sharing
+5. **International_Coordination_Chain_5**: Bilateral discussions → Five Eyes coordination → Standardized protocols
+
+---
+
+## Enhanced Entry Example
+
+```markdown
+## 2021, June 25 - ODNI Preliminary Assessment on UAP Released to Congress #OfficialReport #CongressionalMandated #144Observations #PolicyDriver #USA
+
+The Office of the Director of National Intelligence (ODNI) released the "Preliminary Assessment: Unidentified Aerial Phenomena" report to Congress, mandated by the FY2021 Intelligence Authorization Act. The unclassified report analyzed 144 UAP observations by U.S. Armed Forces personnel from November 2004 to March 2021.
+
+**Event Type**: Official_Report, Congressional_Mandate, Intelligence_Assessment
+**Credibility**: 5/5 (Official ODNI report to Congress, mandated by law, multi-agency coordination)
+**Primary Actors**: Avril Haines (DNI), ODNI, UAPTF, Navy, FBI, multiple IC agencies
+**Agencies**: ODNI, UAPTF, Navy, Air Force, FBI, DIA, NGA, NRO
+**Sensor Type**: Multiple sensors (radar, FLIR, EO, visual), 80 incidents with multi-sensor data
+**Related Events**:
+- RESPONDS_TO → 2020-2021 NDAA UAP reporting requirements (evidence: congressionally mandated report)
+- ENABLED_BY → 2019-04-24 Navy reporting guidelines (evidence: increased reporting fed 144-observation dataset)
+- CAUSES → 2022-07-20 AARO establishment (evidence: report's recommendations drove broader mandate)
+**Causal Chain**: Media_Political_Legislative_Chain_1, Incidents_Security_Policy_Chain_3
+**Immediate Outcomes**: Legitimized UAP as national security concern; identified data gaps; drove legislative action
+**Policy Impact**: Expanded NDAA requirements; AARO creation with enhanced authorities; increased IC coordination
+**Evidence Strength**: Strong (5/5) - Official IC product, clear causal links to downstream legislation
+
+**Links:**
+
+[ODNI Preliminary Assessment PDF](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)
+[Congressional Mandate - FY2021 IAA](https://www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf)
+
+\
+```
+
 ### 6. Separator
 - End each entry with `\` on its own line
 - Followed by blank line
