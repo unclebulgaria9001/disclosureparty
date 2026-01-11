@@ -711,6 +711,7 @@
                 z-index: 1000;
                 border-right: none;
                 border-bottom: none;
+                transform: translateX(0);
                 transition: transform 0.3s ease;
                 overflow-y: auto;
                 -webkit-overflow-scrolling: touch;
@@ -720,6 +721,12 @@
                 transform: translateX(-100%);
                 margin-left: 0;
                 margin-top: 0;
+                pointer-events: none;
+            }
+            
+            .sidebar:not(.collapsed) {
+                transform: translateX(0);
+                pointer-events: auto;
             }
             
             .sidebar-content {
@@ -731,11 +738,19 @@
                 position: fixed;
                 top: 10px;
                 right: 10px;
-                z-index: 999;
+                z-index: 1001;
                 min-width: 100px;
                 min-height: 44px;
                 padding: 12px 20px;
                 font-size: 0.9em;
+            }
+            
+            .toggle-sidebar.collapsed::before {
+                content: '☰ ';
+            }
+            
+            .toggle-sidebar:not(.collapsed)::before {
+                content: '✕ ';
             }
             
             /* Larger touch targets for checkboxes */
@@ -821,10 +836,9 @@
         </header>
         
         <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
-            <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="index">INDEX</div>
+            <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">📡 NHI MESSAGE</div>
             <div class="tab" onclick="showChronologyView()" data-i18n="chronology">📋 CHRONOLOGY</div>
-            <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">REQUEST NHI CONTACT</div>
-            <div class="tab active" onclick="showTimelineView()" data-i18n="timelineViz">TIMELINE VIZ</div>
+            <div class="tab active" onclick="showTimelineView()" data-i18n="timelineViz">📊 TIMELINE VIZ</div>
             <div class="tab" onclick="showMapView()" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
             <div class="tab" onclick="window.location.href='about.html'">ℹ️ ABOUT</div>
         </div>
