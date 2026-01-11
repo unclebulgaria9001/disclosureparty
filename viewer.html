@@ -1427,7 +1427,8 @@
         if (window.location.hash) {
             handleUrlParams();
         } else {
-            showIndex();
+            // Redirect to timeline chronology view by default
+            window.location.href = 'timeline.html#chronology';
         }
         
         // Listen for hash changes
