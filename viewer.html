@@ -464,11 +464,12 @@
         <div id="languageSwitcherContainer"></div>
         
         <div class="tabs">
-            <div class="tab" data-doc="contact" data-i18n="requestContact">📡 NHI MESSAGE</div>
-            <div class="tab active" data-doc="chronology" data-i18n="chronology">📋 CHRONOLOGY</div>
+            <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">📡 NHI MESSAGE</div>
+            <div class="tab active" onclick="window.location.href='viewer.html'" data-i18n="chronology">📋 CHRONOLOGY</div>
             <div class="tab" onclick="window.location.href='timeline.html'" data-i18n="timelineViz">📊 TIMELINE VIZ</div>
-            <div class="tab" onclick="window.location.href='timeline.html'; setTimeout(() => showMapView(), 100)" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
-            <div class="tab" onclick="window.location.href='about.html'">ℹ️ ABOUT</div>
+            <div class="tab" onclick="window.location.href='network-graph.html'" data-i18n="networkGraph">🕸️ NETWORK GRAPH</div>
+            <div class="tab" onclick="window.location.href='timeline.html#map'" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
+            <div class="tab" onclick="window.location.href='about.html'" data-i18n="about">ℹ️ ABOUT</div>
         </div>
         
         <div id="controlsContainer"></div>

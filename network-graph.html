@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAP Disclosure Network Graph - Causal Chains & Relationships</title>
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.2/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+            color: #c9d1d9;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .header {
+            background: rgba(22, 27, 34, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid #30363d;
+            padding: 20px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            background: linear-gradient(135deg, #58a6ff 0%, #79c0ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #8b949e;
+            font-size: 14px;
+            max-width: 800px;
+        }
+
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            padding: 20px;
+            flex-wrap: wrap;
+            background: #161b22;
+            border-bottom: 1px solid #30363d;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            color: #c9d1d9;
+            text-decoration: none;
+            display: inline-block;
+            min-height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .tab:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            transform: translateY(-2px);
+        }
+
+        .tab.active {
+            background: #58a6ff;
+            border-color: #58a6ff;
+            color: #ffffff;
+        }
+
+        .container {
+            display: flex;
+            height: calc(100vh - 200px);
+            position: relative;
+        }
+
+        .sidebar {
+            width: 320px;
+            background: rgba(22, 27, 34, 0.95);
+            border-right: 1px solid #30363d;
+            padding: 20px;
+            overflow-y: auto;
+            transition: transform 0.3s ease;
+            position: relative;
+            z-index: 100;
+        }
+
+        .sidebar.collapsed {
+            transform: translateX(-100%);
+            position: absolute;
+            height: 100%;
+        }
+
+        .toggle-sidebar {
+            position: fixed;
+            left: 10px;
+            top: 180px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 1001;
+            color: #c9d1d9;
+            font-size: 20px;
+            width: 44px;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .toggle-sidebar:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+        }
+
+        .sidebar:not(.collapsed) ~ .toggle-sidebar::before {
+            content: '✕';
+        }
+
+        .sidebar.collapsed ~ .toggle-sidebar::before {
+            content: '☰';
+        }
+
+        .filter-section {
+            margin-bottom: 25px;
+        }
+
+        .filter-section h3 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #58a6ff;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .filter-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px;
+            background: #0d1117;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.2s ease;
+        }
+
+        .filter-item:hover {
+            background: #161b22;
+        }
+
+        .filter-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+
+        .filter-item label {
+            cursor: pointer;
+            flex: 1;
+            font-size: 13px;
+        }
+
+        .relationship-legend {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 12px;
+        }
+
+        .legend-line {
+            width: 30px;
+            height: 3px;
+            border-radius: 2px;
+        }
+
+        #network {
+            flex: 1;
+            background: #0d1117;
+            position: relative;
+        }
+
+        .network-controls {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(22, 27, 34, 0.95);
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 15px;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .control-button {
+            padding: 8px 16px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            color: #c9d1d9;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s ease;
+        }
+
+        .control-button:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+        }
+
+        .event-details {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            right: 20px;
+            background: rgba(22, 27, 34, 0.98);
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 20px;
+            max-height: 300px;
+            overflow-y: auto;
+            display: none;
+            z-index: 10;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .event-details.visible {
+            display: block;
+        }
+
+        .event-details h3 {
+            color: #58a6ff;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        .event-details .date {
+            color: #8b949e;
+            font-size: 12px;
+            margin-bottom: 10px;
+        }
+
+        .event-details .description {
+            color: #c9d1d9;
+            font-size: 13px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .event-details .metadata {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .metadata-item {
+            background: #0d1117;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 12px;
+            border: 1px solid #30363d;
+        }
+
+        .metadata-label {
+            color: #8b949e;
+            margin-right: 5px;
+        }
+
+        .metadata-value {
+            color: #58a6ff;
+        }
+
+        .close-details {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 4px;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            color: #c9d1d9;
+            font-size: 18px;
+        }
+
+        .close-details:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+        }
+
+        .stats {
+            background: #0d1117;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+        }
+
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+
+        .stat-label {
+            color: #8b949e;
+        }
+
+        .stat-value {
+            color: #58a6ff;
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 100%;
+                position: absolute;
+                height: 100%;
+                z-index: 100;
+            }
+
+            .sidebar.collapsed {
+                transform: translateX(-100%);
+            }
+
+            .toggle-sidebar {
+                left: 10px;
+            }
+
+            .network-controls {
+                top: 10px;
+                right: 10px;
+                padding: 10px;
+            }
+
+            .event-details {
+                left: 10px;
+                right: 10px;
+                bottom: 10px;
+            }
+        }
+
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            z-index: 1000;
+        }
+
+        .loading-spinner {
+            border: 4px solid #30363d;
+            border-top: 4px solid #58a6ff;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🕸️ UAP Disclosure Network Graph</h1>
+        <p>Interactive visualization of causal chains, relationships, and connections between UAP disclosure events. Explore how events influence each other through causation, corroboration, contradiction, and support relationships.</p>
+    </div>
+
+    <div class="tabs">
+        <div class="tab" onclick="window.location.href='viewer.html'">📡 NHI MESSAGE</div>
+        <div class="tab" onclick="window.location.href='viewer.html'">📋 CHRONOLOGY</div>
+        <div class="tab" onclick="window.location.href='timeline.html'">📊 TIMELINE VIZ</div>
+        <div class="tab active">🕸️ NETWORK GRAPH</div>
+        <div class="tab" onclick="window.location.href='timeline.html#map'">🗺️ GEOTIMELINE</div>
+        <div class="tab" onclick="window.location.href='about.html'">ℹ️ ABOUT</div>
+    </div>
+
+    <div class="container">
+        <div class="sidebar" id="sidebar">
+            <div class="stats" id="stats">
+                <div class="stat-item">
+                    <span class="stat-label">Total Nodes:</span>
+                    <span class="stat-value" id="nodeCount">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Total Edges:</span>
+                    <span class="stat-value" id="edgeCount">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Visible Nodes:</span>
+                    <span class="stat-value" id="visibleNodes">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Visible Edges:</span>
+                    <span class="stat-value" id="visibleEdges">0</span>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <h3>Relationship Types</h3>
+                <div class="relationship-legend">
+                    <div class="legend-item">
+                        <div class="legend-line" style="background: #f85149;"></div>
+                        <span>CAUSES → Direct causation</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background: #58a6ff;"></div>
+                        <span>ENABLES → Creates conditions</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background: #3fb950;"></div>
+                        <span>SUPPORTS → Corroborates</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background: #d29922;"></div>
+                        <span>CORRELATES_WITH → Temporal</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background: #bc8cff;"></div>
+                        <span>CONTRADICTS → Conflicts</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background: #8b949e;"></div>
+                        <span>DOCUMENTS → Provides evidence</span>
+                    </div>
+                </div>
+                <div class="filter-group" id="relationshipFilters" style="margin-top: 15px;">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <h3>Event Categories</h3>
+                <div class="filter-group" id="categoryFilters">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <h3>Credibility</h3>
+                <div class="filter-group" id="credibilityFilters">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <h3>Date Range</h3>
+                <div class="filter-group">
+                    <input type="number" id="startYear" placeholder="Start Year" min="1940" max="2026" 
+                           style="width: 100%; padding: 8px; background: #0d1117; border: 1px solid #30363d; 
+                                  border-radius: 4px; color: #c9d1d9; margin-bottom: 8px;">
+                    <input type="number" id="endYear" placeholder="End Year" min="1940" max="2026"
+                           style="width: 100%; padding: 8px; background: #0d1117; border: 1px solid #30363d; 
+                                  border-radius: 4px; color: #c9d1d9;">
+                </div>
+            </div>
+        </div>
+
+        <div class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar()"></div>
+
+        <div id="network"></div>
+
+        <div class="network-controls">
+            <button class="control-button" onclick="resetZoom()">🔍 Reset Zoom</button>
+            <button class="control-button" onclick="fitNetwork()">📐 Fit Network</button>
+            <button class="control-button" onclick="togglePhysics()">⚡ Toggle Physics</button>
+            <button class="control-button" onclick="exportGraph()">💾 Export Data</button>
+        </div>
+
+        <div class="event-details" id="eventDetails">
+            <div class="close-details" onclick="closeDetails()">✕</div>
+            <div id="detailsContent"></div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="loading-spinner"></div>
+            <div>Loading network data...</div>
+        </div>
+    </div>
+
+    <script>
+        let network;
+        let nodes;
+        let edges;
+        let allNodes = [];
+        let allEdges = [];
+        let physicsEnabled = true;
+
+        // Relationship type colors
+        const relationshipColors = {
+            'CAUSES': '#f85149',
+            'ENABLES': '#58a6ff',
+            'SUPPORTS': '#3fb950',
+            'CORRELATES_WITH': '#d29922',
+            'CONTRADICTS': '#bc8cff',
+            'DOCUMENTS': '#8b949e',
+            'RESPONDS_TO': '#58a6ff',
+            'PRECEDES': '#8b949e',
+            'FOLLOWS': '#8b949e',
+            'INCLUDES': '#8b949e',
+            'PROVIDES': '#3fb950',
+            'DEMONSTRATES': '#3fb950',
+            'EVIDENCES': '#3fb950',
+            'VALIDATES': '#3fb950',
+            'CITES': '#8b949e',
+            'REFERENCES': '#8b949e',
+            'PART_OF': '#8b949e'
+        };
+
+        // Category colors for nodes
+        const categoryColors = {
+            'FOIA_Release': '#58a6ff',
+            'Whistleblower': '#f85149',
+            'Congressional_Hearing': '#d29922',
+            'Military_Encounter': '#3fb950',
+            'Scientific_Study': '#bc8cff',
+            'International': '#ff7b72',
+            'Legislation': '#ffa657',
+            'Default': '#8b949e'
+        };
+
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.classList.toggle('collapsed');
+        }
+
+        function closeDetails() {
+            document.getElementById('eventDetails').classList.remove('visible');
+        }
+
+        async function loadChronologyData() {
+            try {
+                const response = await fetch('dist/chronology.md');
+                const text = await response.text();
+                return parseChronology(text);
+            } catch (error) {
+                console.error('Error loading chronology:', error);
+                return { nodes: [], edges: [] };
+            }
+        }
+
+        function parseChronology(markdown) {
+            const events = [];
+            const relationships = [];
+            const lines = markdown.split('\n');
+            
+            let currentEvent = null;
+            let inRelatedEvents = false;
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                
+                // Parse event headers (## YYYY, Month DD - Title)
+                if (line.startsWith('## ') && line.match(/\d{4}/)) {
+                    if (currentEvent) {
+                        events.push(currentEvent);
+                    }
+                    
+                    const dateMatch = line.match(/##\s*(\d{4}(?:,\s*\w+\s*\d+)?(?:-\d+)?)/);
+                    const titleMatch = line.match(/##\s*\d{4}[^-]*-\s*(.+?)(?:#|$)/);
+                    
+                    currentEvent = {
+                        id: events.length,
+                        date: dateMatch ? dateMatch[1] : 'Unknown',
+                        title: titleMatch ? titleMatch[1].trim() : 'Untitled Event',
+                        description: '',
+                        credibility: null,
+                        eventType: null,
+                        agencies: [],
+                        relationships: []
+                    };
+                    inRelatedEvents = false;
+                }
+                
+                // Parse metadata
+                if (currentEvent) {
+                    if (line.startsWith('**Credibility**:')) {
+                        const credMatch = line.match(/(\d)\/5/);
+                        if (credMatch) {
+                            currentEvent.credibility = parseInt(credMatch[1]);
+                        }
+                    }
+                    
+                    if (line.startsWith('**Event Type**:')) {
+                        currentEvent.eventType = line.replace('**Event Type**:', '').trim();
+                    }
+                    
+                    if (line.startsWith('**Agencies**:')) {
+                        currentEvent.agencies = line.replace('**Agencies**:', '').split(',').map(a => a.trim());
+                    }
+                    
+                    // Parse relationships
+                    if (line.startsWith('**Related Events**:')) {
+                        inRelatedEvents = true;
+                    }
+                    
+                    if (inRelatedEvents && line.startsWith('- ')) {
+                        const relMatch = line.match(/^-\s*([A-Z_]+)\s*→\s*(.+?)\s*\(evidence:/);
+                        if (relMatch) {
+                            currentEvent.relationships.push({
+                                type: relMatch[1],
+                                target: relMatch[2].trim()
+                            });
+                        }
+                    }
+                    
+                    // Collect description
+                    if (!line.startsWith('**') && !line.startsWith('#') && !line.startsWith('-') && 
+                        !line.startsWith('[') && line.length > 0 && !inRelatedEvents) {
+                        currentEvent.description += line + ' ';
+                    }
+                }
+            }
+            
+            if (currentEvent) {
+                events.push(currentEvent);
+            }
+            
+            // Build relationship edges
+            events.forEach((event, index) => {
+                event.relationships.forEach(rel => {
+                    // Find target event by matching title
+                    const targetEvent = events.find(e => 
+                        rel.target.toLowerCase().includes(e.title.toLowerCase().substring(0, 20)) ||
+                        e.title.toLowerCase().includes(rel.target.toLowerCase().substring(0, 20))
+                    );
+                    
+                    if (targetEvent) {
+                        relationships.push({
+                            from: index,
+                            to: targetEvent.id,
+                            type: rel.type,
+                            label: rel.type.replace(/_/g, ' ')
+                        });
+                    }
+                });
+            });
+            
+            return { nodes: events, edges: relationships };
+        }
+
+        function initializeNetwork(data) {
+            allNodes = data.nodes;
+            allEdges = data.edges;
+            
+            // Create vis.js nodes
+            const visNodes = allNodes.map(node => {
+                const category = node.eventType ? node.eventType.split(',')[0].trim() : 'Default';
+                const color = categoryColors[category] || categoryColors.Default;
+                
+                // Calculate node size based on number of connections (degree centrality)
+                const degree = allEdges.filter(e => e.from === node.id || e.to === node.id).length;
+                const size = Math.max(15, Math.min(50, 15 + degree * 3));
+                
+                return {
+                    id: node.id,
+                    label: node.title.substring(0, 30) + (node.title.length > 30 ? '...' : ''),
+                    title: `${node.title}\n${node.date}\nConnections: ${degree}`,
+                    color: {
+                        background: color,
+                        border: '#30363d',
+                        highlight: {
+                            background: color,
+                            border: '#58a6ff'
+                        }
+                    },
+                    size: size,
+                    font: {
+                        color: '#c9d1d9',
+                        size: 12
+                    },
+                    data: node
+                };
+            });
+            
+            // Create vis.js edges
+            const visEdges = allEdges.map(edge => {
+                const color = relationshipColors[edge.type] || '#8b949e';
+                return {
+                    from: edge.from,
+                    to: edge.to,
+                    label: edge.label,
+                    color: {
+                        color: color,
+                        highlight: '#58a6ff'
+                    },
+                    arrows: {
+                        to: {
+                            enabled: true,
+                            scaleFactor: 0.5
+                        }
+                    },
+                    font: {
+                        color: '#8b949e',
+                        size: 10,
+                        align: 'middle'
+                    },
+                    smooth: {
+                        type: 'curvedCW',
+                        roundness: 0.2
+                    },
+                    data: edge
+                };
+            });
+            
+            nodes = new vis.DataSet(visNodes);
+            edges = new vis.DataSet(visEdges);
+            
+            const container = document.getElementById('network');
+            const networkData = { nodes: nodes, edges: edges };
+            
+            const options = {
+                physics: {
+                    enabled: true,
+                    solver: 'forceAtlas2Based',
+                    forceAtlas2Based: {
+                        gravitationalConstant: -50,
+                        centralGravity: 0.01,
+                        springLength: 200,
+                        springConstant: 0.08,
+                        damping: 0.4,
+                        avoidOverlap: 0.5
+                    },
+                    stabilization: {
+                        iterations: 150,
+                        updateInterval: 25
+                    }
+                },
+                interaction: {
+                    hover: true,
+                    tooltipDelay: 200,
+                    zoomView: true,
+                    dragView: true
+                },
+                layout: {
+                    improvedLayout: true,
+                    hierarchical: false
+                }
+            };
+            
+            network = new vis.Network(container, networkData, options);
+            
+            // Event handlers
+            network.on('click', function(params) {
+                if (params.nodes.length > 0) {
+                    showEventDetails(params.nodes[0]);
+                }
+            });
+            
+            network.on('stabilizationIterationsDone', function() {
+                document.getElementById('loading').style.display = 'none';
+            });
+            
+            updateStats();
+            populateFilters();
+        }
+
+        function showEventDetails(nodeId) {
+            const node = allNodes.find(n => n.id === nodeId);
+            if (!node) return;
+            
+            const detailsDiv = document.getElementById('detailsContent');
+            const relatedEdges = allEdges.filter(e => e.from === nodeId || e.to === nodeId);
+            
+            let html = `
+                <h3>${node.title}</h3>
+                <div class="date">${node.date}</div>
+                <div class="description">${node.description.substring(0, 300)}${node.description.length > 300 ? '...' : ''}</div>
+                <div class="metadata">
+                    ${node.credibility ? `<div class="metadata-item"><span class="metadata-label">Credibility:</span><span class="metadata-value">${node.credibility}/5</span></div>` : ''}
+                    ${node.eventType ? `<div class="metadata-item"><span class="metadata-label">Type:</span><span class="metadata-value">${node.eventType.split(',')[0]}</span></div>` : ''}
+                    <div class="metadata-item"><span class="metadata-label">Connections:</span><span class="metadata-value">${relatedEdges.length}</span></div>
+                </div>
+            `;
+            
+            if (relatedEdges.length > 0) {
+                html += '<div style="margin-top: 15px; font-size: 12px; color: #8b949e;">Relationships:</div>';
+                html += '<div style="margin-top: 5px;">';
+                relatedEdges.slice(0, 5).forEach(edge => {
+                    const targetNode = allNodes.find(n => n.id === (edge.from === nodeId ? edge.to : edge.from));
+                    if (targetNode) {
+                        html += `<div style="font-size: 11px; margin: 3px 0; color: #c9d1d9;">
+                            <span style="color: ${relationshipColors[edge.type] || '#8b949e'}">${edge.type}</span> → ${targetNode.title.substring(0, 40)}
+                        </div>`;
+                    }
+                });
+                if (relatedEdges.length > 5) {
+                    html += `<div style="font-size: 11px; color: #8b949e; margin-top: 5px;">...and ${relatedEdges.length - 5} more</div>`;
+                }
+                html += '</div>';
+            }
+            
+            detailsDiv.innerHTML = html;
+            document.getElementById('eventDetails').classList.add('visible');
+        }
+
+        function populateFilters() {
+            // Relationship filters
+            const relationshipTypes = [...new Set(allEdges.map(e => e.type))].sort();
+            const relFilters = document.getElementById('relationshipFilters');
+            relationshipTypes.forEach(type => {
+                const div = document.createElement('div');
+                div.className = 'filter-item';
+                div.innerHTML = `
+                    <input type="checkbox" id="rel_${type}" checked onchange="applyFilters()">
+                    <label for="rel_${type}">${type.replace(/_/g, ' ')}</label>
+                `;
+                relFilters.appendChild(div);
+            });
+            
+            // Category filters
+            const categories = [...new Set(allNodes.map(n => n.eventType ? n.eventType.split(',')[0].trim() : 'Unknown'))].sort();
+            const catFilters = document.getElementById('categoryFilters');
+            categories.forEach(cat => {
+                const div = document.createElement('div');
+                div.className = 'filter-item';
+                div.innerHTML = `
+                    <input type="checkbox" id="cat_${cat}" checked onchange="applyFilters()">
+                    <label for="cat_${cat}">${cat}</label>
+                `;
+                catFilters.appendChild(div);
+            });
+            
+            // Credibility filters
+            const credFilters = document.getElementById('credibilityFilters');
+            for (let i = 1; i <= 5; i++) {
+                const div = document.createElement('div');
+                div.className = 'filter-item';
+                div.innerHTML = `
+                    <input type="checkbox" id="cred_${i}" checked onchange="applyFilters()">
+                    <label for="cred_${i}">${i}/5 ${'⭐'.repeat(i)}</label>
+                `;
+                credFilters.appendChild(div);
+            }
+            
+            // Date range listeners
+            document.getElementById('startYear').addEventListener('change', applyFilters);
+            document.getElementById('endYear').addEventListener('change', applyFilters);
+        }
+
+        function applyFilters() {
+            const startYear = parseInt(document.getElementById('startYear').value) || 1940;
+            const endYear = parseInt(document.getElementById('endYear').value) || 2026;
+            
+            // Get selected filters
+            const selectedRels = Array.from(document.querySelectorAll('#relationshipFilters input:checked')).map(cb => cb.id.replace('rel_', ''));
+            const selectedCats = Array.from(document.querySelectorAll('#categoryFilters input:checked')).map(cb => cb.id.replace('cat_', ''));
+            const selectedCreds = Array.from(document.querySelectorAll('#credibilityFilters input:checked')).map(cb => parseInt(cb.id.replace('cred_', '')));
+            
+            // Filter nodes
+            const filteredNodes = allNodes.filter(node => {
+                const year = parseInt(node.date.match(/\d{4}/)?.[0] || '0');
+                const category = node.eventType ? node.eventType.split(',')[0].trim() : 'Unknown';
+                const credibility = node.credibility || 0;
+                
+                return year >= startYear && year <= endYear &&
+                       selectedCats.includes(category) &&
+                       (credibility === 0 || selectedCreds.includes(credibility));
+            });
+            
+            const filteredNodeIds = new Set(filteredNodes.map(n => n.id));
+            
+            // Filter edges
+            const filteredEdges = allEdges.filter(edge => {
+                return selectedRels.includes(edge.type) &&
+                       filteredNodeIds.has(edge.from) &&
+                       filteredNodeIds.has(edge.to);
+            });
+            
+            // Update network
+            nodes.clear();
+            edges.clear();
+            
+            const visNodes = filteredNodes.map(node => {
+                const category = node.eventType ? node.eventType.split(',')[0].trim() : 'Default';
+                const color = categoryColors[category] || categoryColors.Default;
+                const degree = filteredEdges.filter(e => e.from === node.id || e.to === node.id).length;
+                const size = Math.max(15, Math.min(50, 15 + degree * 3));
+                
+                return {
+                    id: node.id,
+                    label: node.title.substring(0, 30) + (node.title.length > 30 ? '...' : ''),
+                    title: `${node.title}\n${node.date}\nConnections: ${degree}`,
+                    color: {
+                        background: color,
+                        border: '#30363d',
+                        highlight: {
+                            background: color,
+                            border: '#58a6ff'
+                        }
+                    },
+                    size: size,
+                    font: {
+                        color: '#c9d1d9',
+                        size: 12
+                    },
+                    data: node
+                };
+            });
+            
+            const visEdges = filteredEdges.map(edge => {
+                const color = relationshipColors[edge.type] || '#8b949e';
+                return {
+                    from: edge.from,
+                    to: edge.to,
+                    label: edge.label,
+                    color: {
+                        color: color,
+                        highlight: '#58a6ff'
+                    },
+                    arrows: {
+                        to: {
+                            enabled: true,
+                            scaleFactor: 0.5
+                        }
+                    },
+                    font: {
+                        color: '#8b949e',
+                        size: 10,
+                        align: 'middle'
+                    },
+                    smooth: {
+                        type: 'curvedCW',
+                        roundness: 0.2
+                    },
+                    data: edge
+                };
+            });
+            
+            nodes.add(visNodes);
+            edges.add(visEdges);
+            
+            updateStats();
+        }
+
+        function updateStats() {
+            document.getElementById('nodeCount').textContent = allNodes.length;
+            document.getElementById('edgeCount').textContent = allEdges.length;
+            document.getElementById('visibleNodes').textContent = nodes.length;
+            document.getElementById('visibleEdges').textContent = edges.length;
+        }
+
+        function resetZoom() {
+            network.fit();
+        }
+
+        function fitNetwork() {
+            network.fit({ animation: true });
+        }
+
+        function togglePhysics() {
+            physicsEnabled = !physicsEnabled;
+            network.setOptions({ physics: { enabled: physicsEnabled } });
+        }
+
+        function exportGraph() {
+            const data = {
+                nodes: allNodes,
+                edges: allEdges,
+                exportDate: new Date().toISOString()
+            };
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'uap-network-graph.json';
+            a.click();
+        }
+
+        // Initialize on load
+        window.addEventListener('load', async () => {
+            const data = await loadChronologyData();
+            initializeNetwork(data);
+        });
+    </script>
+</body>
+</html>
