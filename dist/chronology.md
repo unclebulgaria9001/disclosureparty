@@ -84,7 +84,7 @@ Senator Todd Young (R-IN) joins the UAP Disclosure Act, furthering a bipartisan 
 
 \
 
-## 2025, January 21 - 4chan egg leak/larper shared egg video and pictures #LeaksDeclass #Leak #ImageLeak #Reddit #PhotoEvidence #LARPing #CivilianSighting #International
+## 2025, January 21 - 4chan egg leak/larper shared egg video and pictures #LeaksDeclass #Leak #ImageLeak #Reddit #PhotoEvidence #LARPing #CivilianSighting #Antarctica
 
 **Links:**
 
