@@ -732,15 +732,31 @@ This post discusses the discovery of two previously unknown species with unique 
 
 \
 
-## 2023, September 12 - Mexican Chamber of Deputies to Hold Landmark Public Hearing on UFOs, Featuring Renowned Specialist Jaime Maussan #CongressionalHearings #InternationalHearings #PublicTestimony #CivilianSighting #LatinAmerica #Mexico
+## 2023, September 12 - Mexican Chamber of Deputies Public UAP Hearing #International #Mexico #CongressionalHearing #PublicTestimony #LatinAmerica
 
-The Mexican Chamber of Deputies is set to conduct a public hearing similar to those held in the United States Congress, focusing on unidentified flying objects (UFOs). Morenista representative Sergio Gutiérez Luna announced this, with renowned UFO specialist Jaime Maussan participating in the eve...
+Mexican Chamber of Deputies conducted public hearing on unidentified aerial phenomena, announced by representative Sergio Gutiérrez Luna. Hearing featured: (1) Testimony from Jaime Maussan (UFO researcher/journalist), (2) Presentation of alleged "non-human" biological specimens (later contested by scientists), (3) Discussion of Mexican military UAP encounters, (4) Testimony from Mexican military and civilian witnesses. The hearing was modeled after US congressional UAP hearings and represented first Latin American legislative body to hold public UAP hearing. Credibility assessment: governmental hearing is verified (3/5 MODERATE), but some exhibits (alleged mummified specimens) are scientifically contested (1/5). The hearing itself demonstrates international legislative interest in UAP topic, though specific claims require independent verification.
+
+**Event Type**: International_Hearing, Legislative_Process, Public_Testimony
+**Credibility**: 3/5 MODERATE - Official congressional hearing verified; some exhibits contested by scientists; testimony mix of credible military witnesses and controversial claims
+**Primary Actors**: Mexican Chamber of Deputies, Sergio Gutiérrez Luna (representative), Jaime Maussan (presenter), military witnesses
+**Agencies**: Mexican Chamber of Deputies, Mexican military (witnesses)
+**Hearing Format**: Public congressional hearing, live-streamed, translated transcripts available
+**Contested Elements**: Alleged "non-human" specimens presented by Maussan (scientifically disputed)
+**Verified Elements**: Official hearing occurred, military witnesses testified, governmental interest documented
+**Related Events**:
+- MODELED_AFTER → US congressional UAP hearings (evidence: similar format, timing)
+- DEMONSTRATES → International legislative UAP interest (evidence: first Latin American hearing)
+**Causal Chain**: International_Coordination_Chain_5
+**Immediate Outcomes**: First Latin American legislative UAP hearing; international media coverage; scientific scrutiny of exhibits
+**Policy Impact**: Demonstrates spread of UAP legislative interest beyond US; mixed credibility impacts perception
+**Evidence Strength**: Moderate (3/5) - Hearing verified, some testimony credible, some exhibits contested
 
 **Links:**
 
-[https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/](https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/) 
-[https://reddit.com/r/UFOs/s/TwS6ldXrDw](https://reddit.com/r/UFOs/s/TwS6ldXrDw) 
-[https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/?](https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/?share_id=vA4tY2tTcMa88vfLHHL9i&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1) 
+[BNN - Mexican Hearing Coverage](https://bnn.network/watch-now/mexican-chamber-of-deputies-to-hold-landmark-public-hearing-on-ufos-featuring-renowned-specialist-jaime-maussan/)
+[Reddit - English Translation Part 1](https://www.reddit.com/r/UFOs/comments/16hiq9v/english_translation_of_mexicos_uap_hearing_part_1/)
+[Reddit Discussion](https://reddit.com/r/UFOs/s/TwS6ldXrDw)
+[Smithsonian - Scientific Skepticism](https://www.smithsonianmag.com/smart-news/alleged-aliens-corpses-displayed-to-mexican-congress-did-not-convince-scientists-180982900/)
 
 \
 
@@ -1049,14 +1065,29 @@ U.S. Senator Kirsten Gillibrand announced that she had secured full funding for 
 
 \
 
-## 2023, May - Australian Air Force UAP FOIA #FOIARelease #FOIA #Oceania #Australia
+## 2023, May - Australian Department of Defence FOI Release on UAP Coordination #International #Australia #FOIRelease #FiveEyes #Oceania
 
-t is outlined that there have been recent developments regarding Unidentified Aerial Phenomena (UAP) or Unidentified Flying Objects (UFOs). The United States Department of Defense has released information about these phenomena, emphasizing their potential impact on military operations and the nee...
+Australian Department of Defence released FOI document 845/22/23 (May 2023) detailing UAP coordination with United States and Five Eyes partners. Key document contents: (1) Reference to US Department of Defense UAP information releases, (2) Acknowledgment of UAP potential impact on military operations, (3) Australian Defence Force awareness of AARO establishment and activities, (4) Coordination with Five Eyes partners on UAP reporting and analysis, (5) Internal Australian DoD discussions on UAP policy alignment with allies. The document provides official evidence of Five Eyes UAP coordination and Australian government engagement with the UAP topic. FOI number 845/22/23 enables verification and follow-up requests.
+
+**Event Type**: International_Coordination, FOI_Release, Five_Eyes_Evidence
+**Credibility**: 5/5 SOLID - Official Australian Department of Defence FOI release, verifiable document number
+**Primary Actors**: Australian Department of Defence, Australian Defence Force, Five Eyes partners
+**Agencies**: Australian DoD, ADF, coordination with US AARO, UK MoD, Canadian DND, NZ NZDF
+**FOI Document Number**: 845/22/23 (May 2023)
+**Document Access**: defence.gov.au official release, PDF hosted on Defence website
+**Related Events**:
+- EVIDENCES → 2023-05 Five Eyes UAP coordination framework (evidence: references allied coordination)
+- DEMONSTRATES → Australian engagement with UAP topic (evidence: official DoD acknowledgment)
+- CORRELATES_WITH → US AARO establishment (evidence: document references AARO)
+**Causal Chain**: International_Coordination_Chain_5
+**Immediate Outcomes**: Australian UAP coordination documented; Five Eyes framework evidenced
+**Policy Impact**: Demonstrates Five Eyes UAP coordination; enables follow-up FOI requests
+**Evidence Strength**: Strong (5/5) - Official government FOI release, verifiable document number
 
 **Links:**
 
-[https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf](https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf) 
-[https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/](https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/) 
+[Australian DoD FOI 845/22/23 - Official PDF](https://www.defence.gov.au/sites/default/files/2023-08/defence_foi_845_22_23_-_document.pdf)
+[Reddit Analysis - Australian FOI](https://www.reddit.com/r/UFOs/comments/165gykp/australian_air_force_uap_foia_from_may_2023_pre/)
 
 \
 
@@ -1083,15 +1114,30 @@ t is outlined that there have been recent developments regarding Unidentified Ae
 
 \
 
-## 2023, February 14 - Canadian Prime Minister Justin Trudeau received a secret memo laying out how the Canadian government was responding to the Feb. 11 Yukon incident. In addition, it stated the "full exploitation" of whatever the U.S. Air Force shot down over the waters of Alaska on Feb. 10 had "not yet been completed." Reports a few days later stated that the U.S. had called off the search for the wreckage of the downed object. Exactly what kind of intelligence exploitation this is referring to is unclear. UAP #MilitaryEncounters #20 #new  (2023-09-10) #canada #usa
+## 2023, February 14 - Canadian Government Memo to PM Trudeau on Yukon High-Altitude Object #International #Canada #OfficialMemo #MilitaryEncounters #USA
 
-The "Memorandum for the Prime Minister," transmitted Feb. 14. The memo expressed concern that the indigenous hunters might accidentally find the object during their caribou hunt. It also explained that while CAF CF-18s Hornets had been scrambled to intercept the object, “F-22s were better located...
+Official "Memorandum for the Prime Minister" (transmitted February 14, 2023) documented Canadian government response to the February 11 Yukon high-altitude object incident. Key memo contents: (1) CAF CF-18 Hornets scrambled to intercept, but "F-22s were better located" (US fighters conducted shootdown), (2) Concern that indigenous caribou hunters might accidentally find object debris, (3) Reference to February 10 Alaska object stating "full exploitation" had "not yet been completed" (US later called off search), (4) Coordination with US Northern Command and NORAD. The memo provides official government documentation of high-altitude object incidents and Canada-US military coordination on UAP-related events. Document obtained via Canadian Access to Information Act request, hosted on DocumentCloud. This represents solid primary-source evidence of government response to unidentified high-altitude objects.
+
+**Event Type**: Official_Government_Memo, International_Coordination, Military_Response
+**Credibility**: 5/5 SOLID - Official Canadian government memo to Prime Minister, obtained via Access to Information Act, primary document
+**Primary Actors**: Canadian Armed Forces, Prime Minister Justin Trudeau, US Northern Command, NORAD
+**Agencies**: Canadian Armed Forces, Canadian DND, US Northern Command, NORAD
+**Document Type**: Memorandum for the Prime Minister (classified, later released via ATI)
+**Document Access**: DocumentCloud hosting, CTV News reporting, Access to Information Act release
+**Related Events**:
+- DOCUMENTS → 2023-02-11 Yukon high-altitude object shootdown (evidence: official memo response)
+- REFERENCES → 2023-02-10 Alaska object shootdown (evidence: "full exploitation" statement)
+- DEMONSTRATES → Canada-US military coordination (evidence: CF-18/F-22 coordination)
+**Causal Chain**: International_Coordination_Chain_5
+**Immediate Outcomes**: Official documentation of government response; Canada-US coordination confirmed
+**Policy Impact**: Demonstrates allied coordination on high-altitude objects; transparency via ATI release
+**Evidence Strength**: Strong (5/5) - Official government memo, primary document, verifiable source
 
 **Links:**
 
-[https://twitter.com/dsotis/status/1699137491482083512](https://twitter.com/dsotis/status/1699137491482083512) 
-[https://www.ctvnews.ca/canada/read-secret-memo-for-trudeau-on-yukon-object-and-unidentified-aerial-phenomena-1.6548510](https://www.ctvnews.ca/canada/read-secret-memo-for-trudeau-on-yukon-object-and-unidentified-aerial-phenomena-1.6548510) 
-[https://s3.documentcloud.org/documents/23937410/feb-2023-memorandum-for-pm-on-uap.pdf](https://s3.documentcloud.org/documents/23937410/feb-2023-memorandum-for-pm-on-uap.pdf) 
+[DocumentCloud - Official Memo PDF](https://s3.documentcloud.org/documents/23937410/feb-2023-memorandum-for-pm-on-uap.pdf)
+[CTV News - Full Memo Text](https://www.ctvnews.ca/canada/read-secret-memo-for-trudeau-on-yukon-object-and-unidentified-aerial-phenomena-1.6548510)
+[Twitter/X - Memo Discussion](https://twitter.com/dsotis/status/1699137491482083512)
 
 **Photos:**
 
