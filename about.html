@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - UAP/UFO/NHI Disclosure Database</title>
+    
+    <meta name="description" content="About the UAP/UFO/NHI Disclosure Database - Contact information, submission guidelines, and how to contribute to the project.">
+    <meta name="robots" content="index, follow">
+    
+    <link rel="manifest" href="manifest.json?v=20260103">
+    <meta name="theme-color" content="#58a6ff">
+    <link rel="stylesheet" href="i18n/language-switcher.css">
+    <script src="i18n/translations.js"></script>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Share Tech Mono', 'Courier New', monospace;
+            background: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+        }
+        
+        header {
+            background: #161b22;
+            border-bottom: 1px solid #30363d;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            color: #58a6ff;
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #8b949e;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .nav-links a {
+            color: #58a6ff;
+            text-decoration: none;
+            padding: 8px 16px;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+        
+        .nav-links a:hover {
+            background: #1c2128;
+            border-color: #58a6ff;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        
+        .section {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        
+        h2 {
+            color: #58a6ff;
+            font-size: 1.4em;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 10px;
+        }
+        
+        h3 {
+            color: #58a6ff;
+            font-size: 1.1em;
+            margin: 20px 0 10px 0;
+        }
+        
+        p {
+            color: #8b949e;
+            margin-bottom: 15px;
+        }
+        
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        ul li {
+            color: #8b949e;
+            margin-bottom: 10px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        ul li:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #58a6ff;
+        }
+        
+        .contact-box {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .contact-box a {
+            color: #58a6ff;
+            text-decoration: none;
+            font-size: 1.1em;
+        }
+        
+        .contact-box a:hover {
+            text-decoration: underline;
+        }
+        
+        .button {
+            display: inline-block;
+            background: #238636;
+            color: #ffffff;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin: 10px 10px 10px 0;
+            transition: all 0.2s;
+            border: 1px solid #2ea043;
+        }
+        
+        .button:hover {
+            background: #2ea043;
+        }
+        
+        .button-secondary {
+            background: #21262d;
+            color: #58a6ff;
+            border: 1px solid #30363d;
+        }
+        
+        .button-secondary:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .stat-card {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            color: #58a6ff;
+            font-size: 2em;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            color: #8b949e;
+            font-size: 0.85em;
+            margin-top: 5px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #8b949e;
+            font-size: 0.85em;
+            border-top: 1px solid #30363d;
+            margin-top: 40px;
+        }
+        
+        footer a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.4em;
+            }
+            
+            .section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🛸 UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+        <p class="subtitle">About This Project</p>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="timeline.html">Timeline Viewer</a>
+            <a href="viewer.html#contact">NHI Message</a>
+            <a href="about.html">About</a>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="section">
+            <h2>📖 About the Project</h2>
+            <p>
+                The UAP/UFO/NHI Disclosure Database is a comprehensive, community-driven resource documenting 
+                unidentified aerial phenomena, non-human intelligence encounters, government disclosures, and 
+                humanity's attempts to communicate with potential extraterrestrial intelligence.
+            </p>
+            <p>
+                This project began as a personal chronology and has evolved into an interactive database featuring 
+                over 1,000 documented events spanning from ancient times to the present day. The database includes 
+                government hearings, FOIA releases, military encounters, whistleblower testimony, scientific studies, 
+                and historical sightings.
+            </p>
+            
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number">1000+</div>
+                    <div class="stat-label">Documented Events</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">16</div>
+                    <div class="stat-label">Category Tags</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">12</div>
+                    <div class="stat-label">Geographic Regions</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">15+</div>
+                    <div class="stat-label">Languages</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🤝 How to Contribute</h2>
+            <p>
+                We welcome contributions from the community! You can help improve this database by submitting 
+                new events, corrections, or feature requests.
+            </p>
+            
+            <h3>Submit New Events</h3>
+            <p>
+                Have a UAP/UFO/NHI event that should be included? Submit it via our GitHub Issues template. 
+                Please include:
+            </p>
+            <ul>
+                <li>Date and location of the event</li>
+                <li>Detailed description with context</li>
+                <li>Primary and secondary sources (links to official documents, news articles, etc.)</li>
+                <li>Relevant category and geographic tags</li>
+                <li>Images or videos (if available)</li>
+            </ul>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=new-event.md" class="button">Submit New Event</a>
+            
+            <h3>Report Corrections</h3>
+            <p>
+                Found an error or have updated information? Let us know so we can keep the database accurate.
+            </p>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=correction.md" class="button button-secondary">Submit Correction</a>
+            
+            <h3>Request Features</h3>
+            <p>
+                Have ideas for new features or improvements? We'd love to hear your suggestions.
+            </p>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=feature-request.md" class="button button-secondary">Request Feature</a>
+            
+            <h3>Contribution Guidelines</h3>
+            <p>
+                For detailed information on how to format entries, use tags, and follow our submission process, 
+                please review our comprehensive guides:
+            </p>
+            <ul>
+                <li><a href="https://github.com/unclebulgaria9001/disclosureparty/blob/main/CHRONOLOGY_GUIDE.md" target="_blank">Chronology Entry Guide</a> - Complete formatting and tagging instructions</li>
+                <li><a href="https://github.com/unclebulgaria9001/disclosureparty/blob/main/CONTRIBUTING.md" target="_blank">Contributing Guidelines</a> - Submission process and quality standards</li>
+                <li><a href="https://github.com/unclebulgaria9001/disclosureparty/blob/main/README.md" target="_blank">README</a> - Full project documentation</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>📧 Contact</h2>
+            <p>
+                For questions, suggestions, or general inquiries about the project:
+            </p>
+            
+            <div class="contact-box">
+                <p><strong>GitHub Repository:</strong></p>
+                <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">
+                    github.com/unclebulgaria9001/disclosureparty
+                </a>
+            </div>
+            
+            <div class="contact-box">
+                <p><strong>GitHub Issues:</strong></p>
+                <a href="https://github.com/unclebulgaria9001/disclosureparty/issues" target="_blank">
+                    Submit issues, questions, or suggestions
+                </a>
+            </div>
+            
+            <div class="contact-box">
+                <p><strong>Email:</strong></p>
+                <a href="mailto:uncle.bulgaria9001@gmail.com">
+                    uncle.bulgaria9001@gmail.com
+                </a>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🔧 Technical Details</h2>
+            <p>
+                This project is built with modern web technologies and designed to be fast, accessible, and 
+                work offline as a Progressive Web App (PWA).
+            </p>
+            
+            <h3>Technology Stack</h3>
+            <ul>
+                <li><strong>Frontend:</strong> Vanilla JavaScript, HTML5, CSS3</li>
+                <li><strong>Visualization:</strong> D3.js for timeline, Leaflet.js for maps</li>
+                <li><strong>Data Format:</strong> Markdown (chronology.md)</li>
+                <li><strong>Hosting:</strong> GitHub Pages</li>
+                <li><strong>Internationalization:</strong> Custom i18n system supporting 15+ languages</li>
+                <li><strong>PWA:</strong> Service worker for offline functionality</li>
+            </ul>
+            
+            <h3>Features</h3>
+            <ul>
+                <li>Interactive D3.js timeline with zoom and pan</li>
+                <li>Leaflet.js world map with clustered markers</li>
+                <li>Detailed chronology list view with markdown rendering</li>
+                <li>Advanced filtering by time period, category, and geography</li>
+                <li>Multilingual support (15+ languages including binary and Morse code)</li>
+                <li>Progressive Web App with offline support</li>
+                <li>Responsive design for mobile and desktop</li>
+                <li>Dark theme optimized for readability</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>📜 License & Attribution</h2>
+            <p>
+                This project is released under the <strong>CC0 1.0 Universal (Public Domain)</strong> license. 
+                You are free to use, modify, and distribute this work for any purpose without restriction.
+            </p>
+            <p>
+                While not required, attribution is appreciated if you use this data or code in your own projects.
+            </p>
+            
+            <h3>Data Sources</h3>
+            <p>
+                Events in this database are compiled from various public sources including:
+            </p>
+            <ul>
+                <li>Official government documents and FOIA releases</li>
+                <li>Congressional hearing transcripts</li>
+                <li>Scientific publications and research papers</li>
+                <li>News articles and investigative journalism</li>
+                <li>Whistleblower testimony and interviews</li>
+                <li>Historical records and archives</li>
+            </ul>
+            <p>
+                Each entry includes source links for verification and further research.
+            </p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>UAP/UFO/NHI Disclosure Database</p>
+        <p>Open Source • Public Domain (CC0 1.0 Universal)</p>
+        <p>
+            <a href="https://github.com/unclebulgaria9001/disclosureparty">GitHub</a> • 
+            <a href="index.html">Home</a> • 
+            <a href="about.html">About</a>
+        </p>
+    </footer>
+</body>
+</html>
