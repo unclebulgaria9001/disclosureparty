@@ -1895,7 +1895,18 @@ This incident is widely considered the first well-publicized report of an alien 
 
 \
 
-## 1960, June 22 - Former CIA director Adm. R. H. Hillenkoetter states in a newspaper that UAP flying saucers are “operating under intelligence control,” and they’re not U.S. or Russian. Hillenkoetter states the Air Force is not telling U.S. citizens the truth about UAP. #news #new (2023-08-11) #USA
+## 1959, December 1 - Antarctic Treaty Signed #LegislationPolicy #International #Antarctica
+
+The Antarctic Treaty was signed in Washington on December 1, 1959, by twelve countries and entered into force on June 23, 1961. The treaty establishes Antarctica as a scientific preserve, prohibits military activity on the continent, and bans nuclear explosions and disposal of radioactive waste. The treaty designates Antarctica as a zone free of nuclear tests and the disposal of radioactive waste, and ensures that the continent is used exclusively for peaceful purposes. Article I prohibits any measures of a military nature, including the establishment of military bases and fortifications, military maneuvers, and weapons testing. The treaty has been signed by 54 nations representing about two-thirds of the world's population. Some researchers have speculated that the treaty's strict regulations may serve to protect sensitive sites or discoveries, though official documentation emphasizes scientific cooperation and environmental protection.
+
+**Links:**
+
+[Antarctic Treaty Secretariat](https://www.ats.aq/e/antarctictreaty.html)
+[National Science Foundation - Antarctic Treaty](https://www.nsf.gov/geo/opp/antarct/anttrty.jsp)
+
+\
+
+## 1960, June 22 - Former CIA director Adm. R. H. Hillenkoetter states in a newspaper that UAP flying saucers are "operating under intelligence control," and they're not U.S. or Russian. Hillenkoetter states the Air Force is not telling U.S. citizens the truth about UAP. #news #new (2023-08-11) #USA
 
 The National Investigations Committee On Aerial Phenomena was formed in 1956, with the organization's corporate charter being approved October 24.\[15\] Hillenkoetter was on NICAP's board of governors from about 1957 until 1962.\[16\] Donald E. Keyhoe, NICAP director and Hillenkoetter's Naval Aca...
 
@@ -1966,7 +1977,18 @@ NICAP was a non-profit organization and faced financial collapse many times in i
 
 \
 
-## 1955 - A 1955 memo has recently been further declassified by the Central Intelligence Agency (CIA), chronicling a unique event: the sighting of a “saucer-like” craft by a former U.S. Senator #FOIA#Europe
+## 1955 - Operation Deep Freeze Begins #MilitaryEncounters #Antarctica #USA
+
+Operation Deep Freeze, the codename for a series of United States missions to Antarctica, began in 1955 and continues to the present day. Initially established to support the International Geophysical Year (1957-1958), the operation provides military logistical support for the National Science Foundation's United States Antarctic Program. The operation maintains year-round research stations and conducts extensive scientific research across the continent. The continuous military presence and classified aspects of certain operations have led to speculation about undisclosed activities in Antarctica. Operation Deep Freeze has been instrumental in establishing and maintaining U.S. research facilities including McMurdo Station, Amundsen-Scott South Pole Station, and Palmer Station.
+
+**Links:**
+
+[U.S. Navy - Operation Deep Freeze](https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169795/operation-deep-freeze/)
+[National Science Foundation - U.S. Antarctic Program](https://www.nsf.gov/geo/opp/antarct/)
+
+\
+
+## 1955 - A 1955 memo has recently been further declassified by the Central Intelligence Agency (CIA), chronicling a unique event: the sighting of a "saucer-like" craft by a former U.S. Senator #FOIA#Europe
 
 A recently further declassified 1955 CIA memo highlights a remarkable event during the Cold War involving former U.S. Senator Richard B. Russell's sighting of a "saucer-like" craft in Russia. The memo, authored by Herbert Scoville Jr., details an interview with Russell on October 27, 1955, during...
 
@@ -2176,6 +2198,28 @@ Civilian pilot Kenneth Arnold. While flying his small aircraft near Washington's
 **Links:**
 
 [https://www.history.com/news/historys-most-infamous-ufo-sightings](https://www.history.com/news/historys-most-infamous-ufo-sightings)
+
+\
+
+## 1947, February - Operation Highjump Concludes Early #MilitaryEncounters #HistoricalPreModern #Antarctica #USA
+
+Operation Highjump, officially designated as the United States Navy Antarctic Developments Program, was a large-scale Antarctic expedition led by Admiral Richard E. Byrd. Launched in August 1946, the operation involved 4,700 personnel, 13 ships, and 33 aircraft, making it the largest Antarctic expedition to date. The mission was scheduled to last 6-8 months but was abruptly terminated in February 1947 after only 8 weeks of operations. Official explanations cited weather conditions and equipment failures, but the sudden termination sparked decades of speculation. The expedition included three task forces conducting extensive aerial photography and mapping, and established Little America IV base. Several aircraft were lost during the operation, officially attributed to harsh weather conditions. The expedition's early termination and subsequent secrecy surrounding certain aspects of the mission have made it a subject of ongoing interest in UAP research communities.
+
+**Links:**
+
+[Naval History and Heritage Command - Operation Highjump](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/o/operation-highjump.html)
+[National Science Foundation - Antarctic History](https://www.nsf.gov/geo/opp/antarct/history.jsp)
+
+\
+
+## 1947, March - Admiral Byrd Post-Expedition Statements #WhistleblowerDisclosures #MilitaryEncounters #HistoricalPreModern #Antarctica #USA
+
+Following the early termination of Operation Highjump in February 1947, Admiral Richard E. Byrd allegedly made statements during press conferences and interviews warning about potential threats from polar regions. According to various accounts, Byrd stated that the United States should prepare for the possibility of aircraft that "can fly from pole to pole at incredible speeds." While the exact wording and context of these statements remain disputed, they have become central to speculation about what was encountered during the Antarctic expedition. Official records indicate Byrd continued to advocate for Antarctic research and exploration throughout his career, though specific details about Operation Highjump's early termination remained classified for decades.
+
+**Links:**
+
+[Naval History and Heritage Command](https://www.history.navy.mil/)
+[National Science Foundation - Antarctic History](https://www.nsf.gov/geo/opp/antarct/history.jsp)
 
 \
 
