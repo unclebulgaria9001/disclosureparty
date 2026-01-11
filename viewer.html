@@ -465,7 +465,7 @@
         
         <div class="tabs">
             <div class="tab" onclick="window.location.href='viewer.html#contact'" data-i18n="requestContact">📡 NHI MESSAGE</div>
-            <div class="tab active" onclick="window.location.href='viewer.html'" data-i18n="chronology">📋 CHRONOLOGY</div>
+            <div class="tab" onclick="window.location.href='timeline.html#chronology'" data-i18n="chronology">📋 CHRONOLOGY</div>
             <div class="tab" onclick="window.location.href='timeline.html'" data-i18n="timelineViz">📊 TIMELINE VIZ</div>
             <div class="tab" onclick="window.location.href='network-graph.html'" data-i18n="networkGraph">🕸️ NETWORK GRAPH</div>
             <div class="tab" onclick="window.location.href='timeline.html#map'" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
@@ -1319,10 +1319,9 @@
             const hash = window.location.hash.substring(1); // Remove #
             const [tab, queryString] = hash.split('?');
             
-            // Load chronology view with filters
+            // Redirect chronology to timeline with chronology view
             if (tab === 'chronology') {
-                currentDoc = 'chronology';
-                loadDocument();
+                window.location.href = 'timeline.html#chronology';
                 return;
             }
             
@@ -1428,9 +1427,7 @@
         if (window.location.hash) {
             handleUrlParams();
         } else {
-            // Default to chronology view with filters instead of index
-            currentDoc = 'chronology';
-            loadDocument();
+            showIndex();
         }
         
         // Listen for hash changes

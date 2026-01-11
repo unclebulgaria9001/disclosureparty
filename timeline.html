@@ -837,8 +837,8 @@
         
         <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
             <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="index">📡 NHI MESSAGE</div>
-            <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="chronology">📋 CHRONOLOGY</div>
-            <div class="tab active" onclick="showTimelineView()" data-i18n="timelineViz">📊 TIMELINE VIZ</div>
+            <div class="tab" onclick="window.location.hash='chronology'" data-i18n="chronology">📋 CHRONOLOGY</div>
+            <div class="tab active" onclick="window.location.hash=''" data-i18n="timelineViz">📊 TIMELINE VIZ</div>
             <div class="tab" onclick="window.location.href='network-graph.html'" data-i18n="networkGraph">🕸️ NETWORK GRAPH</div>
             <div class="tab" onclick="showMapView()" data-i18n="geoTimeline">🗺️ GEOTIMELINE</div>
             <div class="tab" onclick="window.location.href='about.html'" data-i18n="about">ℹ️ ABOUT</div>
@@ -3422,6 +3422,28 @@
         // Initialize language switcher
         document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
         updatePageLanguage();
+        
+        // Handle hash navigation on page load
+        window.addEventListener('load', function() {
+            const hash = window.location.hash;
+            if (hash === '#chronology') {
+                showChronologyView();
+            } else if (hash === '#map') {
+                showMapView();
+            }
+        });
+        
+        // Handle hash changes
+        window.addEventListener('hashchange', function() {
+            const hash = window.location.hash;
+            if (hash === '#chronology') {
+                showChronologyView();
+            } else if (hash === '#map') {
+                showMapView();
+            } else {
+                showTimelineView();
+            }
+        });
     </script>
 </body>
 </html>
