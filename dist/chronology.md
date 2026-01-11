@@ -333,15 +333,32 @@ Promotes reform of the nation’s security classification system by requiring th
 
 \
 
-## 2024, May 23 - Documented sighting of metallic spheres over Livermore Lawrence National Laboratory (LLNL) on April 30th 2019, referenced by Luna on today's DOE Hearing. #MilitaryEncounters #CivilianSighting #NuclearFacility #DOE #UAPIncursion #UAPRecordsCollection #SecurityIncident #USA
+## 2019, April 30 - LLNL Metallic Sphere UAP Incursion - PFD Operations Report #190430-13 #NuclearSite #DOE #SecurityIncident #AtomicEnergyAct #SensorEvidence #USA
 
-Today, at a U.S. House Committee on Oversight and Accountability hearing, Representative Anna Paulina Luna asked Department of Energy Secretary Jennifer Granholm about a specific UAP incursion that occurred at the Lawrence Livermore National Laboratory on April 30th, 2019, in which metallic spher...
+Lawrence Livermore National Laboratory (LLNL) Protective Force Division (PFD) documented a UAP incursion involving metallic spheres observed over the nuclear facility on April 30, 2019. Official incident report: PFD Operations Report #190430-13, released by DOE via FOIA in August 2023. Key details: (1) Multiple metallic spherical objects observed by security personnel, (2) Objects exhibited controlled flight patterns over sensitive nuclear research areas, (3) Incident logged in official security records, (4) No conventional aircraft identification, (5) Event occurred during daylight hours with multiple witnesses. This incident demonstrates the nuclear-site UAP pattern documented at DOE facilities including Los Alamos, Oak Ridge, Savannah River, and Hanford. The Atomic Energy Act classification authority was invoked to withhold additional details, as referenced by Rep. Anna Paulina Luna during May 23, 2024 House Oversight hearing with DOE Secretary Jennifer Granholm. The PFD report number provides traceable documentation of UAP activity at critical nuclear infrastructure, supporting Grusch/Elizondo testimony about UAP interest in nuclear facilities and explaining why DOE uses Atomic Energy Act to classify UAP records.
+
+**Event Type**: Nuclear_Site_Incursion, Security_Incident, DOE_Facility
+**Credibility**: 5/5 (Official DOE PFD report, congressional testimony, FOIA release)
+**Primary Actors**: LLNL Protective Force Division, DOE security personnel, multiple witnesses
+**Agencies**: DOE, LLNL, Protective Force Division
+**Facility Type**: Nuclear weapons research laboratory, classified research facility
+**Document IDs**: PFD Operations Report #190430-13 (released August 2023 via FOIA)
+**Sensor Type**: Visual observation (multiple witnesses), security monitoring systems
+**Related Events**:
+- PART_OF → Nuclear facility UAP pattern (evidence: similar incidents at Los Alamos, Oak Ridge, Savannah River)
+- CITED_IN → 2024-05-23 House Oversight hearing (evidence: Luna questioned Granholm about this specific incident)
+- DEMONSTRATES → Atomic Energy Act classification use (evidence: additional details withheld under AEA)
+- SUPPORTS → Grusch/Elizondo claims about nuclear site interest (evidence: documented UAP at nuclear facility)
+**Causal Chain**: Incidents_Security_Policy_Chain_3, Nuclear_Classification_Pattern
+**Immediate Outcomes**: Official security incident documented; DOE classification invoked; congressional inquiry triggered
+**Policy Impact**: Demonstrates Atomic Energy Act barrier to UAP disclosure; supports NDAA/UAPDA provisions addressing DOE classification
+**Evidence Strength**: Strong (5/5) - Official DOE report, PFD document number, congressional testimony, FOIA release
 
 **Links:**
 
-[https://www.youtube.com/live/Xwx5pLoDXIg](https://www.youtube.com/live/Xwx5pLoDXIg) 
-[https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf](https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf) 
-[https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/](https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/) 
+[DOE PFD Operations Report #190430-13](https://www.energy.gov/sites/default/files/2023-08/PFD%20Operations%20Report%20%23190430-13.pdf)
+[House Oversight Hearing May 23, 2024](https://www.youtube.com/live/Xwx5pLoDXIg)
+[The Debrief - DOE UAP Documents Analysis](https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/)
 
 \
 
