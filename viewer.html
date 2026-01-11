@@ -1424,7 +1424,12 @@
         }
         
         // Initialize
-        if (window.location.hash) {
+        const hash = window.location.hash.substring(1);
+        if (hash === 'contact') {
+            // Load contact message
+            currentDoc = 'contact';
+            loadDocument();
+        } else if (hash) {
             handleUrlParams();
         } else {
             // Redirect to timeline chronology view by default
