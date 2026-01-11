@@ -1523,10 +1523,12 @@ The Department of Defense officially released and confirmed the authenticity of 
 **Agencies**: DoD, Navy
 **Sensor Type**: FLIR, radar (multiple Navy systems), electro-optical
 **Related Events**:
-- RESPONDS_TO → 2017-12-16 NYT AATIP disclosure (evidence: direct response to public/congressional pressure)
+- TRIGGERED_BY → 2017-12-16 NYT AATIP disclosure (evidence: NYT + TTSA coverage pressed DoD to authenticate videos; media forced official acknowledgment)
+- ENABLES → 2019-04-24 Navy reporting guidelines (evidence: DoD confirmation reinforced need for formal reporting; bidirectional support)
 - ENABLES → 2020-06 Senate Intelligence Committee UAP briefings (evidence: legitimized topic for classified briefings)
 - CAUSES → 2020-08-04 UAPTF establishment (evidence: DoD statement preceded formal task force by 3 months)
 - ENABLES → 2020-2021 NDAA UAP provisions (evidence: congressional record cites official confirmation)
+- CONTRIBUTES_TO → 2021-06-25 ODNI Preliminary Assessment (evidence: DoD confirmation + increased pilot reporting led to ODNI assessment)
 **Causal Chain**: Media_Political_Legislative_Chain_1
 **Immediate Outcomes**: Public legitimization of UAP phenomenon; increased congressional inquiries; media coverage surge
 **Policy Impact**: Enabled UAPTF creation; contributed to NDAA reporting requirements; shifted DoD public posture on UAP
@@ -1565,10 +1567,11 @@ The U.S. Navy established formal guidelines for pilots and personnel to report U
 **Primary Actors**: Joseph Gradisher (Navy spokesperson), Navy leadership
 **Agencies**: U.S. Navy, DoD
 **Related Events**:
-- RESPONDS_TO → 2017-12-16 NYT AATIP disclosure (evidence: Navy statements cite increased attention)
+- ENABLED_BY → 2017-12-16 NYT AATIP disclosure (evidence: Navy statements cite increased attention; NYT disclosure caused need for formal reporting)
 - RESPONDS_TO → 2017-10-11 TTSA formation (evidence: pilot advocacy from Elizondo/Mellon)
-- ENABLES → 2021-06-25 ODNI Preliminary Assessment (evidence: new reports fed into 144-observation dataset)
+- ENABLES → 2021-06-25 ODNI Preliminary Assessment (evidence: reporting increase produced 144-observation dataset; new reports fed into assessment)
 - CORRELATES_WITH → 2019 increased congressional inquiries (evidence: timing with Senate briefings)
+- REINFORCED_BY → 2020-04-27 DoD video confirmation (evidence: bidirectional support; confirmation reinforced need for formal reporting)
 **Causal Chain**: Media_Political_Legislative_Chain_1, Incidents_Security_Policy_Chain_3
 **Immediate Outcomes**: Reduced reporting stigma; standardized UAP data collection; increased pilot reports
 **Policy Impact**: Enabled systematic UAP investigation; contributed to UAPTF establishment; informed ODNI assessment
@@ -1746,10 +1749,12 @@ The New York Times published "Glowing Auras and 'Black Money': The Pentagon's My
 **Sensor Type**: FLIR, radar (AN/APG-79, AN/SPY-1), multiple Navy systems
 **Related Events**: 
 - CAUSES → 2018-2022 surge in congressional inquiries (evidence: hearing transcripts cite NYT article)
-- CAUSES → 2019 Navy UAP reporting guidelines (evidence: Navy statements reference increased attention)
-- ENABLES → 2020-04-27 DoD video authentication (evidence: direct response to public interest)
-- CORRELATES_WITH → 2017-2020 TTSA activities (evidence: Elizondo joined TTSA immediately after resignation)
+- CAUSES → 2019 Navy UAP reporting guidelines (evidence: Navy statements reference increased attention; NYT disclosure enabled reporting increase)
+- CAUSES → 2020-04-27 DoD video authentication (evidence: NYT + TTSA coverage pressed DoD to authenticate videos)
+- ENABLES → 2017-2020 TTSA activities and whistleblower platforming (evidence: NYT disclosure caused public attention and legitimization; Elizondo joined TTSA immediately after resignation)
 - ENABLES → 2020-08-04 UAPTF establishment (evidence: congressional pressure following disclosure)
+- TRIGGERS → 2021-06-25 ODNI Preliminary Assessment (evidence: DoD confirmation + increased pilot reporting led to ODNI assessment)
+- AMPLIFIES → Whistleblower environment (evidence: media coverage encouraged more whistleblowers including Grusch/Elizondo testimony)
 **Causal Chain**: Media_Political_Legislative_Chain_1
 **Immediate Outcomes**: Mainstream legitimization of UAP topic; congressional briefing requests; public pressure for transparency
 **Policy Impact**: Contributed to 2020-2024 NDAA UAP provisions; enabled whistleblower protections; catalyzed UAPTF and AARO creation
