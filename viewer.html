@@ -1416,9 +1416,11 @@
             }
         }
         
-        // Update progress bars on load and every hour
-        updateProgressBars();
-        setInterval(updateProgressBars, 3600000); // Update every hour
+        // Update progress bars on load and every hour (only if elements exist)
+        if (document.getElementById('phase1Bar')) {
+            updateProgressBars();
+            setInterval(updateProgressBars, 3600000); // Update every hour
+        }
         
         // Initialize
         if (window.location.hash) {
