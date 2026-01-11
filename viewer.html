@@ -1319,9 +1319,10 @@
             const hash = window.location.hash.substring(1); // Remove #
             const [tab, queryString] = hash.split('?');
             
-            // Redirect chronology to timeline with chronology view
+            // Load chronology view with filters
             if (tab === 'chronology') {
-                window.location.href = 'timeline.html';
+                currentDoc = 'chronology';
+                loadDocument();
                 return;
             }
             
@@ -1427,7 +1428,9 @@
         if (window.location.hash) {
             handleUrlParams();
         } else {
-            showIndex();
+            // Default to chronology view with filters instead of index
+            currentDoc = 'chronology';
+            loadDocument();
         }
         
         // Listen for hash changes
