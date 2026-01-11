@@ -376,10 +376,10 @@ Lawrence Livermore National Laboratory (LLNL) Protective Force Division (PFD) do
 **Document IDs**: PFD Operations Report #190430-13 (released August 2023 via FOIA)
 **Sensor Type**: Visual observation (multiple witnesses), security monitoring systems
 **Related Events**:
-- PART_OF → Nuclear facility UAP pattern (evidence: similar incidents at Los Alamos, Oak Ridge, Savannah River)
-- CITED_IN → 2024-05-23 House Oversight hearing (evidence: Luna questioned Granholm about this specific incident)
-- DEMONSTRATES → Atomic Energy Act classification use (evidence: additional details withheld under AEA)
-- SUPPORTS → Grusch/Elizondo claims about nuclear site interest (evidence: documented UAP at nuclear facility)
+- EVIDENCES → Pattern of nuclear-site incursions Los Alamos/Oak Ridge/Savannah River (evidence: shows nuclear facility UAP pattern cited in hearings)
+- CITED_IN → 2024-05-23 House Oversight hearing with DOE Secretary Granholm (evidence: Luna questioned Granholm about this specific incident)
+- DEMONSTRATES → Atomic Energy Act classification barrier (evidence: AEA invoked to withhold records; explains disclosure obstacles in NDAA debates)
+- SUPPORTS → Grusch/Elizondo claims about nuclear site interest and DOE/AEA usage (evidence: whistleblower claims cite AEA as mechanism of secrecy; documented UAP at nuclear facility)
 **Causal Chain**: Incidents_Security_Policy_Chain_3, Nuclear_Classification_Pattern
 **Immediate Outcomes**: Official security incident documented; DOE classification invoked; congressional inquiry triggered
 **Policy Impact**: Demonstrates Atomic Energy Act barrier to UAP disclosure; supports NDAA/UAPDA provisions addressing DOE classification
@@ -1133,6 +1133,7 @@ Official "Memorandum for the Prime Minister" (transmitted February 14, 2023) doc
 **Document Access**: DocumentCloud hosting, CTV News reporting, Access to Information Act release
 **Related Events**:
 - DOCUMENTS → 2023-02-11 Yukon high-altitude object shootdown (evidence: official memo response)
+- DOCUMENTS → 2023-02-10 US Alaska shootdown cross-border operational coordination (evidence: official memo describes coordination with US NORAD/shootdown)
 - REFERENCES → 2023-02-10 Alaska object shootdown (evidence: "full exploitation" statement)
 - DEMONSTRATES → Canada-US military coordination (evidence: CF-18/F-22 coordination)
 **Causal Chain**: International_Coordination_Chain_5
@@ -1702,8 +1703,9 @@ NASA and international geophysical surveys confirmed a massive magnetic and grav
 **Sensor Type**: Satellite magnetometry, gravimetry, radar ice-penetrating surveys
 **FOIA Targets**: NASA/NOAA satellite tasking logs over Wilkes Land; NSF Antarctic research grants; radar survey data
 **Related Events**:
-- CITED_IN → 2018-2019 Linda Moulton Howe Antarctica whistleblower claims (evidence: anomaly frequently referenced)
+- PROVIDES_CONTEXT_FOR → Antarctic-UAP narratives Linda Moulton Howe interviews/Barber retrieval claims/4chan leak (evidence: verifiable geophysical anomaly invoked by Antarctic narratives)
 - CORRELATES_WITH → IceCube particle anomalies (evidence: both Antarctic scientific anomalies used in disclosure narratives)
+- CITED_IN → 2018-2019 Linda Moulton Howe Antarctica whistleblower claims (evidence: anomaly frequently referenced as contextual anchor)
 - PROVIDES_CONTEXT_FOR → Buried structure/crash retrieval claims (evidence: demonstrates large subsurface anomalies exist)
 **Causal Chain**: Scientific_Legitimization_Chain_4, Antarctic_Anomaly_Cluster
 **Immediate Outcomes**: Verified geophysical anomaly documented; scientific explanation proposed; disclosure community speculation
@@ -1956,7 +1958,8 @@ The Five Eyes intelligence alliance (US, UK, Canada, Australia, New Zealand) est
 **Related Events**:
 - ENABLED_BY → 2021-06-25 ODNI Preliminary Assessment (evidence: US report catalyzed allied interest)
 - ENABLED_BY → 2022-07-20 AARO establishment (evidence: AARO coordinates international efforts)
-- ENABLES → 2023-2024 coordinated UAP investigations (evidence: shared reporting standards)
+- COORDINATES → Australian DoD FOI/Canadian memo/UK MoD files cross-corroboration (evidence: FOI releases and statements indicate allied sharing)
+- ENABLES → 2023-2024 coordinated UAP investigations (evidence: shared reporting standards; reduces single-agency FOIA contradictions)
 **Causal Chain**: International_Coordination_Chain_5
 **Immediate Outcomes**: Standardized Five Eyes UAP reporting; shared intelligence; coordinated investigations
 **Policy Impact**: International UAP investigation framework; reduced disclosure inconsistencies; enhanced threat assessment
@@ -1982,6 +1985,7 @@ Investigative filmmaker Jeremy Corbell released video footage showing a spherica
 **Related Events**:
 - DOCUMENTS → 2019-07-15 USS Omaha incident (evidence: video shows actual incident)
 - CORRELATES_WITH → 2019 Navy swarm incidents (evidence: part of broader pattern)
+- AMPLIFIES → Public pressure and congressional attention 2021-2024 hearings (evidence: high-profile releases increased scrutiny)
 - CONTRIBUTES_TO → Public UAP awareness (evidence: extensive media coverage)
 **Causal Chain**: Whistleblower_Investigation_Chain_2, Media_Political_Legislative_Chain_1
 **Immediate Outcomes**: Transmedium capability documented; public awareness increased; Navy confirmed incident
@@ -2004,7 +2008,7 @@ Australian investigative journalist Ross Coulthart published "In Plain Sight: An
 **Credibility**: 4/5 (Credible journalist, multiple sources, some claims unverified)
 **Primary Actors**: Ross Coulthart (journalist), various whistleblowers (some anonymous)
 **Related Events**:
-- INFLUENCES → 2023 David Grusch testimony (evidence: Coulthart interviewed Grusch, encouraged disclosure)
+- INFLUENCES → Grusch decision to go public and international whistleblower flow (evidence: investigative reporting encouraged disclosures; Coulthart interviewed Grusch, encouraged disclosure)
 - DOCUMENTS → International UAP programs (evidence: Australian, UK, US sources)
 - CONTRIBUTES_TO → Public UAP discourse (evidence: bestseller, extensive media coverage)
 **Causal Chain**: Whistleblower_Investigation_Chain_2, Media_Political_Legislative_Chain_1
@@ -2032,7 +2036,8 @@ The IceCube Neutrino Observatory at Amundsen-Scott South Pole Station detected a
 **FOIA Targets**: IceCube data publications; NSF Antarctic Program station logs; detector maintenance records for 2016-2018
 **Related Events**:
 - CORRELATES_WITH → Wilkes Land magnetic anomaly (evidence: both Antarctic scientific anomalies cited in disclosure narratives)
-- CITED_IN → Disclosure community as "physics anomalies under Antarctica" (evidence: frequent references)
+- PROVIDES_CONTEXT_FOR → Antarctica whistleblower cluster 2018-2019 Linda Moulton Howe (evidence: IceCube physics anomalies used as evidence-of-interest in region)
+- CITED_IN → Disclosure community Antarctic interest (evidence: IceCube anomalies used as evidence-of-interest in region)
 - DEMONSTRATES → Antarctica hosts sensitive detection capabilities (evidence: world-class particle physics facility)
 **Causal Chain**: Scientific_Legitimization_Chain_4, Antarctic_Anomaly_Cluster
 **Immediate Outcomes**: Anomalous particle events documented; scientific investigation ongoing; disclosure community interest
