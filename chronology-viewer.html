@@ -751,10 +751,10 @@
         function applyFilters() {
             const searchTerm = document.getElementById('searchBox').value.toLowerCase();
             const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked')).map(cb => cb.value);
-            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked')).map(cb => cb.value.toLowerCase());
+            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked:not(.geo-filter)')).map(cb => cb.value.toLowerCase());
             const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked')).map(cb => cb.value.toLowerCase());
             
-            const totalCategoryTags = document.querySelectorAll('.tag-filter').length;
+            const totalCategoryTags = document.querySelectorAll('.tag-filter:not(.geo-filter)').length;
             const totalGeoTags = document.querySelectorAll('.geo-filter').length;
             
             // If no category or geo filters selected, show nothing

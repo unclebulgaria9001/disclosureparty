@@ -3193,16 +3193,16 @@
             const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked'))
                 .map(cb => cb.value);
             
-            // Get selected category tags
-            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked'))
+            // Get selected category tags (exclude geo-filter to avoid double-counting)
+            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked:not(.geo-filter)'))
                 .map(cb => cb.value);
             
             // Get selected geo tags
             const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked'))
                 .map(cb => cb.value);
             
-            // Get totals
-            const totalCategoryTags = document.querySelectorAll('.tag-filter').length;
+            // Get totals (exclude geo-filter from category count)
+            const totalCategoryTags = document.querySelectorAll('.tag-filter:not(.geo-filter)').length;
             const totalGeoTags = document.querySelectorAll('.geo-filter').length;
             
             // Check if all filters are selected

@@ -1187,12 +1187,12 @@
         function filterEntries() {
             const searchTerm = document.getElementById('searchBox').value.toLowerCase();
             
-            // Get selected category tags and geographic filters
-            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked')).map(cb => cb.value.toLowerCase());
+            // Get selected category tags and geographic filters (exclude geo-filter to avoid double-counting)
+            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked:not(.geo-filter)')).map(cb => cb.value.toLowerCase());
             const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked')).map(cb => cb.value.toLowerCase());
             
-            // Get total counts
-            const totalCategoryTags = document.querySelectorAll('.tag-filter').length;
+            // Get total counts (exclude geo-filter from category count)
+            const totalCategoryTags = document.querySelectorAll('.tag-filter:not(.geo-filter)').length;
             const totalGeoTags = document.querySelectorAll('.geo-filter').length;
             
             // If no filters selected, show nothing
