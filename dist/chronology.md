@@ -1804,7 +1804,7 @@ Anonymous 4chan user posted video and images allegedly showing an egg-shaped UAP
 
 \
 
-## 2025, January 18 - Jake Barber Egg-Shaped UAP Retrieval Testimony #WhistleblowerDisclosures #HelicopterRetrieval #EggShapedUAP #CrashRetrievals #ContractorOperations #USA
+## 2025, January 18 - Jake Barber Egg-Shaped UAP Retrieval Testimony #WhistleblowerDisclosures #HelicopterRetrieval #EggShapedUAP #CrashRetrievals #ContractorOperations #Antarctica #USA
 
 Jake Barber, former US Army helicopter pilot and DoD contractor, provided public testimony about conducting UAP retrieval operations using helicopter long-sling methods. Key claims: (1) Retrieved multiple anomalous objects including a white "egg-shaped" craft approximately 20 feet long with no visible propulsion or seams, (2) Used helicopter long-sling operations (150-200 foot lines) to minimize rotor wash effects, (3) Objects appeared near mountain ridges or emerged from underground, (4) High security protocols including lethal force authorization to prevent adversary seizure, (5) Delivered objects to secure facilities with no further information on disposition. Barber's background: US Army aviation, post-service DoD contractor work on sensitive operations. Significance: provides operational detail on retrieval logistics (helicopter long-sling method) that connects to: Operation Deep Freeze Antarctic helicopter capabilities, contractor involvement in sensitive operations, and egg-shaped morphology that correlates with 4chan Antarctica egg leak (2025-01-21, 3 days later). The helicopter retrieval method is mundane/operational detail that strengthens credibility - it's the "how" of crash retrievals.
 
