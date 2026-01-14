@@ -3242,6 +3242,12 @@
                     eventTags.includes(tag.toLowerCase())
                 );
                 
+                // Special case: If all geo filters are selected and event has coordinates,
+                // only require category tag match (for geotimeline display)
+                if (allGeoSelected && event.coordinates && event.coordinates[0] !== 0 && event.coordinates[1] !== 0) {
+                    return hasMatchingCategoryTag;
+                }
+                
                 // Must have both category and geo tag match
                 return hasMatchingCategoryTag && hasMatchingGeoTag;
             });
