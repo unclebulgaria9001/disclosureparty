@@ -3281,7 +3281,7 @@ The U.S. Navy established formal guidelines for pilots and personnel to report U
 
 \
 
-## 2019, July 12 - Tom DeLonge states in July 2019 that TTSA spent the last year and a half briefing the Senate, multiple Committees and helping “glue” the DOD, IC and Congress together. #quote #usa
+## 2019, July 12 - Tom DeLonge states in July 2019 that TTSA spent the last year and a half briefing the Senate, multiple Committees and helping "glue" the DOD, IC and Congress together. #quote #USA
 
 **Links:**
 
@@ -3415,7 +3415,7 @@ Former Senate majority leader Harry Reid mentioned that he had talked with Presi
 
 \
 
-## 2017,  March 27 - Anonymous website partially encoded publishes an article on “turning the vehicle into a pilot’s prosthetic extension.” In the article are vague examples of how to replicate the piloting features of a UAP: “there must be no difference between the aircraft and the crew…you cannot just take a human being and fit him with all this array of sensors; you first need to tweak the human somehow to better exploit the capabilities of this technology…we need to go a step further from the current paradigm of manned aircrafts and shift toward a paradigm of aircrafts that behave like a human.” Elsewhere on the site, allegedly non-public reports from Raytheon and Lockheed are cited. #news #rumor #usa
+## 2017,  March 27 - Anonymous website partially encoded publishes an article on “turning the vehicle into a pilot’s prosthetic extension.” In the article are vague examples of how to replicate the piloting features of a UAP: “there must be no difference between the aircraft and the crew…you cannot just take a human being and fit him with all this array of sensors; you first need to tweak the human somehow to better exploit the capabilities of this technology…we need to go a step further from the current paradigm of manned aircrafts and shift toward a paradigm of aircrafts that behave like a human.” Elsewhere on the site, allegedly non-public reports from Raytheon and Lockheed are cited. #news #rumor #USA
 
 “MilOrbs” and they perform covert test unbeknownst to USG knowledge to see how crew react to them. Another article from 20 December 2017 writes that USAF pilots are trained to be aware of UAP, shares a seemingly non-public FLIR image dated 11 November 2014 and states: “we want our enemies to beli...
 
@@ -3513,15 +3513,13 @@ Avi Loeb, a prominent astrophysicist at Harvard University, has gained attention
 **Photos:**
 
 ![The First Known Interstellar Object To Visit Our S 1](images/2017-the-first-known-interstellar-object-to-visit-our-s-1.png)
-
-\
-
 ## 2016, April - Tom DeLonge states he was told by unnamed "advisors" that there were multiple UAP crashes and recoveries #FOIARelease #VideoEvidence #MilitaryUAP #MosulOrb #Image #USA
 
-DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
+DeLonge states he has been told how public perception on UAP has been shaped by private interests and his "advisors" review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #USA
+
 \
 
-## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA “advisors” that when UAP crashes happen, intelligence, military and private industry are pooled together. “They’ve” been using private companies/publicly traded companies to keep the secret information “protected” through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #usa
+## 2016, March 27 - Tom DeLonge states in early 2016 that he was told by his CIA "advisors" that when UAP crashes happen, intelligence, military and private industry are pooled together. "They've" been using private companies/publicly traded companies to keep the secret information "protected" through non-governmental organizations. DeLonge states he has been told how public perception on UAP has been shaped by private interests and his "advisors" review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are much more complex. #rumor #contentdeleted #USA
 
 DeLonge states he has been told how public perception on UAP has been shaped by private interests and his “advisors” review his publicly disseminated information. DeLonge also states he met with the CIA (2015?). DeLonge also states the MJ-12 documents are not accurate and in reality, things are m...
 
@@ -3751,7 +3749,7 @@ The Department of Defense has declassified a new UFO image showing a metallic-lo
 
 \
 
-## 2015, November 5 - The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before. #FOIA #usa
+## 2015, November 5 - The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is "outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records." This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD's Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress "tied to its collection efforts." This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn't accurate if they were being detected in 2015 or before. #FOIA #USA
 
 Note: The emails also reveal the DOD Inspector General (DOD/IG) interviewed several officers from the NRO Mission Integration Directorate (MID) connected to the IG’s evaluation of DOD handling/response to the UAP subject.
 
