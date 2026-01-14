@@ -2721,7 +2721,7 @@ The Pentagon has established an organization to compile and coordinate reports o
 
 \
 
-## 2023, July - Former intelligence chief Christopher Mellon has said he believes the US has recovered technology that 'did not originate on this earth'. #quote #usa
+## 2023, July - Former intelligence chief Christopher Mellon has said he believes the US has recovered technology that 'did not originate on this earth'. #quote #USA
 
 I've been told that we have recovered technology that did not originate on this Earth, by officials in the Department of Defense and by former intelligence officials
 
@@ -2783,7 +2783,7 @@ Australian Department of Defence released FOI document 845/22/23 (May 2023) deta
 
 \
 
-## 2023, May 31 - Western U.S. Objects  #MilitaryEncounters #new (2023-09-04) #usa
+## 2023, May 31 - Western U.S. Objects  #MilitaryEncounters #new (2023-09-04) #USA
 
 2023, May 24 - FVEY Inaugural UAP Caucus Working Group FVEY Inaugural UAP Caucus Working Group” meeting. FVEY, which stands for “Five Eyes,” is an intelligence alliance that includes Australia, Canada, New Zealand, the United Kingdom, and the United States. It encourages collaboration and intelli...
 
@@ -2838,7 +2838,7 @@ Official "Memorandum for the Prime Minister" (transmitted February 14, 2023) doc
 
 \
 
-## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #MilitaryEncounters #20 # new (2023-09-10) #canada #usa
+## 2023, February 10 - What we know about the unidentified object shot down over Alaska UAP #MilitaryEncounters #20 # new (2023-09-10) #Canada #USA
 
 The object taken down Friday, which officials have not characterized as a balloon, was shot down at 1:45 p.m. EST, according to Pentagon spokesman Brig. Gen. Patrick Ryder said recovery teams are now collecting the debris that is sitting on top of ice in US territorial waters. "No official video ...
 
@@ -2850,7 +2850,7 @@ The object taken down Friday, which officials have not characterized as a balloo
 
 \
 
-## 2023, January 28 - List of high-altitude object events in 2023 #MilitaryEncounters #usa #canada
+## 2023, January 28 - List of high-altitude object events in 2023 #MilitaryEncounters #USA #Canada
 
 Multiple airborne objects, sometimes reported in mainstream media as UFOs, were observed and sometimes shot down by military aircraft. Many of the objects were reported as meteorology or espionage balloons
 
@@ -2924,7 +2924,7 @@ Navy 2021 Flyby video
 
 \
 
-## 2022, April 17 - Under Secretary Moultrie and Naval Intel Deputy Director Bray testify under oath to Congress that the US military has detected physical UAPs they can't ID and associated energy signatures. Direct from the United States of America's Congressional Record. #new #law #oath #usa
+## 2022, April 17 - Under Secretary Moultrie and Naval Intel Deputy Director Bray testify under oath to Congress that the US military has detected physical UAPs they can't ID and associated energy signatures. Direct from the United States of America's Congressional Record. #new #law #oath #USA
 
 Ronald S. Moultrie, Under Secretary of Defense for Intelligence and Security, and Scott W. Bray, Deputy Director of Naval Intelligence, affirmed the United States' commitment to investigating unidentified aerial phenomena (UAPs) due to their potential security and flight safety risks. During disc...
 
@@ -3405,7 +3405,7 @@ NASA and international geophysical surveys confirmed a massive magnetic and grav
 
 \
 
-## 2018, March - Harry Reid on What the Government Knows About UFOs #quote #news #new (2023-08-10) #usa
+## 2018, March - Harry Reid on What the Government Knows About UFOs #quote #news #new (2023-08-10) #USA
 
 Former Senate majority leader Harry Reid mentioned that he had talked with President Bill Clinton about aerial phenomena and UFOs during his presidency. Reid noted that Clinton's curiosity extended to a wide range of topics, and while the conversation was passing, Clinton was interested in the su...
 
@@ -3481,7 +3481,7 @@ To The Stars Academy of Arts & Science (TTSA) was publicly launched by Tom DeLon
 
 \
 
-## 2017, December - Chris Mellon has spent nearly 20 years in the federal government serving in various national security positions. For the first time, he has agreed to speak publicly about his experiences within government as they relate to UFOs. #quote #usa
+## 2017, December - Chris Mellon has spent nearly 20 years in the federal government serving in various national security positions. For the first time, he has agreed to speak publicly about his experiences within government as they relate to UFOs. #quote #USA
 
 **Links:**
 
@@ -3489,7 +3489,7 @@ To The Stars Academy of Arts & Science (TTSA) was publicly launched by Tom DeLon
 
 \
 
-## 2017, December - Harry Reid played a key role in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs) #new #news (2023-08-10) #usa
+## 2017, December - Harry Reid played a key role in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs) #new #news (2023-08-10) #USA
 
 Former Senate majority leader Harry Reid was key in initiating the Advanced Aerospace Threat Identification Program (AATIP), a Pentagon program focused on investigating reports of unidentified flying objects (UFOs). The program was active from late 2008 through 2011 and cost taxpayers $22 million...
 
@@ -4394,7 +4394,7 @@ President Joe Biden has approved the release of certain files linked to John F. 
 
 \
 
-## 1955 - Depicts a crashed Flying Saucer that was reportedly shot down by RED WING pilots flying F-94 "interceptor" fighter jets. #debunked
+## 1955 - Depicts a crashed Flying Saucer that was reportedly shot down by RED WING pilots flying F-94 "interceptor" fighter jets. #debunked #USA
 
 This photograph, taken in 1955, depicts a crashed Flying Saucer that was reportedly shot down by RED WING pilots flying F-94 "interceptor" fighter jets. The incident occurred over The Bull of the Woods, a region in central Oregon near Welcome Lake. The source of this smuggled photo remains unknow...
 
