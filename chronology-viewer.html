@@ -920,12 +920,12 @@
         }
         
         function selectAllTags() {
-            document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = true);
+            document.querySelectorAll('.tag-filter:not(.geo-filter)').forEach(cb => cb.checked = true);
             applyFilters();
         }
         
         function deselectAllTags() {
-            document.querySelectorAll('.tag-filter').forEach(cb => cb.checked = false);
+            document.querySelectorAll('.tag-filter:not(.geo-filter)').forEach(cb => cb.checked = false);
             applyFilters();
         }
         
