@@ -1718,6 +1718,39 @@ Weak proximity: > 500 km (weight < 0.17)
 
 ## 
 
+## 2026, February 5 - Experts Predict 2026 as "Disclosure Year" Due to Whistleblower Momentum #WhistleblowerDisclosures #UAPDisclosure #CongressionalPressure #MediaCoverage #USA
+
+Multiple UAP researchers and experts identify 2026 as a pivotal year for disclosure due to converging factors: growing number of military and intelligence officials prepared to testify publicly, new congressional mandates, and mounting political pressure. Documentary "The Age of Disclosure" (November 2025) featuring 34 current and former government officials alleging decades-long cover-up has thrust the issue onto President Trump's agenda. Filmmaker Mark Christopher Lee states: "2026 is exceptional due to escalating congressional momentum, whistleblower activity, and cultural shifts building unstoppable pressure on government secrecy."
+
+**Links:**
+
+https://www.the-express.com/news/us-news/196942/ufo-disclosure-predicted-2026-congress
+https://www.dailymail.co.uk/sciencetech/article-15428851/Top-UFO-experts-reveal-whistleblower-activity-finally-bring-disclosure-2026-evidence-aligning.html
+
+\
+
+## 2026, January 18 - NASA Physicist Reveals Space Encounter Cover-Up Claims #WhistleblowerDisclosures #SpaceSatellite #NASA #GeminiMission #AstronautEncounters #Space
+
+NASA physicist claims NASA is covering up proof of astronaut encounters with UFOs in space, stating "a shuttle pilot saw snake-like things in space." Gemini 11 mission transcripts allegedly confirm a UFO flew over astronauts and interfered with their equipment. Claims presented during transparency hearing focus on historical space-based UAP encounters that have been allegedly suppressed by NASA.
+
+**Links:**
+
+https://www.reddit.com/r/UFOs/comments/1qwor2q/a_shuttle_pilot_saw_snakelike_things_in_space/
+
+\
+
+## 2025, December 10 - FY 2026 NDAA Includes Three Major UAP Provisions #LegislationPolicy #NDAA #UAPLegislation #CongressionalOversight #AARO #ClassificationReform #USA
+
+The National Defense Authorization Act for fiscal year 2026 includes three significant UAP provisions: (1) Sec. 1671 mandates AARO brief Congress on all NORAD/NORTHCOM UAP intercepts, with first briefing covering ALL incidents retroactively since January 1, 2004 (22 years of data); (2) Streamlined reporting eliminates duplicate requirements and ensures all agencies forward UAP data to AARO promptly; (3) Classification review requires AARO to provide complete overview of Security Classification Guides within 180 days and create uniform classification matrix to reduce inconsistent secrecy practices. Christopher Mellon notes provisions "respond to long-standing concerns about overclassification and improper restrictions on the release of imagery or data."
+
+**Links:**
+
+https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/
+https://www.grenzwissenschaft-aktuell.de/us-verteidigungshaushalt-2026-beinhaltet-drei-neuen-uap-bestimmungen/
+https://www.reddit.com/r/UFOs/comments/1powfzp/us_defense_budget_2026_includes_three_new_ufo/
+
+\
+
 ## 2026, January 1 - Request Direct NHI Communication #Outbound #NonHumanIntelligence #PublicStatement #International
 
 Public message requesting direct, transparent communication with Non-Human Intelligence (NHI), bypassing government intermediaries. This message was distributed globally via multiple platforms and languages, requesting a response within 7 days after achieving 100M+ awareness.
