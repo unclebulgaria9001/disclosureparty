@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="css/shared-styles.css">
     <link rel="stylesheet" href="i18n/language-switcher.css">
     <script src="i18n/translations.js"></script>
     <style>
@@ -829,9 +830,16 @@
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1 data-i18n="siteTitle">UAP/UFO/NHI DISCLOSURE DATABASE</h1>
-            <div class="subtitle" data-i18n="timelineSubtitle">Interactive Timeline Visualization</div>
+        <header class="main-header">
+            <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+            <p class="subtitle">Interactive Timeline Visualization</p>
+            <nav class="nav-links">
+                <a href="index.html">🏠 Home</a>
+                <a href="chronology-viewer.html">📋 Chronology</a>
+                <a href="timeline.html" class="active">📊 Timeline</a>
+                <a href="dist/chronology.md" target="_blank">📄 Raw Data</a>
+                <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">💻 GitHub</a>
+            </nav>
             <button id="installBtn" class="btn" onclick="installApp()" style="display: none; margin: 10px auto;" data-i18n="installApp">📱 Install App</button>
         </header>
         
@@ -2587,7 +2595,7 @@
             }
         }
         
-        // Function to calculate and update filter counts based on currently visible events
+        // Function to calculate and update filter counts based on all events
         async function updateFilterCounts() {
             if (!window.nodes) return;
             
@@ -2597,14 +2605,9 @@
                 withPhotos: 0
             };
             
-            // Count only visible events
+            // Count all events (not just visible ones)
             window.nodes.each(function(d) {
                 if (d.type !== 'chronology') return;
-                
-                const node = d3.select(this);
-                const isVisible = node.style('display') !== 'none';
-                
-                if (!isVisible) return;
                 
                 const event = d;
                 const year = event.date.getFullYear();
@@ -2681,17 +2684,12 @@
                 }
             });
             
-            // Count visible events with photos
+            // Count all events with photos
             const data = await loadChronologyData();
             if (data) {
                 let withPhotosCount = 0;
                 window.nodes.each(function(d) {
                     if (d.type !== 'chronology') return;
-                    
-                    const node = d3.select(this);
-                    const isVisible = node.style('display') !== 'none';
-                    
-                    if (!isVisible) return;
                     
                     // Find entry in chronology data
                     const entry = data.find(e => e.title.trim() === d.title.trim());

@@ -1,0 +1,53 @@
+{
+  "decades": [
+    "pre-1940",
+    "2020s",
+    "2010s",
+    "2000s",
+    "1990s",
+    "1970s",
+    "1960s",
+    "1950s",
+    "1940s"
+  ],
+  "files": {
+    "pre-1940": {
+      "filename": "pre-1940.md",
+      "entries": 44
+    },
+    "2020s": {
+      "filename": "2020s.md",
+      "entries": 97
+    },
+    "2010s": {
+      "filename": "2010s.md",
+      "entries": 39
+    },
+    "2000s": {
+      "filename": "2000s.md",
+      "entries": 6
+    },
+    "1990s": {
+      "filename": "1990s.md",
+      "entries": 5
+    },
+    "1970s": {
+      "filename": "1970s.md",
+      "entries": 11
+    },
+    "1960s": {
+      "filename": "1960s.md",
+      "entries": 10
+    },
+    "1950s": {
+      "filename": "1950s.md",
+      "entries": 16
+    },
+    "1940s": {
+      "filename": "1940s.md",
+      "entries": 13
+    }
+  },
+  "total_entries": 241,
+  "generated": "February 5, 2026"
+}

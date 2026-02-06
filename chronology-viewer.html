@@ -10,504 +10,44 @@
     
     <!-- SEO Meta Tags -->
     <meta name="description" content="Comprehensive chronology of UAP/UFO disclosure events, NHI encounters, congressional hearings, and FOIA releases. Interactive timeline in multiple languages.">
-    <meta name="keywords" content="UAP chronology, UFO timeline, disclosure events, NHI encounters, congressional hearings, FOIA, UAP历史, UFO时间表, cronología OVNI, eventos de divulgación, سجل UFO, أحداث الكشف, cronologia OVNI, eventos de divulgação">
+    <meta name="keywords" content="UAP chronology, UFO timeline, disclosure events, NHI encounters, congressional hearings, FOIA">
     <meta name="robots" content="index, follow">
     
     <!-- Multilingual hreflang tags -->
     <link rel="alternate" hreflang="en" href="https://unclebulgaria9001.github.io/disclosureparty/chronology-viewer.html">
-    <link rel="alternate" hreflang="zh" href="https://unclebulgaria9001.github.io/disclosureparty/chronology-viewer.html">
-    <link rel="alternate" hreflang="es" href="https://unclebulgaria9001.github.io/disclosureparty/chronology-viewer.html">
-    <link rel="alternate" hreflang="ar" href="https://unclebulgaria9001.github.io/disclosureparty/chronology-viewer.html">
-    <link rel="alternate" hreflang="pt" href="https://unclebulgaria9001.github.io/disclosureparty/chronology-viewer.html">
     <link rel="alternate" hreflang="x-default" href="https://unclebulgaria9001.github.io/disclosureparty/chronology-viewer.html">
     
+    <!-- Shared Styles -->
+    <link rel="stylesheet" href="css/shared-styles.css">
     <link rel="stylesheet" href="i18n/language-switcher.css">
     <script src="i18n/translations.js"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
-            color: #e0e0e0;
-            line-height: 1.6;
-            padding: 0;
-            margin: 0;
-        }
-        
-        .container {
-            max-width: 100%;
-            margin: 0;
-            background: rgba(20, 25, 45, 0.95);
-            padding: 0;
-        }
-        
-        header {
-            text-align: center;
-            padding: 30px 20px;
-            border-bottom: 2px solid rgba(74, 158, 255, 0.3);
-            background: rgba(20, 25, 45, 0.95);
-        }
-        
-        h1 {
-            color: #4a9eff;
-            font-size: 2.5em;
-            margin-bottom: 15px;
-            text-shadow: 0 0 20px rgba(74, 158, 255, 0.5);
-        }
-        
-        .subtitle {
-            color: #a0a0a0;
-            font-size: 1.1em;
-        }
-        
-        .nav-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 20px 0;
-            flex-wrap: wrap;
-        }
-        
-        .nav-links a {
-            color: #4a9eff;
-            text-decoration: none;
-            padding: 8px 16px;
-            border: 1px solid rgba(74, 158, 255, 0.3);
-            border-radius: 5px;
-            transition: all 0.3s ease;
-        }
-        
-        .nav-links a:hover {
-            background: rgba(74, 158, 255, 0.2);
-            border-color: #4a9eff;
-        }
-        
-        .main-layout {
-            display: flex;
-            min-height: calc(100vh - 200px);
-        }
-        
-        .sidebar {
-            width: 320px;
-            background: rgba(20, 25, 45, 0.98);
-            border-right: 1px solid rgba(74, 158, 255, 0.3);
-            overflow-y: auto;
-            transition: margin-left 0.3s ease;
-            position: relative;
-        }
-        
-        .sidebar.collapsed {
-            margin-left: -320px;
-        }
-        
-        .sidebar-content {
-            padding: 20px;
-        }
-        
-        .toggle-sidebar {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            background: rgba(30, 35, 55, 0.9);
-            border: 1px solid rgba(74, 158, 255, 0.3);
-            color: #4a9eff;
-            padding: 10px 20px;
-            cursor: pointer;
-            font-family: 'Segoe UI', sans-serif;
-            font-size: 0.85em;
-            border-radius: 6px;
-            transition: all 0.3s ease;
-            z-index: 1000;
-            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
-            font-weight: 600;
-        }
-        
-        .toggle-sidebar:hover {
-            background: rgba(74, 158, 255, 0.3);
-            border-color: #4a9eff;
-        }
-        
-        .toggle-sidebar::before {
-            content: '☰ ';
-            font-size: 1.2em;
-        }
-        
-        .content-container {
-            flex: 1;
-            padding: 40px;
-            overflow-y: auto;
-        }
-        
-        .controls {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            margin-bottom: 20px;
-        }
-        
-        .search-box {
-            width: 100%;
-            padding: 12px 20px;
-            background: rgba(30, 35, 55, 0.9);
-            border: 1px solid rgba(74, 158, 255, 0.3);
-            border-radius: 8px;
-            color: #e0e0e0;
-            font-size: 0.9em;
-        }
-        
-        .search-box:focus {
-            outline: none;
-            border-color: #4a9eff;
-            box-shadow: 0 0 10px rgba(74, 158, 255, 0.3);
-        }
-        
-        .filter-section {
-            margin-bottom: 25px;
-        }
-        
-        .filter-section-title {
-            color: #4a9eff;
-            font-weight: 600;
-            margin-bottom: 12px;
-            font-size: 0.95em;
-        }
-        
-        .filter-buttons {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        
-        .filter-btn {
-            width: 100%;
-            padding: 10px 16px;
-            background: rgba(30, 35, 55, 0.9);
-            border: 1px solid rgba(74, 158, 255, 0.3);
-            border-radius: 5px;
-            color: #e0e0e0;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            text-align: left;
-            font-family: 'Segoe UI', sans-serif;
-        }
-        
-        .filter-btn:hover, .filter-btn.active {
-            background: rgba(74, 158, 255, 0.3);
-            border-color: #4a9eff;
-        }
-        
-        .timeline {
-            position: relative;
-            padding-left: 40px;
-        }
-        
-        .timeline::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            bottom: 0;
-            width: 2px;
-            background: linear-gradient(to bottom, #4a9eff, rgba(74, 158, 255, 0.3));
-        }
-        
-        .entry {
-            position: relative;
-            margin-bottom: 40px;
-            padding: 20px;
-            background: rgba(30, 35, 55, 0.6);
-            border-radius: 10px;
-            border-left: 3px solid #4a9eff;
-            transition: all 0.3s ease;
-        }
-        
-        .entry:hover {
-            background: rgba(30, 35, 55, 0.9);
-            transform: translateX(5px);
-            box-shadow: 0 5px 20px rgba(74, 158, 255, 0.2);
-        }
-        
-        .entry::before {
-            content: '';
-            position: absolute;
-            left: -43px;
-            top: 25px;
-            width: 12px;
-            height: 12px;
-            background: #4a9eff;
-            border-radius: 50%;
-            border: 3px solid rgba(20, 25, 45, 0.95);
-            box-shadow: 0 0 10px rgba(74, 158, 255, 0.5);
-        }
-        
-        .entry-date {
-            color: #4a9eff;
-            font-weight: bold;
-            font-size: 1.2em;
-            margin-bottom: 10px;
-        }
-        
-        .entry-title {
-            color: #fff;
-            font-size: 1.1em;
-            margin-bottom: 10px;
-            font-weight: 600;
-        }
-        
-        .entry-content {
-            color: #c0c0c0;
-            margin-bottom: 15px;
-            white-space: pre-wrap;
-        }
-        
-        .entry-links {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        
-        .entry-links a {
-            color: #6bb8ff;
-            text-decoration: none;
-            word-break: break-all;
-            transition: color 0.3s ease;
-            padding: 5px 0;
-        }
-        
-        .entry-links a:hover {
-            color: #4a9eff;
-            text-decoration: underline;
-        }
-        
-        .entry-links a::before {
-            content: '🔗 ';
-            margin-right: 5px;
-        }
-        
-        .tag {
-            display: inline-block;
-            padding: 3px 10px;
-            margin: 5px 5px 5px 0;
-            background: rgba(74, 158, 255, 0.2);
-            border-radius: 3px;
-            font-size: 0.85em;
-            color: #4a9eff;
-        }
-        
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #4a9eff;
-            font-size: 1.2em;
-        }
-        
-        .stats {
-            text-align: center;
-            margin: 20px 0;
-            padding: 15px;
-            background: rgba(30, 35, 55, 0.6);
-            border-radius: 8px;
-            color: #a0a0a0;
-        }
-        
-        .hidden {
-            display: none;
-        }
-        
-        footer {
-            margin-top: 40px;
-            padding: 20px;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-            text-align: center;
-            color: #888;
-            background: rgba(20, 25, 45, 0.95);
-        }
-        
-        @media (max-width: 768px) {
-            .main-layout {
-                flex-direction: column;
-            }
-            
-            .sidebar {
-                width: 100%;
-                border-right: none;
-                border-bottom: 1px solid rgba(74, 158, 255, 0.3);
-            }
-            
-            .sidebar.collapsed {
-                margin-left: 0;
-                margin-top: -100%;
-            }
-            
-            .toggle-sidebar {
-                top: 10px;
-                right: 10px;
-            }
-            
-            .content-container {
-                padding: 20px;
-            }
-        }
-    </style>
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1 data-i18n="siteTitle">UAP/UFO/NHI DISCLOSURE DATABASE</h1>
-            <p class="subtitle" data-i18n="timelineSubtitle">Interactive Timeline Visualization</p>
-            <div class="nav-links">
-                <a href="index.html" data-i18n="backToIndex">← Back to Index</a>
-                <a href="dist/contact-nhi.txt" target="_blank" data-i18n="nhiContactMessage">NHI Contact Message</a>
-                <a href="dist/arecibo-message-1974.txt" target="_blank" data-i18n="areciboMessage">Arecibo Message</a>
-                <a href="dist/chronology.md" target="_blank" data-i18n="rawMarkdown">Raw Markdown</a>
-            </div>
-        </header>
+        <!-- Navigation will be injected here -->
+        <div id="header"></div>
         
         <div id="languageSwitcherContainer"></div>
-        <button class="toggle-sidebar" id="toggleSidebar" onclick="toggleSidebar(event)" data-i18n="filters">FILTERS</button>
+        
+        <!-- Search bar will be injected here -->
+        <div id="searchBarContainer"></div>
+        
+        <button class="toggle-sidebar" id="toggleSidebar" data-i18n="filters">☰ FILTERS</button>
         
         <div class="main-layout">
             <div class="sidebar" id="sidebar">
                 <div class="sidebar-content">
                     <div style="text-align: center; margin-bottom: 20px;">
-                        <div style="color: #a0a0a0; font-size: 0.85em; margin-bottom: 10px;">
+                        <div style="color: #a0a0a0; font-size: 0.85em;">
                             <span id="eventCount">Loading events...</span>
                         </div>
                     </div>
                     
-                    <div class="filter-section">
-                        <div class="filter-section-title" data-i18n="search">SEARCH</div>
-                        <input type="text" class="search-box" id="searchBox" data-i18n-placeholder="searchPlaceholder" placeholder="🔍 Search chronology...">
-                    </div>
-                    
+                    <!-- Period Filters -->
                     <div class="filter-section">
                         <div class="filter-section-title" data-i18n="timePeriodFilters">TIME PERIOD FILTERS</div>
-                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 0.85em;">
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2030" checked onchange="applyFilters()">
-                                <span>2030 <span class="period-count" data-period="2030"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2029" checked onchange="applyFilters()">
-                                <span>2029 <span class="period-count" data-period="2029"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2028" checked onchange="applyFilters()">
-                                <span>2028 <span class="period-count" data-period="2028"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2027" checked onchange="applyFilters()">
-                                <span>2027 <span class="period-count" data-period="2027"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2026" checked onchange="applyFilters()">
-                                <span>2026 <span class="period-count" data-period="2026"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2025" checked onchange="applyFilters()">
-                                <span>2025 <span class="period-count" data-period="2025"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2024" checked onchange="applyFilters()">
-                                <span>2024 <span class="period-count" data-period="2024"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2023" checked onchange="applyFilters()">
-                                <span>2023 <span class="period-count" data-period="2023"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2022" checked onchange="applyFilters()">
-                                <span>2022 <span class="period-count" data-period="2022"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2021" checked onchange="applyFilters()">
-                                <span>2021 <span class="period-count" data-period="2021"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2020" checked onchange="applyFilters()">
-                                <span>2020 <span class="period-count" data-period="2020"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2019" checked onchange="applyFilters()">
-                                <span>2019 <span class="period-count" data-period="2019"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2018" checked onchange="applyFilters()">
-                                <span>2018 <span class="period-count" data-period="2018"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2017" checked onchange="applyFilters()">
-                                <span>2017 <span class="period-count" data-period="2017"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2016" checked onchange="applyFilters()">
-                                <span>2016 <span class="period-count" data-period="2016"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2015" checked onchange="applyFilters()">
-                                <span>2015 <span class="period-count" data-period="2015"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2014" checked onchange="applyFilters()">
-                                <span>2014 <span class="period-count" data-period="2014"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2013" checked onchange="applyFilters()">
-                                <span>2013 <span class="period-count" data-period="2013"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2012" checked onchange="applyFilters()">
-                                <span>2012 <span class="period-count" data-period="2012"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2011" checked onchange="applyFilters()">
-                                <span>2011 <span class="period-count" data-period="2011"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="2010" checked onchange="applyFilters()">
-                                <span>2010 <span class="period-count" data-period="2010"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="200" checked onchange="applyFilters()">
-                                <span>2000s <span class="period-count" data-period="200"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="199" checked onchange="applyFilters()">
-                                <span>1990s <span class="period-count" data-period="199"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="198" checked onchange="applyFilters()">
-                                <span>1980s <span class="period-count" data-period="198"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="197" checked onchange="applyFilters()">
-                                <span>1970s <span class="period-count" data-period="197"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="196" checked onchange="applyFilters()">
-                                <span>1960s <span class="period-count" data-period="196"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="195" checked onchange="applyFilters()">
-                                <span>1950s <span class="period-count" data-period="195"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="194" checked onchange="applyFilters()">
-                                <span>1940s <span class="period-count" data-period="194"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="18" onchange="applyFilters()">
-                                <span>1800s <span class="period-count" data-period="18"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                                <input type="checkbox" class="period-filter" value="ancient" onchange="applyFilters()">
-                                <span>ANCIENT <span class="period-count" data-period="ancient"></span></span>
-                            </label>
+                        <div id="periodFilters" style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 0.85em;">
+                            <!-- Will be populated by JavaScript -->
                         </div>
                         <div style="display: flex; gap: 8px; margin-top: 12px;">
                             <button class="filter-btn" style="flex: 1;" onclick="selectAllPeriods()" data-i18n="selectAll">ALL</button>
@@ -515,378 +55,211 @@
                         </div>
                     </div>
                     
+                    <!-- Category Filters -->
                     <div class="filter-section">
                         <div class="filter-section-title">CATEGORY TAGS</div>
-                        <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Outbound" checked onchange="applyFilters()">
-                                <span>Outbound <span class="tag-count" data-tag="Outbound"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="Inbound" checked onchange="applyFilters()">
-                                <span>Inbound <span class="tag-count" data-tag="Inbound"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="ContactAttempt" checked onchange="applyFilters()">
-                                <span>Contact <span class="tag-count" data-tag="ContactAttempt"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="LegislationPolicy" checked onchange="applyFilters()">
-                                <span>Legislation <span class="tag-count" data-tag="LegislationPolicy"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="CongressionalHearings" checked onchange="applyFilters()">
-                                <span>Hearings <span class="tag-count" data-tag="CongressionalHearings"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="LeaksDeclass" checked onchange="applyFilters()">
-                                <span>Leaks/FOIA <span class="tag-count" data-tag="LeaksDeclass"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="WhistleblowerDisclosures" checked onchange="applyFilters()">
-                                <span>Whistleblower <span class="tag-count" data-tag="WhistleblowerDisclosures"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="MilitaryEncounters" checked onchange="applyFilters()">
-                                <span>Military <span class="tag-count" data-tag="MilitaryEncounters"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="CivilianSightings" checked onchange="applyFilters()">
-                                <span>Civilian <span class="tag-count" data-tag="CivilianSightings"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="AbductionCEIII" checked onchange="applyFilters()">
-                                <span>Abduction <span class="tag-count" data-tag="AbductionCEIII"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="CrashRetrievals" checked onchange="applyFilters()">
-                                <span>Crash <span class="tag-count" data-tag="CrashRetrievals"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="UnderwaterUSO" checked onchange="applyFilters()">
-                                <span>USO <span class="tag-count" data-tag="UnderwaterUSO"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="SpaceSatellite" checked onchange="applyFilters()">
-                                <span>Space <span class="tag-count" data-tag="SpaceSatellite"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="ScientificStudies" checked onchange="applyFilters()">
-                                <span>Scientific <span class="tag-count" data-tag="ScientificStudies"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="HistoricalPreModern" checked onchange="applyFilters()">
-                                <span>Historical <span class="tag-count" data-tag="HistoricalPreModern"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="tag-filter" value="ReligiousCultural" checked onchange="applyFilters()">
-                                <span>Religious <span class="tag-count" data-tag="ReligiousCultural"></span></span>
-                            </label>
+                        <div id="categoryFilters" style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.85em;">
+                            <!-- Will be populated by JavaScript -->
                         </div>
                         <div style="display: flex; gap: 8px; margin-top: 12px;">
-                            <button class="filter-btn" style="flex: 1;" onclick="selectAllTags()">ALL</button>
-                            <button class="filter-btn" style="flex: 1;" onclick="deselectAllTags()">NONE</button>
+                            <button class="filter-btn" style="flex: 1;" onclick="selectAllCategories()">ALL</button>
+                            <button class="filter-btn" style="flex: 1;" onclick="deselectAllCategories()">NONE</button>
                         </div>
                     </div>
                     
+                    <!-- Geographic Filters -->
                     <div class="filter-section">
                         <div class="filter-section-title">GEOGRAPHIC REGIONS</div>
-                        <div style="display: flex; gap: 4px; margin-bottom: 8px;">
-                            <button onclick="selectAllGeoFilters()" style="flex: 1; padding: 4px 8px; background: rgba(30, 35, 55, 0.9); color: #4a9eff; border: 1px solid rgba(74, 158, 255, 0.3); border-radius: 4px; cursor: pointer; font-size: 0.75em;">ALL</button>
-                            <button onclick="selectNoneGeoFilters()" style="flex: 1; padding: 4px 8px; background: rgba(30, 35, 55, 0.9); color: #4a9eff; border: 1px solid rgba(74, 158, 255, 0.3); border-radius: 4px; cursor: pointer; font-size: 0.75em;">NONE</button>
+                        <div id="geoFilters" style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.85em;">
+                            <!-- Will be populated by JavaScript -->
                         </div>
-                        <div style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.75em;">
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="USA" checked onchange="applyFilters()">
-                                <span>USA <span class="tag-count" data-tag="USA"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Canada" checked onchange="applyFilters()">
-                                <span>Canada <span class="tag-count" data-tag="Canada"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Mexico" checked onchange="applyFilters()">
-                                <span>Mexico <span class="tag-count" data-tag="Mexico"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Europe" checked onchange="applyFilters()">
-                                <span>Europe <span class="tag-count" data-tag="Europe"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="UnitedKingdom" checked onchange="applyFilters()">
-                                <span>UK <span class="tag-count" data-tag="UnitedKingdom"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="LatinAmerica" checked onchange="applyFilters()">
-                                <span>Latin America <span class="tag-count" data-tag="LatinAmerica"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Asia" checked onchange="applyFilters()">
-                                <span>Asia <span class="tag-count" data-tag="Asia"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="MiddleEast" checked onchange="applyFilters()">
-                                <span>Middle East <span class="tag-count" data-tag="MiddleEast"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Africa" checked onchange="applyFilters()">
-                                <span>Africa <span class="tag-count" data-tag="Africa"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Oceania" checked onchange="applyFilters()">
-                                <span>Oceania <span class="tag-count" data-tag="Oceania"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="International" checked onchange="applyFilters()">
-                                <span>International <span class="tag-count" data-tag="International"></span></span>
-                            </label>
-                            <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer; font-size: 0.85em;">
-                                <input type="checkbox" class="geo-filter" value="Space" checked onchange="applyFilters()">
-                                <span>Space <span class="tag-count" data-tag="Space"></span></span>
-                            </label>
+                        <div style="display: flex; gap: 8px; margin-top: 12px;">
+                            <button class="filter-btn" style="flex: 1;" onclick="selectAllGeo()">ALL</button>
+                            <button class="filter-btn" style="flex: 1;" onclick="deselectAllGeo()">NONE</button>
                         </div>
-                    </div>
-                    
-                    <div id="translationNotice" style="display: none; margin-top: 20px; padding: 15px; background: rgba(74, 158, 255, 0.1); border: 1px solid rgba(74, 158, 255, 0.3); border-radius: 8px; color: #4a9eff; text-align: center; font-size: 0.85em;">
-                        <div data-i18n="translationNote" style="margin-bottom: 10px;">Content is in English. Use browser translation or the translate button.</div>
-                        <button class="filter-btn" onclick="triggerBrowserTranslation()" data-i18n="autoTranslate" style="width: auto; padding: 8px 16px;">Auto-Translate</button>
-                    </div>
-                    
-                    <div style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
-                        <a href="index.html" style="color: #4a9eff; text-decoration: none; font-size: 0.85em;" data-i18n="backToIndex">← Back to Index</a>
                     </div>
                 </div>
             </div>
             
             <div class="content-container">
+                <!-- Results Header -->
+                <div class="results-header">
+                    <div class="results-info">
+                        <div class="result-count" id="resultCount">Loading...</div>
+                        <div class="result-stats" id="resultStats"></div>
+                    </div>
+                    <div class="sort-options">
+                        <label>Sort:</label>
+                        <select id="sortBy">
+                            <option value="date-desc">Newest First</option>
+                            <option value="date-asc">Oldest First</option>
+                            <option value="relevance">Relevance</option>
+                        </select>
+                    </div>
+                </div>
+                
                 <div class="timeline" id="timeline">
                     <div class="loading">Loading chronology data...</div>
                 </div>
                 
                 <footer>
-                    <p><span data-i18n="contentSuggestions">For content suggestions:</span> <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=new-event.md" style="color: #4a9eff;">Submit via GitHub Issues</a></p>
+                    <p>For content suggestions: <a href="https://github.com/unclebulgaria9001/disclosureparty/issues/new?template=new-event.md">Submit via GitHub Issues</a></p>
                 </footer>
             </div>
         </div>
     </div>
     
-    <script>
-        let allEntries = [];
-        let filteredEntries = [];
+    <script type="module">
+        // Import shared services
+        import { chronologyService } from './js/services/chronology-service.js';
+        import { filterService } from './js/services/filter-service.js';
+        import { searchService } from './js/services/search-service.js';
+        import { URLParamsManager } from './js/utils/url-params.js';
+        import { escapeHtml, showNotification } from './js/utils/helpers.js';
         
-        async function loadChronology() {
-            try {
-                const response = await fetch('dist/chronology.md');
-                const text = await response.text();
-                parseChronology(text);
-            } catch (error) {
-                document.getElementById('timeline').innerHTML = 
-                    '<div class="loading" style="color: #ff6b6b;">Error loading chronology. Please try again.</div>';
+        // Filter presets
+        const FILTER_PRESETS = {
+            'recent-hearings': {
+                name: '📋 Recent Hearings',
+                periods: ['2024', '2025', '2026'],
+                categories: ['CongressionalHearings'],
+                geo: ['USA']
+            },
+            'military-encounters': {
+                name: '✈️ Military Encounters',
+                categories: ['MilitaryEncounters'],
+                geo: ['USA', 'Europe', 'Asia']
+            },
+            'historical-sightings': {
+                name: '📜 Historical Events',
+                periods: ['194', '195', '196', '197'],
+                categories: ['CivilianSightings', 'MilitaryEncounters']
+            },
+            'whistleblower-disclosures': {
+                name: '🔓 Disclosures & FOIA',
+                categories: ['WhistleblowerDisclosures', 'LeaksDeclass']
+            },
+            'international': {
+                name: '🌍 International',
+                geo: ['Europe', 'Asia', 'LatinAmerica', 'International']
             }
-        }
+        };
         
-        function parseChronology(text) {
-            const lines = text.split('\n');
-            let currentEntry = null;
-            let inChronology = false;
+        const PERIODS = ['2030', '2029', '2028', '2027', '2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '200', '199', '198', '197', '196', '195', '194', '18', 'ancient'];
+        const CATEGORIES = ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 'CongressionalHearings', 'LeaksDeclass', 'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings', 'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO', 'SpaceSatellite', 'ScientificStudies', 'HistoricalPreModern', 'ReligiousCultural'];
+        const GEO_TAGS = ['USA', 'Canada', 'Mexico', 'Europe', 'UnitedKingdom', 'LatinAmerica', 'Asia', 'MiddleEast', 'Africa', 'Oceania', 'International', 'Space'];
+        
+        let currentSort = 'date-desc';
+        
+        // Initialize navigation
+        document.getElementById('header').innerHTML = `
+            <header class="main-header">
+                <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+                <p class="subtitle">Comprehensive Chronology Viewer</p>
+                <nav class="nav-links">
+                    <a href="index.html">🏠 Home</a>
+                    <a href="chronology-viewer.html" class="active">📋 Chronology</a>
+                    <a href="timeline.html">📊 Timeline</a>
+                    <a href="dist/chronology.md" target="_blank">📄 Raw Data</a>
+                    <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">💻 GitHub</a>
+                </nav>
+            </header>
+        `;
+        
+        // Initialize search bar with presets
+        document.getElementById('searchBarContainer').innerHTML = `
+            <div class="search-section">
+                <div class="search-container">
+                    <div class="search-input-wrapper">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" class="search-box" id="searchInput" 
+                               placeholder="Search events, dates, locations, people..." 
+                               autocomplete="off">
+                        <button class="clear-search" id="clearSearch" title="Clear search">×</button>
+                    </div>
+                    <div class="quick-filters">
+                        ${Object.entries(FILTER_PRESETS).map(([id, preset]) => `
+                            <button class="preset-btn" data-preset="${id}">${preset.name}</button>
+                        `).join('')}
+                    </div>
+                    <div class="active-filters" id="activeFilters"></div>
+                </div>
+            </div>
+        `;
+        
+        // Populate filter checkboxes
+        function populateFilters() {
+            const counts = filterService.calculateCounts();
             
-            for (let i = 0; i < lines.length; i++) {
-                const line = lines[i].trim();
-                
-                if (line === 'Chronology' || line === '# Chronology') {
-                    inChronology = true;
-                    continue;
-                }
-                
-                if (!inChronology) continue;
-                
-                // Match markdown headers like "## 2025, September 9 - Title"
-                const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
-                
-                if (headerMatch) {
-                    if (currentEntry) allEntries.push(currentEntry);
-                    currentEntry = {
-                        date: headerMatch[1],
-                        title: headerMatch[2],
-                        content: '',
-                        links: [],
-                        tags: [],
-                        year: extractYear(headerMatch[1])
-                    };
-                } else if (currentEntry) {
-                    if (line.startsWith('http://') || line.startsWith('https://')) {
-                        currentEntry.links.push(line);
-                    } else if (line.length > 0 && !line.startsWith('##')) {
-                        currentEntry.content += (currentEntry.content ? '\n' : '') + line;
-                    }
-                }
-                
-                if (currentEntry && line.includes('#')) {
-                    const tags = line.match(/#[A-Za-z0-9_]+/g);
-                    if (tags) currentEntry.tags.push(...tags);
-                }
-            }
+            // Period filters
+            document.getElementById('periodFilters').innerHTML = PERIODS.map(period => {
+                const label = period === 'ancient' ? 'Ancient' : period.length === 4 ? period : period.length === 3 ? period + '0s' : period + '00s';
+                const count = counts.periods[period] || 0;
+                return `
+                    <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
+                        <input type="checkbox" class="period-filter" value="${period}" checked>
+                        <span>${label} <span class="period-count">(${count})</span></span>
+                    </label>
+                `;
+            }).join('');
             
-            if (currentEntry) allEntries.push(currentEntry);
+            // Category filters
+            document.getElementById('categoryFilters').innerHTML = CATEGORIES.map(cat => {
+                const count = counts.tags[cat] || 0;
+                const shortName = cat.replace('CongressionalHearings', 'Hearings').replace('LegislationPolicy', 'Legislation').replace('WhistleblowerDisclosures', 'Whistleblower').replace('MilitaryEncounters', 'Military').replace('CivilianSightings', 'Civilian').replace('ContactAttempt', 'Contact').replace('LeaksDeclass', 'Leaks/FOIA').replace('AbductionCEIII', 'Abduction').replace('CrashRetrievals', 'Crash').replace('UnderwaterUSO', 'USO').replace('SpaceSatellite', 'Space').replace('ScientificStudies', 'Scientific').replace('HistoricalPreModern', 'Historical').replace('ReligiousCultural', 'Religious');
+                return `
+                    <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
+                        <input type="checkbox" class="category-filter" value="${cat}" checked>
+                        <span>${shortName} <span class="tag-count">(${count})</span></span>
+                    </label>
+                `;
+            }).join('');
             
-            filteredEntries = [...allEntries];
-            updateFilterCounts();
-            renderTimeline();
-            updateStats();
+            // Geo filters
+            document.getElementById('geoFilters').innerHTML = GEO_TAGS.map(geo => {
+                const count = counts.tags[geo] || 0;
+                return `
+                    <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
+                        <input type="checkbox" class="geo-filter" value="${geo}" checked>
+                        <span>${geo} <span class="tag-count">(${count})</span></span>
+                    </label>
+                `;
+            }).join('');
+            
+            // Attach change events
+            document.querySelectorAll('.period-filter, .category-filter, .geo-filter').forEach(cb => {
+                cb.addEventListener('change', applyFilters);
+            });
         }
         
-        function extractYear(dateStr) {
-            const match = dateStr.match(/^(\d{1,4})/);
-            return match ? parseInt(match[1]) : 0;
-        }
-        
-        function matchesPeriodFilter(eventYear, filterValue) {
-            if (filterValue === 'ancient') return eventYear < 1800;
-            if (filterValue.length === 4) return eventYear.toString() === filterValue;
-            if (filterValue.length === 3) return eventYear.toString().startsWith(filterValue);
-            if (filterValue.length === 2) return eventYear.toString().startsWith(filterValue);
-            return false;
-        }
-        
+        // Apply filters
         function applyFilters() {
-            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            const searchTerm = document.getElementById('searchInput').value;
             const selectedPeriods = Array.from(document.querySelectorAll('.period-filter:checked')).map(cb => cb.value);
-            const selectedCategoryTags = Array.from(document.querySelectorAll('.tag-filter:checked:not(.geo-filter)')).map(cb => cb.value.toLowerCase());
-            const selectedGeoTags = Array.from(document.querySelectorAll('.geo-filter:checked')).map(cb => cb.value.toLowerCase());
+            const selectedCategories = Array.from(document.querySelectorAll('.category-filter:checked')).map(cb => cb.value);
+            const selectedGeo = Array.from(document.querySelectorAll('.geo-filter:checked')).map(cb => cb.value);
             
-            const totalCategoryTags = document.querySelectorAll('.tag-filter:not(.geo-filter)').length;
-            const totalGeoTags = document.querySelectorAll('.geo-filter').length;
-            
-            // If no category or geo filters selected, show nothing
-            if (selectedCategoryTags.length === 0 || selectedGeoTags.length === 0) {
-                filteredEntries = [];
-                renderTimeline();
-                updateStats();
-                return;
-            }
-            
-            // Check if all filters selected
-            const allCategorySelected = selectedCategoryTags.length === totalCategoryTags;
-            const allGeoSelected = selectedGeoTags.length === totalGeoTags;
-            const allPeriodsSelected = selectedPeriods.length === document.querySelectorAll('.period-filter').length;
-            
-            filteredEntries = allEntries.filter(entry => {
-                // Period filter
-                if (selectedPeriods.length > 0) {
-                    const matchesPeriod = selectedPeriods.some(p => matchesPeriodFilter(entry.year, p));
-                    if (!matchesPeriod) return false;
-                }
-                
-                // Tag filters - must match at least one category AND one geo tag
-                const entryTags = entry.tags.map(t => t.toLowerCase().replace('#', ''));
-                
-                // If all filters selected and no search term, include everything
-                if (allCategorySelected && allGeoSelected && allPeriodsSelected && !searchTerm) {
-                    return true;
-                }
-                
-                const hasMatchingCategoryTag = selectedCategoryTags.some(tag => entryTags.includes(tag));
-                const hasMatchingGeoTag = selectedGeoTags.some(tag => entryTags.includes(tag));
-                
-                if (!hasMatchingCategoryTag || !hasMatchingGeoTag) return false;
-                
-                // Search term filter
-                if (searchTerm) {
-                    return entry.date.toLowerCase().includes(searchTerm) ||
-                           entry.title.toLowerCase().includes(searchTerm) ||
-                           entry.content.toLowerCase().includes(searchTerm) ||
-                           entryTags.some(tag => tag.includes(searchTerm));
-                }
-                
-                return true;
-            });
-            
-            updateFilterCounts();
-            renderTimeline();
-            updateStats();
+            filterService.setSearch(searchTerm);
+            filterService.setPeriods(selectedPeriods);
+            filterService.setCategories(selectedCategories);
+            filterService.setGeo(selectedGeo);
         }
         
-        function updateFilterCounts() {
-            const counts = { periods: {}, tags: {} };
-            
-            filteredEntries.forEach(entry => {
-                const year = entry.year;
-                const yearStr = year.toString();
-                
-                // Count periods
-                if (year >= 2030) counts.periods['2030'] = (counts.periods['2030'] || 0) + 1;
-                else if (year >= 2029) counts.periods['2029'] = (counts.periods['2029'] || 0) + 1;
-                else if (year >= 2028) counts.periods['2028'] = (counts.periods['2028'] || 0) + 1;
-                else if (year >= 2027) counts.periods['2027'] = (counts.periods['2027'] || 0) + 1;
-                else if (year >= 2026) counts.periods['2026'] = (counts.periods['2026'] || 0) + 1;
-                else if (year >= 2025) counts.periods['2025'] = (counts.periods['2025'] || 0) + 1;
-                else if (year >= 2024) counts.periods['2024'] = (counts.periods['2024'] || 0) + 1;
-                else if (year >= 2023) counts.periods['2023'] = (counts.periods['2023'] || 0) + 1;
-                else if (year >= 2022) counts.periods['2022'] = (counts.periods['2022'] || 0) + 1;
-                else if (year >= 2021) counts.periods['2021'] = (counts.periods['2021'] || 0) + 1;
-                else if (year >= 2020) counts.periods['2020'] = (counts.periods['2020'] || 0) + 1;
-                else if (year >= 2019) counts.periods['2019'] = (counts.periods['2019'] || 0) + 1;
-                else if (year >= 2018) counts.periods['2018'] = (counts.periods['2018'] || 0) + 1;
-                else if (year >= 2017) counts.periods['2017'] = (counts.periods['2017'] || 0) + 1;
-                else if (year >= 2016) counts.periods['2016'] = (counts.periods['2016'] || 0) + 1;
-                else if (year >= 2015) counts.periods['2015'] = (counts.periods['2015'] || 0) + 1;
-                else if (year >= 2014) counts.periods['2014'] = (counts.periods['2014'] || 0) + 1;
-                else if (year >= 2013) counts.periods['2013'] = (counts.periods['2013'] || 0) + 1;
-                else if (year >= 2012) counts.periods['2012'] = (counts.periods['2012'] || 0) + 1;
-                else if (year >= 2011) counts.periods['2011'] = (counts.periods['2011'] || 0) + 1;
-                else if (year >= 2010) counts.periods['2010'] = (counts.periods['2010'] || 0) + 1;
-                else if (yearStr.startsWith('200')) counts.periods['200'] = (counts.periods['200'] || 0) + 1;
-                else if (yearStr.startsWith('199')) counts.periods['199'] = (counts.periods['199'] || 0) + 1;
-                else if (yearStr.startsWith('198')) counts.periods['198'] = (counts.periods['198'] || 0) + 1;
-                else if (yearStr.startsWith('197')) counts.periods['197'] = (counts.periods['197'] || 0) + 1;
-                else if (yearStr.startsWith('196')) counts.periods['196'] = (counts.periods['196'] || 0) + 1;
-                else if (yearStr.startsWith('195')) counts.periods['195'] = (counts.periods['195'] || 0) + 1;
-                else if (yearStr.startsWith('194')) counts.periods['194'] = (counts.periods['194'] || 0) + 1;
-                else if (yearStr.startsWith('18')) counts.periods['18'] = (counts.periods['18'] || 0) + 1;
-                else if (year < 1800) counts.periods['ancient'] = (counts.periods['ancient'] || 0) + 1;
-                
-                // Count tags
-                entry.tags.forEach(tag => {
-                    const tagClean = tag.replace('#', '');
-                    const tagLower = tagClean.toLowerCase();
-                    
-                    ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 'CongressionalHearings', 
-                     'LeaksDeclass', 'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings',
-                     'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO', 'SpaceSatellite', 'ScientificStudies',
-                     'HistoricalPreModern', 'ReligiousCultural', 'USA', 'Canada', 'Mexico', 'Europe', 'UnitedKingdom',
-                     'LatinAmerica', 'Asia', 'MiddleEast', 'Africa', 'Oceania', 'International', 'Space'].forEach(t => {
-                        if (tagLower === t.toLowerCase()) {
-                            counts.tags[t] = (counts.tags[t] || 0) + 1;
-                        }
-                    });
-                });
-            });
-            
-            // Update UI
-            Object.keys(counts.periods).forEach(period => {
-                const countSpan = document.querySelector(`.period-count[data-period="${period}"]`);
-                if (countSpan) countSpan.textContent = `(${counts.periods[period]})`;
-            });
-            
-            Object.keys(counts.tags).forEach(tag => {
-                const countSpan = document.querySelector(`.tag-count[data-tag="${tag}"]`);
-                if (countSpan) countSpan.textContent = `(${counts.tags[tag]})`;
-            });
-        }
-        
-        function renderTimeline() {
+        // Render timeline
+        function renderTimeline(entries) {
             const timeline = document.getElementById('timeline');
+            const searchTerm = searchService.getSearchTerm();
             
-            if (filteredEntries.length === 0) {
+            if (entries.length === 0) {
                 timeline.innerHTML = '<div class="loading">No entries found matching your filters.</div>';
                 return;
             }
             
-            timeline.innerHTML = filteredEntries.map(entry => `
+            timeline.innerHTML = entries.map(entry => `
                 <div class="entry">
-                    <div class="entry-date">${escapeHtml(entry.date)}</div>
-                    <div class="entry-title">${escapeHtml(entry.title)}</div>
-                    ${entry.content ? `<div class="entry-content">${escapeHtml(entry.content)}</div>` : ''}
+                    <div class="entry-date">${searchService.highlightSearchTerm(entry.date)}</div>
+                    <div class="entry-title">${searchService.highlightSearchTerm(entry.title)}</div>
+                    ${entry.content ? `<div class="entry-content">${searchService.highlightSearchTerm(entry.content)}</div>` : ''}
                     ${entry.tags.length > 0 ? `<div>${entry.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div>` : ''}
                     ${entry.links.length > 0 ? `
                         <div class="entry-links">
@@ -897,132 +270,283 @@
             `).join('');
         }
         
-        function updateStats() {
+        // Update stats
+        function updateStats(data) {
+            const resultCount = document.getElementById('resultCount');
+            const resultStats = document.getElementById('resultStats');
             const eventCount = document.getElementById('eventCount');
-            eventCount.textContent = `Showing ${filteredEntries.length} of ${allEntries.length} events`;
+            
+            resultCount.textContent = `Showing ${data.filtered.length} of ${data.total} events`;
+            eventCount.textContent = `${data.total} total events`;
+            
+            if (data.filtered.length > 0) {
+                const years = data.filtered.map(e => e.year).filter(y => y > 0);
+                const minYear = Math.min(...years);
+                const maxYear = Math.max(...years);
+                resultStats.textContent = `📅 ${minYear} - ${maxYear}`;
+            } else {
+                resultStats.textContent = '';
+            }
         }
         
-        function escapeHtml(text) {
-            const div = document.createElement('div');
-            div.textContent = text;
-            return div.innerHTML;
+        // Update active filter badges
+        function updateActiveFilters(activeFilters) {
+            const container = document.getElementById('activeFilters');
+            const badges = [];
+            
+            if (activeFilters.search) {
+                badges.push(`<span class="filter-badge">🔍 "${activeFilters.search}" <button onclick="clearSearch()">×</button></span>`);
+            }
+            
+            const totalPeriods = PERIODS.length;
+            const totalCategories = CATEGORIES.length;
+            const totalGeo = GEO_TAGS.length;
+            
+            if (activeFilters.periods.length > 0 && activeFilters.periods.length < totalPeriods) {
+                activeFilters.periods.slice(0, 3).forEach(p => {
+                    const label = p === 'ancient' ? 'Ancient' : p.length === 4 ? p : p + '0s';
+                    badges.push(`<span class="filter-badge">📅 ${label} <button onclick="removePeriod('${p}')">×</button></span>`);
+                });
+                if (activeFilters.periods.length > 3) {
+                    badges.push(`<span class="filter-badge">+${activeFilters.periods.length - 3} more</span>`);
+                }
+            }
+            
+            if (activeFilters.categories.length > 0 && activeFilters.categories.length < totalCategories) {
+                activeFilters.categories.slice(0, 3).forEach(c => {
+                    badges.push(`<span class="filter-badge">🏷️ ${c} <button onclick="removeCategory('${c}')">×</button></span>`);
+                });
+                if (activeFilters.categories.length > 3) {
+                    badges.push(`<span class="filter-badge">+${activeFilters.categories.length - 3} more</span>`);
+                }
+            }
+            
+            if (activeFilters.geo.length > 0 && activeFilters.geo.length < totalGeo) {
+                activeFilters.geo.slice(0, 3).forEach(g => {
+                    badges.push(`<span class="filter-badge">🌍 ${g} <button onclick="removeGeo('${g}')">×</button></span>`);
+                });
+                if (activeFilters.geo.length > 3) {
+                    badges.push(`<span class="filter-badge">+${activeFilters.geo.length - 3} more</span>`);
+                }
+            }
+            
+            if (badges.length > 0) {
+                badges.push(`<button class="clear-all-btn" onclick="clearAllFilters()">Clear All</button>`);
+            }
+            
+            container.innerHTML = badges.join('');
         }
         
-        // Filter helper functions
-        function selectAllPeriods() {
+        // Sort entries
+        function sortEntries(entries) {
+            const sorted = [...entries];
+            if (currentSort === 'date-desc') {
+                sorted.sort((a, b) => b.year - a.year);
+            } else if (currentSort === 'date-asc') {
+                sorted.sort((a, b) => a.year - b.year);
+            } else if (currentSort === 'relevance') {
+                searchService.sortByRelevance(sorted);
+            }
+            return sorted;
+        }
+        
+        // Global functions for buttons
+        window.selectAllPeriods = () => {
             document.querySelectorAll('.period-filter').forEach(cb => cb.checked = true);
             applyFilters();
-        }
+        };
         
-        function deselectAllPeriods() {
+        window.deselectAllPeriods = () => {
             document.querySelectorAll('.period-filter').forEach(cb => cb.checked = false);
             applyFilters();
-        }
+        };
         
-        function selectAllTags() {
-            document.querySelectorAll('.tag-filter:not(.geo-filter)').forEach(cb => cb.checked = true);
+        window.selectAllCategories = () => {
+            document.querySelectorAll('.category-filter').forEach(cb => cb.checked = true);
             applyFilters();
-        }
+        };
         
-        function deselectAllTags() {
-            document.querySelectorAll('.tag-filter:not(.geo-filter)').forEach(cb => cb.checked = false);
+        window.deselectAllCategories = () => {
+            document.querySelectorAll('.category-filter').forEach(cb => cb.checked = false);
             applyFilters();
-        }
+        };
         
-        function selectAllGeoFilters() {
+        window.selectAllGeo = () => {
             document.querySelectorAll('.geo-filter').forEach(cb => cb.checked = true);
             applyFilters();
-        }
+        };
         
-        function selectNoneGeoFilters() {
+        window.deselectAllGeo = () => {
             document.querySelectorAll('.geo-filter').forEach(cb => cb.checked = false);
             applyFilters();
-        }
+        };
         
-        // Search functionality
-        document.addEventListener('DOMContentLoaded', () => {
-            document.getElementById('searchBox').addEventListener('input', applyFilters);
-        });
+        window.clearSearch = () => {
+            document.getElementById('searchInput').value = '';
+            searchService.clear();
+            applyFilters();
+        };
         
-        // Load on page load
-        loadChronology();
+        window.removePeriod = (period) => {
+            const cb = document.querySelector(`.period-filter[value="${period}"]`);
+            if (cb) {
+                cb.checked = false;
+                applyFilters();
+            }
+        };
         
-        // Toggle sidebar functionality
-        function toggleSidebar(event) {
+        window.removeCategory = (category) => {
+            const cb = document.querySelector(`.category-filter[value="${category}"]`);
+            if (cb) {
+                cb.checked = false;
+                applyFilters();
+            }
+        };
+        
+        window.removeGeo = (geo) => {
+            const cb = document.querySelector(`.geo-filter[value="${geo}"]`);
+            if (cb) {
+                cb.checked = false;
+                applyFilters();
+            }
+        };
+        
+        window.clearAllFilters = () => {
+            document.getElementById('searchInput').value = '';
+            document.querySelectorAll('.period-filter, .category-filter, .geo-filter').forEach(cb => cb.checked = true);
+            searchService.clear();
+            applyFilters();
+        };
+        
+        window.toggleSidebar = (event) => {
             if (event) {
                 event.preventDefault();
                 event.stopPropagation();
             }
-            
             const sidebar = document.getElementById('sidebar');
-            const toggleBtn = document.getElementById('toggleSidebar');
             sidebar.classList.toggle('collapsed');
-            toggleBtn.classList.toggle('collapsed');
-            
-            // Persist state
-            const isCollapsed = sidebar.classList.contains('collapsed');
-            localStorage.setItem('chronologySidebarCollapsed', isCollapsed);
-        }
-        
-        // Restore sidebar state on load
-        window.addEventListener('DOMContentLoaded', function() {
-            const isCollapsed = localStorage.getItem('chronologySidebarCollapsed') === 'true';
-            if (isCollapsed) {
-                document.getElementById('sidebar').classList.add('collapsed');
-                document.getElementById('toggleSidebar').classList.add('collapsed');
-            }
-        });
-        
-        // Initialize language switcher
-        document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
-        updatePageLanguage();
-        
-        // Show translation notice if not English
-        function checkTranslationNotice() {
-            const currentLang = getCurrentLanguage();
-            const notice = document.getElementById('translationNotice');
-            if (currentLang !== 'en' && notice) {
-                notice.style.display = 'block';
-            } else if (notice) {
-                notice.style.display = 'none';
-            }
-        }
-        
-        // Trigger browser translation
-        function triggerBrowserTranslation() {
-            const currentLang = getCurrentLanguage();
-            
-            // Try to trigger Google Translate if available
-            if (window.google && window.google.translate) {
-                const translateElement = new google.translate.TranslateElement({
-                    pageLanguage: 'en',
-                    includedLanguages: 'zh-CN,es,ar,pt',
-                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-                }, 'google_translate_element');
-            } else {
-                // Fallback: Add translate attribute to content
-                const timeline = document.getElementById('timeline');
-                if (timeline) {
-                    timeline.setAttribute('translate', 'yes');
-                    
-                    // Show instruction
-                    alert(t('translationNote') + '\n\n' + 
-                          'Chrome/Edge: Right-click → Translate to ' + languageNames[currentLang] + '\n' +
-                          'Firefox: Right-click → Translate Page\n' +
-                          'Safari: Right-click → Translate to ' + languageNames[currentLang]);
-                }
-            }
-        }
-        
-        // Check translation notice on language change
-        const originalSetLanguage = setLanguage;
-        setLanguage = function(lang) {
-            originalSetLanguage(lang);
-            checkTranslationNotice();
+            localStorage.setItem('chronologySidebarCollapsed', sidebar.classList.contains('collapsed'));
         };
         
-        // Check on initial load
-        checkTranslationNotice();
+        // Initialize
+        async function init() {
+            try {
+                // Load chronology data
+                const entries = await chronologyService.loadChronology();
+                filterService.setAllEntries(entries);
+                
+                // Populate filters
+                populateFilters();
+                
+                // Subscribe to filter changes
+                filterService.subscribe((data) => {
+                    const sorted = sortEntries(data.filtered);
+                    renderTimeline(sorted);
+                    updateStats(data);
+                    updateActiveFilters(data.active);
+                    URLParamsManager.saveToURL(data.active);
+                });
+                
+                // Search input
+                document.getElementById('searchInput').addEventListener('input', (e) => {
+                    searchService.setSearchTerm(e.target.value);
+                    applyFilters();
+                    document.getElementById('clearSearch').style.display = e.target.value ? 'block' : 'none';
+                });
+                
+                document.getElementById('clearSearch').addEventListener('click', clearSearch);
+                
+                // Preset buttons
+                document.querySelectorAll('.preset-btn').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        const presetId = btn.dataset.preset;
+                        const preset = FILTER_PRESETS[presetId];
+                        
+                        // Apply preset
+                        document.querySelectorAll('.period-filter').forEach(cb => {
+                            cb.checked = !preset.periods || preset.periods.includes(cb.value);
+                        });
+                        document.querySelectorAll('.category-filter').forEach(cb => {
+                            cb.checked = !preset.categories || preset.categories.includes(cb.value);
+                        });
+                        document.querySelectorAll('.geo-filter').forEach(cb => {
+                            cb.checked = !preset.geo || preset.geo.includes(cb.value);
+                        });
+                        
+                        applyFilters();
+                        showNotification(`Applied: ${preset.name}`);
+                    });
+                });
+                
+                // Sort dropdown
+                document.getElementById('sortBy').addEventListener('change', (e) => {
+                    currentSort = e.target.value;
+                    const data = {
+                        filtered: sortEntries(filterService.getFilteredEntries()),
+                        active: filterService.getActiveFilters(),
+                        total: chronologyService.getAllEntries().length
+                    };
+                    renderTimeline(data.filtered);
+                });
+                
+                // Keyboard shortcuts
+                document.addEventListener('keydown', (e) => {
+                    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+                        e.preventDefault();
+                        document.getElementById('searchInput').focus();
+                    }
+                    if (e.key === 'Escape' && document.activeElement.id === 'searchInput') {
+                        clearSearch();
+                    }
+                });
+                
+                // Restore sidebar state
+                const isCollapsed = localStorage.getItem('chronologySidebarCollapsed') === 'true';
+                if (isCollapsed) {
+                    document.getElementById('sidebar').classList.add('collapsed');
+                }
+                
+                // Load filters from URL
+                const urlFilters = URLParamsManager.loadFromURL();
+                if (urlFilters.search) {
+                    document.getElementById('searchInput').value = urlFilters.search;
+                    searchService.setSearchTerm(urlFilters.search);
+                }
+                if (urlFilters.periods) {
+                    document.querySelectorAll('.period-filter').forEach(cb => {
+                        cb.checked = urlFilters.periods.includes(cb.value);
+                    });
+                }
+                if (urlFilters.categories) {
+                    document.querySelectorAll('.category-filter').forEach(cb => {
+                        cb.checked = urlFilters.categories.map(c => c.toLowerCase()).includes(cb.value.toLowerCase());
+                    });
+                }
+                if (urlFilters.geo) {
+                    document.querySelectorAll('.geo-filter').forEach(cb => {
+                        cb.checked = urlFilters.geo.map(g => g.toLowerCase()).includes(cb.value.toLowerCase());
+                    });
+                }
+                if (urlFilters.sort) {
+                    currentSort = urlFilters.sort;
+                    document.getElementById('sortBy').value = urlFilters.sort;
+                }
+                
+                // Initial filter application
+                applyFilters();
+                
+                // Initialize language switcher
+                document.getElementById('languageSwitcherContainer').innerHTML = createLanguageSwitcher();
+                updatePageLanguage();
+                
+            } catch (error) {
+                console.error('Initialization error:', error);
+                document.getElementById('timeline').innerHTML = '<div class="loading" style="color: #ff6b6b;">Error loading chronology. Please refresh the page.</div>';
+            }
+        }
+        
+        // Start initialization
+        init();
     </script>
 </body>
 </html>

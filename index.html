@@ -11,6 +11,7 @@
     
     <link rel="manifest" href="manifest.json?v=20260103">
     <meta name="theme-color" content="#58a6ff">
+    <link rel="stylesheet" href="css/shared-styles.css">
     <link rel="stylesheet" href="i18n/language-switcher.css">
     <script src="i18n/translations.js"></script>
     
@@ -192,12 +193,22 @@
 </head>
 <body>
     <div class="container">
-        <h1>🛸 UAP/UFO/NHI DISCLOSURE DATABASE</h1>
-        <div class="subtitle">Interactive Timeline & Comprehensive Documentation</div>
+        <!-- Consistent Navigation Header -->
+        <header class="main-header">
+            <h1>UAP/UFO/NHI DISCLOSURE DATABASE</h1>
+            <p class="subtitle">Interactive Timeline & Comprehensive Documentation</p>
+            <nav class="nav-links">
+                <a href="index.html" class="active">🏠 Home</a>
+                <a href="chronology-viewer.html">📋 Chronology</a>
+                <a href="timeline.html">📊 Timeline</a>
+                <a href="dist/chronology.md" target="_blank">📄 Raw Data</a>
+                <a href="https://github.com/unclebulgaria9001/disclosureparty" target="_blank">💻 GitHub</a>
+            </nav>
+        </header>
         
         <div class="tabs">
             <div class="tab" onclick="window.location.href='viewer.html'">📡 NHI MESSAGE</div>
-            <div class="tab" onclick="window.location.href='timeline.html#chronology'">📋 CHRONOLOGY</div>
+            <div class="tab" onclick="window.location.href='chronology-viewer.html'">📋 CHRONOLOGY</div>
             <div class="tab" onclick="window.location.href='timeline.html'">📊 TIMELINE VIZ</div>
             <div class="tab" onclick="window.location.href='network-graph.html'">🕸️ NETWORK GRAPH</div>
             <div class="tab" onclick="window.location.href='timeline.html#map'">🗺️ GEOTIMELINE</div>
