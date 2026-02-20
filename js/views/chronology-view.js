@@ -220,21 +220,34 @@
             // Period filter
             const year = entry.year;
             let periodMatch = false;
+            
             for (const period of selectedPeriods) {
                 if (period === 'ancient' && year < 1800) {
                     periodMatch = true;
                     break;
-                } else if (period.length === 4 && year === parseInt(period)) {
-                    periodMatch = true;
-                    break;
-                } else if (period.length === 3 && Math.floor(year / 10) === parseInt(period)) {
-                    periodMatch = true;
-                    break;
-                } else if (period.length === 2 && Math.floor(year / 100) === parseInt(period)) {
-                    periodMatch = true;
-                    break;
+                } else if (period.length === 4) {
+                    // Exact year match (e.g., 2024)
+                    if (year === parseInt(period)) {
+                        periodMatch = true;
+                        break;
+                    }
+                } else if (period.length === 3) {
+                    // Decade match (e.g., 202 matches 2020-2029)
+                    const decade = parseInt(period);
+                    if (Math.floor(year / 10) === decade) {
+                        periodMatch = true;
+                        break;
+                    }
+                } else if (period.length === 2) {
+                    // Century match (e.g., 18 matches 1800-1899)
+                    const century = parseInt(period);
+                    if (Math.floor(year / 100) === century) {
+                        periodMatch = true;
+                        break;
+                    }
                 }
             }
+            
             if (!periodMatch) return false;
             
             // Category/Geo filter
