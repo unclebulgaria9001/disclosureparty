@@ -41,7 +41,7 @@
             
             if (line.startsWith('# UAP/UFO Chronology')) continue;
             
-            const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\ s+-\s+(.+)/i);
+            const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
             
             if (headerMatch) {
                 if (currentEntry) entries.push(currentEntry);
