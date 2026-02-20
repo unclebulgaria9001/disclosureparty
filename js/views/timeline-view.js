@@ -4,22 +4,66 @@
     let filteredEvents = [];
     let svg, xScale, yScale;
     
+    const PERIODS = ['ancient', '18', '19', '194', '195', '196', '197', '198', '199', '200', '201', '202'];
+    const CATEGORIES = ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 'CongressionalHearings', 'LeaksDeclass', 'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings', 'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO', 'SpaceSatellite', 'ScientificStudies', 'HistoricalPreModern', 'ReligiousCultural'];
+    const GEO_TAGS = ['USA', 'Canada', 'UnitedKingdom', 'Europe', 'Russia', 'MiddleEast', 'Asia', 'Africa', 'LatinAmerica', 'Oceania', 'International', 'Space'];
+    
     async function init() {
         const container = document.getElementById('timeline-view');
         if (!container) return;
 
         container.innerHTML = `
-            <div style="padding: 20px;">
-                <h2 style="color: var(--accent); margin-bottom: 20px; text-align: center;">📊 Timeline Visualization</h2>
-                <div id="timeline-chart" style="width: 100%; height: 600px; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border);"></div>
-                <div style="margin-top: 20px; text-align: center; color: var(--muted); font-size: 0.9em;">
-                    <span id="timeline-event-count">Loading events...</span>
+            <div style="display: flex; gap: 20px; padding: 20px; height: calc(100vh - 200px);">
+                <div id="timeline-sidebar" style="width: 280px; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border); padding: 20px; overflow-y: auto;">
+                    <h3 style="color: var(--accent); margin: 0 0 15px 0; font-size: 1.1em;">Filters</h3>
+                    
+                    <div style="margin-bottom: 20px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <strong style="color: var(--text); font-size: 0.9em;">Time Periods</strong>
+                            <div style="display: flex; gap: 5px;">
+                                <button onclick="window.selectAllTimelinePeriods()" style="font-size: 0.7em; padding: 2px 6px; background: var(--bg-secondary); border: 1px solid var(--border); color: var(--muted); cursor: pointer; border-radius: 3px;">All</button>
+                                <button onclick="window.deselectAllTimelinePeriods()" style="font-size: 0.7em; padding: 2px 6px; background: var(--bg-secondary); border: 1px solid var(--border); color: var(--muted); cursor: pointer; border-radius: 3px;">None</button>
+                            </div>
+                        </div>
+                        <div id="timeline-periods" style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85em;"></div>
+                    </div>
+                    
+                    <div style="margin-bottom: 20px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <strong style="color: var(--text); font-size: 0.9em;">Categories</strong>
+                            <div style="display: flex; gap: 5px;">
+                                <button onclick="window.selectAllTimelineCategories()" style="font-size: 0.7em; padding: 2px 6px; background: var(--bg-secondary); border: 1px solid var(--border); color: var(--muted); cursor: pointer; border-radius: 3px;">All</button>
+                                <button onclick="window.deselectAllTimelineCategories()" style="font-size: 0.7em; padding: 2px 6px; background: var(--bg-secondary); border: 1px solid var(--border); color: var(--muted); cursor: pointer; border-radius: 3px;">None</button>
+                            </div>
+                        </div>
+                        <div id="timeline-categories" style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85em;"></div>
+                    </div>
+                    
+                    <div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <strong style="color: var(--text); font-size: 0.9em;">Geographic</strong>
+                            <div style="display: flex; gap: 5px;">
+                                <button onclick="window.selectAllTimelineGeo()" style="font-size: 0.7em; padding: 2px 6px; background: var(--bg-secondary); border: 1px solid var(--border); color: var(--muted); cursor: pointer; border-radius: 3px;">All</button>
+                                <button onclick="window.deselectAllTimelineGeo()" style="font-size: 0.7em; padding: 2px 6px; background: var(--bg-secondary); border: 1px solid var(--border); color: var(--muted); cursor: pointer; border-radius: 3px;">None</button>
+                            </div>
+                        </div>
+                        <div id="timeline-geo" style="display: flex; flex-direction: column; gap: 4px; font-size: 0.85em;"></div>
+                    </div>
+                </div>
+                
+                <div style="flex: 1; display: flex; flex-direction: column;">
+                    <h2 style="color: var(--accent); margin: 0 0 20px 0; text-align: center;">📊 Timeline Visualization</h2>
+                    <div id="timeline-chart" style="flex: 1; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border);"></div>
+                    <div style="margin-top: 15px; text-align: center; color: var(--muted); font-size: 0.9em;">
+                        <span id="timeline-event-count">Loading events...</span>
+                    </div>
                 </div>
             </div>
         `;
 
         await loadTimelineData();
-        initializeTimeline();
+        populateTimelineFilters();
+        applyTimelineFilters();
     }
 
     async function loadTimelineData() {
@@ -68,6 +112,138 @@
     function extractYear(dateStr) {
         const match = dateStr.match(/^(\d{1,4})/);
         return match ? parseInt(match[1]) : 0;
+    }
+
+    function populateTimelineFilters() {
+        const counts = calculateCounts();
+        
+        document.getElementById('timeline-periods').innerHTML = PERIODS.map(period => {
+            const label = period === 'ancient' ? 'Ancient' : period.length === 4 ? period : period.length === 3 ? period + '0s' : period + '00s';
+            const count = counts.periods[period] || 0;
+            return `
+                <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
+                    <input type="checkbox" class="timeline-period-filter" value="${period}" checked onchange="window.applyTimelineFilters()">
+                    <span>${label} (${count})</span>
+                </label>
+            `;
+        }).join('');
+        
+        document.getElementById('timeline-categories').innerHTML = CATEGORIES.map(cat => {
+            const count = counts.categories[cat] || 0;
+            const shortName = cat.replace('CongressionalHearings', 'Hearings').replace('LegislationPolicy', 'Legislation').replace('WhistleblowerDisclosures', 'Whistleblower').replace('MilitaryEncounters', 'Military').replace('CivilianSightings', 'Civilian').replace('ContactAttempt', 'Contact').replace('LeaksDeclass', 'Leaks').replace('AbductionCEIII', 'Abduction').replace('CrashRetrievals', 'Crash').replace('UnderwaterUSO', 'USO').replace('SpaceSatellite', 'Space').replace('ScientificStudies', 'Scientific').replace('HistoricalPreModern', 'Historical').replace('ReligiousCultural', 'Religious');
+            return `
+                <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
+                    <input type="checkbox" class="timeline-category-filter" value="${cat}" checked onchange="window.applyTimelineFilters()">
+                    <span>${shortName} (${count})</span>
+                </label>
+            `;
+        }).join('');
+        
+        document.getElementById('timeline-geo').innerHTML = GEO_TAGS.map(geo => {
+            const count = counts.geo[geo] || 0;
+            return `
+                <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
+                    <input type="checkbox" class="timeline-geo-filter" value="${geo}" checked onchange="window.applyTimelineFilters()">
+                    <span>${geo} (${count})</span>
+                </label>
+            `;
+        }).join('');
+    }
+
+    function calculateCounts() {
+        const counts = { periods: {}, categories: {}, geo: {} };
+        
+        for (const entry of allEvents) {
+            for (const period of PERIODS) {
+                if (period === 'ancient' && entry.year < 1800) {
+                    counts.periods[period] = (counts.periods[period] || 0) + 1;
+                } else if (period.length === 4 && entry.year === parseInt(period)) {
+                    counts.periods[period] = (counts.periods[period] || 0) + 1;
+                } else if (period.length === 3 && Math.floor(entry.year / 10) === parseInt(period)) {
+                    counts.periods[period] = (counts.periods[period] || 0) + 1;
+                } else if (period.length === 2 && Math.floor(entry.year / 100) === parseInt(period)) {
+                    counts.periods[period] = (counts.periods[period] || 0) + 1;
+                }
+            }
+            
+            for (const tag of entry.tags) {
+                const cleanTag = tag.replace('#', '');
+                if (CATEGORIES.includes(cleanTag)) {
+                    counts.categories[cleanTag] = (counts.categories[cleanTag] || 0) + 1;
+                }
+                if (GEO_TAGS.includes(cleanTag)) {
+                    counts.geo[cleanTag] = (counts.geo[cleanTag] || 0) + 1;
+                }
+            }
+        }
+        
+        return counts;
+    }
+
+    function applyTimelineFilters() {
+        const selectedPeriods = Array.from(document.querySelectorAll('.timeline-period-filter:checked')).map(cb => cb.value);
+        const selectedCategories = Array.from(document.querySelectorAll('.timeline-category-filter:checked')).map(cb => cb.value);
+        const selectedGeo = Array.from(document.querySelectorAll('.timeline-geo-filter:checked')).map(cb => cb.value);
+        
+        filteredEvents = allEvents.filter(entry => {
+            const year = entry.year;
+            let periodMatch = false;
+            
+            for (const period of selectedPeriods) {
+                if (period === 'ancient' && year < 1800) {
+                    periodMatch = true;
+                    break;
+                } else if (period.length === 4) {
+                    if (year === parseInt(period)) {
+                        periodMatch = true;
+                        break;
+                    }
+                } else if (period.length === 3) {
+                    const decade = parseInt(period);
+                    if (Math.floor(year / 10) === decade) {
+                        periodMatch = true;
+                        break;
+                    }
+                } else if (period.length === 2) {
+                    const century = parseInt(period);
+                    if (Math.floor(year / 100) === century) {
+                        periodMatch = true;
+                        break;
+                    }
+                }
+            }
+            
+            if (!periodMatch) return false;
+            
+            const entryTags = entry.tags.map(t => t.replace('#', ''));
+            const entryCategoryTags = entryTags.filter(tag => CATEGORIES.includes(tag));
+            const entryGeoTags = entryTags.filter(tag => GEO_TAGS.includes(tag));
+            
+            const allCategoriesSelected = selectedCategories.length === CATEGORIES.length;
+            const allGeoSelected = selectedGeo.length === GEO_TAGS.length;
+            
+            if (allCategoriesSelected && allGeoSelected) {
+                return true;
+            }
+            
+            if (selectedCategories.length === 0 && entryCategoryTags.length > 0) {
+                return false;
+            }
+            
+            if (selectedGeo.length === 0 && entryGeoTags.length > 0) {
+                return false;
+            }
+            
+            const categoryMatch = entryCategoryTags.length === 0 || 
+                                 entryCategoryTags.some(tag => selectedCategories.includes(tag));
+            
+            const geoMatch = entryGeoTags.length === 0 || 
+                            entryGeoTags.some(tag => selectedGeo.includes(tag));
+            
+            return categoryMatch && geoMatch;
+        });
+        
+        initializeTimeline();
     }
 
     function initializeTimeline() {
@@ -163,6 +339,38 @@
         document.getElementById('timeline-event-count').textContent = 
             `Showing ${filteredEvents.length} events from ${d3.min(yearData, d => d.year)} to ${d3.max(yearData, d => d.year)}`;
     }
+
+    window.applyTimelineFilters = applyTimelineFilters;
+    
+    window.selectAllTimelinePeriods = function() {
+        document.querySelectorAll('.timeline-period-filter').forEach(cb => cb.checked = true);
+        applyTimelineFilters();
+    };
+
+    window.deselectAllTimelinePeriods = function() {
+        document.querySelectorAll('.timeline-period-filter').forEach(cb => cb.checked = false);
+        applyTimelineFilters();
+    };
+
+    window.selectAllTimelineCategories = function() {
+        document.querySelectorAll('.timeline-category-filter').forEach(cb => cb.checked = true);
+        applyTimelineFilters();
+    };
+
+    window.deselectAllTimelineCategories = function() {
+        document.querySelectorAll('.timeline-category-filter').forEach(cb => cb.checked = false);
+        applyTimelineFilters();
+    };
+
+    window.selectAllTimelineGeo = function() {
+        document.querySelectorAll('.timeline-geo-filter').forEach(cb => cb.checked = true);
+        applyTimelineFilters();
+    };
+
+    window.deselectAllTimelineGeo = function() {
+        document.querySelectorAll('.timeline-geo-filter').forEach(cb => cb.checked = false);
+        applyTimelineFilters();
+    };
 
     window.initTimelineView = init;
 })();
