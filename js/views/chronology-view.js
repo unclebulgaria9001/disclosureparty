@@ -191,8 +191,14 @@
             
             for (const tag of entry.tags) {
                 const cleanTag = tag.replace('#', '');
-                counts.categories[cleanTag] = (counts.categories[cleanTag] || 0) + 1;
-                counts.geo[cleanTag] = (counts.geo[cleanTag] || 0) + 1;
+                // Count for categories if it's in the category list
+                if (CATEGORIES.includes(cleanTag)) {
+                    counts.categories[cleanTag] = (counts.categories[cleanTag] || 0) + 1;
+                }
+                // Count for geo if it's in the geo list
+                if (GEO_TAGS.includes(cleanTag)) {
+                    counts.geo[cleanTag] = (counts.geo[cleanTag] || 0) + 1;
+                }
             }
         }
         
@@ -233,10 +239,29 @@
             
             // Category/Geo filter
             const entryTags = entry.tags.map(t => t.replace('#', ''));
-            const hasCategory = selectedCategories.some(cat => entryTags.includes(cat));
-            const hasGeo = selectedGeo.some(geo => entryTags.includes(geo));
             
-            return hasCategory && hasGeo;
+            // Check if entry has any category or geo tags from our filter lists
+            const entryCategoryTags = entryTags.filter(tag => CATEGORIES.includes(tag));
+            const entryGeoTags = entryTags.filter(tag => GEO_TAGS.includes(tag));
+            
+            // If ALL filters are selected (default state), show all entries
+            const allCategoriesSelected = selectedCategories.length === CATEGORIES.length;
+            const allGeoSelected = selectedGeo.length === GEO_TAGS.length;
+            
+            if (allCategoriesSelected && allGeoSelected) {
+                return true; // Show everything when all filters are on
+            }
+            
+            // Otherwise, filter based on selected tags
+            // If entry has category tags, at least one must be selected
+            const categoryMatch = entryCategoryTags.length === 0 || 
+                                 entryCategoryTags.some(tag => selectedCategories.includes(tag));
+            
+            // If entry has geo tags, at least one must be selected  
+            const geoMatch = entryGeoTags.length === 0 || 
+                            entryGeoTags.some(tag => selectedGeo.includes(tag));
+            
+            return categoryMatch && geoMatch;
         });
         
         renderChronologyEntries();
