@@ -171,7 +171,6 @@
             return `
                 <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
                     <input type="checkbox" class="chronology-geo-filter" value="${geo}" checked onchange="window.applyChronologyFilters()">
-                    <input type="checkbox" class="chronology-geo-filter" value="${geo}" checked onchange="applyChronologyFilters()">
                     <span>${geo} (${count})</span>
                 </label>
             `;
