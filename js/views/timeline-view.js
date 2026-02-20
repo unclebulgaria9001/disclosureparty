@@ -7,13 +7,44 @@
     const CATEGORIES = ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 'CongressionalHearings', 'LeaksDeclass', 'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings', 'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO', 'SpaceSatellite', 'ScientificStudies', 'HistoricalPreModern', 'ReligiousCultural'];
     const GEO_TAGS = ['USA', 'Canada', 'UnitedKingdom', 'Europe', 'Russia', 'MiddleEast', 'Asia', 'Africa', 'LatinAmerica', 'Oceania', 'International', 'Space'];
     
+    const categoryLabels = {
+        'Outbound': 'OUTBOUND',
+        'Inbound': 'INBOUND',
+        'ContactAttempt': 'CONTACT',
+        'LegislationPolicy': 'LEGISLATION',
+        'CongressionalHearings': 'HEARINGS',
+        'LeaksDeclass': 'LEAKS/FOIA',
+        'WhistleblowerDisclosures': 'WHISTLEBLOWER',
+        'MilitaryEncounters': 'MILITARY',
+        'CivilianSightings': 'CIVILIAN',
+        'AbductionCEIII': 'ABDUCTION',
+        'CrashRetrievals': 'CRASH',
+        'UnderwaterUSO': 'USO',
+        'SpaceSatellite': 'SPACE',
+        'ScientificStudies': 'SCIENTIFIC',
+        'HistoricalPreModern': 'HISTORICAL',
+        'ReligiousCultural': 'RELIGIOUS'
+    };
+    
     async function init() {
         const container = document.getElementById('timeline-view');
         if (!container) return;
 
         container.innerHTML = `
-            <div style="display: flex; gap: 20px; padding: 20px; height: calc(100vh - 200px);">
-                <div id="timeline-sidebar" style="width: 280px; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border); padding: 20px; overflow-y: auto;">
+            <style>
+                .timeline-track { stroke: #21262d; stroke-width: 1; fill: none; }
+                .event-node { cursor: pointer; transition: all 0.2s; }
+                .event-node.chronology { fill: #8b949e; stroke: #6e7681; stroke-width: 1.5; }
+                .event-node:hover { filter: brightness(1.3); stroke-width: 3; }
+                .event-label { font-size: 9px; fill: #8b949e; pointer-events: none; }
+                .timeline-tooltip { position: absolute; background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; pointer-events: none; opacity: 0; transition: opacity 0.2s; max-width: 300px; z-index: 1000; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5); }
+                .timeline-tooltip.visible { opacity: 1; }
+                .timeline-tooltip-title { color: #58a6ff; font-weight: 600; margin-bottom: 5px; }
+                .timeline-tooltip-date { color: #8b949e; font-size: 0.85em; margin-bottom: 8px; }
+                .timeline-tooltip-description { color: #c9d1d9; font-size: 0.85em; line-height: 1.4; }
+            </style>
+            <div style="display: flex; gap: 20px; padding: 20px; min-height: calc(100vh - 200px);">
+                <div id="timeline-sidebar" style="width: 280px; flex-shrink: 0; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border); padding: 20px; overflow-y: auto; max-height: calc(100vh - 240px);">
                     <h3 style="color: var(--accent); margin: 0 0 15px 0; font-size: 1.1em;">Filters</h3>
                     
                     <div style="margin-bottom: 20px;">
@@ -50,13 +81,18 @@
                     </div>
                 </div>
                 
-                <div style="flex: 1; display: flex; flex-direction: column;">
-                    <h2 style="color: var(--accent); margin: 0 0 20px 0; text-align: center;">📊 Timeline Visualization</h2>
-                    <div id="timeline-chart" style="flex: 1; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border);"></div>
+                <div style="flex: 1; display: flex; flex-direction: column; min-width: 0;">
+                    <h2 style="color: var(--accent); margin: 0 0 20px 0; text-align: center;">📊 Timeline Swim Lanes</h2>
+                    <div id="timeline-chart" style="flex: 1; min-height: 900px; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border); overflow-x: auto; overflow-y: hidden;"></div>
                     <div style="margin-top: 15px; text-align: center; color: var(--muted); font-size: 0.9em;">
                         <span id="timeline-event-count">Loading events...</span>
                     </div>
                 </div>
+            </div>
+            <div id="timeline-tooltip" class="timeline-tooltip">
+                <div class="timeline-tooltip-title"></div>
+                <div class="timeline-tooltip-date"></div>
+                <div class="timeline-tooltip-description"></div>
             </div>
         `;
 
@@ -80,6 +116,7 @@
         const entries = [];
         const lines = text.split('\n');
         let currentEntry = null;
+        let currentContent = '';
 
         for (let i = 0; i < lines.length; i++) {
             const line = lines[i].trim();
@@ -89,23 +126,59 @@
             const headerMatch = line.match(/^##\s+(\d{1,4}(?:\s+(?:BCE|CE))?(?:,\s+[A-Za-z]+(?:\s+\d{1,2})?)?)\s+-\s+(.+)/i);
             
             if (headerMatch) {
-                if (currentEntry) entries.push(currentEntry);
+                if (currentEntry) {
+                    currentEntry.description = currentContent.trim();
+                    entries.push(currentEntry);
+                }
                 
                 const titleWithTags = headerMatch[2];
                 const titleTags = titleWithTags.match(/#[A-Za-z0-9_]+/g) || [];
                 const titleWithoutTags = titleWithTags.replace(/#[A-Za-z0-9_]+/g, '').trim();
                 
                 currentEntry = {
-                    date: headerMatch[1],
+                    date: parseDateString(headerMatch[1]),
+                    originalDateStr: headerMatch[1],
                     title: titleWithoutTags,
-                    tags: titleTags,
-                    year: extractYear(headerMatch[1])
+                    tags: titleTags.map(t => t.substring(1)),
+                    year: extractYear(headerMatch[1]),
+                    type: 'chronology'
                 };
+                currentContent = '';
+            } else if (currentEntry && line.length > 0 && !line.startsWith('http')) {
+                currentContent += (currentContent ? ' ' : '') + line;
             }
         }
         
-        if (currentEntry) entries.push(currentEntry);
-        return entries.filter(e => e.year > 0);
+        if (currentEntry) {
+            currentEntry.description = currentContent.trim();
+            entries.push(currentEntry);
+        }
+        return entries.filter(e => e.year > 0 && e.date);
+    }
+
+    function parseDateString(dateStr) {
+        const modernMatch = dateStr.match(/^(\d{4})(?:,\s+([A-Za-z]+)(?:\s+(\d{1,2}))?)?/);
+        if (modernMatch) {
+            const year = parseInt(modernMatch[1]);
+            const monthName = modernMatch[2];
+            const day = modernMatch[3] ? parseInt(modernMatch[3]) : 1;
+            
+            if (monthName) {
+                const months = {
+                    'january': 0, 'february': 1, 'march': 2, 'april': 3,
+                    'may': 4, 'june': 5, 'july': 6, 'august': 7,
+                    'september': 8, 'october': 9, 'november': 10, 'december': 11
+                };
+                const month = months[monthName.toLowerCase()];
+                if (month !== undefined) {
+                    return new Date(year, month, day);
+                }
+            }
+            
+            return new Date(year, 0, 1);
+        }
+        
+        return null;
     }
 
     function extractYear(dateStr) {
@@ -166,12 +239,11 @@
             }
             
             for (const tag of entry.tags) {
-                const cleanTag = tag.replace('#', '');
-                if (CATEGORIES.includes(cleanTag)) {
-                    counts.categories[cleanTag] = (counts.categories[cleanTag] || 0) + 1;
+                if (CATEGORIES.includes(tag)) {
+                    counts.categories[tag] = (counts.categories[tag] || 0) + 1;
                 }
-                if (GEO_TAGS.includes(cleanTag)) {
-                    counts.geo[cleanTag] = (counts.geo[cleanTag] || 0) + 1;
+                if (GEO_TAGS.includes(tag)) {
+                    counts.geo[tag] = (counts.geo[tag] || 0) + 1;
                 }
             }
         }
@@ -214,9 +286,8 @@
             
             if (!periodMatch) return false;
             
-            const entryTags = entry.tags.map(t => t.replace('#', ''));
-            const entryCategoryTags = entryTags.filter(tag => CATEGORIES.includes(tag));
-            const entryGeoTags = entryTags.filter(tag => GEO_TAGS.includes(tag));
+            const entryCategoryTags = entry.tags.filter(tag => CATEGORIES.includes(tag));
+            const entryGeoTags = entry.tags.filter(tag => GEO_TAGS.includes(tag));
             
             const allCategoriesSelected = selectedCategories.length === CATEGORIES.length;
             const allGeoSelected = selectedGeo.length === GEO_TAGS.length;
@@ -242,101 +313,144 @@
             return categoryMatch && geoMatch;
         });
         
-        initializeTimeline();
+        drawSwimLaneTimeline();
     }
 
-    function initializeTimeline() {
-        if (filteredEvents.length === 0) return;
+    function getMatchingTags(event) {
+        const matchedTags = [];
         
+        for (const tag of event.tags) {
+            if (CATEGORIES.includes(tag) && !matchedTags.includes(tag)) {
+                matchedTags.push(tag);
+            }
+        }
+        
+        return matchedTags.length > 0 ? matchedTags : ['HistoricalPreModern'];
+    }
+
+    function drawSwimLaneTimeline() {
         const container = document.getElementById('timeline-chart');
-        if (!container) return;
+        if (!container || filteredEvents.length === 0) return;
         
-        const margin = {top: 40, right: 40, bottom: 60, left: 60};
-        const width = container.clientWidth - margin.left - margin.right;
-        const height = container.clientHeight - margin.top - margin.bottom;
+        const margin = {top: 60, right: 200, bottom: 40, left: 60};
+        const width = Math.max(container.clientWidth - margin.left - margin.right, 1600);
+        const height = 800;
         
-        // Clear existing
         d3.select('#timeline-chart').selectAll('*').remove();
         
-        // Create SVG
-        svg = d3.select('#timeline-chart')
+        const svg = d3.select('#timeline-chart')
             .append('svg')
             .attr('width', width + margin.left + margin.right)
             .attr('height', height + margin.top + margin.bottom)
             .append('g')
             .attr('transform', `translate(${margin.left},${margin.top})`);
         
-        // Group events by year
-        const eventsByYear = d3.rollup(filteredEvents, v => v.length, d => d.year);
-        const yearData = Array.from(eventsByYear, ([year, count]) => ({year, count})).sort((a, b) => a.year - b.year);
+        const dates = filteredEvents.map(d => d.date);
+        const minDate = d3.min(dates);
+        const maxDate = d3.max(dates);
         
-        // Scales
-        xScale = d3.scaleLinear()
-            .domain([d3.min(yearData, d => d.year), d3.max(yearData, d => d.year)])
-            .range([0, width]);
+        const dateRange = maxDate - minDate;
+        const paddedMin = new Date(minDate.getTime() - dateRange * 0.05);
+        const paddedMax = new Date(maxDate.getTime() + dateRange * 0.05);
         
-        yScale = d3.scaleLinear()
-            .domain([0, d3.max(yearData, d => d.count)])
-            .range([height, 0]);
+        const yScale = d3.scaleTime()
+            .domain([paddedMin, paddedMax])
+            .range([0, height]);
         
-        // Axes
+        const laneSpacing = width / (CATEGORIES.length + 1);
+        const lanePositions = {};
+        CATEGORIES.forEach((tag, i) => {
+            lanePositions[tag] = laneSpacing * (i + 1);
+        });
+        
+        const yAxis = d3.axisLeft(yScale)
+            .ticks(20)
+            .tickFormat(d => d.getFullYear().toString());
+        
         svg.append('g')
-            .attr('transform', `translate(0,${height})`)
-            .call(d3.axisBottom(xScale).tickFormat(d3.format('d')))
-            .style('color', '#8b949e');
+            .attr('class', 'y-axis')
+            .call(yAxis)
+            .selectAll('text')
+            .style('fill', '#8b949e')
+            .style('font-family', 'Share Tech Mono');
         
-        svg.append('g')
-            .call(d3.axisLeft(yScale))
-            .style('color', '#8b949e');
+        svg.selectAll('.y-axis path, .y-axis line')
+            .style('stroke', '#30363d');
         
-        // Bars
-        svg.selectAll('.bar')
-            .data(yearData)
+        CATEGORIES.forEach(tag => {
+            const x = lanePositions[tag];
+            svg.append('line')
+                .attr('class', 'timeline-track')
+                .attr('x1', x)
+                .attr('y1', 0)
+                .attr('x2', x)
+                .attr('y2', height);
+        });
+        
+        CATEGORIES.forEach(tag => {
+            const x = lanePositions[tag];
+            const label = categoryLabels[tag];
+            
+            let color = '#8b949e';
+            if (tag === 'Outbound') color = '#58a6ff';
+            else if (tag === 'Inbound') color = '#f85149';
+            else if (tag === 'ContactAttempt') color = '#a371f7';
+            
+            svg.append('text')
+                .attr('x', x)
+                .attr('y', -15)
+                .attr('text-anchor', 'middle')
+                .style('fill', color)
+                .style('font-size', '9px')
+                .style('font-weight', '600')
+                .text(label);
+        });
+        
+        const tooltip = d3.select('#timeline-tooltip');
+        
+        const eventInstances = [];
+        filteredEvents.forEach(event => {
+            const matchingTags = getMatchingTags(event);
+            matchingTags.forEach(tag => {
+                eventInstances.push({
+                    ...event,
+                    swimLaneTag: tag
+                });
+            });
+        });
+        
+        const eventGroups = svg.selectAll('.event-group')
+            .data(eventInstances)
             .enter()
-            .append('rect')
-            .attr('class', 'bar')
-            .attr('x', d => xScale(d.year))
-            .attr('y', d => yScale(d.count))
-            .attr('width', Math.max(2, width / yearData.length - 1))
-            .attr('height', d => height - yScale(d.count))
-            .attr('fill', '#58a6ff')
-            .attr('opacity', 0.7)
-            .on('mouseover', function(event, d) {
-                d3.select(this).attr('opacity', 1);
-            })
-            .on('mouseout', function(event, d) {
-                d3.select(this).attr('opacity', 0.7);
+            .append('g')
+            .attr('class', 'event-group')
+            .attr('transform', d => {
+                const y = yScale(d.date);
+                const x = lanePositions[d.swimLaneTag] || lanePositions['HistoricalPreModern'];
+                return `translate(${x},${y})`;
             });
         
-        // Labels
-        svg.append('text')
-            .attr('x', width / 2)
-            .attr('y', -10)
-            .attr('text-anchor', 'middle')
-            .style('fill', '#c9d1d9')
-            .style('font-size', '14px')
-            .text('UAP/UFO Events Over Time');
+        eventGroups.append('circle')
+            .attr('class', 'event-node chronology')
+            .attr('r', 5)
+            .on('mouseover', function(event, d) {
+                tooltip.select('.timeline-tooltip-title').text(d.title);
+                tooltip.select('.timeline-tooltip-date').text(d.originalDateStr);
+                tooltip.select('.timeline-tooltip-description').text(d.description || '');
+                tooltip.classed('visible', true);
+            })
+            .on('mousemove', function(event) {
+                tooltip
+                    .style('left', (event.pageX + 15) + 'px')
+                    .style('top', (event.pageY - 15) + 'px');
+            })
+            .on('mouseout', function() {
+                tooltip.classed('visible', false);
+            })
+            .style('cursor', 'pointer');
         
-        svg.append('text')
-            .attr('x', width / 2)
-            .attr('y', height + 40)
-            .attr('text-anchor', 'middle')
-            .style('fill', '#8b949e')
-            .style('font-size', '12px')
-            .text('Year');
-        
-        svg.append('text')
-            .attr('transform', 'rotate(-90)')
-            .attr('x', -height / 2)
-            .attr('y', -40)
-            .attr('text-anchor', 'middle')
-            .style('fill', '#8b949e')
-            .style('font-size', '12px')
-            .text('Number of Events');
-        
-        // Update count
         document.getElementById('timeline-event-count').textContent = 
-            `Showing ${filteredEvents.length} events from ${d3.min(yearData, d => d.year)} to ${d3.max(yearData, d => d.year)}`;
+            `Showing ${filteredEvents.length} events (${eventInstances.length} instances across swim lanes)`;
     }
 
     window.applyTimelineFilters = applyTimelineFilters;
