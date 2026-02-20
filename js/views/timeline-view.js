@@ -1,8 +1,7 @@
-// Timeline View Implementation with D3
+// Timeline View with Swim-Lane Visualization
 (function() {
     let allEvents = [];
     let filteredEvents = [];
-    let svg, xScale, yScale;
     
     const PERIODS = ['ancient', '18', '19', '194', '195', '196', '197', '198', '199', '200', '201', '202'];
     const CATEGORIES = ['Outbound', 'Inbound', 'ContactAttempt', 'LegislationPolicy', 'CongressionalHearings', 'LeaksDeclass', 'WhistleblowerDisclosures', 'MilitaryEncounters', 'CivilianSightings', 'AbductionCEIII', 'CrashRetrievals', 'UnderwaterUSO', 'SpaceSatellite', 'ScientificStudies', 'HistoricalPreModern', 'ReligiousCultural'];
