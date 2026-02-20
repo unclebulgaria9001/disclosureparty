@@ -266,6 +266,16 @@
             }
             
             // Otherwise, filter based on selected tags
+            // If NO categories are selected, hide all entries with category tags
+            if (selectedCategories.length === 0 && entryCategoryTags.length > 0) {
+                return false;
+            }
+            
+            // If NO geo tags are selected, hide all entries with geo tags
+            if (selectedGeo.length === 0 && entryGeoTags.length > 0) {
+                return false;
+            }
+            
             // If entry has category tags, at least one must be selected
             const categoryMatch = entryCategoryTags.length === 0 || 
                                  entryCategoryTags.some(tag => selectedCategories.includes(tag));
