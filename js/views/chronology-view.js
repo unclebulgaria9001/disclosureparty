@@ -147,7 +147,7 @@
             const count = counts.periods[period] || 0;
             return `
                 <label style="display: inline-flex; align-items: center; gap: 6px; color: #e0e0e0; cursor: pointer;">
-                    <input type="checkbox" class="chronology-period-filter" value="${period}" checked onchange="applyChronologyFilters()">
+                    <input type="checkbox" class="chronology-period-filter" value="${period}" checked onchange="window.applyChronologyFilters()">
                     <span>${label} (${count})</span>
                 </label>
             `;
@@ -159,7 +159,7 @@
             const shortName = cat.replace('CongressionalHearings', 'Hearings').replace('LegislationPolicy', 'Legislation').replace('WhistleblowerDisclosures', 'Whistleblower').replace('MilitaryEncounters', 'Military').replace('CivilianSightings', 'Civilian').replace('ContactAttempt', 'Contact').replace('LeaksDeclass', 'Leaks').replace('AbductionCEIII', 'Abduction').replace('CrashRetrievals', 'Crash').replace('UnderwaterUSO', 'USO').replace('SpaceSatellite', 'Space').replace('ScientificStudies', 'Scientific').replace('HistoricalPreModern', 'Historical').replace('ReligiousCultural', 'Religious');
             return `
                 <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
-                    <input type="checkbox" class="chronology-category-filter" value="${cat}" checked onchange="applyChronologyFilters()">
+                    <input type="checkbox" class="chronology-category-filter" value="${cat}" checked onchange="window.applyChronologyFilters()">
                     <span>${shortName} (${count})</span>
                 </label>
             `;
@@ -170,6 +170,7 @@
             const count = counts.geo[geo] || 0;
             return `
                 <label style="display: inline-flex; align-items: center; gap: 4px; color: #e0e0e0; cursor: pointer;">
+                    <input type="checkbox" class="chronology-geo-filter" value="${geo}" checked onchange="window.applyChronologyFilters()">
                     <input type="checkbox" class="chronology-geo-filter" value="${geo}" checked onchange="applyChronologyFilters()">
                     <span>${geo} (${count})</span>
                 </label>
@@ -316,6 +317,8 @@
     }
 
     // Global functions for filter buttons
+    window.applyChronologyFilters = applyChronologyFilters;
+    
     window.toggleChronologySidebar = function() {
         document.getElementById('chronology-sidebar').classList.toggle('collapsed');
         document.getElementById('chronology-toggle').classList.toggle('collapsed');
