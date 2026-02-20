@@ -1534,11 +1534,29 @@
             }
         ];
         
-        // Load chronology data
+        async function loadChronologyMarkdown() {
+            try {
+                const indexResponse = await fetch('dist/chronology/index.json');
+                const index = await indexResponse.json();
+
+                const decadeTexts = await Promise.all(
+                    index.decades.map(decade =>
+                        fetch(`dist/chronology/${decade}.md`)
+                            .then(r => r.text())
+                            .catch(() => '')
+                    )
+                );
+
+                return decadeTexts.filter(Boolean).join('\n\n');
+            } catch (error) {
+                const response = await fetch('dist/chronology.md');
+                return await response.text();
+            }
+        }
+
         async function loadChronology() {
             try {
-                const response = await fetch('dist/chronology.md');
-                const text = await response.text();
+                const text = await loadChronologyMarkdown();
                 parseChronologyEvents(text);
             } catch (error) {
                 console.error('Error loading chronology:', error);
@@ -2712,8 +2730,7 @@
             if (chronologyData) return chronologyData;
             
             try {
-                const response = await fetch('dist/chronology.md');
-                const text = await response.text();
+                const text = await loadChronologyMarkdown();
                 chronologyData = parseChronologyData(text);
                 return chronologyData;
             } catch (error) {
