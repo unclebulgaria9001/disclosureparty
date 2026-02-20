@@ -63,6 +63,7 @@
 
         await loadMapData();
         populateMapFilters();
+        initializeMap();
         applyMapFilters();
     }
 
