@@ -34,6 +34,7 @@
     <link rel="stylesheet" href="css/shared-styles.css">
     <link rel="stylesheet" href="i18n/language-switcher.css">
     <script src="i18n/translations.js"></script>
+    <script src="js/chronology-loader.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
         
@@ -81,41 +82,7 @@
             flex-wrap: wrap;
         }
         
-        .tabs {
-            display: flex;
-            gap: 5px;
-            padding: 10px 20px;
-            background: #161b22;
-            border-bottom: 1px solid #30363d;
-            overflow-x: auto;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
         
-        .tab {
-            background: #21262d;
-            border: 1px solid #30363d;
-            color: #8b949e;
-            padding: 10px 20px;
-            cursor: pointer;
-            font-family: 'Share Tech Mono', monospace;
-            transition: all 0.2s ease;
-            border-radius: 6px;
-            font-size: 0.85em;
-            white-space: nowrap;
-        }
-        
-        .tab:hover {
-            background: #30363d;
-            border-color: #58a6ff;
-            color: #58a6ff;
-        }
-        
-        .tab.active {
-            background: #1f6feb;
-            border-color: #1f6feb;
-            color: #ffffff;
-        }
         
         .btn {
             background: #21262d;
@@ -780,12 +747,7 @@
                 padding: 12px 0;
             }
             
-            /* Tabs more touch-friendly */
-            .tab {
-                min-height: 44px;
-                padding: 12px 16px;
-                font-size: 0.85em;
-            }
+            
             
             /* Timeline canvas touch scrolling */
             #timeline {
@@ -843,7 +805,7 @@
             <button id="installBtn" class="btn" onclick="installApp()" style="display: none; margin: 10px auto;" data-i18n="installApp">📱 Install App</button>
         </header>
         
-        <div class="tabs" style="display: flex; justify-content: center; gap: 10px; padding: 20px; flex-wrap: wrap; background: #161b22; border-bottom: 1px solid #30363d;">
+        <div class="tabs">
             <div class="tab" onclick="window.location.href='viewer.html'" data-i18n="index">📡 NHI MESSAGE</div>
             <div class="tab" onclick="window.location.hash='chronology'" data-i18n="chronology">📋 CHRONOLOGY</div>
             <div class="tab active" onclick="window.location.hash=''" data-i18n="timelineViz">📊 TIMELINE VIZ</div>
@@ -1535,23 +1497,11 @@
         ];
         
         async function loadChronologyMarkdown() {
-            try {
-                const indexResponse = await fetch('dist/chronology/index.json');
-                const index = await indexResponse.json();
-
-                const decadeTexts = await Promise.all(
-                    index.decades.map(decade =>
-                        fetch(`dist/chronology/${decade}.md`)
-                            .then(r => r.text())
-                            .catch(() => '')
-                    )
-                );
-
-                return decadeTexts.filter(Boolean).join('\n\n');
-            } catch (error) {
-                const response = await fetch('dist/chronology.md');
-                return await response.text();
+            if (window.chronologyLoader && typeof window.chronologyLoader.loadChronologyMarkdown === 'function') {
+                return await window.chronologyLoader.loadChronologyMarkdown();
             }
+            const response = await fetch('dist/chronology.md');
+            return await response.text();
         }
 
         async function loadChronology() {

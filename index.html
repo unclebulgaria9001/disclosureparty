@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="css/shared-styles.css">
     <link rel="stylesheet" href="i18n/language-switcher.css">
     <script src="i18n/translations.js"></script>
+    <script src="js/chronology-loader.js"></script>
+    <script src="js/app.js"></script>
     
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
@@ -138,43 +140,6 @@
             text-decoration: none;
         }
         
-        .tabs {
-            display: flex;
-            gap: 10px;
-            padding: 20px;
-            background: #161b22;
-            border-bottom: 1px solid #30363d;
-            overflow-x: auto;
-            flex-wrap: wrap;
-            justify-content: center;
-            margin-bottom: 30px;
-        }
-        
-        .tab {
-            background: #21262d;
-            border: 1px solid #30363d;
-            color: #8b949e;
-            padding: 10px 20px;
-            cursor: pointer;
-            font-family: 'Share Tech Mono', monospace;
-            font-size: 0.85em;
-            border-radius: 6px;
-            transition: all 0.2s;
-            white-space: nowrap;
-        }
-        
-        .tab:hover {
-            background: #30363d;
-            border-color: #58a6ff;
-            color: #58a6ff;
-        }
-        
-        .tab.active {
-            background: #58a6ff;
-            color: #0d1117;
-            border-color: #58a6ff;
-        }
-        
         @media (max-width: 600px) {
             h1 {
                 font-size: 1.5em;
@@ -184,10 +149,7 @@
                 font-size: 1.4em;
             }
             
-            .tab {
-                min-height: 44px;
-                padding: 12px 16px;
-            }
+            
         }
     </style>
 </head>
@@ -207,14 +169,15 @@
         </header>
         
         <div class="tabs">
-            <div class="tab" onclick="window.location.href='viewer.html'">📡 NHI MESSAGE</div>
-            <div class="tab" onclick="window.location.href='chronology-viewer.html'">📋 CHRONOLOGY</div>
-            <div class="tab" onclick="window.location.href='timeline.html'">📊 TIMELINE VIZ</div>
-            <div class="tab" onclick="window.location.href='network-graph.html'">🕸️ NETWORK GRAPH</div>
-            <div class="tab" onclick="window.location.href='timeline.html#map'">🗺️ GEOTIMELINE</div>
-            <div class="tab" onclick="window.location.href='about.html'">ℹ️ ABOUT</div>
+            <div class="tab active" data-view="home">🏠 HOME</div>
+            <div class="tab" data-view="chronology">📋 CHRONOLOGY</div>
+            <div class="tab" data-view="timeline">📊 TIMELINE</div>
+            <div class="tab" data-view="map">🗺️ MAP</div>
+            <div class="tab" data-view="network">🕸️ NETWORK</div>
         </div>
         
+        <!-- Home View -->
+        <div id="home-view" style="display: block;">
         <div class="section">
             <h2>About</h2>
             <p style="color: #8b949e; margin-bottom: 20px;">
@@ -258,6 +221,27 @@
         <footer>
             <p>Open Source • Public Domain (CC0 1.0)</p>
         </footer>
+        </div>
+        
+        <!-- Chronology View -->
+        <div id="chronology-view" style="display: none;">
+            <div class="loading">Chronology view loading...</div>
+        </div>
+        
+        <!-- Timeline View -->
+        <div id="timeline-view" style="display: none;">
+            <div class="loading">Timeline view loading...</div>
+        </div>
+        
+        <!-- Map View -->
+        <div id="map-view" style="display: none;">
+            <div class="loading">Map view loading...</div>
+        </div>
+        
+        <!-- Network View -->
+        <div id="network-view" style="display: none;">
+            <div class="loading">Network graph loading...</div>
+        </div>
     </div>
 </body>
 </html>

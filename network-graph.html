@@ -6,6 +6,7 @@
     <title>UAP Disclosure Network Graph - Causal Chains & Relationships</title>
     <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.2/marked.min.js"></script>
+    <script src="js/chronology-loader.js"></script>
     <style>
         * {
             margin: 0;
@@ -577,8 +578,9 @@
 
         async function loadChronologyData() {
             try {
-                const response = await fetch('dist/chronology.md');
-                const text = await response.text();
+                const text = (window.chronologyLoader && typeof window.chronologyLoader.loadChronologyMarkdown === 'function')
+                    ? await window.chronologyLoader.loadChronologyMarkdown()
+                    : await (await fetch('dist/chronology.md')).text();
                 return parseChronology(text);
             } catch (error) {
                 console.error('Error loading chronology:', error);

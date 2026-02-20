@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Filter System Test</title>
+    <script src="js/chronology-loader.js"></script>
     <style>
         body {
             font-family: 'Courier New', monospace;
@@ -105,8 +106,9 @@
         
         // Load and parse chronology.md
         async function loadChronology() {
-            const response = await fetch('dist/chronology.md');
-            const text = await response.text();
+            const text = (window.chronologyLoader && typeof window.chronologyLoader.loadChronologyMarkdown === 'function')
+                ? await window.chronologyLoader.loadChronologyMarkdown()
+                : await (await fetch('dist/chronology.md')).text();
             
             // Remove YAML frontmatter
             const cleanText = text.replace(/^---[\s\S]*?---\n/m, '');
