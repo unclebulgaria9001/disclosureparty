@@ -1,378 +1,3 @@
-# UAP/UFO Chronology - pre-1940
-
-## 1939 - Found hint at Coultharts giant UFO "too big to move" in the congress briefing files - John Lear mentioned this #HistoricalPreModern #USA
-
-John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive government cover-ups and contact with extraterrestrial beings. Lear, a pilot with a CIA and government background, asserts that the truth about alien interaction has been suppressed for about two decades, causing uphea...
-
-**Links:**
-
-[https://www.reddit.com/r/UFOs/comments/15g8vi2/foundhintatcoulthartsgiantufotoobigto/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=2](https://www.reddit.com/r/UFOs/comments/15g8vi2/found_hint_at_coultharts_giant_ufo_too_big_to/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2)[https://drive.google.com/file/d/1hzkSG3oW47GtV5uAlHws2z65FRPMwu5X/view?usp=drivelink](https://drive.google.com/file/d/1hzkSG3oW47GtV5uAlHws2z65FRPMwu5X/view?usp=drive_link)[https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo](https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo) 
-
-\
-
-## 1897,  April 19 - Aurora, Texas, UFO incident #HistoricalPreModern #USA
-
-**Photos:**
-
-![Aurora Texas Ufo Incident 1](images/1897-aurora-texas-ufo-incident-1.jpg)
-
-\
-
-## 1665, April - A UFO in 1665. The Air Battle of Stralsund #HistoricalPreModern #Europe #Germany
-
-##
-
-**Links:**
-
-[https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/](https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/)
-
-\
-
-## 1561, April 14 - Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg #HistoricalPreModern #Europe #Germany #Nuremberg, the residents saw what they described as some aerial battle take place in its glare
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg) 
-[https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/](https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/) 
-[https://www.youtube.com/watch?v=Gr4ISuldc98](https://www.youtube.com/watch?v=Gr4ISuldc98) 
-[https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/](https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/) 
-
-\
-
-## 1643 CE - Fear-Inducing Bright Object #Europe
-
-A large, bright object was seen in the sky over Hull, England, causing fear and speculation.
-
-\
-
-## 1639 CE - Glowing Sphere Over The Charles River #USA
-
-John Winthrop, a colonial governor in Massachusetts, USA, recorded a strange light moving over the Charles River, described as a glowing sphere.
-
-\
-
-## 1619 CE - Large Bright Object Over Geneva #Europe #Switzerland #Geneva
-
-Local observers in Geneva, Switzerland, recorded a large, bright object hovering in the sky for several hours. In 1619 CE, a significant event took place in Geneva, Switzerland. Local observers reported seeing a large, bright object in the sky. This object was not just a fleeting sight - it staye...
-
-\
-
-## 1566 CE - Aerial Battle With Strange Objects #Europe #Switzerland #Basel
-
-In 1566 CE, there was a peculiar event recorded in Basel, Switzerland that described an aerial battle involving strange objects in the sky. The event was documented in contemporary records, meaning that it was written down and reported during the time it happened. The descriptions indicate that t...
-
-\
-
-## 1561, April 14 - Germany Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg, the residents saw what they described as some aerial battle take place in its glare #Europe #Germany #Nuremberg
-
-**Links:**
-
-[https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg) 
-[https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/](https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/) 
-[https://www.youtube.com/watch?v=Gr4ISuldc98](https://www.youtube.com/watch?v=Gr4ISuldc98) 
-[https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/](https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/) 
-
-**Photos:**
-
-![Germany Celestial Phenomenon Over Nuremberg As The 1](images/1561-germany-celestial-phenomenon-over-nuremberg-as-the-1.png)
-
-\
-
-## 1461 CE - Divine Light Over Arras #HistoricalPreModern #Medieval #Europe
-
-Gaspar Nunez de Arce reported a bright light appearing in the sky over Arras, France. The light was interpreted as a divine sign by the populace.
-
-\
-
-## 1453 CE - Glowing Cross During The Fall of Constantinople #HistoricalPreModern #Medieval #MiddleEast
-
-During the city's final siege, reports emerged of a glowing cross in the sky over Constantinople. The significance of this celestial event was widely discussed at the time.
-
-\
-
-## 1420 CE - Japan: Gukanshō's Glowing Sphere #HistoricalPreModern #Medieval #Asia #Japan
-
-In the Gukanshō, an important historical and Buddhist text, a glowing sphere appeared in the sky, causing fear among the people. No further details about this sphere were provided.
-
-\
-
-## 1420 CE - Fiery Object In The Sky #HistoricalPreModern #Medieval #Asia
-
-During the Ming Dynasty in China, a fiery object was observed moving rapidly across the sky. 1387 CE - Bright Object Over North Walsham A bright object was seen in the sky, and Thomas Walsingham, an English chronicler, interpreted it as a bad omen.
-
-\
-
-## 1377 CE - Fire In The Sky Near North Walsham #HistoricalPreModern #Medieval #Europe
-
-Thomas Walsingham also recorded seeing a fire in the sky near North Walsham, England. ##
-
-\
-
-## 1365 CE - Bright Object In The Sky #HistoricalPreModern #Medieval #Europe
-
-During the Gukanshō period in Japan, a bright object was seen in the sky, interpreted as a harbinger of significant events.
-
-\
-
-## 1350 CE - Glowing Object In The Sky #HistoricalPreModern #Medieval #Asia
-
-Ming Dynasty records in China mention a glowing object moving slowly across the sky.
-
-\
-
-## 1347 CE - Europe: Black Death Sky Lights #HistoricalPreModern #Medieval #Europe
-
-Various accounts reported strange lights in the sky at the onset of the Black Death. These lights were often associated with the onset of the plague, but no further details were provided.
-
-\
-
-## 1333 CE - Mysterious Night Sky Object #HistoricalPreModern #Medieval #Asia
-
-The Taiheiki records in Japan note a mysterious object seen in the night sky.
-
-\
-
-## 1320 CE - Dragon-like Object In The Sky #HistoricalPreModern #Medieval #Europe
-
-The Chronicle of Lanercost in England described a strange object resembling a dragon moving across the sky.
-
-\
-
-## 1311 CE - Bright Object Causes Fear #HistoricalPreModern #Medieval #Asia
-
-The Azuma Kagami records in Japan note a bright object seen in the sky that caused people to fear.
-
-\
-
-## 1305 CE - Fiery Object In The Sky #HistoricalPreModern #Medieval #Asia
-
-The Yuan Shi records in China describe a fiery object appearing in the sky, which is interpreted as a bad omen.
-
-\
-
-## 1295 CE - Fire In The Sky Near North Walsham #HistoricalPreModern #Medieval #Europe
-
-Thomas Walsingham noted seeing a fire in the sky near North Walsham, England.
-
-\
-
-## 1271 CE - Mysterious Night Sky Object #HistoricalPreModern #Medieval #Asia
-
-The Heike Monogatari in Japan recorded a mysterious object seen in the sky during the night.
-
-\
-
-## 1290 CE - The monks at the Abbey witnessed a silver disc flying over the premises. #HistoricalPreModern #Medieval #Europe
-
-In the year 1290 CE, an unusual event occurred at Byland Abbey in England. The monks at the Abbey witnessed a silver disc flying over the premises. This sighting caused a significant amount of excitement and fear among the monks. The silver disc is assumed to be an unidentified flying object (UFO...
-
-\
-
-## 1260 CE - Erratically Moving Bright Object #HistoricalPreModern #Medieval #Asia
-
-Yuan Dynasty records in China mention a bright object seen moving erratically in the sky.
-
-\
-
-## 1250 CE - Glowing Sphere Causes Fear #HistoricalPreModern #Medieval #Asia
-
-The Konjaku Monogatari in Japan mentions a glowing sphere appearing in the sky, causing fear among the people.
-
-\
-
-## 1240 CE - Bright Object In The Sky #HistoricalPreModern #Medieval #Europe
-
-Matthew Paris, a chronicler in England, described a bright object seen in the sky.
-
-\
-
-## 1235 CE - Japan: Tale of the Heike's Mysterious Object #HistoricalPreModern #Medieval #Asia #Japan
-
-In the Tale of the Heike, a medieval Japanese epic, a mysterious object, described as a glowing sphere, was seen in the sky at night. No further details about this object were provided.
-
-\
-
-## 1230 CE - Strange Sky Object During Emperor Go-Horikawa's Reign #HistoricalPreModern #Medieval #Asia
-
-The Azuma Kagami records in Japan mention a strange object seen in the sky during Emperor Go-Horikawa's reign.
-
-\
-
-## 1226 CE - Fiery Object As Bad Omen #HistoricalPreModern #Medieval #Asia
-
-Song Shi records in China interpret a fiery object seen in the sky as a bad omen.
-
-\
-
-## 1211 CE - Slow-Moving Bright Object #HistoricalPreModern #Medieval #Europe
-
-Matthew Paris, a chronicler in England, noted a large, bright object moving slowly across the sky.
-
-\
-
-## 1201 CE - Fear-Inducing Bright Object #HistoricalPreModern #Medieval #Asia
-
-The Shoku Nihongi in Japan recorded a bright object seen in the sky, causing fear and speculation.
-
-\
-
-## 1180 CE - Celestial Sign in the form of a Glowing Sphere #HistoricalPreModern #Medieval #Asia
-
-The Konjaku Monogatari in Japan interpreted a glowing sphere seen in the sky as a celestial sign.
-
-\
-
-## 1168 CE - Mysterious Night Sky Object #HistoricalPreModern #Medieval #Asia
-
-The Heike Monogatari in Japan recorded a mysterious object seen in the sky during the night.
-
-\
-
-## 1147 CE - Strange Lights As War Omens #HistoricalPreModern #Medieval #Europe
-
-The Anglo-Saxon Chronicle in England interpreted strange lights seen in the sky as omens of war.
-
-\
-
-## 1133 CE - Japan: Hyaku Monogatari's Flying Dragon #HistoricalPreModern #Medieval #Asia #Japan
-
-The Hyaku Monogatari, a collection of Japanese ghost stories, reported an object resembling a flying dragon that was seen in the sky and interpreted as a mythical creature. No further details about this object were provided.
-
-\
-
-## 1100 CE - Bright Sky Object as a Significant Harbinger #HistoricalPreModern #Medieval #Europe
-
-The Gukanshō in Japan described a bright object seen in the sky as a harbinger of significant events.
-
-\
-
-## 1054 CE - Daytime Sky Supernova #HistoricalPreModern #Medieval #Asia
-
-Records of the Song Dynasty in China note that a guest star (supernova) was visible in the daytime sky for several weeks.
-
-\
-
-## 1036 CE - Celestial Sign in the form of a Glowing Sphere #HistoricalPreModern #Medieval #Asia
-
-The Konjaku Monogatari in Japan interpreted a glowing sphere seen in the sky as a celestial sign.
-
-\
-
-## 1034 CE - England: Peterborough Chronicle's Fiery Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
-
-The Peterborough Chronicle, a series of Anglo-Saxon annals, reported fiery lights in the sky, which were interpreted as signs of impending disaster. No further details were provided about these lights.
-
-\
-
-## 1021 CE - Fear-Inducing Bright Object #HistoricalPreModern #Medieval #Asia
-
-Song Dynasty records in China note a bright object moving across the sky, causing fear and speculation.
-
-\
-
-## 1015 CE - Japan: Tale of Genji's Bright Object #HistoricalPreModern #Medieval #Asia #Japan
-
-In the Tale of Genji, a classic work of Japanese literature, a bright object was seen in the sky and was described as a harbinger of significant events. The nature of this object remains unknown.
-
-\
-
-## 1004 CE - Strange Sky Object During Emperor Ichijō's Reign #HistoricalPreModern #Medieval #Asia
-
-The Konjaku Monogatari in Japan recorded a strange object seen in the sky during the reign of Emperor Ichijō. ## 989 CE - Japan: Azuma Kagami's Fiery Object The Azuma Kagami, a medieval Japanese text, recorded a fiery object moving across the sky. This was noted as a celestial event, but no furth...
-
-**Details:**
-
-## 987 CE - Fiery Object As Bad Omen #HistoricalPreModern #Medieval #Asia #China
-The Song Shi in China interpreted a fiery object seen in the sky as a bad omen.
-## 970 CE - Glowing Sky Object During Emperor Reizei's Reign #HistoricalPreModern #Medieval #Asia #Japan
-The Shoku Nihongi in Japan recorded a glowing object seen in the sky during the reign of Emperor Reizei.
-## 950 CE - Erratically Moving Bright Object #HistoricalPreModern #Medieval #Asia #China
-Song Dynasty records in China note a bright object seen moving erratically in the sky.
-## 927 CE - Spain: Chronicle of Alfonso III's Sky Lights #HistoricalPreModern #Medieval #Europe #Spain
-During the reign of Alfonso III, strange lights were seen in the sky, causing widespread fear. These were documented in the Chronicle of Alfonso III, but no additional details were provided.
-## 919 CE - Hungary: Annales Fuldenses's Fiery Omen #HistoricalPreModern #Medieval #Europe #Hungary
-The Annales Fuldenses, a series of Frankish annals, reported a fiery object was seen in the sky, which was interpreted as an omen of war. No further details about this object were given.
-## 900 CE - Fear-Inducing Fiery Object #HistoricalPreModern #Medieval #Europe #Spain
-The Chronicle of Alfonso III in Spain reported a fiery object seen moving across the sky, causing fear among the people.
-## 850 CE - Fiery Lights As Omens #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
-The Anglo-Saxon Chronicle in England interpreted fiery lights seen in the sky as omens.
-## 842 CE - China: Emperor Wuzong's Star #HistoricalPreModern #Medieval #Asia #China
-Emperor Wuzong of Tang reported a strange object resembling a star appeared, moving erratically and terrifying the populace. No further details about this object were provided.
-## 840 CE - France: Agobard of Lyons' Sky Lights #HistoricalPreModern #Medieval #Europe #France
-Agobard of Lyons, an archbishop and prolific writer, reported strange lights in the sky, which were interpreted as supernatural omens. Further details about these lights were not provided.
-## 820 CE - Dragon-Like Sky Object #HistoricalPreModern #Medieval #Asia #China
-Tang Dynasty Records in China described a strange object resembling a dragon appearing in the sky.
-## 810 CE, France: St. Gregory of Tours' Glowing Object #HistoricalPreModern #Medieval #Europe #France
-St. Gregory of Tours, a historian of the Franks, reported seeing a glowing object moving across the sky, which he interpreted as a sign from God. No additional details about this object were provided.
-## 810 CE - Slow-Moving Glowing Sphere #HistoricalPreModern #Medieval #Asia #Japan
-The Nihon Koki in Japan recorded a glowing sphere appearing in the sky, moving slowly.
-## 800 CE - Bright Sky Object During Emperor Kammu's Reign #HistoricalPreModern #Medieval #Asia #Japan
-The Shoku Nihongi in Japan recorded a bright object seen in the sky during the reign of Emperor Kammu.
-## 793 CE - England: Anglo-Saxon Chronicle's Fiery Dragons #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
-The Anglo-Saxon Chronicle, a collection of Old English annals, reported strange fiery dragons flying in the sky, heralding disaster. The exact nature of these 'dragons' remains a mystery.
-## 776 CE - France: Siege of Sigiburg UFOs #HistoricalPreModern #Medieval #Europe #France
-During the Siege of Sigiburg, two large glowing objects hovered over a church, causing the Saxon besiegers to flee in panic. The nature and origin of these objects remain unknown.
-## 746 CE - Rapidly Moving Fiery Object #HistoricalPreModern #Medieval #Asia #China
-Tang Dynasty Records in China note a fiery object appearing in the sky, moving rapidly.
-## 721 CE - Bright Sky Object During Emperor Genshō's Reign #HistoricalPreModern #Medieval #Asia #Japan
-The Nihon Shoki in Japan recorded a bright object seen in the sky during the reign of Emperor Genshō.
-## 700 CE - Slow-Moving Glowing Object #HistoricalPreModern #Medieval #Asia #Japan
-The Nihon Shoki in Japan recorded a glowing object appearing in the sky, moving slowly.
-## 685 CE - Celestial Signs in the Form of Strange Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
-The Venerable Bede in England interpreted strange lights seen in the sky as celestial signs.
-## 619 CE - Erratically Moving Fiery Object #HistoricalPreModern #Medieval #Asia #Japan
-## 312 CE - Cross of Light Leads to Conversion #HistoricalPreModern #Ancient #Europe #Italy
-Eusebius, a historian in Rome, recorded Emperor Constantine seeing a cross of light in the sky, leading him to convert to Christianity.
-## 292 CE - Glowing Object As Celestial Displeasure #HistoricalPreModern #Ancient #Asia #China
-The Jin Shu in China interpreted a glowing object seen in the sky as a sign of celestial displeasure.
-## 194 CE - Bright Northward-Moving Object #HistoricalPreModern #Ancient #Asia #China
-Records of the Han Dynasty in China noted a bright object appearing in the sky, moving northward.
-## 155 CE - Erratically Moving Strange Star #HistoricalPreModern #Ancient #Asia #China
-The Han Shu in China recorded a strange star appearing in the sky, moving erratically and emitting light.
-## 99 CE - Greece: Pliny the Younger's Wine Jar UFO #HistoricalPreModern #Ancient #Europe #Italy
-Pliny the Younger, a lawyer and author in Ancient Rome, reported an unidentified object resembling a wine jar appeared in the sky and moved erratically. No further details or explanations were provided about this sighting.
-## 80 CE - Rome: Cassius Dio - A horse-like object with legs was seen moving across the sky. #HistoricalPreModern #Ancient #Europe #Italy
-Details: Cassius Dio, a Roman statesman and historian, reported a strange sight in the sky in 80 CE. He described an object that resembled a horse with legs moving across the sky. The nature and origin of this object remain unknown.
-## 70 CE, Jerusalem: Josephus - During the siege of Jerusalem, chariots and troops of soldiers in their armour were seen running about among the clouds. #HistoricalPreModern #Ancient #MiddleEast #Israel
-Details: Josephus, a first-century Romano-Jewish historian, recorded an eerie sight during the siege of Jerusalem in 70 CE. He reported seeing chariots and troops of soldiers in their armour running about among the clouds, which added to the tension and fear during the siege.
-## 65 CE - Sword-Like Star As War Portent #HistoricalPreModern #Ancient #MiddleEast #Israel
-Josephus, a historian in Jerusalem, interpreted a star resembling a sword hanging over the city as a portent of war.
-## 9 CE - Rome: Pliny the Elder - A burning shield scattering sparks moved across the sky at sunset, similar to earlier reports. #HistoricalPreModern #Ancient #Europe #Italy
-Details: Pliny the Elder, a Roman author, reported a sighting of a burning shield that scattered sparks as it moved across the sky at sunset. This sighting was similar to earlier reports, suggesting a possible pattern or recurring phenomenon.
-## 12 BCE - Bright Comet As Sign Of Augustus's Rise #HistoricalPreModern #Ancient #Europe #Italy
-Pliny the Elder, a Roman author, reported a bright comet appeared in the sky, which was interpreted as a sign of Augustus's rise to power.
-## 42 BCE - Bright Comet As Omen Of Julius Caesar's Death #HistoricalPreModern #Ancient #Europe #Italy
-Cassius Dio, a historian in Rome, saw a bright comet appear in the sky, seen as an omen of Julius Caesar's death.
-## 
-## 134 BCE - Large Bright Object #HistoricalPreModern #Ancient #Europe #Italy
-Julius Obsequens, a chronicler in Rome, noted a large, bright object moving across the sky, witnessed by many.
-## 138 BCE - Fiery Torches In The Sky #HistoricalPreModern #Ancient #Europe #Italy
-Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
-## 154 BCE - Erratically Moving Bright Light #HistoricalPreModern #Ancient #Europe #Italy
-Julius Obsequens, a chronicler in Rome, recorded a bright light appearing in the sky over Rome, moving erratically.
-## 331 BCE - Spark of Fire During Temple Construction #HistoricalPreModern #Ancient #Europe #Italy
-Pliny the Elder, a natural philosopher in Rome, noted a spark of fire from the sky seen during the construction of the Temple of Jupiter.
-## 214 BCE - Rome: Livy - A round shield-like object appeared in the sky over Arpi, moving slowly. #HistoricalPreModern #Ancient #Europe #Italy
-Details: According to the Roman historian Livy, an object that resembled a round shield was observed in the sky over Arpi in 214 BCE. The object moved slowly across the sky, baffling the onlookers.
-## 218 BCE - Phantom Ships Over Rome #HistoricalPreModern #Ancient #Europe #Italy
-Livy in Rome reported that "phantom ships" were seen gleaming in the sky over various parts of Rome. According to the Roman historian Livy, there were sightings of what were described as "phantom ships" in the sky. These ships were reportedly seen over various parts of Rome and were described as "gleaming," suggesting they may have been illuminated or reflective. This event is one of the earliest recorded instances of unidentified flying objects (UFOs), although it was interpreted in the context of the ancient Roman world. Further specifics, such as the exact date, the event's duration, or public reaction, are not provided in the record.
-## 85 BCE - Eastward-Moving Large Round Object #HistoricalPreModern #Ancient #Europe #Italy
-Julius Obsequens in Rome reported a large, round object moved eastward in the sky, observed by many.
-## 74 BCE - Flame-Like Object Appears During Battle #HistoricalPreModern #Ancient #Asia #Turkey
-Plutarch in Turkey reported during a battle between Roman and Mithridatic forces, a large, flame-like object resembling a jar or wine bowl appeared in the sky between the two armies.
-## 66 BCE - Burning Shield Scattering Sparks At Sunset #HistoricalPreModern #Ancient #Europe #Italy
-Pliny the Elder in Rome reported a burning shield that scattered sparks across the sky at sunset, which many in Rome saw.
-## 76 BCE - Falling Spark Grows Into Light Ball #HistoricalPreModern #Ancient #Europe #Italy
-Julius Obsequens in Rome reported a "spark" fell from a star and grew as it descended, appearing as a ball of light and moving towards the earth.
-
-\
-
-## 1440 BCE - Circle Of Fire In The Sky #HistoricalPreModern #Ancient #Africa #Egypt
-
-During the reign of Thutmose III in Egypt, a "circle of fire" brighter than the sun hovered in the sky, emitting a foul odour. It appeared for several days before vanishing. This event is recorded in the Tulli Papyrus.
-
-\
-
 # UAP/UFO Chronology - 1940s
 
 ## 1949, April 28 - Concerning Flying Discs September 1947 - ANALYSIS OF FLYING OBJECT INCIDENTS IN THE U.S #USA
@@ -3408,3 +3033,397 @@ Australian investigative journalist Ross Coulthart published "In Plain Sight: An
 
 \
 
+# UAP/UFO Chronology - pre-1940
+
+## 1939 - Found hint at Coultharts giant UFO "too big to move" in the congress briefing files - John Lear mentioned this #HistoricalPreModern #USA
+
+John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive government cover-ups and contact with extraterrestrial beings. Lear, a pilot with a CIA and government background, asserts that the truth about alien interaction has been suppressed for about two decades, causing uphea...
+
+**Links:**
+
+[https://www.reddit.com/r/UFOs/comments/15g8vi2/foundhintatcoulthartsgiantufotoobigto/?utmsource=share&utmmedium=androidapp&utmname=androidcss&utmterm=1&utmcontent=2](https://www.reddit.com/r/UFOs/comments/15g8vi2/found_hint_at_coultharts_giant_ufo_too_big_to/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2)[https://drive.google.com/file/d/1hzkSG3oW47GtV5uAlHws2z65FRPMwu5X/view?usp=drivelink](https://drive.google.com/file/d/1hzkSG3oW47GtV5uAlHws2z65FRPMwu5X/view?usp=drive_link)[https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo](https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo) 
+
+\
+
+## 1897,  April 19 - Aurora, Texas, UFO incident #HistoricalPreModern #USA
+
+**Photos:**
+
+![Aurora Texas Ufo Incident 1](images/1897-aurora-texas-ufo-incident-1.jpg)
+
+\
+
+## 1665, April - A UFO in 1665. The Air Battle of Stralsund #HistoricalPreModern #Europe #Germany
+
+##
+
+**Links:**
+
+[https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/](https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/)
+
+\
+
+## 1561, April 14 - Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg #HistoricalPreModern #Europe #Germany #Nuremberg, the residents saw what they described as some aerial battle take place in its glare
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg) 
+[https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/](https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/) 
+[https://www.youtube.com/watch?v=Gr4ISuldc98](https://www.youtube.com/watch?v=Gr4ISuldc98) 
+[https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/](https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/) 
+
+\
+
+## 1643 CE - Fear-Inducing Bright Object #Europe
+
+A large, bright object was seen in the sky over Hull, England, causing fear and speculation.
+
+\
+
+## 1639 CE - Glowing Sphere Over The Charles River #USA
+
+John Winthrop, a colonial governor in Massachusetts, USA, recorded a strange light moving over the Charles River, described as a glowing sphere.
+
+\
+
+## 1619 CE - Large Bright Object Over Geneva #Europe #Switzerland #Geneva
+
+Local observers in Geneva, Switzerland, recorded a large, bright object hovering in the sky for several hours. In 1619 CE, a significant event took place in Geneva, Switzerland. Local observers reported seeing a large, bright object in the sky. This object was not just a fleeting sight - it staye...
+
+\
+
+## 1566 CE - Aerial Battle With Strange Objects #Europe #Switzerland #Basel
+
+In 1566 CE, there was a peculiar event recorded in Basel, Switzerland that described an aerial battle involving strange objects in the sky. The event was documented in contemporary records, meaning that it was written down and reported during the time it happened. The descriptions indicate that t...
+
+\
+
+## 1561, April 14 - Germany Celestial Phenomenon Over Nuremberg. As the sun rose on April 14, 1561, over the German city of Nuremberg, the residents saw what they described as some aerial battle take place in its glare #Europe #Germany #Nuremberg
+
+**Links:**
+
+[https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg) 
+[https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/](https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/) 
+[https://www.youtube.com/watch?v=Gr4ISuldc98](https://www.youtube.com/watch?v=Gr4ISuldc98) 
+[https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/](https://www.reddit.com/r/Stellaris/comments/7wjja9/the_1561_celestial_phenomenon_over_nuremburg/) 
+
+**Photos:**
+
+![Germany Celestial Phenomenon Over Nuremberg As The 1](images/1561-germany-celestial-phenomenon-over-nuremberg-as-the-1.png)
+
+\
+
+## 1461 CE - Divine Light Over Arras #HistoricalPreModern #Medieval #Europe
+
+Gaspar Nunez de Arce reported a bright light appearing in the sky over Arras, France. The light was interpreted as a divine sign by the populace.
+
+\
+
+## 1453 CE - Glowing Cross During The Fall of Constantinople #HistoricalPreModern #Medieval #MiddleEast
+
+During the city's final siege, reports emerged of a glowing cross in the sky over Constantinople. The significance of this celestial event was widely discussed at the time.
+
+\
+
+## 1420 CE - Japan: Gukanshō's Glowing Sphere #HistoricalPreModern #Medieval #Asia #Japan
+
+In the Gukanshō, an important historical and Buddhist text, a glowing sphere appeared in the sky, causing fear among the people. No further details about this sphere were provided.
+
+\
+
+## 1420 CE - Fiery Object In The Sky #HistoricalPreModern #Medieval #Asia
+
+During the Ming Dynasty in China, a fiery object was observed moving rapidly across the sky. 1387 CE - Bright Object Over North Walsham A bright object was seen in the sky, and Thomas Walsingham, an English chronicler, interpreted it as a bad omen.
+
+\
+
+## 1377 CE - Fire In The Sky Near North Walsham #HistoricalPreModern #Medieval #Europe
+
+Thomas Walsingham also recorded seeing a fire in the sky near North Walsham, England. ##
+
+\
+
+## 1365 CE - Bright Object In The Sky #HistoricalPreModern #Medieval #Europe
+
+During the Gukanshō period in Japan, a bright object was seen in the sky, interpreted as a harbinger of significant events.
+
+\
+
+## 1350 CE - Glowing Object In The Sky #HistoricalPreModern #Medieval #Asia
+
+Ming Dynasty records in China mention a glowing object moving slowly across the sky.
+
+\
+
+## 1347 CE - Europe: Black Death Sky Lights #HistoricalPreModern #Medieval #Europe
+
+Various accounts reported strange lights in the sky at the onset of the Black Death. These lights were often associated with the onset of the plague, but no further details were provided.
+
+\
+
+## 1333 CE - Mysterious Night Sky Object #HistoricalPreModern #Medieval #Asia
+
+The Taiheiki records in Japan note a mysterious object seen in the night sky.
+
+\
+
+## 1320 CE - Dragon-like Object In The Sky #HistoricalPreModern #Medieval #Europe
+
+The Chronicle of Lanercost in England described a strange object resembling a dragon moving across the sky.
+
+\
+
+## 1311 CE - Bright Object Causes Fear #HistoricalPreModern #Medieval #Asia
+
+The Azuma Kagami records in Japan note a bright object seen in the sky that caused people to fear.
+
+\
+
+## 1305 CE - Fiery Object In The Sky #HistoricalPreModern #Medieval #Asia
+
+The Yuan Shi records in China describe a fiery object appearing in the sky, which is interpreted as a bad omen.
+
+\
+
+## 1295 CE - Fire In The Sky Near North Walsham #HistoricalPreModern #Medieval #Europe
+
+Thomas Walsingham noted seeing a fire in the sky near North Walsham, England.
+
+\
+
+## 1271 CE - Mysterious Night Sky Object #HistoricalPreModern #Medieval #Asia
+
+The Heike Monogatari in Japan recorded a mysterious object seen in the sky during the night.
+
+\
+
+## 1290 CE - The monks at the Abbey witnessed a silver disc flying over the premises. #HistoricalPreModern #Medieval #Europe
+
+In the year 1290 CE, an unusual event occurred at Byland Abbey in England. The monks at the Abbey witnessed a silver disc flying over the premises. This sighting caused a significant amount of excitement and fear among the monks. The silver disc is assumed to be an unidentified flying object (UFO...
+
+\
+
+## 1260 CE - Erratically Moving Bright Object #HistoricalPreModern #Medieval #Asia
+
+Yuan Dynasty records in China mention a bright object seen moving erratically in the sky.
+
+\
+
+## 1250 CE - Glowing Sphere Causes Fear #HistoricalPreModern #Medieval #Asia
+
+The Konjaku Monogatari in Japan mentions a glowing sphere appearing in the sky, causing fear among the people.
+
+\
+
+## 1240 CE - Bright Object In The Sky #HistoricalPreModern #Medieval #Europe
+
+Matthew Paris, a chronicler in England, described a bright object seen in the sky.
+
+\
+
+## 1235 CE - Japan: Tale of the Heike's Mysterious Object #HistoricalPreModern #Medieval #Asia #Japan
+
+In the Tale of the Heike, a medieval Japanese epic, a mysterious object, described as a glowing sphere, was seen in the sky at night. No further details about this object were provided.
+
+\
+
+## 1230 CE - Strange Sky Object During Emperor Go-Horikawa's Reign #HistoricalPreModern #Medieval #Asia
+
+The Azuma Kagami records in Japan mention a strange object seen in the sky during Emperor Go-Horikawa's reign.
+
+\
+
+## 1226 CE - Fiery Object As Bad Omen #HistoricalPreModern #Medieval #Asia
+
+Song Shi records in China interpret a fiery object seen in the sky as a bad omen.
+
+\
+
+## 1211 CE - Slow-Moving Bright Object #HistoricalPreModern #Medieval #Europe
+
+Matthew Paris, a chronicler in England, noted a large, bright object moving slowly across the sky.
+
+\
+
+## 1201 CE - Fear-Inducing Bright Object #HistoricalPreModern #Medieval #Asia
+
+The Shoku Nihongi in Japan recorded a bright object seen in the sky, causing fear and speculation.
+
+\
+
+## 1180 CE - Celestial Sign in the form of a Glowing Sphere #HistoricalPreModern #Medieval #Asia
+
+The Konjaku Monogatari in Japan interpreted a glowing sphere seen in the sky as a celestial sign.
+
+\
+
+## 1168 CE - Mysterious Night Sky Object #HistoricalPreModern #Medieval #Asia
+
+The Heike Monogatari in Japan recorded a mysterious object seen in the sky during the night.
+
+\
+
+## 1147 CE - Strange Lights As War Omens #HistoricalPreModern #Medieval #Europe
+
+The Anglo-Saxon Chronicle in England interpreted strange lights seen in the sky as omens of war.
+
+\
+
+## 1133 CE - Japan: Hyaku Monogatari's Flying Dragon #HistoricalPreModern #Medieval #Asia #Japan
+
+The Hyaku Monogatari, a collection of Japanese ghost stories, reported an object resembling a flying dragon that was seen in the sky and interpreted as a mythical creature. No further details about this object were provided.
+
+\
+
+## 1100 CE - Bright Sky Object as a Significant Harbinger #HistoricalPreModern #Medieval #Europe
+
+The Gukanshō in Japan described a bright object seen in the sky as a harbinger of significant events.
+
+\
+
+## 1054 CE - Daytime Sky Supernova #HistoricalPreModern #Medieval #Asia
+
+Records of the Song Dynasty in China note that a guest star (supernova) was visible in the daytime sky for several weeks.
+
+\
+
+## 1036 CE - Celestial Sign in the form of a Glowing Sphere #HistoricalPreModern #Medieval #Asia
+
+The Konjaku Monogatari in Japan interpreted a glowing sphere seen in the sky as a celestial sign.
+
+\
+
+## 1034 CE - England: Peterborough Chronicle's Fiery Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
+
+The Peterborough Chronicle, a series of Anglo-Saxon annals, reported fiery lights in the sky, which were interpreted as signs of impending disaster. No further details were provided about these lights.
+
+\
+
+## 1021 CE - Fear-Inducing Bright Object #HistoricalPreModern #Medieval #Asia
+
+Song Dynasty records in China note a bright object moving across the sky, causing fear and speculation.
+
+\
+
+## 1015 CE - Japan: Tale of Genji's Bright Object #HistoricalPreModern #Medieval #Asia #Japan
+
+In the Tale of Genji, a classic work of Japanese literature, a bright object was seen in the sky and was described as a harbinger of significant events. The nature of this object remains unknown.
+
+\
+
+## 1004 CE - Strange Sky Object During Emperor Ichijō's Reign #HistoricalPreModern #Medieval #Asia
+
+The Konjaku Monogatari in Japan recorded a strange object seen in the sky during the reign of Emperor Ichijō. ## 989 CE - Japan: Azuma Kagami's Fiery Object The Azuma Kagami, a medieval Japanese text, recorded a fiery object moving across the sky. This was noted as a celestial event, but no furth...
+
+**Details:**
+
+## 987 CE - Fiery Object As Bad Omen #HistoricalPreModern #Medieval #Asia #China
+The Song Shi in China interpreted a fiery object seen in the sky as a bad omen.
+## 970 CE - Glowing Sky Object During Emperor Reizei's Reign #HistoricalPreModern #Medieval #Asia #Japan
+The Shoku Nihongi in Japan recorded a glowing object seen in the sky during the reign of Emperor Reizei.
+## 950 CE - Erratically Moving Bright Object #HistoricalPreModern #Medieval #Asia #China
+Song Dynasty records in China note a bright object seen moving erratically in the sky.
+## 927 CE - Spain: Chronicle of Alfonso III's Sky Lights #HistoricalPreModern #Medieval #Europe #Spain
+During the reign of Alfonso III, strange lights were seen in the sky, causing widespread fear. These were documented in the Chronicle of Alfonso III, but no additional details were provided.
+## 919 CE - Hungary: Annales Fuldenses's Fiery Omen #HistoricalPreModern #Medieval #Europe #Hungary
+The Annales Fuldenses, a series of Frankish annals, reported a fiery object was seen in the sky, which was interpreted as an omen of war. No further details about this object were given.
+## 900 CE - Fear-Inducing Fiery Object #HistoricalPreModern #Medieval #Europe #Spain
+The Chronicle of Alfonso III in Spain reported a fiery object seen moving across the sky, causing fear among the people.
+## 850 CE - Fiery Lights As Omens #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
+The Anglo-Saxon Chronicle in England interpreted fiery lights seen in the sky as omens.
+## 842 CE - China: Emperor Wuzong's Star #HistoricalPreModern #Medieval #Asia #China
+Emperor Wuzong of Tang reported a strange object resembling a star appeared, moving erratically and terrifying the populace. No further details about this object were provided.
+## 840 CE - France: Agobard of Lyons' Sky Lights #HistoricalPreModern #Medieval #Europe #France
+Agobard of Lyons, an archbishop and prolific writer, reported strange lights in the sky, which were interpreted as supernatural omens. Further details about these lights were not provided.
+## 820 CE - Dragon-Like Sky Object #HistoricalPreModern #Medieval #Asia #China
+Tang Dynasty Records in China described a strange object resembling a dragon appearing in the sky.
+## 810 CE, France: St. Gregory of Tours' Glowing Object #HistoricalPreModern #Medieval #Europe #France
+St. Gregory of Tours, a historian of the Franks, reported seeing a glowing object moving across the sky, which he interpreted as a sign from God. No additional details about this object were provided.
+## 810 CE - Slow-Moving Glowing Sphere #HistoricalPreModern #Medieval #Asia #Japan
+The Nihon Koki in Japan recorded a glowing sphere appearing in the sky, moving slowly.
+## 800 CE - Bright Sky Object During Emperor Kammu's Reign #HistoricalPreModern #Medieval #Asia #Japan
+The Shoku Nihongi in Japan recorded a bright object seen in the sky during the reign of Emperor Kammu.
+## 793 CE - England: Anglo-Saxon Chronicle's Fiery Dragons #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
+The Anglo-Saxon Chronicle, a collection of Old English annals, reported strange fiery dragons flying in the sky, heralding disaster. The exact nature of these 'dragons' remains a mystery.
+## 776 CE - France: Siege of Sigiburg UFOs #HistoricalPreModern #Medieval #Europe #France
+During the Siege of Sigiburg, two large glowing objects hovered over a church, causing the Saxon besiegers to flee in panic. The nature and origin of these objects remain unknown.
+## 746 CE - Rapidly Moving Fiery Object #HistoricalPreModern #Medieval #Asia #China
+Tang Dynasty Records in China note a fiery object appearing in the sky, moving rapidly.
+## 721 CE - Bright Sky Object During Emperor Genshō's Reign #HistoricalPreModern #Medieval #Asia #Japan
+The Nihon Shoki in Japan recorded a bright object seen in the sky during the reign of Emperor Genshō.
+## 700 CE - Slow-Moving Glowing Object #HistoricalPreModern #Medieval #Asia #Japan
+The Nihon Shoki in Japan recorded a glowing object appearing in the sky, moving slowly.
+## 685 CE - Celestial Signs in the Form of Strange Lights #HistoricalPreModern #Medieval #Europe #UnitedKingdom #England
+The Venerable Bede in England interpreted strange lights seen in the sky as celestial signs.
+## 619 CE - Erratically Moving Fiery Object #HistoricalPreModern #Medieval #Asia #Japan
+## 312 CE - Cross of Light Leads to Conversion #HistoricalPreModern #Ancient #Europe #Italy
+Eusebius, a historian in Rome, recorded Emperor Constantine seeing a cross of light in the sky, leading him to convert to Christianity.
+## 292 CE - Glowing Object As Celestial Displeasure #HistoricalPreModern #Ancient #Asia #China
+The Jin Shu in China interpreted a glowing object seen in the sky as a sign of celestial displeasure.
+## 194 CE - Bright Northward-Moving Object #HistoricalPreModern #Ancient #Asia #China
+Records of the Han Dynasty in China noted a bright object appearing in the sky, moving northward.
+## 155 CE - Erratically Moving Strange Star #HistoricalPreModern #Ancient #Asia #China
+The Han Shu in China recorded a strange star appearing in the sky, moving erratically and emitting light.
+## 99 CE - Greece: Pliny the Younger's Wine Jar UFO #HistoricalPreModern #Ancient #Europe #Italy
+Pliny the Younger, a lawyer and author in Ancient Rome, reported an unidentified object resembling a wine jar appeared in the sky and moved erratically. No further details or explanations were provided about this sighting.
+## 80 CE - Rome: Cassius Dio - A horse-like object with legs was seen moving across the sky. #HistoricalPreModern #Ancient #Europe #Italy
+Details: Cassius Dio, a Roman statesman and historian, reported a strange sight in the sky in 80 CE. He described an object that resembled a horse with legs moving across the sky. The nature and origin of this object remain unknown.
+## 70 CE, Jerusalem: Josephus - During the siege of Jerusalem, chariots and troops of soldiers in their armour were seen running about among the clouds. #HistoricalPreModern #Ancient #MiddleEast #Israel
+Details: Josephus, a first-century Romano-Jewish historian, recorded an eerie sight during the siege of Jerusalem in 70 CE. He reported seeing chariots and troops of soldiers in their armour running about among the clouds, which added to the tension and fear during the siege.
+## 65 CE - Sword-Like Star As War Portent #HistoricalPreModern #Ancient #MiddleEast #Israel
+Josephus, a historian in Jerusalem, interpreted a star resembling a sword hanging over the city as a portent of war.
+## 9 CE - Rome: Pliny the Elder - A burning shield scattering sparks moved across the sky at sunset, similar to earlier reports. #HistoricalPreModern #Ancient #Europe #Italy
+Details: Pliny the Elder, a Roman author, reported a sighting of a burning shield that scattered sparks as it moved across the sky at sunset. This sighting was similar to earlier reports, suggesting a possible pattern or recurring phenomenon.
+## 12 BCE - Bright Comet As Sign Of Augustus's Rise #HistoricalPreModern #Ancient #Europe #Italy
+Pliny the Elder, a Roman author, reported a bright comet appeared in the sky, which was interpreted as a sign of Augustus's rise to power.
+## 42 BCE - Bright Comet As Omen Of Julius Caesar's Death #HistoricalPreModern #Ancient #Europe #Italy
+Cassius Dio, a historian in Rome, saw a bright comet appear in the sky, seen as an omen of Julius Caesar's death.
+## 
+## 134 BCE - Large Bright Object #HistoricalPreModern #Ancient #Europe #Italy
+Julius Obsequens, a chronicler in Rome, noted a large, bright object moving across the sky, witnessed by many.
+## 138 BCE - Fiery Torches In The Sky #HistoricalPreModern #Ancient #Europe #Italy
+Livy, a historian in Rome, reported fiery torches seen moving across the sky in Rome.
+## 154 BCE - Erratically Moving Bright Light #HistoricalPreModern #Ancient #Europe #Italy
+Julius Obsequens, a chronicler in Rome, recorded a bright light appearing in the sky over Rome, moving erratically.
+## 331 BCE - Spark of Fire During Temple Construction #HistoricalPreModern #Ancient #Europe #Italy
+Pliny the Elder, a natural philosopher in Rome, noted a spark of fire from the sky seen during the construction of the Temple of Jupiter.
+## 214 BCE - Rome: Livy - A round shield-like object appeared in the sky over Arpi, moving slowly. #HistoricalPreModern #Ancient #Europe #Italy
+Details: According to the Roman historian Livy, an object that resembled a round shield was observed in the sky over Arpi in 214 BCE. The object moved slowly across the sky, baffling the onlookers.
+## 218 BCE - Phantom Ships Over Rome #HistoricalPreModern #Ancient #Europe #Italy
+Livy in Rome reported that "phantom ships" were seen gleaming in the sky over various parts of Rome. According to the Roman historian Livy, there were sightings of what were described as "phantom ships" in the sky. These ships were reportedly seen over various parts of Rome and were described as "gleaming," suggesting they may have been illuminated or reflective. This event is one of the earliest recorded instances of unidentified flying objects (UFOs), although it was interpreted in the context of the ancient Roman world. Further specifics, such as the exact date, the event's duration, or public reaction, are not provided in the record.
+## 85 BCE - Eastward-Moving Large Round Object #HistoricalPreModern #Ancient #Europe #Italy
+Julius Obsequens in Rome reported a large, round object moved eastward in the sky, observed by many.
+## 74 BCE - Flame-Like Object Appears During Battle #HistoricalPreModern #Ancient #Asia #Turkey
+Plutarch in Turkey reported during a battle between Roman and Mithridatic forces, a large, flame-like object resembling a jar or wine bowl appeared in the sky between the two armies.
+## 66 BCE - Burning Shield Scattering Sparks At Sunset #HistoricalPreModern #Ancient #Europe #Italy
+Pliny the Elder in Rome reported a burning shield that scattered sparks across the sky at sunset, which many in Rome saw.
+## 76 BCE - Falling Spark Grows Into Light Ball #HistoricalPreModern #Ancient #Europe #Italy
+Julius Obsequens in Rome reported a "spark" fell from a star and grew as it descended, appearing as a ball of light and moving towards the earth.
+
+\
+
+## 1440 BCE - Circle Of Fire In The Sky #HistoricalPreModern #Ancient #Africa #Egypt
+
+During the reign of Thutmose III in Egypt, a "circle of fire" brighter than the sun hovered in the sky, emitting a foul odour. It appeared for several days before vanishing. This event is recorded in the Tulli Papyrus.
+
+\
+
+# Chronology Files by Decade
+
+The chronology has been split into decade-based files for better performance.
+
+## Files
+
+- **pre-1940.md** - 44 entries
+- **2020s.md** - 97 entries
+- **2010s.md** - 39 entries
+- **2000s.md** - 6 entries
+- **1990s.md** - 5 entries
+- **1970s.md** - 11 entries
+- **1960s.md** - 10 entries
+- **1950s.md** - 16 entries
+- **1940s.md** - 13 entries
+
+**Total entries:** 241
+
+**Generated:** February 5, 2026
