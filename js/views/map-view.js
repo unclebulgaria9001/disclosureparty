@@ -266,16 +266,89 @@
     }
 
     function updateMapDisplay() {
-        // Count events with geo tags
-        const geoEvents = filteredEvents.filter(e => {
-            const geoTags = e.tags.filter(t => 
-                ['#USA', '#Europe', '#Asia', '#Africa', '#LatinAmerica', '#MiddleEast', '#Oceania', '#Canada', '#UnitedKingdom', '#Russia', '#International', '#Space'].includes(t)
-            );
-            return geoTags.length > 0;
+        // Geographic tag to coordinate mapping
+        const geoCoordinates = {
+            'USA': [39.8283, -98.5795],
+            'Canada': [56.1304, -106.3468],
+            'UnitedKingdom': [55.3781, -3.4360],
+            'Europe': [54.5260, 15.2551],
+            'Russia': [61.5240, 105.3188],
+            'MiddleEast': [29.2985, 42.5510],
+            'Asia': [34.0479, 100.6197],
+            'Africa': [8.7832, 34.5085],
+            'LatinAmerica': [-8.7832, -55.4915],
+            'Oceania': [-22.7359, 140.0188],
+            'International': [0, 0],
+            'Space': [0, 0]
+        };
+        
+        // Clear existing markers
+        if (window.mapMarkers) {
+            window.mapMarkers.forEach(marker => map.removeLayer(marker));
+        }
+        window.mapMarkers = [];
+        
+        // Count events by location
+        const locationCounts = {};
+        
+        filteredEvents.forEach(event => {
+            event.tags.forEach(tag => {
+                const cleanTag = tag.replace('#', '');
+                if (geoCoordinates[cleanTag]) {
+                    if (!locationCounts[cleanTag]) {
+                        locationCounts[cleanTag] = {
+                            count: 0,
+                            coords: geoCoordinates[cleanTag],
+                            events: []
+                        };
+                    }
+                    locationCounts[cleanTag].count++;
+                    locationCounts[cleanTag].events.push(event);
+                }
+            });
         });
         
+        // Add markers for each location
+        Object.entries(locationCounts).forEach(([location, data]) => {
+            if (location === 'International' || location === 'Space') return; // Skip these
+            
+            const marker = L.circleMarker(data.coords, {
+                radius: Math.min(5 + Math.sqrt(data.count) * 2, 20),
+                fillColor: '#58a6ff',
+                color: '#1f6feb',
+                weight: 2,
+                opacity: 0.8,
+                fillOpacity: 0.6
+            }).addTo(map);
+            
+            // Create popup content
+            const popupContent = `
+                <div style="color: #c9d1d9; font-family: system-ui;">
+                    <strong style="color: #58a6ff; font-size: 1.1em;">${location}</strong><br>
+                    <span style="color: #8b949e;">${data.count} events</span><br>
+                    <div style="max-height: 200px; overflow-y: auto; margin-top: 8px;">
+                        ${data.events.slice(0, 10).map(e => 
+                            `<div style="margin: 4px 0; padding: 4px; background: rgba(0,0,0,0.3); border-radius: 3px;">
+                                <div style="font-size: 0.85em; color: #8b949e;">${e.date || e.year}</div>
+                                <div style="font-size: 0.9em;">${e.title}</div>
+                            </div>`
+                        ).join('')}
+                        ${data.count > 10 ? `<div style="color: #8b949e; font-size: 0.85em; margin-top: 4px;">...and ${data.count - 10} more</div>` : ''}
+                    </div>
+                </div>
+            `;
+            
+            marker.bindPopup(popupContent, {
+                maxWidth: 300,
+                className: 'custom-popup'
+            });
+            
+            window.mapMarkers.push(marker);
+        });
+        
+        const totalGeoEvents = Object.values(locationCounts).reduce((sum, loc) => sum + loc.count, 0);
         document.getElementById('map-event-count').textContent = 
-            `Map view: ${geoEvents.length} events with geographic tags out of ${filteredEvents.length} filtered events (${allEvents.length} total)`;
+            `Map view: ${totalGeoEvents} events plotted across ${Object.keys(locationCounts).length} locations (${filteredEvents.length} filtered, ${allEvents.length} total)`;
     }
 
     window.applyMapFilters = applyMapFilters;
