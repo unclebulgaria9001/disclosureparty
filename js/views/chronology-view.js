@@ -109,12 +109,18 @@
             
             if (headerMatch) {
                 if (currentEntry) entries.push(currentEntry);
+                
+                // Extract tags from title
+                const titleWithTags = headerMatch[2];
+                const titleTags = titleWithTags.match(/#[A-Za-z0-9_]+/g) || [];
+                const titleWithoutTags = titleWithTags.replace(/#[A-Za-z0-9_]+/g, '').trim();
+                
                 currentEntry = {
                     date: headerMatch[1],
-                    title: headerMatch[2],
+                    title: titleWithoutTags,
                     content: '',
                     links: [],
-                    tags: [],
+                    tags: titleTags,
                     year: extractYear(headerMatch[1])
                 };
             } else if (currentEntry) {
