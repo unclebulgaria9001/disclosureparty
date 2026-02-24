@@ -380,6 +380,7 @@
             .call(yAxis)
             .selectAll('text')
             .style('fill', '#8b949e')
+            .style('font-size', '12px')
             .style('font-family', 'Share Tech Mono');
         
         svg.selectAll('.y-axis path, .y-axis line')
@@ -406,10 +407,11 @@
             
             svg.append('text')
                 .attr('x', x)
-                .attr('y', -15)
-                .attr('text-anchor', 'middle')
+                .attr('y', -20)
+                .attr('text-anchor', 'start')
+                .attr('transform', `rotate(-45, ${x}, -20)`)
                 .style('fill', color)
-                .style('font-size', '9px')
+                .style('font-size', '11px')
                 .style('font-weight', '600')
                 .text(label);
         });
