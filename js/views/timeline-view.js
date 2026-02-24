@@ -83,7 +83,7 @@
                 
                 <div style="flex: 1; display: flex; flex-direction: column; min-width: 0;">
                     <h2 style="color: var(--accent); margin: 0 0 20px 0; text-align: center;">📊 Timeline Swim Lanes</h2>
-                    <div id="timeline-chart" style="flex: 1; min-height: 900px; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border); overflow-x: auto; overflow-y: hidden;"></div>
+                    <div id="timeline-chart" style="flex: 1; min-height: 900px; background: rgba(17,24,39,0.6); border-radius: 8px; border: 1px solid var(--border); overflow-x: auto; overflow-y: auto;"></div>
                     <div style="margin-top: 15px; text-align: center; color: var(--muted); font-size: 0.9em;">
                         <span id="timeline-event-count">Loading events...</span>
                     </div>
@@ -342,7 +342,7 @@
         
         const margin = {top: 60, right: 200, bottom: 40, left: 60};
         const width = Math.max(container.clientWidth - margin.left - margin.right, 1600);
-        const height = 800;
+        const height = 2400;
         
         d3.select('#timeline-chart').selectAll('*').remove();
         
