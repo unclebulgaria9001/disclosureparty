@@ -381,7 +381,7 @@
             .selectAll('text')
             .style('fill', '#8b949e')
             .style('font-size', '12px')
-            .style('font-family', 'Share Tech Mono');
+            .style('font-family', 'Arial, sans-serif');
         
         svg.selectAll('.y-axis path, .y-axis line')
             .style('stroke', '#30363d');
@@ -413,6 +413,7 @@
                 .style('fill', color)
                 .style('font-size', '11px')
                 .style('font-weight', '600')
+                .style('font-family', 'Arial, sans-serif')
                 .text(label);
         });
         
