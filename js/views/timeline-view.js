@@ -440,6 +440,8 @@
         
         eventGroups.append('circle')
             .attr('class', 'event-node chronology')
+            .attr('cx', 0)
+            .attr('cy', 0)
             .attr('r', 5)
             .on('mouseover', function(event, d) {
                 tooltip.select('.timeline-tooltip-title').text(d.title);
