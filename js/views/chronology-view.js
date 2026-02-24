@@ -81,6 +81,14 @@
         populateChronologyFilters();
         applyChronologyFilters();
         
+        // Start with sidebar collapsed on mobile
+        if (window.innerWidth <= 768) {
+            const sidebar = document.getElementById('chronology-sidebar');
+            const toggleBtn = document.getElementById('chronology-toggle');
+            if (sidebar) sidebar.classList.add('collapsed');
+            if (toggleBtn) toggleBtn.classList.add('collapsed');
+        }
+        
         // Setup event listeners
         document.getElementById('chronology-search').addEventListener('input', applyChronologyFilters);
     }

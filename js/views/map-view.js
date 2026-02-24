@@ -65,6 +65,14 @@
         populateMapFilters();
         initializeMap();
         applyMapFilters();
+        
+        // Start with sidebar collapsed on mobile
+        if (window.innerWidth <= 768) {
+            const sidebar = document.getElementById('map-sidebar');
+            const toggleBtn = document.getElementById('map-toggle');
+            if (sidebar) sidebar.classList.add('collapsed');
+            if (toggleBtn) toggleBtn.classList.add('collapsed');
+        }
     }
 
     async function loadMapData() {
