@@ -340,7 +340,7 @@
         const container = document.getElementById('timeline-chart');
         if (!container || filteredEvents.length === 0) return;
         
-        const margin = {top: 60, right: 100, bottom: 40, left: 60};
+        const margin = {top: 80, right: 100, bottom: 40, left: 60};
         const width = 700;
         const height = 2400;
         
@@ -407,9 +407,9 @@
             
             svg.append('text')
                 .attr('x', x)
-                .attr('y', -20)
-                .attr('text-anchor', 'start')
-                .attr('transform', `rotate(-45, ${x}, -20)`)
+                .attr('y', -10)
+                .attr('text-anchor', 'end')
+                .attr('transform', `rotate(-45, ${x}, -10)`)
                 .style('fill', color)
                 .style('font-size', '11px')
                 .style('font-weight', '600')
@@ -445,8 +445,13 @@
             .attr('class', 'event-node chronology')
             .attr('cx', 0)
             .attr('cy', 0)
-            .attr('r', 5)
+            .attr('r', 6)
+            .style('opacity', 0.8)
+            .style('transition', 'all 0.2s')
             .on('mouseover', function(event, d) {
+                d3.select(this)
+                    .attr('r', 8)
+                    .style('opacity', 1);
                 tooltip.select('.timeline-tooltip-title').text(d.title);
                 tooltip.select('.timeline-tooltip-date').text(d.originalDateStr);
                 tooltip.select('.timeline-tooltip-description').text(d.description || '');
@@ -458,6 +463,9 @@
                     .style('top', (event.pageY - 15) + 'px');
             })
             .on('mouseout', function() {
+                d3.select(this)
+                    .attr('r', 6)
+                    .style('opacity', 0.8);
                 tooltip.classed('visible', false);
             })
             .style('cursor', 'pointer');
