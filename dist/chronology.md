@@ -3066,6 +3066,30 @@ John Lear's UFO hypothesis, detailed in the file UFO 1953, discusses extensive g
 
 \
 
+## 1884, June 6 - Dundy County, Nebraska UFO crash - cowboys report cylindrical object crashing near Max, Nebraska #HistoricalPreModern #CrashRetrievals #USA
+
+Local rancher John Ellis and several cowboys on a roundup in rural Dundy County heard a "terrific whirring noise" overhead and witnessed a fiery, hulking object fall rapidly to earth, crashing into a ravine. Cowboy Alf Williamson attempted to approach but suffered blistered skin, singed hair, and damaged eyesight from the intense heat. The group returned the next day with other locals and discovered a cylindrical object "about fifty or sixty feet long" with a diameter of "ten or twelve feet," along with dispersed pieces of machinery including cogwheels. Two days later, the cylinder reportedly broke down in rain, with the remains becoming congealed pools of machinery that washed away entirely, leaving only a "faint, sweetish smell." The story was first reported in the Nebraska Nugget (Holdrege) and then the Nebraska State Journal on June 8, 1884 under the headline "A Celestial Visitor." In 1927, Nebraska State Journal editors revealed the story was a hoax written by a columnist known for tall tales, though some researchers continued to consider it potentially authentic.
+
+**Links:**
+
+[Dundy County UFO hoax - Wikipedia](https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax)
+[Southwest Nebraska's 1884 UFO - Nebraskaland Magazine](https://magazine.outdoornebraska.gov/stories/history-and-culture/southwest-nebraskas-1884-ufo/)
+[Nebraska may have had its own Roswell in 1884 - Daily Nebraskan](https://www.dailynebraskan.com/nebraska-may-have-had-its-own-roswell-in-1884/article_2ab63de1-981c-5b8e-963e-ef252b60d262.html)
+
+\
+
+## 1865, October 19 - Cadotte Pass UFO crash - trapper James Lumley reports crash of compartmented craft with hieroglyphics in Upper Missouri River country #HistoricalPreModern #CrashRetrievals #USA
+
+As reported in the Missouri Democrat on October 19, 1865 (reprinted in the Cincinnati Commercial on October 30, 1865), trapper James Lumley described witnessing a bright luminous body moving with great rapidity in an easterly direction while trapping about 75-100 miles above the Great Falls of the Upper Missouri, near Cadotte Pass. The object was visible for at least five seconds before it separated into particles "resembling the bursting of a sky-rocket." A larger ball of flame fell rapidly to earth followed by a tremendous explosion that shook the ground. Lumley investigated the crash site approximately two miles away, finding a heavy smell of sulfur, glass-like debris, a grey rock-like substance with "strange writings on some of the larger pieces," and a large ship-like object embedded in a nearby foothill. The object was divided into compartments and bore hieroglyphic-like markings on its surface. Despite being commonly called the "Missouri crash," the location near Cadotte Pass and the Upper Missouri River country places the event in present-day Montana, not Missouri. This predates both the 1897 Aurora, Texas incident and the alleged 1947 Roswell recovery by decades.
+
+**Links:**
+
+[1865 - Trapper Reports Witnessing Crash of Compartmented Craft - The UFO Chronicles](https://www.theufochronicles.com/2005/10/1865-trapper-reports-witnessing-crash.html)
+[Is James Lumley's UFO still out there? - Time For Disclosure](https://timefordisclosure.com/is-james-lumleys-ufo-still-out-there/)
+[The Missouri Crash of 1865 - Stronghold Nation](https://www.stronghold-nation.com/history/myth/the-missouri-crash-of-1865)
+
+\
+
 ## 1665, April - A UFO in 1665. The Air Battle of Stralsund #HistoricalPreModern #Europe #Germany
 
 ##
